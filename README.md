@@ -1,30 +1,33 @@
-# Informe de Trabajo Final
+<h1 align="center">Informe de Trabajo Final</h1>
 
-**Universidad:**  
+**Universidad:** Universidad Peruana de Ciencias Aplicadas 
 
-**Carrera:**  
+**Ciclo:**  2025 - 01
 
-**Ciclo:**  
+**Código del curso:**  1ASI0730-2510
 
-**Código del curso:**  
+**Nombre del curso:**  Aplicaciones Web
 
-**Nombre del curso:**  
+**Sección:**  4376
 
-**Sección:**  
+**Nombre del profesor:**  Hugo Allan Mori Paiva
 
-**Nombre del profesor:**  
+**Nombre del Startup:** UnitTalents
 
-**Nombre del Startup:** 
-
-**Nombre del Producto:**  
+**Nombre del Producto:**  UniTalents Connect
 
 ### Relación de Integrantes
 
 | Código | Apellidos y Nombres |
 |--------|----------------------|
-|        |                      |
+|u202312966|Gonzales Alvarado, Javier Sebastian|
+|u202313172|Coca Lavado, Carlos Andres|
+|u20231d974|Rivera Ratachi, Renzo Sebastian|
+|u20231a500|Palomino Fiestas, Erick Leonardo|
+|u202019409|Linares Bernable, Cesar Alejandro|
 
-**Mes y Año:**  
+
+**Año:**  2025
 
 ---
 
@@ -146,15 +149,110 @@
 
 #### 1.1.1. Descripción de la Startup  
 
+**UniTalents** es una startup tecnológica enfocada en transformar la empleabilidad de estudiantes universitarios a través de soluciones digitales que conectan talento emergente con oportunidades reales de experiencia laboral. A través de su plataforma **UniTalents Connect**, ofrece un espacio donde alumnos de pregrado pueden ofrecer servicios freelance, desarrollar su portafolio profesional y generar ingresos, mientras empresas y personas acceden a talento calificado, flexible y accesible.
+
+La propuesta de UniTalents se basa en la creación de un ecosistema inclusivo, colaborativo y orientado a resultados, promoviendo la inserción laboral temprana, el aprendizaje basado en proyectos reales y el empoderamiento del estudiante como profesional en formación.
+
+**Misión:** Empoderar a estudiantes universitarios mediante una plataforma digital que les permita ofrecer servicios freelance, construir su reputación profesional y adquirir experiencia laboral, del mismo modo brindando a empresas candidatos ideales. 
+
+**Visión:**  En los próximos 5 años **UniTalents Connect** sea la principal plataforma digital en Latinoamérica que potencia el talento universitario. Además busca que **UniTalents** se convierta en un negocio rentable y sostenible contribuyendo al desarrollo profesional y económico de miles de jóvenes.
+
 #### 1.1.2. Perfiles de integrantes del equipo  
+| Código | Apellidos y Nombres |
+|--------|----------------------|
+|Hola mi nombre es Javier Gonzales, estudió la carrera de ingeniería y actualmente me encuentro en el 5to ciclo. Me considero una persona amable, analítica y muy perseverante en cada aspecto de mi vida, por lo que esto me permite desenvolverme bien en los proyectos y en algunas ocasiones dirigir el equipo como Team Leader. Respecto a mis conocimientos técnicos, pues sé C++, Python, SQL, HTML, CSS y lo básico de JavaScript. Aunque se me dificulta mucho aprender idiomas, domino muy bien el Inglés. ||
+|||
+|||
+|||
+|||
 
 ### 1.2. Solution Profile
 
-#### 1.2.1. Antecedentes y problemática  
+#### 1.2.1. Antecedentes y problemática 
+
+##### What (Qué)<br><br>
+
+###### ¿Cuál es el problema?<br><br>
+
+El Ministerio de Trabajo y Promoción del Empleo (MTPE) advierte que siete de cada diez jóvenes enfrentan problemas de inadecuación ocupacional, es decir, no pueden encontrar empleos relacionados con sus estudios (2024). Esta noticia refleja claramente el problema que radica en que los estudiantes tienen dificultades para insertarse laboralmente debido a la falta de experiencia previa o referencias profesionales, mientras que las empresas pequeñas no siempre tienen acceso a talento calificado a costos razonables. Esto genera una brecha entre el talento disponible y la demanda del mercado.
+
+##### When (Cuando)<br><br>
+
+###### ¿Cuándo sucede el problema?<br><br>
+
+El problema ocurre constantemente, pero es más crítico entre el segundo y el séptimo ciclo de la vida universitaria, etapa en la cual el estudiante busca adquirir experiencia sin comprometer su disponibilidad académica. Para las empresas, la necesidad es constante y muchas veces inmediata.
+
+##### Where (Dónde)<br><br>
+
+###### ¿Dónde surge el problema?<br><br>
+
+Este problema es particularmente agudo en áreas urbanas del Perú, donde la competencia laboral es intensa y las oportunidades para jóvenes sin experiencia son limitadas. Además, Perú se encuentra entre los cinco países con mayor proporción de jóvenes que ni estudian ni trabajan ('ninis'), con un 21% de la población juvenil en esta situación. Las pequeñas empresas también están ubicadas en entornos con recursos limitados para contratar personal especializado.
+
+##### Who (Quién)<br><br>
+
+###### ¿Quiénes son los afectados?<br><br>
+
+Estudiantes universitarios, especialmente de los primeros ciclos o sin experiencia laboral previa, que buscan generar ingresos y mejorar su empleabilidad. También pequeñas empresas, profesionales independientes y emprendedores que requieren servicios puntuales pero accesibles en áreas como diseño, programación, redacción o marketing digital.
+
+##### Why (Por qué)<br><br>
+
+###### ¿Cuál es la causa del problema?<br><br>
+
+El problema tiene múltiples causas:
+
++ Falta de experiencia laboral previa exigida por la mayoría de empleadores.
+
+Según el diario Gestión, en Perú, el 37% de jóvenes entre 15 y 29 años enfrenta dificultades para conseguir empleo, principalmente por no cumplir con requisitos de experiencia o por no tener redes de contacto laborales formales
+
++ Desconexión entre la formación universitaria y las demandas del mercado.
+
+Según el Ministerio de Trabajo, 7 de cada 10 jóvenes en el Perú trabajan en ocupaciones no relacionadas con sus estudios
+
++ Escasez de espacios digitales locales para que estudiantes trabajen por proyecto o de forma flexible.
+
+Plataformas globales como Upwork o Freelancer no están adaptadas a la realidad educativa, económica y lingüística de los estudiantes peruanos, lo que reduce sus oportunidades.
+
+
+
+##### How (Cómo)<br><br>
+
+###### ¿Cómo se utilizará el producto?<br><br>
+
+El producto **UniTalents Connect** será utilizado como una plataforma web que permitirá:
+
++ A los estudiantes universitarios crear un perfil profesional con sus habilidades, intereses y portafolio. También postularse a proyectos publicados por personas o pequeñas empresas y ganar experiencia validada a través de calificaciones y comentarios.
+
++ A empresas publicar proyectos o necesidades específicas (diseño, desarrollo, redacción, etc.) y seleccionar perfiles de estudiantes según sus competencias, disponibilidad y reputación.
+
+##### How Much (Cuánto)<br><br>
+
+###### ¿Cuánto costará implementar la solución?<br><br>
+
+En el Perú, siete de cada diez jóvenes trabajan en empleos que no se relacionan con lo que estudian (Infobae, 2024), lo que evidencia una desconexión entre el talento universitario y el mercado laboral formal. Esta problemática se ve agravada por la falta de plataformas accesibles que les permitan ganar experiencia profesional de manera flexible y validada. Por ello, desarrollar UniTalents Connect representa una inversión estratégica y de alto impacto social, que busca cerrar esta brecha con una solución digital enfocada en los estudiantes. A continuación, se presenta un presupuesto estimado:
+
++ Desarrollo de Software
+
+Diseño y desarrollo web: S/ 1,250 – S/ 2,250
+
+Backend y API RESTful: S/ 800 – S/ 1,000
+
+Dominio y hosting (anual): S/ 450 – S/ 750
+
++ Marketing y Lanzamiento
+
+Campañas de marketing digital: S/ 500 – S/ 1,000
+
++ Mantenimiento y Soporte
+
+Soporte y actualizaciones (anual): S/ 1,000 – S/ 2,000
+
++ **Total Estimado: S/ 3,200 – S/ 6,000**
 
 #### 1.2.2. Lean UX Process
 
 ##### 1.2.2.1. Lean UX Problem Statements
+
+
 
 ##### 1.2.2.2. Lean UX Assumptions
 
