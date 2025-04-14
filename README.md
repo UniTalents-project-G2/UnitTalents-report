@@ -174,25 +174,25 @@ La propuesta de UniTalents se basa en la creación de un ecosistema inclusivo, c
 
 ###### ¿Cuál es el problema?<br><br>
 
-El Ministerio de Trabajo y Promoción del Empleo (MTPE) advierte que siete de cada diez jóvenes enfrentan problemas de inadecuación ocupacional, es decir, no pueden encontrar empleos relacionados con sus estudios (2024). Esta noticia refleja claramente el problema que radica en que los estudiantes tienen dificultades para insertarse laboralmente debido a la falta de experiencia previa o referencias profesionales, mientras que las empresas pequeñas no siempre tienen acceso a talento calificado a costos razonables. Esto genera una brecha entre el talento disponible y la demanda del mercado.
+El Ministerio de Trabajo y Promoción del Empleo (MTPE) advierte que siete de cada diez jóvenes enfrentan problemas de inadecuación ocupacional, es decir, no pueden encontrar empleos relacionados con sus estudios (2024). Esta noticia refleja claramente el problema que radica en que los estudiantes tienen dificultades para insertarse laboralmente debido a la falta de experiencia previa o referencias profesionales, mientras que las empresas pequeñas no siempre tienen acceso a talento calificado a costos razonables. Esto genera una brecha entre el talento disponible y la demanda del mercado.<br><br>
 
 ##### When (Cuando)<br><br>
 
 ###### ¿Cuándo sucede el problema?<br><br>
 
-El problema ocurre constantemente, pero es más crítico entre el segundo y el séptimo ciclo de la vida universitaria, etapa en la cual el estudiante busca adquirir experiencia sin comprometer su disponibilidad académica. Para las empresas, la necesidad es constante y muchas veces inmediata.
+El problema ocurre constantemente, pero es más crítico entre el segundo y el séptimo ciclo de la vida universitaria, etapa en la cual el estudiante busca adquirir experiencia sin comprometer su disponibilidad académica. Para las empresas, la necesidad es constante y muchas veces inmediata.<br><br>
 
 ##### Where (Dónde)<br><br>
 
 ###### ¿Dónde surge el problema?<br><br>
 
-Este problema es particularmente agudo en áreas urbanas del Perú, donde la competencia laboral es intensa y las oportunidades para jóvenes sin experiencia son limitadas. Además, Perú se encuentra entre los cinco países con mayor proporción de jóvenes que ni estudian ni trabajan ('ninis'), con un 21% de la población juvenil en esta situación. Las pequeñas empresas también están ubicadas en entornos con recursos limitados para contratar personal especializado.
+Este problema es particularmente agudo en áreas urbanas del Perú, donde la competencia laboral es intensa y las oportunidades para jóvenes sin experiencia son limitadas. Además, Perú se encuentra entre los cinco países con mayor proporción de jóvenes que ni estudian ni trabajan ('ninis'), con un 21% de la población juvenil en esta situación. Las pequeñas empresas también están ubicadas en entornos con recursos limitados para contratar personal especializado.<br><br>
 
 ##### Who (Quién)<br><br>
 
 ###### ¿Quiénes son los afectados?<br><br>
 
-Estudiantes universitarios, especialmente de los primeros ciclos o sin experiencia laboral previa, que buscan generar ingresos y mejorar su empleabilidad. También pequeñas empresas, profesionales independientes y emprendedores que requieren servicios puntuales pero accesibles en áreas como diseño, programación, redacción o marketing digital.
+Estudiantes universitarios, especialmente de los primeros ciclos o sin experiencia laboral previa, que buscan generar ingresos y mejorar su empleabilidad. También pequeñas empresas, profesionales independientes y emprendedores que requieren servicios puntuales pero accesibles en áreas como diseño, programación, redacción o marketing digital.<br><br>
 
 ##### Why (Por qué)<br><br>
 
@@ -210,9 +210,7 @@ Según el Ministerio de Trabajo, 7 de cada 10 jóvenes en el Perú trabajan en o
 
 + Escasez de espacios digitales locales para que estudiantes trabajen por proyecto o de forma flexible.
 
-Plataformas globales como Upwork o Freelancer no están adaptadas a la realidad educativa, económica y lingüística de los estudiantes peruanos, lo que reduce sus oportunidades.
-
-
+Plataformas globales como Upwork o Freelancer no están adaptadas a la realidad educativa, económica y lingüística de los estudiantes peruanos, lo que reduce sus oportunidades.<br><br>
 
 ##### How (Cómo)<br><br>
 
@@ -222,7 +220,7 @@ El producto **UniTalents Connect** será utilizado como una plataforma web que p
 
 + A los estudiantes universitarios crear un perfil profesional con sus habilidades, intereses y portafolio. También postularse a proyectos publicados por personas o pequeñas empresas y ganar experiencia validada a través de calificaciones y comentarios.
 
-+ A empresas publicar proyectos o necesidades específicas (diseño, desarrollo, redacción, etc.) y seleccionar perfiles de estudiantes según sus competencias, disponibilidad y reputación.
++ A empresas publicar proyectos o necesidades específicas (diseño, desarrollo, redacción, etc.) y seleccionar perfiles de estudiantes según sus competencias, disponibilidad y reputación.<br><br>
 
 ##### How Much (Cuánto)<br><br>
 
@@ -246,19 +244,129 @@ Campañas de marketing digital: S/ 500 – S/ 1,000
 
 Soporte y actualizaciones (anual): S/ 1,000 – S/ 2,000
 
-+ **Total Estimado: S/ 3,200 – S/ 6,000**
++ **Total Estimado: S/ 3,200 – S/ 6,000**<br><br>
+
 
 #### 1.2.2. Lean UX Process
 
-##### 1.2.2.1. Lean UX Problem Statements
+##### 1.2.2.1. Lean UX Problem Statements<br><br>
+
+El propósito de **UniTalents Connect** es brindar a los estudiantes universitarios del Perú una plataforma digital accesible y flexible que les permita acceder a oportunidades de trabajo freelance, facilitando su desarrollo profesional y ayudándolos a generar ingresos sin descuidar su formación académica.
+
+El problema se presenta cuando los estudiantes, especialmente aquellos sin experiencia previa, intentan ingresar al mercado laboral formal y se enfrentan a múltiples barreras como la falta de contactos, la exigencia de experiencia en convocatorias laborales y la escasa disponibilidad de plataformas adaptadas a sus necesidades. Actualmente, muchos jóvenes recurren a redes sociales o plataformas globales donde compiten en condiciones desiguales.
+
+Hemos observado que esta situación genera una sensación generalizada de frustración, subempleo e informalidad entre los estudiantes. La ausencia de un entorno digital confiable y diseñado para ellos limita sus posibilidades de construir un perfil profesional sólido, mostrar su talento y desarrollar habilidades blandas mediante la práctica en proyectos reales. Esta desconexión entre la oferta de talento universitario y la demanda de servicios accesibles por parte de emprendedores y pequeñas empresas también impide el aprovechamiento de recursos humanos valiosos en etapas tempranas.
+
+Y ante esta problemática nos surge la siguiente pregunta: ¿Cómo podríamos conectar el talento universitario con proyectos reales de forma segura, validada y flexible, sin requerir experiencia previa ni depender de redes de contacto tradicionales?<br><br>
+
++ **Domain:** Empleabilidad juvenil y servicios freelance digitales.
++ **Customer Segments:** Estudiantes universitarios peruanos de pregrado, especialmente entre los 18 y 25 años.
++ **Pain Points:** Falta de experiencia laboral, Escasa disponibilidad laboral adaptadas a la etapa académica, recursos limitados en pequeñas empresas para contratar personal.
++ **Gap:** No hay una solución en el mercado especializada en la conexión del conocimiento, habilidades y talento de estudiantes universitarios y la demanda de empresas que requieren soluciones ágiles, digitales y de bajo costo.
++ **Vision/Strategy:** Crear una plataforma accesible que conecta estudiantes con proyectos freelance reales, permitiéndoles adquirir experiencia, generar ingresos y construir una reputación laboral desde etapas tempranas de su formación.
++ **Initial Segment:** Estudiantes universitarios de Lima Metropolitana de carreras de tecnología, comunicación, diseño y administración, con acceso frecuente a herramientas digitales y motivación por generar ingresos y experiencia profesional.<br><br>
+
+##### 1.2.2.2. Lean UX Assumptions<br><br>
+
+###### Business Assumptions<br><br>
+
+1. **Creo nuestros usuarios tienen la necesidad** de ganar experiencia profesional y generar ingresos mientras estudian.
+
+2. **Estas necesidades se pueden satisfacer** una plataforma web que conecte a estudiantes universitarios talentosos con proyectos freelance reales.
+
+3. **Nuestros clientes iniciales serán** estudiantes universitarios de pregrado entre los 18 y 25 años, de carreras relacionadas al diseño, tecnología, administración y comunicación.
+
+4. **El valor más importante que un cliente quiere de nuestros servicios es** conseguir trabajos o proyectos que les permitan construir su portafolio y reputación profesional.
+
+5. **El cliente también va a obtener** flexibilidad de horarios, ingresos adicionales, desarrollo de habilidades blandas y validación en su perfil.
+
+6. **Vamos a obtener la mayoría de los clientes mediante** redes sociales (instagram, tiktok), alianzas con universidades peruanas y campañas digitales en plataformas estudiantiles.
+
+7. **Vamos a obtener ingresos mediante** comisiones por publicación de proyectos o una subscripción premium para empresas reclutadoras.
+
+8. **Nuestra competencia en el mercado serán** plataformas como Freelancer, Workana o Upwork.
+
+9. **Vamos a tener ventaja frente a nuestra competencia debido a** estamos centrados en el mercado universitario, sin barreras como un título o experiencia previa. 
+
+10. **El mayor riesgo del servicio es** la baja participación de estudiantes o la desconfianza de las empresas en contratar talento sin experiencia formal. 
+
+11. **Lo resolveremos realizando** incentivos por primeras contrataciones, sistema de reputación en candidatos, alianzas con instituciones educativas y casos de éxito visible. 
+
+12. **Otro riesgo que debemos considerar es que** los estudiantes no tengan el tiempo ni la motivación para postularse a trabajos freelance durante su carrera.<br><br>
+
+###### User Assumptions<br><br>
+
+1. **¿Quién es el usuario?**
+
+Estudiantes universitarios de entre 18 y 25 años, con habilidades en diseño, programación, redacción, marketing, que buscan adquirir experiencia laboral, desarrollar su portafolio y generar ingresos mientras estudian. 
+
+Pequeñas y medianas empresas, profesionales independientes y emprendedores que requieren servicios puntuales (como diseño, programación, redacción o community management) a bajo costo, con flexibilidad y acceso directo a talento joven y digitalmente competente.
+
+2. **¿Dónde encaja nuestro producto en su vida?**
+
+A la par de la carrera universitaria. Permitiendo aplicar conocimientos en proyectos reales, ganar reputación y generar ingresos. 
+
+3. **¿Qué problemas resuelve nuestro producto?**
+
+UnitTalents se centra en resolver problemas como: falta de experiencia laboral, barreras de acceder a trabajos remunerados, poca o nula visibilidad de las habilidades del estudiante, falta con contratación de personal por recursos limitados. 
+
+4. **¿Cuándo y cómo se usa nuestro producto?**
+
+En el tiempo libre de los estudiantes, acceden a la AppWeb, crean su perfil, buscan oportunidades y aplican a los trabajos.
+
+5. **¿Qué características son importantes?**
+
++ Interfaz sencilla y fácil de aprender.
++ Filtro de búsqueda de habilidades.
++ Sistema de reputación.
++ Mensajes internos.
++ Perfil con portafolio.
+
+6. **¿Cómo debería lucir y comportarse el producto?**
+
+Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y una experiencia clara e intuitiva que no distraiga ni complique al usuario. <br><br>
+
+###### Feature Assumptions<br><br>
+
++ **Creemos que** la aplicación debe contar con una interfaz de usuario clara, responsiva y fácil de navegar que permitirá a estudiantes y empleadores utilizar la plataforma sin necesidad de capacitación previa ni conocimientos técnicos avanzados.
+
++ **Creemos que** la plataforma debe proporcionar notificaciones automáticas y personalizables que mantendrán informados a los usuarios sobre postulaciones recibidas, nuevas oportunidades, mensajes o estados de proyectos.
+
++ **Creemos que** la aplicación debe contar con un sistema de reputación y validación de desempeño, que permitirá a los clientes calificar el trabajo de los estudiantes, y a los estudiantes construir un historial profesional verificable.
+
++ **Creemos que** la aplicación debe ofrecer una sección de perfil personal con portafolio digital, donde los estudiantes puedan mostrar proyectos previos, habilidades destacadas y experiencias obtenidas dentro y fuera de la plataforma.
+
++ **Creemos que** la aplicación debe permitir la publicación rápida y sencilla de proyectos por parte de las empresas o clientes, incluyendo la posibilidad de establecer plazos, presupuestos y requerimientos específicos.<br><br>
+
+##### 1.2.2.3. Lean UX Hypothesis Statements  <br><br>
+
+1. **Hypothesis Statement 01:**
+
+    **Creemos que** los estudiantes universitarios estarán dispuestos a adoptar la plataforma **UniTalents Connect** para postular a trabajos y así obtener experiencia profesional y generar ingresos complementarios. 
+
+    **Sabremos** que hemos tenido éxito.
+
+    **Cuando** al menos un 70% de nuestros usuarios registrados completen su perfil y postulen a un proyecto en el primer mes de uso. 
+
+2. **Hypothesis Statement 02:**
+
+    **Creemos que** la plataforma mejorará la conexión entre pequeñas empresas y el talento universitario al proporcionar un entorno accesible y confiable.
+
+    **Sabremos** que hemos tenido éxito.
+
+    **Cuando** al menos un 60% de proyectos publicados sean completados exitosamente y reciban una calificación positiva por parte del cliente. 
+
+3. **Hypothesis Statement 03:**
+
+    **Creemos que** ofrecer perfiles con portafolio, reputación y sistema de mensajes internos facilitará a los empleadores la selección efectiva de candidatos sin necesidad de recurrir a procesos de contratación tradicionales.
+
+    **Sabremos** que hemos tenido éxito.
+
+    **Cuando** el 75% de los empleadores indiquen que encontraron al candidato adecuado usando únicamente las funcionalidades de la plataforma.<br><br>
+
+##### 1.2.2.4. Lean UX Canvas 
 
 
-
-##### 1.2.2.2. Lean UX Assumptions
-
-##### 1.2.2.3. Lean UX Hypothesis Statements  
-
-##### 1.2.2.4. Lean UX Canvas  
 
 ### 1.3. Segmentos Objetivo  
 
