@@ -1,6 +1,11 @@
 <h1 align="center">Informe de Trabajo Final</h1>
 
-**Universidad:** Universidad Peruana de Ciencias Aplicadas 
+<p align="center">
+  <img src="images/upcLogo.png" alt="UPC logo" width="150">
+</p>
+
+---
+**Universidad:** Universidad Peruana de Ciencias Aplicadas
 
 **Ciclo:**  2025 - 01
 
@@ -366,6 +371,9 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 ##### 1.2.2.4. Lean UX Canvas 
 
+<p align="center">
+  <img src="images/LeanUXCanva.png" alt="UPC logo" width="1000">
+</p>
 
 
 ### 1.3. Segmentos Objetivo  
