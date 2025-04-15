@@ -402,6 +402,60 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 #### 2.3.2. User Task Matrix  
 
+<table border ="1"><thead>
+  <tr>
+    <th></th>
+    <th colspan="2">Emprendedor</th>
+    <th colspan="2"> Estudiante universitario </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>TASK</td>
+    <td>FREQUENCY (Estudiante)</td>
+    <td>IMPORTANCE (Estudiante)</td>
+    <td>FREQUENCY (Emprendedor)</td>
+    <td>IMPORTANCE (Emprendedor)</td>
+  </tr>
+
+    
+  <tr>
+    <td>Gestionar Pagos</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+  
+  <tr>
+    <td>Gestionar Pagos</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+  
+  <tr>
+    <td>Gestionar Pagos</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+
+  <tr>
+    <td>Gestionar Pagos</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+
+
+</tbody>
+</table>
+
+
+
 #### 2.3.3. User Journey Mapping  
 
 #### 2.3.4. Empathy Mapping  
