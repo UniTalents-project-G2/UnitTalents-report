@@ -390,9 +390,154 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 ### 2.2. Entrevistas
 
-#### 2.2.1. Diseño de entrevistas  
+#### 2.2.1. Diseño de entrevistas  <br><br>
 
-#### 2.2.2. Registro de entrevistas  
+*Preguntas dirigidas al segmento 1*
+---
+
+  **Preguntas Directas:**
+
+  1. ¿Podrías proporcionarnos tu nombre completo y tu edad?
+
+  2. ¿Estás buscando actualmente trabajo o alguna forma de ganar dinero mientras estudias? ¿Por qué?
+
+  3. ¿Has tenido algún tipo de experiencia laboral o por encargo relacionada con tu carrera? ¿Cómo fue?
+
+  4. ¿Qué dificultades has tenido para conseguir experiencia profesional o prácticas en lo que estudias?
+
+  5. ¿Qué requisitos suelen pedir en las ofertas laborales que has visto y que te han desanimado a postular?
+
+  6. ¿Has sentido que no puedes acceder a oportunidades solo por no tener experiencia laboral previa?
+
+  7. ¿Qué tipo de tareas o trabajos relacionados a tu carrera estarías dispuesto(a) a hacer si pudieras ganar algo de dinero y sumar experiencia?
+
+  8. ¿Qué habilidades o conocimientos tuyos crees que podrías ofrecer hoy a una empresa o emprendedor?
+
+  9. ¿Qué herramientas, plataformas o redes usas hoy para buscar oportunidades laborales o académicas?
+
+  10. Si existiera una plataforma donde puedas ofrecer tus habilidades a personas o empresas que necesiten ayuda con tareas específicas, ¿la usarías? ¿Por qué sí o por qué no?<br><br>
+
+  **Preguntas Complementarias:**
+
+  11. ¿Qué te gustaría aprender o fortalecer participando en proyectos reales mientras estudias?
+
+  12. ¿Qué tan importante es para ti tener validación o reconocimiento de tu trabajo por parte de quienes te contratan? <br><br>
+
+
+
+*Preguntas dirigidas al segmento 2*
+---
+  **Preguntas Directas:**
+
+  1. ¿Podrías proporcionarnos tu nombre completo y tu edad?
+
+  2. Cuéntame un poco sobre tu negocio/ empresa. ¿Qué tipo de actividades realizan y qué servicios u operaciones manejan internamente?
+
+  3. ¿Cómo manejas actualmente las tareas operativas como diseño, comunicación con clientes, redes sociales, desarrollo de contenido, o tareas técnicas?
+
+  4. Cuando surge una necesidad puntual, como crear una pieza gráfica o actualizar un sitio web,¿Suele contratar apoyo externo para realizar estas tareas?
+
+  5. ¿Con qué frecuencia te encuentras dejando de lado tareas como diseño, contenido o redes sociales por no contar con alguien disponible que pueda ayudarte en el momento que lo necesitas?
+
+  6. ¿Has tenido dificultades para encontrar personas confiables o con las habilidades adecuadas para tareas específicas? ¿Puedes contarme un caso?
+
+  7. ¿Qué factores dificultan más la contratación de apoyo externo en tu experiencia (tiempo, costo, confianza, calidad, disponibilidad, etc.)?
+
+  8. ¿Qué características valora más al momento de elegir a alguien para colaborar en un proyecto?
+
+  9. Desde tu experiencia, ¿por qué crees que muchas empresas en Perú valoran tanto la experiencia laboral cuando buscan contratar?
+
+  10. Si existiera una plataforma local donde pudieras acceder a talento joven, con habilidades específicas, portafolio visible y tarifas flexibles… ¿crees que sería útil para ti o para tu negocio? ¿Por qué sí o por qué no?<br><br>
+
+  **Preguntas Complementarias:**
+
+  11. ¿Has trabajado antes con estudiantes o personas jóvenes en prácticas, pasantías o tareas específicas? ¿Cómo fue esa experiencia?
+
+  12. ¿Estarías dispuesto a probar una nueva forma de contratar apoyo por proyecto si se te asegura facilidad, confianza y resultados concretos? <br><br>
+
+
+#### 2.2.2. Registro de entrevistas  <br><br>
+
+*Entrevistas a segmento1*
+---
+
+*Entrevistas a segmento2*
+---
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Javier Sandoval</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      Javier Sandoval dirige una empresa tecnológica peruana que ofrece servicios en cinco líneas estratégicas. Actualmente, cuentan con un equipo interno que se encarga de las tareas técnicas y de desarrollo, además de un área de marketing que cubre la mayoría de sus necesidades operativas. Sin embargo, ante picos de demanda, especialmente en el área de desarrollo de software, recurren ocasionalmente a personal externo. Según indica, entre una y dos oportunidades al mes se pierden por la falta de disponibilidad de profesionales externos confiables que puedan asumir tareas específicas. Aunque reconocen la necesidad de apoyo externo, enfrentan dificultades al contratar por factores como la falta de confianza, más allá de las habilidades técnicas. Temen que los colaboradores no cumplan con los plazos ni con la calidad esperada. Los factores que más dificultan la contratación son la confianza y la disponibilidad del talento. En los perfiles que contratan, valoran cualidades como responsabilidad, proactividad, buen portafolio, referencias confiables y capacidad de trabajo en equipo. Finalmente, al presentarle brevemente la propuesta de una plataforma para conectar empresas con talento joven y visualización de portafolios, consideró la idea adecuada y potencialmente útil para su organización.   
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/entrevista-javierSandoval-segmento2.png" alt="UPC logo" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+    </td>
+  </tr>
+  <tr>
+    ..
+  </tr>
+</table>
+
 
 #### 2.2.3. Análisis de entrevistas  
 
