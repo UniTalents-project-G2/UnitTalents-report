@@ -405,50 +405,126 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 <table border ="1"><thead>
   <tr>
     <th></th>
-    <th colspan="2">Emprendedor</th>
-    <th colspan="2"> Estudiante universitario </th>
+    <th colspan="2">Estudiante</th>
+    <th colspan="2">Gerente</th>
   </tr></thead>
 <tbody>
   <tr>
     <td>TASK</td>
     <td>FREQUENCY (Estudiante)</td>
     <td>IMPORTANCE (Estudiante)</td>
-    <td>FREQUENCY (Emprendedor)</td>
-    <td>IMPORTANCE (Emprendedor)</td>
+    <td>FREQUENCY (Gerente)</td>
+    <td>IMPORTANCE (Geremte)</td>
   </tr>
 
-    
+   <tr>
+    <td>Buscar proyectos disponibles</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Sometimes</td>
+    <td>Low</td>
+  </tr>
+
+
   <tr>
-    <td>Gestionar Pagos</td>
+    <td>Postular a ofertas</td>
+    <td>Sometimes</td>
+    <td>High</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+  
+
+  <tr>
+    <td>Editar o actualizar su perfil profesional</td>
+    <td>Rarely</td>
+    <td>High</td>
     <td>Sometimes</td>
     <td>Medium</td>
+  </tr>
+    <tr>
+    <td>Consultar el estado de sus postulaciones</td>
+    <td>Sometimes</td>
+    <td>High</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+   <tr>
+    <td>Asistir a entrevistas</td>
+    <td>Rarely</td>
+    <td>High</td>
+    <td>Sometimes</td>
+    <td>High</td>
+  </tr>
+   <tr>
+    <td>Asistir al daily scrum</td>
+    <td>Always</td>
+    <td>High</td>
+    <td>Rarely</td>
+    <td>Medium</td>
+  </tr>
+
+  
+  
+ <tr>
+    <td>
+    Registrar requerimientos de proyecto</td>
+    <td>Never</td>
+    <td>Low</td>
     <td>Sometimes</td>
     <td>Medium</td>
   </tr>
   
-  <tr>
-    <td>Gestionar Pagos</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
+   <tr>
+    <td>Publicar convocatorias de proyecto</td>
+    <td>Never</td>
+    <td>Low</td>
     <td>Sometimes</td>
     <td>Medium</td>
   </tr>
   
-  <tr>
-    <td>Gestionar Pagos</td>
+   <tr>
+    <td>Chatear con miembros del equipo</td>
     <td>Sometimes</td>
     <td>Medium</td>
     <td>Sometimes</td>
     <td>Medium</td>
   </tr>
 
-  <tr>
-    <td>Gestionar Pagos</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
+
+   <tr>
+    <td>Ver postulaciones recibidas</td>
+    <td>Never</td>
+    <td>Low</td>
     <td>Sometimes</td>
     <td>Medium</td>
   </tr>
+    <tr>
+    <td>Validar postulantes</td>
+    <td>Never</td>
+    <td>Low</td>
+    <td>Rarely</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Aprobar entregables</td>
+    <td>Never</td>
+    <td>Low</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Planificacion del sprint</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+
+
+
+
+
 
 
 </tbody>
