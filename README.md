@@ -416,11 +416,28 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 ### 3.1. To-Be Scenario Mapping 
 
+<p align="center">
+  <img src="images/estudiante_to_be.png" alt="estudiante to be" width="150">
+</p>
+
+<p align="center">
+  <img src="images/gerente_to_be.png" alt="gerente to be" width="150">
+</p>
+
 ### 3.2. User Stories  
 
 ### 3.3. Impact Mapping 
 
+<p align="center">
+  <img src="images/impact_mapping.png" alt="impact mapping" width="150">
+</p>
+
 ### 3.4. Product Backlog  
+
+| Orden | User Story ID | Título | Descripción | User Stories |
+|:-----:|--------------|--------|-------------|--------------|
+|   1   |
+|   2   |
 
 ---
 
