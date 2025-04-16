@@ -400,6 +400,18 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 #### 2.3.1. User Personas  
 
+En esta sección se elaborarán las User Personas, las cuales se construirán a partir de la información recolectada en las entrevistas realizadas a nuestros usuarios potenciales. Tomaremos en cuenta factores clave como edad, ocupación, temores y objetivos de los entrevistados, con el fin de comprender a fondo sus necesidades, comportamientos y expectativas. Además, se analizarán las características y preferencias de los usuarios a través del estudio de nuestros competidores, lo que nos permitirá identificar oportunidades de mejora.
+
+- #### User Persona Estudiante Universitario
+
+![img userpersona1](https://i.postimg.cc/BQtZ2jKR/Jair-Quijada-2.png)
+
+- #### User Persona Gerente de empresa
+
+![img userpersona2](https://i.postimg.cc/YqVrRtN0/Alexander-Davila-1.png)
+
+
+
 #### 2.3.2. User Task Matrix  
 
 #### 2.3.3. User Journey Mapping  
