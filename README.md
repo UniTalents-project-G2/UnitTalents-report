@@ -545,6 +545,18 @@ s
 
 #### 2.3.1. User Personas  
 
+En esta sección se elaborarán las User Personas, las cuales se construirán a partir de la información recolectada en las entrevistas realizadas a nuestros usuarios potenciales. Tomaremos en cuenta factores clave como edad, ocupación, temores y objetivos de los entrevistados, con el fin de comprender a fondo sus necesidades, comportamientos y expectativas. Además, se analizarán las características y preferencias de los usuarios a través del estudio de nuestros competidores, lo que nos permitirá identificar oportunidades de mejora.
+
+- #### User Persona Estudiante Universitario
+
+![img userpersona1](https://i.postimg.cc/BQtZ2jKR/Jair-Quijada-2.png)
+
+- #### User Persona Gerente de empresa
+
+![img userpersona2](https://i.postimg.cc/YqVrRtN0/Alexander-Davila-1.png)
+
+
+
 #### 2.3.2. User Task Matrix  
 
 <table border ="1"><thead>
@@ -688,6 +700,28 @@ Tomando en cuenta este recuadro podemos apreciar ciertos detalles sobre las acti
 
 
 #### 2.3.3. User Journey Mapping  
+
+
+  Esta sección incluye los User Journey Map relacionado a nuestras dos User Persona previamente elaboradas, estos Journey Map consistirán en las experiencias que nuestros usuarios viven antes de conocer nuestra solución.
+
+
+- #### User Journey Map Jair Quijada:
+
+Este Journey Map describe el proceso de busqueda y postulacion de un trabajo de Jair Quijada, un estudiante universitario que busca su primera experiencia laboral.
+
+![userjourneymap1](https://i.postimg.cc/FK9Lxsqf/Customer-Journey-Map-Jair-Quijada.png)
+
+
+
+- #### User Journey Map Alexander Dávila:
+
+Este Journey Map describe el proceso de Alexander Dávila en su busqueda de postulantes desde la identificacion de la necesidad de apoyo externo hasta el abandono de la plataforma por malas experiencias con los postulantes.
+
+
+
+![userjourneymap2](https://i.postimg.cc/fTS47yHB/User-journey-map-2.png)
+
+
 
 #### 2.3.4. Empathy Mapping  
 
