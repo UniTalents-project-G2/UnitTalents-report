@@ -394,6 +394,81 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 #### 2.2.2. Registro de entrevistas  
 
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Jackeline Garcia</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      Jackeline Garcia es gerenta en Eureka: Soluciones Educativas, empresa dedicada a soluciones educativas que ofrece una variedad de materiales para la enseñanza. Su enfoque principal son padres, estudiantes y maestros en instituciones educativas privadas. Ella mencioná que El área de marketing de la empresa es fundamental para crear piezas gráficas y comunicados, especialmente durante eventos importantes como la Semana Santa. Sin embargo, a veces requieren apoyo externo debido a la carga de trabajo y la disponibilidad de personal. También destacó en base a su experiencia laboral, que la confianza es un valor fundamental al elegir colaboradores en proyectos, no solo en marketing, sino en cualquier tipo de trabajo. La experiencia también es importante, pero no es un criterio absoluto, también valoró que la incorporación de catálogos virtuales en las empresas facilita la selección de candidatos adecuados, optimizando el tiempo en procesos de contratación. Esto permite una mejor adaptación a las necesidades del mercado laboral actual.  
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/EntrevistaGerente-Andres.png" alt="UPC logo" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+    </td>
+  </tr>
+  <tr>
+    ..
+  </tr>
+</table>
+
 #### 2.2.3. Análisis de entrevistas  
 
 ### 2.3. Needfinding
