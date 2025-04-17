@@ -461,6 +461,43 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 *Entrevistas a segmento1*
 ---
 
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alvaro Abanto</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      Alvaro Abanto es un estudiante de tercer año de la carrera de Ciencias de la Computación en la Universidad Peruana de Ciencias Aplicadas. Ultimamente ha estado buscando formas de ganar dinero mientras estudia. Inició su busqueda de practicas o pequeños trabajos en portales como LinkedIn o Computrabajo pero se desanimó al notar que gran parte de las convocatorias exigian experiencia previa, conocimientos avanzados o disponibilidad de tiempo completo, lo cual no es compatible con la vida de un estudiante. A pesar de ello, él esta dispuesto a realizar proyectos pequeños ya que se siente muy apasionado por su carrera, especificamente en el area de analisis de datos. Finalmente, nos comenta que si existiera una plataforma donde pueda ofrecer sus habilidades en programacion o análisis de datos a empresas o personas, lo haria sin dudarlo, ya que esto le permitiría generar experiencia en su rubro preferido, además de obtener un ingreso extra y quizas hacer contactos en el mundo profesional.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/entrevista-alvaroAbanto-segmento1.png" alt="UPC logo" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
 *Entrevistas a segmento2*
 ---
 <table align="center">
