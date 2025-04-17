@@ -406,9 +406,40 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 #### 2.3.4. Empathy Mapping  
 
+<p align="center">
+  <img src="images/Empathy Map Jair.png" alt="EmpathyMap" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="images/Empathy Map Alexander.png" alt="EmpathyMap2" width="1000">
+</p>
+
 #### 2.3.5. As-is Scenario Mapping  
 
+<p align="center">
+  <img src="images/Scenario1.png" alt="As-Is Scenario1" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/Scenario2.png" alt="As-Is Scenario2" width="1000">
+</p>
+
 ### 2.4. Ubiquitous Language  
+
+El lenguaje a utilizar para este proyecto es:
+
+
+<p align="center">
+  <img src="images/Language.png" alt="UbiquitousLanguage1" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="images/Language2.png" alt="UbiquitousLanguage2" width="1000">
+</p>
+
+
 
 ---
 
