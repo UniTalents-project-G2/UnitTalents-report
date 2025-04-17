@@ -538,7 +538,7 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
   </tr>
 </table>
 
-
+s
 #### 2.2.3. Análisis de entrevistas  
 
 ### 2.3. Needfinding
