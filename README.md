@@ -378,6 +378,50 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 ### 1.3. Segmentos Objetivo  
 
+**Estudiantes Universitarios de Ciclos Avanzados**
+
+**Descripción:**
+
+Jóvenes entre 20 y 27 años que se encuentran cursando los últimos ciclos de sus estudios universitarios (a partir del 5to ciclo en adelante). Este grupo ha adquirido conocimientos técnicos o especializados en su carrera, pero tiene poca o nula experiencia profesional formal.
+
+**Características demográficas y comportamiento:**
+
+- Viven mayoritariamente en zonas urbanas, cerca de centros educativos o residencias estudiantiles.
+
+- Tienen acceso constante a internet y son usuarios activos de redes sociales y plataformas digitales.
+
+- Buscan formas de generar ingresos sin comprometer sus horarios de estudio.
+
+- Prioridad por obtener experiencia profesional para mejorar su empleabilidad post-egreso.
+
+**Sustento estadístico:**
+
+- Según la Secretaría Nacional de la Juventud (Senaju), en Perú, el 21.4% de los jóvenes de 15 a 29 años ha alcanzado estudios universitarios, y el 14.6% ha cursado educación superior no universitaria, lo que significa que existe una base considerable de jóvenes con formación académica que podrían estar interesados en adquirir experiencia laboral mediante proyectos freelance, especialmente si aún no han ingresado al mercado formal de trabajo. ​
+
+- El Instituto Nacional de Estadística e Informática (INEI) reporta que el 70.4% de los jóvenes de 15 a 29 años utiliza internet, siendo el teléfono móvil el medio más común de acceso, lo que significa que nuestro público objetivo cuenta con los recursos tecnológicos necesarios para acceder y utilizar una plataforma web de manera constante y eficiente..
+
+**Personas Naturales y Pequeñas Empresas que Requieren Servicios Puntuales**
+
+**Descripción:**
+
+Emprendedores, profesionales independientes y pequeñas empresas que no cuentan con grandes presupuestos ni el tiempo para contratar agencias o personal permanente, pero que sí necesitan servicios puntuales como diseño gráfico, programación, redacción, análisis de datos, soporte administrativo, entre otros.
+
+**Características demográficas y comportamiento:**
+
+- Edad promedio entre 25 y 50 años.
+
+- Interesados en soluciones ágiles, económicas y con resultados rápidos.
+
+- Valoran la flexibilidad, la comunicación directa y el pago por entregables.
+
+- Acuden a plataformas digitales o grupos en redes sociales para solicitar servicios por encargo.
+
+**Sustento estadístico:**
+
+- Las micro y pequeñas empresas (MYPE) representan el 99.6% de las unidades empresariales en Perú, según el INEI, lo que significa que existe un mercado amplio y diverso de pequeñas organizaciones que podrían beneficiarse de servicios freelance accesibles para resolver necesidades puntuales sin necesidad de contratar personal fijo o recurrir a agencias costosas. 
+
+- De acuerdo con ComexPerú, las MYPE dedicadas al sector servicios constituyen aproximadamente el 50% del total, pero presentan el mayor nivel de informalidad, con un 88.7% en 2021, lo que significa que muchas de estas empresas, al operar con recursos limitados y de manera no formalizada, buscan soluciones prácticas y económicas, como la contratación de freelancers, para cubrir tareas específicas sin incurrir en gastos estructurales adicionales.
+
 ---
 
 ## Capítulo II: Requirements Elicitation & Analysis
@@ -680,6 +724,19 @@ s
 ---
 
 ## Bibliografía  
+
+- Instituto Nacional de Estadística e Informática (INEI). (2023). Más de 8 millones de jóvenes viven en el Perú. Recuperado de https://m.inei.gob.pe/prensa/noticias/mas-de-8-millones-de-jovenes-viven-en-el-peru-9325/​
+
+
+- Secretaría Nacional de la Juventud (Senaju). (2023). Día Mundial de la Educación: Más del 90% de jóvenes de 15 a 29 años accede a la educación secundaria y menos del 40% transita a la educación superior. Recuperado de https://juventud.gob.pe/2023/03/dia-mundial-de-la-educacion-mas-del-90-de-jovenes-de-15-a-29-anos-accede-a-la-educacion-secundaria-y-menos-del-40-transita-a-la-educacion-superior/​
+
+
+- Instituto Nacional de Estadística e Informática (INEI). (2013). Micro, Pequeñas y Medianas empresas concentran más del 20% de las ventas. Recuperado de https://m.inei.gob.pe/prensa/noticias/micro-pequenas-y-medianas-empresas-concentran-mas-/​
+
+
+- ComexPerú. (2022). MYPES dedicadas a servicios representan el 50% del total, pero son las que tienen el menor índice de capacidad formal. Recuperado de https://www.comexperu.org.pe/articulo/mypes-dedicadas-a-servicios-representan-el-50-del-total-pero-son-las-que-tienen-el-menor-indice-de-capacidad-formal​
+Comexperu
+
 
 ---
 
