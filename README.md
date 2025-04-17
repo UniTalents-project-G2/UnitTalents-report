@@ -416,11 +416,27 @@ En esta sección se elaborarán las User Personas, las cuales se construirán a 
 
 #### 2.3.3. User Journey Mapping  
 
+
+  Esta sección incluye los User Journey Map relacionado a nuestras dos User Persona previamente elaboradas, estos Journey Map consistirán en las experiencias que nuestros usuarios viven antes de conocer nuestra solución.
+
+
 - #### User Journey Map Jair Quijada:
 
 Este Journey Map describe el proceso de busqueda y postulacion de un trabajo de Jair Quijada, un estudiante universitario que busca su primera experiencia laboral.
 
-![](https://i.postimg.cc/FK9Lxsqf/Customer-Journey-Map-Jair-Quijada.png)
+![userjourneymap1](https://i.postimg.cc/FK9Lxsqf/Customer-Journey-Map-Jair-Quijada.png)
+
+
+
+- #### User Journey Map Alexander Dávila:
+
+Este Journey Map describe el proceso de Alexander Dávila en su busqueda de postulantes desde la identificacion de la necesidad de apoyo externo hasta el abandono de la plataforma por malas experiencias con los postulantes.
+
+
+
+![userjourneymap2](https://i.postimg.cc/fTS47yHB/User-journey-map-2.png)
+
+
 
 #### 2.3.4. Empathy Mapping  
 
