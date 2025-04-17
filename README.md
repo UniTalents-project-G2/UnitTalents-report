@@ -530,6 +530,16 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 </tbody>
 </table>
 
+<br>
+<br>
+
+Tomando en cuenta este recuadro podemos apreciar ciertos detalles sobre las actividades de nuestros User Personas:
+
+- Tanto gerente como estudiante al ser parte de un equipo deben participar en reuniones SCRUM (sprint plannting, daily scrum, etc.), las cuales son importantes para ambas personas. 
+
+- Mientras que los estudiantes enfocan su tiempo en actualizar sus perfiles laborales y buscar nuevas oportunidades de empleo, los gerentes suelen emplear su tiempo en otras actividad ya que cuentan con experiencia y un empleo fijo.
+
+- Los gerentes suelen realizar actividades de management como la convocatoria de proyectos o aprobación de entregables, mientras que los estudiantes no son parte de este proceso.
 
 
 #### 2.3.3. User Journey Mapping  
