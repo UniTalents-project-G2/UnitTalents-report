@@ -559,6 +559,9 @@ En esta sección se elaborarán las User Personas, las cuales se construirán a 
 
 #### 2.3.2. User Task Matrix  
 
+  En este apartado se realizará la User Task Matrix tomando en cuenta los dos segmentos definidos y relacionados a nuestras User Persona, estudiantes univeristarios deseosos de experiencia laboral y gerentes que buscan contratar talento joven para el desarrollo de proyectos.
+
+
 <table border ="1"><thead>
   <tr>
     <th></th>
