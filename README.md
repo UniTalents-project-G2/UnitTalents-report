@@ -397,7 +397,7 @@ análisis?</td>
     <td colspan="5">Quienes son nuestros principales competidores?</td>
   </tr>
   <tr>
-    <td colspan="5">  Gracias al estudio de la competencia dentro del mercado, es posible entender el entorno competitivo en el que se desarrollará nuestro producto. Esto permite obtener una visión clara de como los competidores han implementado funciones y como satisfacen las necesidades de sus usuarios.</td>
+    <td colspan="5">  Mediante el análisis de la competencia en el mercado, se puede comprender el entorno competitivo en el que se lanzará nuestro producto. Esto brinda una perspectiva clara sobre cómo otros competidores han incorporado funcionalidades y de qué manera atienden las necesidades de sus usuarios.</td>
   </tr>
   <tr>
     <td rowspan="3">PERFIL</td>
