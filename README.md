@@ -386,7 +386,309 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 #### 2.1.1. Análisis competitivo  
 
-#### 2.1.2. Estrategias y tácticas frente a competidores  
+<table border ="1" ><thead>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="2">¿Por qué llevar acabo este
+análisis?</td>
+    <td colspan="5">Quienes son nuestros principales competidores?</td>
+  </tr>
+  <tr>
+    <td colspan="5">  Mediante el análisis de la competencia en el mercado, se puede comprender el entorno competitivo en el que se lanzará nuestro producto. Esto brinda una perspectiva clara sobre cómo otros competidores han incorporado funcionalidades y de qué manera atienden las necesidades de sus usuarios.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">PERFIL</td>
+    <td rowspan="2">Overview</td>
+    <td> UniTalent Connect
+
+![logo UniTalent Connect](...)
+</td>
+    <td>
+    Workana
+    
+![logo Workana](data:image/png;base64,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)</td>
+    <td>
+    Freelancer.com
+![logo Freelancer.com](https://www.f-cdn.com/assets/main/en/assets/freelancer-logo-light.svg)</td>
+    <td>
+  LinkedIn   
+![logo LinkedIn ](data:image/png;base64,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)</td>
+  </tr>
+  <tr>
+    <td>Plataforma web que conecta a estudiantes universitarios de ciclos avanzados con personas o pequeñas empresas que necesitan servicios puntuales (como diseño, redacción, programación, etc.). Promueve el trabajo freelance como una vía para adquirir experiencia real, flexible y útil para su desarrollo profesional.</td>
+    <td>Plataforma líder en Latinoamérica para contratar freelancers en áreas como programación, diseño, traducción y marketing.</td>
+    <td>Plataforma global que conecta freelancers con proyectos en diversas categorías: desarrollo, escritura, arte, etc. </td>
+    <td> Red social profesional que conecta empleadores con talento, usada también para promocionar servicios y encontrar oportunidades de empleo.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva
+    ¿Que valor ofrece a los clientes?</td>
+    <td>Se enfoca exclusivamente en estudiantes, lo que permite personalizar la experiencia: horarios flexibles, oportunidades acordes a su formación académica, sin requerir experiencia previa.</td>
+    <td>
+
+Amplia base de usuarios, reputación consolidada, y herramientas avanzadas para gestión de proyectos. 
+    </td>
+    <td>
+    
+Cobertura internacional, variedad de categorías, concursos públicos para contratación.
+    </td>
+    <td>
+
+Reputación global, red de contactos, integración con empresas.
+  </td>
+  </tr>
+  <tr>
+    <td rowspan="2">PERFIL DEL MARKETING</td>
+    <td>Mercado
+Objetivo</td>
+    <td>Estudiantes universitarios, tambien personas naturales y pequeños emprendedores que buscan servicios digitales puntuales</td>
+    <td>Profesionales freelancers de habla hispana y empresas medianas que buscan reducir costos.</td>
+    <td>Freelancers de todos los niveles y empresas de todos los tamaños.</td>
+    <td>Profesionales yestudiantes en búsqueda de empleo, tambien empresas de todos los tamaños</td>
+  </tr>
+  <tr>
+    <td>Estrategias de
+Marketing</td>
+    <td>
+
++ Alianzas con universidades.
++ Programas de referidos para estudiantes
++ Marketing de contenido en TikTok e Instagram (tips laborales, historias de éxito)
+ 
+</td>
+
+  <td>Google Ads, blog con contenido educativo y certificaciones de habilidades</td>
+    <td>
+
+ Alianzas corporativas y certifaciones.
+    </td>
+    <td>Integracion con universidades y contenido compartido por usuarios, ademas de usar anuncios por internet exclusivos</td>
+  </tr>
+  <tr>
+    <td rowspan="3">PERFIL DEL PRODUCTO</td>
+    <td>Productos &
+Servicios</td>
+    <td>
+
+- Listado de perfiles de estudiantes por habilidad
+- Postulación a proyectos freelance.
+    </td>
+    <td> 
+
++ Publicación y postulación de proyectos.
+- Contratos, seguimiento y pagos seguros.
+ </td>
+    <td>
+    
++ Publicación de proyectos, concursos, gestión y pago.
+</td>
+    <td>
+
+- Perfil profesional, buscador de empleo, recomendaciones, networking.
+    </td>
+  </tr>
+  <tr>
+    <td>Precios &
+Costos</td>
+    <td>Ofrecemos los planes Basico ($2.99/mes), Premium ($5.99/mes) y PRO ($9.99/mes) para los empresarios y estudiantes. </td>
+    <td>Comisión de 15–20% para freelancers y Clientes publican gratis.</td>
+    <td> 
+    Opciones premium para destacar perfiles y comisión del 10–20%. 
+    </td>
+    <td>Gratuito con funciones premium, ademas de suscripciones para empresas y usuarios. 
+    </td>
+  </tr>
+  <tr>
+    <td>Canales de
+distribución
+(web/móvil)</td>
+    <td>Móvil y Web</td>
+    <td>Móvil y Web</td>
+    <td>Móvil y Web</td>
+    <td>Móvil y Web</td>
+  </tr>
+  <tr>
+    <td rowspan="4">ANÁLISIS SWOT</td>
+    <td>Fortalezas</td>
+    <td>
+
+- Público segmentado y claro.
+- Precios bajos y acceso rápido a talento.
+- Beneficio educativo: experiencia laboral para el CV.
+</td>
+    <td> 
+
+  - Gran comunidad.
+  - Confianza por trayectoria.
+</td>
+    <td>
+
+- Alcance global.
+- Multilingüe y multisectorial.
+</td>
+    <td>
+    
+- Amplia base de usuarios profesionales.
+- Confianza en el entorno profesional.
+</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>
+
+- Puede haber estudiantes poco responsables.
+- Difícil asegurar calidad de entregables al inicio.</td>
+    <td>
+
+ + Alta competencia interna
+ - Dificultad para principiantes.
+</td>
+    <td>
+
+
++ Menor enfoque en estudiantes.
++ Costos ocultos y alta comisión.
+</td>
+    <td>
+    
+- No está centrado en freelancers.
+- No permite gestión de proyectos.
+  </td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>
+
++ Aumento de freelancing post-pandemia.
+- Universidades apoyan prácticas no tradicionales.</td>
+    <td>
+
+ + Expansión a nichos educativos o junior.
+ - Expansión a plataformas web</td>
+    <td>
++ Subdividir en micromercados (como estudiantes).
+
+</td>
+    <td>
+    
++ Crecimiento de features para estudiantes y freelancers.
+    </td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>
+
+- Plataformas grandes que podrían crear secciones para estudiantes
+- Dificultad para escalar sin inversión.
+
+</td>
+    <td>
+ 
++ Saturación del mercado freelance.
+- Nuevas plataformas especializadas.</td>
+    <td>
++ Usuarios migran a plataformas especializadas.</td>
+    <td>
+    
+- Otras redes con mejor UX.
+    </td>
+  </tr>
+</tbody></table>
+
+#### 2.1.2. Estrategias y tácticas frente a competidores 
+
+De acuerdo al análisis competitivo realizado previamente, se identificaron las principales fortalezas, oportunidades, debilidades y amenazas de los principales competidores (Workana, Freelancer.com y LinkedIn). A continuación, se presentan estrategias y acciones que se implementarán para posicionar nuestra plataforma en el mercado y diferenciarla efectivamente.
+
+**Afrontando las fortalezas de nuestros competidores:**
+
+- Workana y Freelancer tienen una comunidad amplia y consolidada.
+
+- LinkedIn tiene una reputación fuerte y respaldo de empresas grandes.
+
+- Sistemas avanzados de evaluación, reputación y pago seguro.
+
+**Comprendemos que nuestras fortalezas son:**
+
+- Enfoque específico en estudiantes universitarios.
+
+- Flexibilidad horaria, ideal para quienes estudian y trabajan.
+
+- Sistema de verificación académica para validar habilidades.
+
+**Entonces, podemos aplicar las siguientes estrategias y tácticas:**
+
+**Estrategias:**
+
+- Especializarnos como plataforma nicho para universitarios con talentos emergentes.
+
+- Generar confianza en los contratistas validando las credenciales académicas.
+
+**Tácticas:**
+- Crear convenios con universidades para validar perfiles de estudiantes.
+
+- Implementar un sistema de recomendaciones entre pares o docentes.
+
+- Destacar la categoría "Proyectos Académicos o de Innovación" como ventaja frente a plataformas más generales
+
+**Afrontando las debilidades de nuestros competidores:**
+
+- Workana y Freelancer no se enfocan en perfiles sin experiencia.
+
+- LinkedIn está más orientado a empleo formal o networking profesional, no tanto a proyectos puntuales.
+
+- Muchas plataformas cobran altas comisiones a los freelancers.
+
+**Comprendemos que nuestras debilidades son:**
+
+- Menor número inicial de usuarios y proyectos disponibles.
+
+- Ausencia de marca reconocida en el mercado.
+
+- Requiere alcanzar masa crítica para lograr tracción.
+
+**Entonces, podemos aplicar las siguientes estrategias y tácticas:**
+
+**Estrategias:**
+- Facilitar el primer contacto entre estudiantes y contratistas con beneficios de entrada.
+
+- Incentivar la participación activa a través de una comunidad educativa.
+
+**Tácticas:**
+- Ofrecer los primeros tres proyectos sin comisión para estudiantes nuevos.
+
+- Crear un programa de embajadores en universidades para atraer talentos y proyectos.
+
+- Realizar campañas en redes sociales donde se muestren “casos de éxito” de estudiantes.
+
+**Afrontando las oportunidades de nuestros competidores:**
+- Aumento del trabajo remoto y freelance.
+
+- Más personas buscando talento accesible y flexible.
+
+- Interés creciente en el desarrollo profesional desde la etapa universitaria.
+
+**Comprendemos que nuestras oportunidades son:**
+
+- Convertirnos en el puente entre el conocimiento académico y la experiencia práctica.
+
+- Aprovechar la necesidad de empresas de reducir costos sin sacrificar calidad.
+
+- Crear una comunidad educativa y de networking para universitarios.
+
+**Entonces, podemos aplicar las siguientes estrategias y tácticas:**
+
+**Estrategias:**
+- Posicionarnos como una solución “ganar-ganar” entre jóvenes con talento y pequeños negocios.
+
+- Apostar por contenido educativo, guías y formación paralela a los proyectos.
+
+**Tácticas:**
+- Ofrecer webinars, cursos gratuitos y microcredenciales por participación en proyectos.
+
+- Implementar un “ranking de habilidades” que aumente el valor de perfil del estudiante.
 
 ### 2.2. Entrevistas
 
