@@ -1386,6 +1386,79 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
+        <tr>
+      <td>US10</td>
+      <td>Modificación de perfil de usuario</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> modificar la información de mi perfil <strong>para</strong> mantener mis datos actualizados en la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1:   Usuario modifica nombre y descripción</strong><br>
+        <strong>Dado</strong> que el usuario ha iniciado sesión <strong>Y</strong> se encuentra en la sección de perfil<strong>cuando</strong>  edita su nombre o descripción  <strong>entonces</strong>  los cambios deben guardarse correctamente y mostrarse en el perfil.
+        <br><br>
+        <strong>Escenario 2:  Usuario cambia su foto de perfil</strong><br>
+        <strong>Dado</strong>  que el usuario accede a su perfil <strong>cuando</strong> sube una nueva imagen <strong>entonces</strong> la nueva foto debe reemplazar la anterior y visualizarse correctamente.
+        <br><br>
+      </td>
+      <td>Epic 01</td>
+    </tr>
+        <tr>
+      <td>US11</td>
+      <td>Calificación de estudiante freelance</td>
+      <td>
+        <strong>Como</strong> empresario, <strong>quiero</strong>  calificar a un estudiante luego de un proyecto <strong>para</strong> reflejar su desempeño en la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1: Empresario deja una calificación</strong><br>
+        <strong>Dado</strong> que el proyecto ha finalizado <strong>cuando</strong> el empresario accede al perfil del estudiante <strong>Y</strong> completa una calificación con comentario <strong>entonces</strong> esta debe guardarse y reflejarse públicamente.
+        <br><br>
+      </td>
+      <td>Epic 04</td>
+    </tr>
+        <tr>
+      <td>US12</td>
+      <td>Modificación del portafolio del estudiante</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> poder editar mi portafolio <strong>para</strong>  mostrar mis trabajos actualizados y habilidades recientes.
+      </td>
+      <td>
+        <strong>Escenario 1: Estudiante agrega un nuevo proyecto</strong><br>
+        <strong>Dado</strong> que está en la sección de portafolio <strong>cuando</strong> agrega título y descripción <strong>entonces</strong> el nuevo proyecto debe guardarse correctamente.
+        <br><br>
+        <strong>Escenario 2:  Estudiante edita proyecto existente</strong><br>
+        <strong>Dado</strong> que el proyecto ya existe en el portafolio <strong>cuando</strong> el estudiante actualiza su información <strong>entonces</strong> el sistema debe guardar y reflejar los cambios.
+        <br><br>
+        <strong>Escenario 3: Estudiante elimina un proyecto</strong><br>
+        <strong>Dado</strong> que el estudiante visualiza sus proyectos <strong>cuando</strong> selecciona eliminar <strong>entonces</strong> el proyecto debe desaparecer del portafolio.
+      </td>
+      <td>Epic 05</td>
+    </tr>
+        <tr>
+      <td>US13</td>
+      <td>Calificación del contratador</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> calificar al empresario luego del proyecto <strong>para</strong> compartir mi experiencia con futuros postulantes.
+      </td>
+      <td>
+        <strong>Escenario 1:  Estudiante deja una calificación al empresario</strong><br>
+        <strong>Dado</strong> que el proyecto ha concluido <strong>cuando</strong> el estudiante selecciona puntuación y comentario <strong>entonces</strong> el sistema debe guardar y mostrar la evaluación.
+        <br><br>
+      </td>
+      <td>Epic 04</td>
+    </tr>
+        <tr>
+      <td>US14</td>
+      <td> Búsqueda de postulante</td>
+      <td>
+        <strong>Como</strong>  empresario, <strong>quiero</strong> buscar postulantes usando filtros <strong>para</strong> encontrar al candidato ideal para mi proyecto.
+      </td>
+      <td>
+        <strong>Escenario 1: Búsqueda por carrera y habilidades</strong><br>
+        <strong>Dado</strong> que el empresario accede al buscador <strong>cuando</strong> selecciona carrera e ingresa habilidades clave <strong>entonces</strong> el sistema muestra resultados relacionados.
+        <br><br>
+      </td>
+      <td>Epic 08</td>
+    </tr>
 
   </tbody>
 </table>
