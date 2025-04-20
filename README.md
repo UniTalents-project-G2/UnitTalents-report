@@ -1190,15 +1190,226 @@ El lenguaje a utilizar para este proyecto es:
 
 ### 4.2. Information Architecture
 
-#### 4.2.1. Organization Systems 
+La arquitectura de información de UniTalents Connect define cómo se organizará, etiquetará, navegará y buscará el contenido dentro de la plataforma. Su objetivo es permitir que estudiantes y gerentes interactúen de forma fluida con la plataforma, accedan sin dificultad a los recursos clave, y cumplan sus objetivos con el mínimo esfuerzo cognitivo.
 
-#### 4.2.2. Labeling Systems  
+#### 4.2.1. Organization Systems <br><br>
 
-#### 4.2.3. SEO Tags and Meta Tags  
+UniTalents Connect utilizará una combinación de organización jerárquica, secuencial y matricial, aplicada de forma estratégica tanto en la Landing Page como en las secciones funcionales de la aplicación web. Además, se aplicarán diferentes esquemas de categorización.
 
-#### 4.2.4. Searching Systems  
++ Jerarquía visual:
 
-#### 4.2.5. Navigation Systems  
+La jerarquía visual en UniTalents Connect se aplicará estratégicamente en distintas vistas clave de la plataforma. En la Landing Page, el contenido estará organizado en secciones descendentes que priorizan el título, los beneficios principales y llamados a la acción como “Comienza tu camino profesional” o “Publica tu proyecto ahora”, siguiendo una lógica de atracción y conversión. En el dashboard del estudiante, se destacarán visualmente las oportunidades recomendadas, el estado de las postulaciones y los próximos pasos mediante tarjetas y elementos gráficos resaltados. Por su parte, el dashboard del gerente priorizará la visualización de los proyectos activos, los estudiantes pendientes de validación y las alertas relacionadas con entregas o cierres próximos, facilitando una gestión eficiente desde el primer acceso.<br><br>
+
++ Organización secuencial:
+
+La organización secuencial en UniTalents Connect se aplicará en procesos clave que requieren acompañamiento paso a paso, facilitando la experiencia incluso para usuarios sin experiencia previa. En el onboarding del estudiante, el flujo estará compuesto por etapas guiadas que incluyen el registro, la carga del perfil, publicación del portafolio de habilidades y la vinculación a oportunidades compatibles. Para los gerentes, la publicación de proyectos se estructurará como un formulario inteligente que avanza progresivamente desde los datos básicos del proyecto hasta los requisitos específicos y filtros de búsqueda del candidato ideal. Asimismo, el proceso de postulación estará compuesto por pasos ordenados que abarcan la elección del proyecto, la revisión de los detalles, la confirmación y el envío de la postulación, asegurando una navegación clara, sin fricciones.<br><br>
+
++ Organización matricial:
+
+La organización matricial en UniTalents Connect estará orientada a facilitar la exploración libre de contenidos mediante el uso de cuadrículas y tarjetas visuales. En el caso de los estudiantes, se aplicará en el explorador de proyectos, donde las oportunidades aparecerán organizadas en una grilla que podrá filtrarse dinámicamente según criterios relevantes. Para los gerentes, la vista de postulantes mostrará tarjetas con información clave como nombre, carrera, portafolio, puntuación y habilidades destacadas, permitiendo una comparación ágil entre candidatos.<br><br>
+
++ Esquemas de categorización:
+
+  + **Por audiencia:** el contenido se adapta a si el usuario es estudiante o gerente, con rutas y menús diferenciados.
+
+  + **Alfabético:** para búsquedas de universidades, empresas y habilidades.
+
+  + **Cronológico:** en el historial de entregas, postulaciones, comentarios y validaciones.<br><br>
+
+#### 4.2.2. Labeling Systems  <br><br>
+
+El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y consistente entre interfaces. Se emplearán términos cortos y directos (máximo 2 palabras), que permitan a usuarios de distintos niveles de experiencia entender rápidamente el propósito de cada sección o acción.
+
++ Landing Page:
+
+  + Inicio
+
+  + ¿Cómo funciona?
+
+  + Casos de éxito
+
+  + Integrantes
+
+  + Login / Register
+
++ WebApp (Estudiantes):
+
+  + Inicio
+
+  + Postulaciones
+
+  + Portafolio
+
+  + Perfil
+
+  + Salir
+
++ WebApp (Gerentes):
+
+  + Inicio
+
+  + Mis Proyectos
+
+  + Postulantes
+
+  + Evaluaciones
+
+  + Perfil
+
+  + Salir
+
+  <br><br>
+
+  <table align="center">
+  <tr>
+    <td><strong>Tipo etiqueta</strong></td>
+    <td><strong>Ejemplo</strong></td>
+    <td><strong>Aparición</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Encabezado</strong></td>
+    <td>"Mis postulaciones"</td>
+    <td>En la parte superior del dashboard del estudiante</td>
+  </tr>
+  <tr>
+    <td><strong>Panel</strong></td>
+    <td>"Portafolio"</td>
+    <td>Dentro de una tarjeta destacada del dashboard</td>
+  </tr>
+  <tr>
+    <td><strong>Botón</strong></td>
+    <td>"Publicar proyecto”</td>
+    <td>Acción principal para los gerentes en el módulo de creación de oportunidades</td>
+  </tr>
+  <tr>
+    <td><strong>Navegación</strong></td>
+    <td>“Inicio” – “Portafolio” – “Evaluaciones”</td>
+    <td>En la barra lateral o menú superior según el dispositivo</td>
+  </tr>
+  <tr>
+    <td><strong>Estado</strong></td>
+    <td>““En revisión” – “Aceptado” – “Entregado””</td>
+    <td>En la tarjeta de estado de cada proyecto o postulación</td>
+  </tr>
+</table><br><br>
+
+#### 4.2.3. SEO Tags and Meta Tags  <br><br>
+
+Las meta etiquetas permitirán estructurar adecuadamente la información que los buscadores necesitan para indexar y posicionar el contenido del sitio. Serán definidas de forma diferenciada para la Landing Page y la Aplicación Web.
+
++ Landing Page:
+
+  + Título<br><br>
+
+  ```html
+  <title>UniTalents Connect – Conecta con talento universitario</title>
+  ```
+
+  + Codificación de caracteres<br><br>
+
+  ```html
+  <meta charset="utf-8">
+  ```
+
+  + Meta Description<br><br>
+
+  ```html
+  <meta name="description" content="Plataforma que conecta a estudiantes universitarios con oportunidades de desarrollo profesional mediante proyectos por encargo validados por empresas reales."/>
+  ```
+
+  + Keywords<br><br>
+
+  ```html
+  <meta name="keywords" content="prácticas preprofesionales, oportunidades laborales, estudiantes, portafolio digital, talento joven"/>
+  ```
+
+  + Autor y Derechos de Autor<br><br>
+
+  ```html
+  <meta name="author" content="UniTalents Connect Team"/>
+  <meta name="copyright" content="© 2025 UniTalents Connect. Todos los derechos reservados." />
+  ```
+
+<br>
+
++ Web Application:
+
+  + Título<br><br>
+
+  ```html
+  <title>UniTalents Connect – Talento y Proyectos</title>
+  ```
+
+  + Codificación de caracteres<br><br>
+
+  ```html
+  <meta charset="utf-8">
+  ```
+
+  + Meta Description<br><br>
+
+  ```html
+  <meta name="description" content="Gestiona tu perfil profesional, postula a proyectos validados, construye un portafolio digital y recibe feedback de empresas reales."/>
+  ```
+
+  + Keywords<br><br>
+
+  ```html
+  <meta name="keywords" content="estudiantes universitarios, oportunidades laborales, estudiantes, portafolio digital, talento joven, networking académico"/>
+  ```
+
+  + Autor y Derechos de Autor<br><br>
+
+  ```html
+  <meta name="author" content="UniTalents Connect Team"/>
+  <meta name="copyright" content="© 2025 UniTalents Connect. Todos los derechos reservados." />
+  ```
+
+  <br>
+
+#### 4.2.4. Searching Systems <br><br>
+
+Dado que la plataforma gestionará gran cantidad de datos (postulaciones, estudiantes, habilidades, proyectos, empresas), se implementará un sistema de búsqueda flexible y filtrado inteligente.
+
++ Opciones de búsqueda:
+
+  + Buscar proyectos disponibles
+
+  + Buscar por empresa
+
+  + Buscar estudiantes por universidad
+
+  + Buscar estudiantes por carrera
+
++ Filtros:
+
+  + Modalidad (remoto/presencial)
+
+  + Habilidades requeridad
+
+  + Duración del proyecto
+
+  + Carrera
+
+  + Universidad
+
+  + Empresa
+
++ Visualización de Datos
+
+  ...(imagenes)
+
+#### 4.2.5. Navigation Systems<br><br>
+
+La navegación en UniTalents Connect está diseñada para ofrecer una experiencia continua, limpia y responsive. Se evitarán interfaces recargadas, permitiendo una interacción clara tanto en escritorio como en dispositivos móviles.
+
++ Landing Page:
+
+  En la Landing Page de UniTalents Connect se implementará un diseño de tipo one-page scroll, donde el contenido se presenta de manera continua en una sola página, permitiendo al usuario desplazarse verticalmente a través de las distintas secciones. Para facilitar la navegación, se incluirá un encabezado fijo que funcionará como menú principal, desde el cual se podrá acceder rápidamente a secciones ancladas como “¿Cómo funciona?”, “Planes”, “Casos de éxito”, “FAQs” y “Registro”. Además, en cada sección se destacarán botones de acción visibles y llamativos como “Empieza hoy” o “Publica tu primer proyecto”, con el fin de guiar al usuario hacia los principales objetivos de conversión.
+
++ Web App:
+
+  En la aplicación web de UniTalents Connect se implementará una navegación híbrida que combina flujos guiados y navegación libre según el contexto de uso. Para los procesos clave como el registro y perfilamiento del usuario, la postulación a una oportunidad y la publicación de un nuevo proyecto, se utilizará una navegación secuencial que acompañará paso a paso al usuario hasta completar cada tarea con éxito. Paralelamente, se ofrecerá una navegación libre a través de un menú lateral en la versión de escritorio y un menú inferior en dispositivos móviles, desde donde se podrá acceder rápidamente a los módulos principales como oportunidades, portafolio, feedback, evaluaciones, perfil y más, permitiendo una experiencia fluida, intuitiva y adaptable a distintos estilos de interacción.
 
 ### 4.3. Landing Page UI Design
 
