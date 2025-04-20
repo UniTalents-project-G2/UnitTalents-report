@@ -741,6 +741,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 *Preguntas dirigidas al segmento 1*
 ---
 
+=======
   **Preguntas Directas:**
 
   1. ¿Podrías proporcionarnos tu nombre completo y tu edad?
@@ -846,6 +847,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 *Entrevistas a segmento2*
 ---
+
 <table align="center">
   <tr>
     <th colspan="2" style="text-align:center">Entrevista 1</th>
@@ -889,19 +891,19 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 <table align="center">
   <tr>
-    <th colspan="2" style="text-align:center">Entrevista 1</th>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
   </tr>
   <tr>
-    <td><strong>Entrevistado</strong></td>
-    <td> </td>
+    <td><strong>Entrevistada</strong></td>
+    <td>Jackeline Garcia</td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td></td>
+    <td>39</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td> </td>
+    <td>San Miguel</td>
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
@@ -914,14 +916,16 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen:<br>
+      Jackeline Garcia es gerenta en Eureka: Soluciones Educativas, empresa dedicada a soluciones educativas que ofrece una variedad de materiales para la enseñanza. Su enfoque principal son padres, estudiantes y maestros en instituciones educativas privadas. Ella mencioná que El área de marketing de la empresa es fundamental para crear piezas gráficas y comunicados, especialmente durante eventos importantes como la Semana Santa. Sin embargo, a veces requieren apoyo externo debido a la carga de trabajo y la disponibilidad de personal. También destacó en base a su experiencia laboral, que la confianza es un valor fundamental al elegir colaboradores en proyectos, no solo en marketing, sino en cualquier tipo de trabajo. La experiencia también es importante, pero no es un criterio absoluto, también valoró que la incorporación de catálogos virtuales en las empresas facilita la selección de candidatos adecuados, optimizando el tiempo en procesos de contratación. Esto permite una mejor adaptación a las necesidades del mercado laboral actual.
     </td>
   </tr>
-  <tr>
-    ..
+   <tr>
+    <td colspan="2"><br>
+      <img src="images/EntrevistaGerente-Andres.png" alt="UPC logo" width="1000"><br>
+    </td>
   </tr>
 </table>
 
-s
 #### 2.2.3. Análisis de entrevistas  
 
 ### 2.3. Needfinding
@@ -1111,9 +1115,40 @@ Este Journey Map describe el proceso de Alexander Dávila en su busqueda de post
 
 #### 2.3.4. Empathy Mapping  
 
+<p align="center">
+  <img src="images/Empathy Map Jair.png" alt="EmpathyMap" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="images/Empathy Map Alexander.png" alt="EmpathyMap2" width="1000">
+</p>
+
 #### 2.3.5. As-is Scenario Mapping  
 
+<p align="center">
+  <img src="images/Scenario1.png" alt="As-Is Scenario1" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/Scenario2.png" alt="As-Is Scenario2" width="1000">
+</p>
+
 ### 2.4. Ubiquitous Language  
+
+El lenguaje a utilizar para este proyecto es:
+
+
+<p align="center">
+  <img src="images/Language.png" alt="UbiquitousLanguage1" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="images/Language2.png" alt="UbiquitousLanguage2" width="1000">
+</p>
+
+
 
 ---
 
