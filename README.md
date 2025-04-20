@@ -1459,6 +1459,109 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 08</td>
     </tr>
+      <td>
+        <strong>Como</strong> usuario nuevo, <strong>quiero</strong> crear una cuenta, <strong>para</strong> utilizar la aplicación.
+      </td>
+      <td>
+        <strong>Escenario 1: Estudiante crea una cuenta</strong><br>
+        <strong>Dado</strong> que el estudiante se encuentra en la pantalla de registro
+        <strong>Y</strong> selecciona la opción "Registrarse como estudiante". <strong>Cuando</strong> ingresa un nombre de usuario, un correo electronico y una contraseña válidos <strong>Y </strong> presiona el botón "Registrarse" <strong>
+        Entonces</strong> la cuenta debe crearse correctamente.
+        <br><br>
+        <strong>Escenario 2: Gerente crea una cuenta</strong><br>
+        <strong>Dado</strong> que el gerente se encuentra en la pantalla de registro
+        <strong>Y</strong> selecciona la opción "Registrarse como gerente". <strong>Cuando</strong> ingresa un nombre de usuario, un correo electronico y una contraseña válidos <strong>Y </strong> presiona el botón "Registrarse" <strong>
+        Entonces</strong> la cuenta debe crearse correctamente.
+        <br><br>
+      </td>
+      <td>Epic 01</td>
+    </tr>
+
+
+ <tr>
+      <td>US16</td>
+      <td>Iniciar sesión</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> iniciar sesión en la aplicación, <strong>para</strong> acceder a sus funcionalidades.
+      </td>
+      <td>
+        <strong>Escenario 1: Usuario inicia sesión</strong><br>
+        <strong>Dado</strong> que el usuario se encuentra en la pantalla de inicio de sesión
+        <strong>Cuando</strong> ingresa  un correo electronico y una contraseña válidos <strong>Y</strong> presiona el botón "Iniciar Sesión" <strong>
+        Entonces</strong> el usuario debe acceder correctamente a la aplicación.
+        <br><br>
+        <strong>Escenario 2: Fallo al iniciar sesión</strong><br>
+        <strong>Dado</strong> que el usuario se encuentra en la pantalla de inicio de sesión
+        <strong>Cuando</strong> ingresa  un correo electronico o una contraseña inválidos <strong>Y</strong> presiona el botón "Iniciar Sesión" <strong>
+        Entonces</strong> el sistema debe enviar un mensaje de error al usuario.
+        <br><br>
+      </td>
+      <td>Epic 01</td>
+    </tr>
+  <tr>
+      <td>US17</td>
+      <td>Crear Convocatoria</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> crear convocatorias en la aplicación, <strong>para</strong> recibir solicitudes de postulantes.
+      </td>
+      <td>
+        <strong>Escenario 1: Gerente crea convocatoria</strong><br>
+        <strong>Dado</strong> que el usuario se encuentra en el apartado de proyectos
+        <strong>Cuando</strong> hace click en "Nueva convocatoria" <strong>Y</strong> añade los datos requeridos (título, descripción, duración, sueldo, habilidades)
+        <strong>Y</strong> le da click al botón "Publicar convocatoria" 
+        <strong>Entonces</strong> la convocatoria será publicada en la aplicación.
+        <br><br>
+        <strong>Escenario 2: Gerente crea convocatoria con información incompleta</strong><br>
+        <strong>Dado</strong> que el usuario se encuentra en el apartado de proyectos
+        <strong>Cuando</strong> hace click en "Nueva convocatoria" <strong>Y</strong> solo añade algunos de los datos requeridos (título, descripción, duración, sueldo, habilidades) 
+        <strong>Y</strong> le da click al botón "Publicar convocatoria" 
+        <strong> Entonces</strong> el gerente recibirá un aviso de que su convocatoria no fue publicada.
+        <br><br>
+      </td>
+      <td>Epic 02</td>
+    </tr>
+ <tr>
+      <td>US18</td>
+      <td>Editar Convocatoria</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> editar convocatorias en la aplicación, <strong>para</strong>  corregir o actualizar la infromación cuando lo necesite.
+      </td>
+      <td>
+        <strong>Escenario 1: Gerente edita convocatoria</strong><br>
+        <strong>Dado</strong> que el gerente haya creado una convocatoria
+        <strong>Y</strong> se encuentre en el apartado de convocatorias  
+        <strong>Cuando</strong> hace click en el botón "Editar información" de una convocatoria <strong>Y</strong> modifica los datos requeridos (título, descripción, duración, sueldo, habilidades) <strong>
+        <strong>Y</strong> le da click al botón "Guardar cambios" 
+        Entonces</strong> los cambios deben de guardarse y mostrarse correctamente en la aplicación.
+        <br><br>
+      </td>
+      <td>Epic 02</td>
+    </tr>
+<tr>
+      <td>US19</td>
+      <td>Eliminar Convocatoria</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> eliminar una convocatoria publicada en la aplicación, <strong>para</strong> evitar recibir nuesvas postulaciones cuando el proyecto cierre.
+      </td>
+      <td>
+        <strong>Escenario 1: Gerente borra convocatoria</strong><br>
+        <strong>Dado</strong> que el gerente haya creado una convocatoria
+        <strong>Y</strong> se encuentre en el apartado de convocatorias  
+        <strong>Cuando</strong> hace click en el botón "Eliminar" de una convocatoria
+        <strong>Y</strong> da click en el botón "Sí" en el cuadro de confirmación. 
+        <strong>Entonces</strong> la convocatoria será eliminada de la aplicación.
+        <br><br>
+        <strong>Escenario 2: Gerente cancela la eliminación de convocatoria</strong><br>
+        <strong>Dado</strong> que el gerente haya creado una convocatoria
+        <strong>Y</strong> se encuentre en el apartado de convocatorias  
+        <strong>Cuando</strong> hace click en el botón "Eliminar" de una convocatoria
+        <strong>Y</strong> da click en el botón "No" en el cuadro de confirmación. 
+        <strong>Entonces</strong> la convocatoria se mantendrá disponible en la aplicación.
+      </td>
+      <td>Epic 02</td>
+    </tr>
+
+
 
   </tbody>
 </table>
