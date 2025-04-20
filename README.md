@@ -1153,25 +1153,252 @@ El lenguaje a utilizar para este proyecto es:
 
 ## Capítulo III: Requirements Specification
 
-### 3.1. To-Be Scenario Mapping 
+### 3.1. To-Be Scenario Mapping<br><br> 
 
 <p align="center">
   <img src="images/estudiante_to_be.png" alt="estudiante to be" width="80%">
 </p>
 
+<br>
+
 <p align="center">
   <img src="images/gerente_to_be.png" alt="gerente to be" width="80%">
 </p>
 
-### 3.2. User Stories  
+<br>
 
-### 3.3. Impact Mapping 
+### 3.2. User Stories<br><br>
+
+<table border ="1" >
+  <tbody>
+    <tr>
+      <td>Epic / Story ID</td>
+      <td>Título</td>
+      <td>Descripción</td>
+      <td>Criterios de Aceptación</td>
+      <td>Relación con Epic</td>
+    </tr>
+    <tr>
+      <td>EP01</td>
+      <td>Registro y Onboarding de Usuarios</td>
+      <td>
+        <strong>Como</strong> nuevo usuario de la plataforma, <strong>quiero</strong> registrarme y completar un perfil profesional guiado, <strong>para</strong> poder acceder a oportunidades o gestionar talento según mi rol.
+      </td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP02</td>
+      <td>Gestión de Oportunidades y Proyectos</td>
+      <td>
+        <strong>Como</strong> gerente de una empresa, <strong>quiero</strong> publicar proyectos con requisitos personalizados, <strong>para</strong> atraer a estudiantes con el perfil adecuado y resolver tareas específicas de mi organización.
+      </td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP03</td>
+      <td>Exploración y Postulación a Proyectos</td>
+      <td>
+        <strong>Como</strong> estudiante universitario, <strong>quiero</strong> explorar y postularme a proyectos compatibles con mis habilidades e intereses, <strong>para</strong> ganar experiencia práctica y construir un portafolio sólido.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP04</td>
+      <td>Evaluación y Retroalimentación</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> evaluar el desempeño de los estudiantes durante y al finalizar el proyecto, <strong>para</strong> asegurar la calidad del trabajo y fomentar una cultura de mejora continua.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP05</td>
+      <td>Creación y Visualización de Portafolio</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> subir proyectos y evidencias de mis habilidades en un portafolio digital, <strong>para</strong> mostrar mi experiencia a futuras oportunidades laborales.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP06</td>
+      <td>Validación y Reputación del Talento</td>
+      <td>
+        <strong>Como</strong> usuario de la plataforma, <strong>quiero</strong> consultar la reputación de otros usuarios (estudiantes o gerentes), <strong>para</strong> tomar decisiones informadas al aceptar postulaciones o colaborar en proyectos.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP07</td>
+      <td>Comunicación y Gestión Colaborativa</td>
+      <td>
+        <strong>Como</strong> participante de un proyecto, <strong>quiero</strong> poder comunicarme dentro de la plataforma con la contraparte, <strong>para</strong> coordinar entregas, resolver dudas y dar seguimiento al avance del trabajo.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP08</td>
+      <td>Búsqueda y Filtros Inteligentes</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> buscar proyectos o talentos aplicando filtros específicos como carrera, habilidades o disponibilidad, <strong>para</strong> encontrar rápidamente las opciones que mejor se adaptan a mis necesidades.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP09</td>
+      <td>Presentación Clara del Valor de la Plataforma</td>
+      <td>
+        <strong>Como</strong> visitante nuevo en la web, <strong>quiero</strong> entender fácilmente qué ofrece UniTalents Connect, <strong>para</strong> saber si se adapta a mis necesidades como estudiante o empresa.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP10</td>
+      <td>Validación Social y Casos de Éxito</td>
+      <td>
+        <strong>Como</strong> potencial usuario, <strong>quiero</strong> ver testimonios y casos de éxito reales, <strong>para</strong> confiar en la plataforma antes de registrarme.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>US01</td>
+      <td>Comprender el propósito de la plataforma desde la página de inicio</td>
+      <td>
+        <strong>Como</strong> usuario nuevo, <strong>quiero</strong> entender rápidamente de qué trata UniTalents Connect, <strong>para</strong> decidir si me interesa registrarme como estudiante o gerente.</td>
+      <td>
+        <strong>Escenario 1: Primer contacto con la Landing Page</strong><br>
+        <strong>Dado</strong> que soy un usuario que visita la landing por primera vez, <strong>cuando</strong> accedo al sitio principal, <strong>entonces</strong> visualizo en los primeros 15 segundos un mensaje claro que explica qué es UniTalents Connect y cómo funciona.
+        <br><br>
+        <strong>Escenario 2: Perfilamiento por tipo de usuario</strong><br>
+        <strong>Dado</strong> que soy un visitante interesado en contratar talento, <strong>cuando</strong> hago scroll o clic en "¿Cómo funciona?", <strong>entonces</strong> puedo identificar fácilmente los beneficios dirigidos a empresas o gerentes sin confundirlos con los de estudiantes.
+      </td>
+      <td>Epic 09</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Registro inmediato desde la landing</td>
+      <td>
+        <strong>Como</strong> usuario nuevo, <strong>quiero</strong> acceder rápidamente al formulario de registro, <strong>para</strong> comenzar a usar la plataforma sin perder tiempo.</td>
+      <td>
+        <strong>Escenario 1: Acceso directo desde el encabezado</strong><br>
+        <strong>Dado</strong> que soy un usuario que visita la landing por primera vez, <strong>cuando</strong> hago clic en el botón "Empieza" ubicado en el encabezado, <strong>entonces</strong> soy redirigido al formulario de registro correspondiente (estudiante o gerente).
+      </td>
+      <td>Epic 01</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Ver testimonios de usuarios reales</td>
+      <td>
+        <strong>Como</strong> usuario interesado, <strong>quiero</strong> ver experiencias de otras personas en la plataforma, <strong>para</strong> sentir confianza antes de crear una cuenta.</td>
+      <td>
+        <strong>Escenario 1: Visualización básica de testimonios</strong><br>
+        <strong>Dado</strong> que llego a la sección de testimonios, <strong>cuando</strong> leo los testimonios, <strong>entonces</strong> puedo ver el nombre, rol (estudiante o gerente) y un mensaje real validado por el sistema.
+      </td>
+      <td>Epic 10</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Llamados a la acción claros en cada sección</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> encontrar botones de acción relevantes a lo largo de la landing, <strong>para</strong> tomar decisiones sin tener que regresar al inicio.
+      </td>
+      <td>
+        <strong>Escenario 1: CTA visibles al finalizar cada bloque</strong><br>
+        <strong>Dado</strong> que estoy navegando por secciones como “¿Cómo funciona?” o “Casos de éxito”, <strong>cuando</strong> llego al final de una sección, <strong>entonces</strong> encuentro un botón como “Regístrate ahora” o “Publica tu primer proyecto” de forma clara y destacada.
+      </td>
+      <td>Epic 01</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Subir proyecto a mi portafolio</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> subir mis proyectos académicos al portafolio, <strong>para</strong> mostrar evidencia de mis habilidades.
+      </td>
+      <td>
+        <strong>Escenario 1: Registro básico del proyecto</strong><br>
+        <strong>Dado</strong> que tengo una cuenta de estudiante activa, <strong>cuando</strong> accedo a la sección "Mi Portafolio" y selecciono "Agregar proyecto", <strong>entonces</strong> puedo registrar información como el nombre del proyecto, tecnologías utilizadas y una breve descripción.
+        <br><br>
+        <strong>Escenario 2: Subida de enlaces o archivos</strong><br>
+        <strong>Dado</strong> que deseo compartir más detalles, <strong>cuando</strong> incluyo un enlace externo o archivo complementario, <strong>entonces</strong> este queda vinculado al proyecto para ser visualizado por los gerentes.
+      </td>
+      <td>Epic 05</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Visualización del portafolio por gerentes</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> poder revisar el portafolio de un estudiante antes de seleccionarlo, <strong>para</strong> evaluar su experiencia previa.
+      </td>
+      <td>
+        <strong>Escenario 1: Acceso al portafolio desde la lista de postulantes</strong><br>
+        <strong>Dado</strong> que estoy revisando candidatos en un proyecto, <strong>cuando</strong> hago clic en el nombre de un postulante, <strong>entonces</strong> se abre su perfil donde puedo ver los proyectos de su portafolio organizados con nombre, descripción y tecnología.
+        <br><br>
+        <strong>Escenario 2: Exploración de detalles del proyecto</strong><br>
+        <strong>Dado</strong> que quiero revisar un proyecto específico, <strong>cuando</strong> hago clic en una tarjeta de portafolio, <strong>entonces</strong> se despliega una vista más detallada con enlaces, archivos o imágenes relacionados.
+      </td>
+      <td>Epic 05</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Ver estado de mis postulaciones</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> consultar el estado de mis postulaciones, <strong>para</strong> saber si fui considerado.
+      </td>
+      <td>
+        <strong>Escenario 1: Vista general del estado de cada postulación</strong><br>
+        <strong>Dado</strong> que he postulado a varios proyectos, <strong>cuando</strong> accedo a la sección "Mis Postulaciones", <strong>entonces</strong> puedo ver el nombre del proyecto, la empresa, y su estado: En revisión, Aceptado o Rechazado.
+        <br><br>
+        <strong>Escenario 2: Notificación de cambios en el estado</strong><br>
+        <strong>Dado</strong> que estoy esperando una respuesta, <strong>cuando</strong> el gerente cambia el estado de mi postulación, <strong>entonces</strong> recibo una notificación dentro de la plataforma y/o por correo electrónico.
+      </td>
+      <td>Epic 04</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Ver reputación de un estudiante</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> ver el historial de evaluación de un estudiante, <strong>para</strong> decidir si confiarle un nuevo proyecto.
+      </td>
+      <td>
+        <strong>Escenario 1: Acceso a evaluación desde el perfil del estudiante</strong><br>
+        <strong>Dado</strong> que estoy considerando un postulante, <strong>cuando</strong> entro a su perfil, <strong>entonces</strong> puedo visualizar su reputación con puntuaciones previas, feedback recibido y métricas como cumplimiento de plazos.
+        <br><br>
+        <strong>Escenario 2: Información clara y filtrada</strong><br>
+        <strong>Dado</strong> que quiero una lectura rápida, <strong>cuando</strong> reviso la reputación, <strong>entonces</strong> puedo ver una visualización resumida con promedio de evaluación, número de proyectos completados y etiquetas destacadas.
+      </td>
+      <td>Epic 06</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Recuperar contraseña</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder recuperar mi contraseña, <strong>para</strong> acceder a mi cuenta si la olvido..
+      </td>
+      <td>
+        <strong>Escenario 1: Solicitud de recuperación</strong><br>
+        <strong>Dado</strong> que olvidé mi contraseña, <strong>cuando</strong> selecciono la opción "¿Olvidaste tu contraseña?" en la pantalla de login, <strong>entonces</strong> puedo ingresar mi correo electrónico asociado a la cuenta.
+        <br><br>
+        <strong>Escenario 2: Enlace de recuperación enviado</strong><br>
+        <strong>Dado</strong> que ingreso un correo válido, <strong>cuando</strong> envío la solicitud, <strong>entonces</strong> recibo un correo con un enlace temporal para establecer una nueva contraseña.
+        <br><br>
+        <strong>Escenario 3: Contraseña restablecida correctamente</strong><br>
+        <strong>Dado</strong> que hago clic en el enlace recibido, <strong>cuando</strong> ingreso una nueva contraseña válida y la confirmo, <strong>entonces</strong> mi acceso se restablece y puedo ingresar normalmente a la plataforma.
+      </td>
+      <td>Epic 01</td>
+    </tr>
+
+  </tbody>
+</table>
+
+<br>
+
+### 3.3. Impact Mapping <br><br>
 
 <p align="center">
   <img src="images/impact_mapping.png" alt="impact mapping" width="80%">
 </p>
 
-### 3.4. Product Backlog  
+### 3.4. Product Backlog  <br><br>
 
 | Orden | User Story ID | Título | Descripción | User Stories |
 |:-----:|--------------|--------|-------------|--------------|
