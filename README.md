@@ -1386,7 +1386,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
-        <tr>
+<tr>
       <td>US10</td>
       <td>Modificación de perfil de usuario</td>
       <td>
@@ -1459,6 +1459,9 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 08</td>
     </tr>
+<tr>
+      <td>US15</td>
+      <td>Registrarse como usuario</td>
       <td>
         <strong>Como</strong> usuario nuevo, <strong>quiero</strong> crear una cuenta, <strong>para</strong> utilizar la aplicación.
       </td>
