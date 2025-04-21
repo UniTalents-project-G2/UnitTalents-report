@@ -447,18 +447,25 @@ análisis?</td>
     <td rowspan="2">Overview</td>
     <td> UniTalent Connect
 
-![logo UniTalent Connect](...)
+<p align="center">
+    <img src="images/LogoUniTalents-Connect.png">
+  </p>
 </td>
     <td>
-    Workana
+    Workana <p align="center">
+    <img src="images/workana-logo.png">
+  </p>
     
-![logo Workana]()</td>
+![]()</td>
     <td>
     Freelancer.com
 ![logo Freelancer.com](https://www.f-cdn.com/assets/main/en/assets/freelancer-logo-light.svg)</td>
     <td>
-  LinkedIn   
-![logo LinkedIn ]()</td>
+  LinkedIn 
+  <p align="center">
+    <img src="images/likedin-logo.png">
+  </p>  
+</td>
   </tr>
   <tr>
     <td>Plataforma web que conecta a estudiantes universitarios de ciclos avanzados con personas o pequeñas empresas que necesitan servicios puntuales (como diseño, redacción, programación, etc.). Promueve el trabajo freelance como una vía para adquirir experiencia real, flexible y útil para su desarrollo profesional.</td>
