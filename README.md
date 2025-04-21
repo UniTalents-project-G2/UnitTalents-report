@@ -759,8 +759,6 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 *Preguntas dirigidas al segmento 1*
 ---
-
-=======
   **Preguntas Directas:**
 
   1. ¿Podrías proporcionarnos tu nombre completo y tu edad?
@@ -824,7 +822,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 #### 2.2.2. Registro de entrevistas  <br><br>
 
-*Entrevistas a segmento1*
+*Entrevistas a segmento 1*
 ---
 
 <table align="center">
@@ -864,7 +862,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
 </table>
 
-*Entrevistas a segmento2*
+*Entrevistas a segmento 2*
 ---
 
 <table align="center">
@@ -1216,6 +1214,10 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
         - Rotar el logotipo.
         - Aplicar sombras, contornos o degradados.
         - Cambiar la tipografía original de la palabra UniTalents Connect.
+  
+  <p align="center">
+    <img src="images/LogoUniTalents-Connect.png"/ width=70%>
+  </p>
 
 - _Typography:_
     - La tipografía utilizada en el logotipo es una fuente sans-serif geométrica, amigable y legible. Para mantener coherencia, se adoptará un sistema tipográfico similar en toda la aplicación.
@@ -1239,17 +1241,17 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
         | Inter | <img src="images/inter-font.png" alt="inter-font" width=200px/> |        
               
 - _Colors:_
-    - La paleta de UniTalents Connect se basa en contrastes suaves y un color protagonista: azul marino profundo, que transmite confianza y estabilidad. Se acompaña de colores neutros y un acento cálido para llamados a la acción
+    - La paleta de UniTalents Connect se basa en contrastes suaves y un color protagonista: azul marino profundo, que transmite confianza y estabilidad. Se acompaña de colores neutros y un acento cálido para llamados a la acción<br><br>
     
     | Color | Hex | Uso Principal | 
     |:-----:|:---:|:-------------:|
-    |Azul Marino| #1C1F2B | Texto principal, logotipo, botones|
+    |Azul Marino| #1C1F2B | Texto principal, botones|
     |Beige Claro| #F5F0E6 | Fondo base|
     |Gris Suave| #B3B3B3 | Bordes, textos secundarios|
-    |Azul Claro| #3A71C1 | Enlaces, botones secundarios|
-    |Amarillo Arena| #FFD479| Llamado a la acción / iconos |
-    |Blanco| #FFFFFF|Fondos, tarjetas, formularios|
-
+    |Azul Claro| #3A71C1 | Enlaces, etiquetas, botones secundarios|
+    |Amarillo Arena| #FFD479| Llamado a la acción / botones |
+    |Blanco| #FFFFFF|Logotipo, tarjetas, formularios|
+<br>
 <p align="center">
     <img src="images/system-colors.png"/ width=70%>
 </p>
@@ -1355,19 +1357,21 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
   + Integrantes
 
-  + Login / Register
+  + Accceder
 
 + WebApp (Estudiantes):
 
   + Inicio
 
-  + Postulaciones
+  + Oportunidades
 
   + Portafolio
 
+  + Mis postulaciones
+
   + Perfil
 
-  + Salir
+  + Cerrar sesión
 
 + WebApp (Gerentes):
 
@@ -1375,13 +1379,13 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
   + Mis Proyectos
 
-  + Postulantes
+  + Talento
 
   + Evaluaciones
 
-  + Perfil
+  + Mi empresa
 
-  + Salir
+  + Cerrar sesión
 
   <br><br>
 
