@@ -141,7 +141,6 @@
 - [Video About-the-Team](#video-about-the-team)  
 - [Bibliografía](#bibliografía)  
 - [Anexos](#anexos)
-
 ---
 
 ## Student Outcome
@@ -377,6 +376,50 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 
 ### 1.3. Segmentos Objetivo  
+
+**Estudiantes Universitarios de Ciclos Avanzados**
+
+**Descripción:**
+
+Jóvenes entre 20 y 27 años que se encuentran cursando los últimos ciclos de sus estudios universitarios (a partir del 5to ciclo en adelante). Este grupo ha adquirido conocimientos técnicos o especializados en su carrera, pero tiene poca o nula experiencia profesional formal.
+
+**Características demográficas y comportamiento:**
+
+- Viven mayoritariamente en zonas urbanas, cerca de centros educativos o residencias estudiantiles.
+
+- Tienen acceso constante a internet y son usuarios activos de redes sociales y plataformas digitales.
+
+- Buscan formas de generar ingresos sin comprometer sus horarios de estudio.
+
+- Prioridad por obtener experiencia profesional para mejorar su empleabilidad post-egreso.
+
+**Sustento estadístico:**
+
+- Según la Secretaría Nacional de la Juventud (Senaju), en Perú, el 21.4% de los jóvenes de 15 a 29 años ha alcanzado estudios universitarios, y el 14.6% ha cursado educación superior no universitaria, lo que significa que existe una base considerable de jóvenes con formación académica que podrían estar interesados en adquirir experiencia laboral mediante proyectos freelance, especialmente si aún no han ingresado al mercado formal de trabajo. ​
+
+- El Instituto Nacional de Estadística e Informática (INEI) reporta que el 70.4% de los jóvenes de 15 a 29 años utiliza internet, siendo el teléfono móvil el medio más común de acceso, lo que significa que nuestro público objetivo cuenta con los recursos tecnológicos necesarios para acceder y utilizar una plataforma web de manera constante y eficiente..
+
+**Personas Naturales y Pequeñas Empresas que Requieren Servicios Puntuales**
+
+**Descripción:**
+
+Emprendedores, profesionales independientes y pequeñas empresas que no cuentan con grandes presupuestos ni el tiempo para contratar agencias o personal permanente, pero que sí necesitan servicios puntuales como diseño gráfico, programación, redacción, análisis de datos, soporte administrativo, entre otros.
+
+**Características demográficas y comportamiento:**
+
+- Edad promedio entre 25 y 50 años.
+
+- Interesados en soluciones ágiles, económicas y con resultados rápidos.
+
+- Valoran la flexibilidad, la comunicación directa y el pago por entregables.
+
+- Acuden a plataformas digitales o grupos en redes sociales para solicitar servicios por encargo.
+
+**Sustento estadístico:**
+
+- Las micro y pequeñas empresas (MYPE) representan el 99.6% de las unidades empresariales en Perú, según el INEI, lo que significa que existe un mercado amplio y diverso de pequeñas organizaciones que podrían beneficiarse de servicios freelance accesibles para resolver necesidades puntuales sin necesidad de contratar personal fijo o recurrir a agencias costosas. 
+
+- De acuerdo con ComexPerú, las MYPE dedicadas al sector servicios constituyen aproximadamente el 50% del total, pero presentan el mayor nivel de informalidad, con un 88.7% en 2021, lo que significa que muchas de estas empresas, al operar con recursos limitados y de manera no formalizada, buscan soluciones prácticas y económicas, como la contratación de freelancers, para cubrir tareas específicas sin incurrir en gastos estructurales adicionales.
 
 ---
 
@@ -696,7 +739,6 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 *Preguntas dirigidas al segmento 1*
 ---
-
   **Preguntas Directas:**
 
   1. ¿Podrías proporcionarnos tu nombre completo y tu edad?
@@ -760,11 +802,86 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 #### 2.2.2. Registro de entrevistas  <br><br>
 
-*Entrevistas a segmento1*
+*Entrevistas a segmento 1*
+---
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Estafano Solis</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Pueblo Libre</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      Estefano Solis es 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/entrevista-EstefanoSolis.png" alt="UPC logo" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alvaro Abanto</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      Alvaro Abanto es un estudiante de tercer año de la carrera de Ciencias de la Computación en la Universidad Peruana de Ciencias Aplicadas. Ultimamente ha estado buscando formas de ganar dinero mientras estudia. Inició su busqueda de practicas o pequeños trabajos en portales como LinkedIn o Computrabajo pero se desanimó al notar que gran parte de las convocatorias exigian experiencia previa, conocimientos avanzados o disponibilidad de tiempo completo, lo cual no es compatible con la vida de un estudiante. A pesar de ello, él esta dispuesto a realizar proyectos pequeños ya que se siente muy apasionado por su carrera, especificamente en el area de analisis de datos. Finalmente, nos comenta que si existiera una plataforma donde pueda ofrecer sus habilidades en programacion o análisis de datos a empresas o personas, lo haria sin dudarlo, ya que esto le permitiría generar experiencia en su rubro preferido, además de obtener un ingreso extra y quizas hacer contactos en el mundo profesional.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/entrevista-alvaroAbanto-segmento1.png" alt="UPC logo" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+*Entrevistas a segmento 2*
 ---
 
-*Entrevistas a segmento2*
----
 <table align="center">
   <tr>
     <th colspan="2" style="text-align:center">Entrevista 1</th>
@@ -808,19 +925,19 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 <table align="center">
   <tr>
-    <th colspan="2" style="text-align:center">Entrevista 1</th>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
   </tr>
   <tr>
-    <td><strong>Entrevistado</strong></td>
-    <td> </td>
+    <td><strong>Entrevistada</strong></td>
+    <td>Jackeline Garcia</td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td></td>
+    <td>39</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td> </td>
+    <td>San Miguel</td>
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
@@ -833,41 +950,749 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen:<br>
+      Jackeline Garcia es gerenta en Eureka: Soluciones Educativas, empresa dedicada a soluciones educativas que ofrece una variedad de materiales para la enseñanza. Su enfoque principal son padres, estudiantes y maestros en instituciones educativas privadas. Ella mencioná que El área de marketing de la empresa es fundamental para crear piezas gráficas y comunicados, especialmente durante eventos importantes como la Semana Santa. Sin embargo, a veces requieren apoyo externo debido a la carga de trabajo y la disponibilidad de personal. También destacó en base a su experiencia laboral, que la confianza es un valor fundamental al elegir colaboradores en proyectos, no solo en marketing, sino en cualquier tipo de trabajo. La experiencia también es importante, pero no es un criterio absoluto, también valoró que la incorporación de catálogos virtuales en las empresas facilita la selección de candidatos adecuados, optimizando el tiempo en procesos de contratación. Esto permite una mejor adaptación a las necesidades del mercado laboral actual.
     </td>
   </tr>
-  <tr>
-    ..
+   <tr>
+    <td colspan="2"><br>
+      <img src="images/EntrevistaGerente-Andres.png" alt="UPC logo" width="1000"><br>
+    </td>
   </tr>
 </table>
 
-s
 #### 2.2.3. Análisis de entrevistas  
 
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas  
 
+En esta sección se elaborarán las User Personas, las cuales se construirán a partir de la información recolectada en las entrevistas realizadas a nuestros usuarios potenciales. Tomaremos en cuenta factores clave como edad, ocupación, temores y objetivos de los entrevistados, con el fin de comprender a fondo sus necesidades, comportamientos y expectativas. Además, se analizarán las características y preferencias de los usuarios a través del estudio de nuestros competidores, lo que nos permitirá identificar oportunidades de mejora.
+
+- #### User Persona Estudiante Universitario
+
+![img userpersona1](https://i.postimg.cc/BQtZ2jKR/Jair-Quijada-2.png)
+
+- #### User Persona Gerente de empresa
+
+![img userpersona2](https://i.postimg.cc/YqVrRtN0/Alexander-Davila-1.png)
+
+
+
 #### 2.3.2. User Task Matrix  
+
+  En este apartado se realizará la User Task Matrix tomando en cuenta los dos segmentos definidos y relacionados a nuestras User Persona, estudiantes univeristarios deseosos de experiencia laboral y gerentes que buscan contratar talento joven para el desarrollo de proyectos.
+
+
+<table border ="1"><thead>
+  <tr>
+    <th></th>
+    <th colspan="2">Estudiante</th>
+    <th colspan="2">Gerente</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>TASK</td>
+    <td>FREQUENCY (Estudiante)</td>
+    <td>IMPORTANCE (Estudiante)</td>
+    <td>FREQUENCY (Gerente)</td>
+    <td>IMPORTANCE (Geremte)</td>
+  </tr>
+
+   <tr>
+    <td>Buscar proyectos disponibles</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Sometimes</td>
+    <td>Low</td>
+  </tr>
+
+
+  <tr>
+    <td>Postular a ofertas</td>
+    <td>Sometimes</td>
+    <td>High</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+  
+
+  <tr>
+    <td>Editar o actualizar su perfil profesional</td>
+    <td>Rarely</td>
+    <td>High</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+    <tr>
+    <td>Consultar el estado de sus postulaciones</td>
+    <td>Sometimes</td>
+    <td>High</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+   <tr>
+    <td>Asistir a entrevistas</td>
+    <td>Rarely</td>
+    <td>High</td>
+    <td>Sometimes</td>
+    <td>High</td>
+  </tr>
+   <tr>
+    <td>Asistir al daily scrum</td>
+    <td>Always</td>
+    <td>High</td>
+    <td>Rarely</td>
+    <td>Medium</td>
+  </tr>
+
+  
+  
+ <tr>
+    <td>
+    Registrar requerimientos de proyecto</td>
+    <td>Never</td>
+    <td>Low</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+  
+   <tr>
+    <td>Publicar convocatorias de proyecto</td>
+    <td>Never</td>
+    <td>Low</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+  
+   <tr>
+    <td>Chatear con miembros del equipo</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+
+
+   <tr>
+    <td>Ver postulaciones recibidas</td>
+    <td>Never</td>
+    <td>Low</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+    <tr>
+    <td>Validar postulantes</td>
+    <td>Never</td>
+    <td>Low</td>
+    <td>Rarely</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Aprobar entregables</td>
+    <td>Never</td>
+    <td>Low</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Planificacion del sprint</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+
+
+
+
+
+
+
+</tbody>
+</table>
+
+<br>
+<br>
+
+Tomando en cuenta este recuadro podemos apreciar ciertos detalles sobre las actividades de nuestros User Personas:
+
+- Tanto gerente como estudiante al ser parte de un equipo deben participar en reuniones SCRUM (sprint plannting, daily scrum, etc.), las cuales son importantes para ambas personas. 
+
+- Mientras que los estudiantes enfocan su tiempo en actualizar sus perfiles laborales y buscar nuevas oportunidades de empleo, los gerentes suelen emplear su tiempo en otras actividad ya que cuentan con experiencia y un empleo fijo.
+
+- Los gerentes suelen realizar actividades de management como la convocatoria de proyectos o aprobación de entregables, mientras que los estudiantes no son parte de este proceso.
+
 
 #### 2.3.3. User Journey Mapping  
 
+
+  Esta sección incluye los User Journey Map relacionado a nuestras dos User Persona previamente elaboradas, estos Journey Map consistirán en las experiencias que nuestros usuarios viven antes de conocer nuestra solución.
+
+
+- #### User Journey Map Jair Quijada:
+
+Este Journey Map describe el proceso de busqueda y postulacion de un trabajo de Jair Quijada, un estudiante universitario que busca su primera experiencia laboral.
+
+![userjourneymap1](https://i.postimg.cc/FK9Lxsqf/Customer-Journey-Map-Jair-Quijada.png)
+
+
+
+- #### User Journey Map Alexander Dávila:
+
+Este Journey Map describe el proceso de Alexander Dávila en su busqueda de postulantes desde la identificacion de la necesidad de apoyo externo hasta el abandono de la plataforma por malas experiencias con los postulantes.
+
+
+
+![userjourneymap2](https://i.postimg.cc/fTS47yHB/User-journey-map-2.png)
+
+
+
 #### 2.3.4. Empathy Mapping  
+
+<p align="center">
+  <img src="images/Empathy Map Jair.png" alt="EmpathyMap" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="images/Empathy Map Alexander.png" alt="EmpathyMap2" width="1000">
+</p>
 
 #### 2.3.5. As-is Scenario Mapping  
 
+<p align="center">
+  <img src="images/Scenario1.png" alt="As-Is Scenario1" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/Scenario2.png" alt="As-Is Scenario2" width="1000">
+</p>
+
 ### 2.4. Ubiquitous Language  
+
+El lenguaje a utilizar para este proyecto es:
+
+
+<p align="center">
+  <img src="images/Language.png" alt="UbiquitousLanguage1" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="images/Language2.png" alt="UbiquitousLanguage2" width="1000">
+</p>
+
+
 
 ---
 
 ## Capítulo III: Requirements Specification
 
-### 3.1. To-Be Scenario Mapping 
+### 3.1. To-Be Scenario Mapping<br><br> 
 
-### 3.2. User Stories  
+<p align="center">
+  <img src="images/estudiante_to_be.png" alt="estudiante to be" width="80%">
+</p>
 
-### 3.3. Impact Mapping 
+<br>
 
-### 3.4. Product Backlog  
+<p align="center">
+  <img src="images/gerente_to_be.png" alt="gerente to be" width="80%">
+</p>
+
+<br>
+
+### 3.2. User Stories<br><br>
+
+<table border ="1" >
+  <tbody>
+    <tr>
+      <td>Epic / Story ID</td>
+      <td>Título</td>
+      <td>Descripción</td>
+      <td>Criterios de Aceptación</td>
+      <td>Relación con Epic</td>
+    </tr>
+    <tr>
+      <td>EP01</td>
+      <td>Registro y Onboarding de Usuarios</td>
+      <td>
+        <strong>Como</strong> nuevo usuario de la plataforma, <strong>quiero</strong> registrarme y completar un perfil profesional guiado, <strong>para</strong> poder acceder a oportunidades o gestionar talento según mi rol.
+      </td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP02</td>
+      <td>Gestión de Oportunidades y Proyectos</td>
+      <td>
+        <strong>Como</strong> gerente de una empresa, <strong>quiero</strong> publicar proyectos con requisitos personalizados, <strong>para</strong> atraer a estudiantes con el perfil adecuado y resolver tareas específicas de mi organización.
+      </td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP03</td>
+      <td>Exploración y Postulación a Proyectos</td>
+      <td>
+        <strong>Como</strong> estudiante universitario, <strong>quiero</strong> explorar y postularme a proyectos compatibles con mis habilidades e intereses, <strong>para</strong> ganar experiencia práctica y construir un portafolio sólido.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP04</td>
+      <td>Evaluación y Retroalimentación</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> evaluar el desempeño de los estudiantes durante y al finalizar el proyecto, <strong>para</strong> asegurar la calidad del trabajo y fomentar una cultura de mejora continua.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP05</td>
+      <td>Creación y Visualización de Portafolio</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> subir proyectos y evidencias de mis habilidades en un portafolio digital, <strong>para</strong> mostrar mi experiencia a futuras oportunidades laborales.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP06</td>
+      <td>Validación y Reputación del Talento</td>
+      <td>
+        <strong>Como</strong> usuario de la plataforma, <strong>quiero</strong> consultar la reputación de otros usuarios (estudiantes o gerentes), <strong>para</strong> tomar decisiones informadas al aceptar postulaciones o colaborar en proyectos.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP07</td>
+      <td>Búsqueda y Filtros Inteligentes</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> buscar proyectos o talentos aplicando filtros específicos como carrera, habilidades o disponibilidad, <strong>para</strong> encontrar rápidamente las opciones que mejor se adaptan a mis necesidades.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP08</td>
+      <td>Presentación Clara del Valor de la Plataforma</td>
+      <td>
+        <strong>Como</strong> visitante nuevo en la web, <strong>quiero</strong> entender fácilmente qué ofrece UniTalents Connect, <strong>para</strong> saber si se adapta a mis necesidades como estudiante o empresa.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP09</td>
+      <td>Validación Social y Casos de Éxito</td>
+      <td>
+        <strong>Como</strong> potencial usuario, <strong>quiero</strong> ver testimonios y casos de éxito reales, <strong>para</strong> confiar en la plataforma antes de registrarme.</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>US01</td>
+      <td>Comprender el propósito de la plataforma desde la página de inicio</td>
+      <td>
+        <strong>Como</strong> usuario nuevo, <strong>quiero</strong> entender rápidamente de qué trata UniTalents Connect, <strong>para</strong> decidir si me interesa registrarme como estudiante o gerente.</td>
+      <td>
+        <strong>Escenario 1: Primer contacto con la Landing Page</strong><br>
+        <strong>Dado</strong> que soy un usuario que visita la landing por primera vez, <strong>cuando</strong> accedo al sitio principal, <strong>entonces</strong> visualizo en los primeros 15 segundos un mensaje claro que explica qué es UniTalents Connect y cómo funciona.
+        <br><br>
+        <strong>Escenario 2: Perfilamiento por tipo de usuario</strong><br>
+        <strong>Dado</strong> que soy un visitante interesado en contratar talento, <strong>cuando</strong> hago scroll o clic en "¿Cómo funciona?", <strong>entonces</strong> puedo identificar fácilmente los beneficios dirigidos a empresas o gerentes sin confundirlos con los de estudiantes.
+      </td>
+      <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Registro inmediato desde la landing</td>
+      <td>
+        <strong>Como</strong> usuario nuevo, <strong>quiero</strong> acceder rápidamente al formulario de registro, <strong>para</strong> comenzar a usar la plataforma sin perder tiempo.</td>
+      <td>
+        <strong>Escenario 1: Acceso directo desde el encabezado</strong><br>
+        <strong>Dado</strong> que soy un usuario que visita la landing por primera vez, <strong>cuando</strong> hago clic en el botón "Empieza" ubicado en el encabezado, <strong>entonces</strong> soy redirigido al formulario de registro correspondiente (estudiante o gerente).
+      </td>
+      <td>Epic 01</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Ver testimonios de usuarios reales</td>
+      <td>
+        <strong>Como</strong> usuario interesado, <strong>quiero</strong> ver experiencias de otras personas en la plataforma, <strong>para</strong> sentir confianza antes de crear una cuenta.</td>
+      <td>
+        <strong>Escenario 1: Visualización básica de testimonios</strong><br>
+        <strong>Dado</strong> que llego a la sección de testimonios, <strong>cuando</strong> leo los testimonios, <strong>entonces</strong> puedo ver el nombre, rol (estudiante o gerente) y un mensaje real validado por el sistema.
+      </td>
+      <td>Epic 09</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Llamados a la acción claros en cada sección</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> encontrar botones de acción relevantes a lo largo de la landing, <strong>para</strong> tomar decisiones sin tener que regresar al inicio.
+      </td>
+      <td>
+        <strong>Escenario 1: CTA visibles al finalizar cada bloque</strong><br>
+        <strong>Dado</strong> que estoy navegando por secciones como “¿Cómo funciona?” o “Casos de éxito”, <strong>cuando</strong> llego al final de una sección, <strong>entonces</strong> encuentro un botón como “Regístrate ahora” o “Publica tu primer proyecto” de forma clara y destacada.
+      </td>
+      <td>Epic 01</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Subir proyecto a mi portafolio</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> subir mis proyectos académicos al portafolio, <strong>para</strong> mostrar evidencia de mis habilidades.
+      </td>
+      <td>
+        <strong>Escenario 1: Registro básico del proyecto</strong><br>
+        <strong>Dado</strong> que tengo una cuenta de estudiante activa, <strong>cuando</strong> accedo a la sección "Mi Portafolio" y selecciono "Agregar proyecto", <strong>entonces</strong> puedo registrar información como el nombre del proyecto, tecnologías utilizadas y una breve descripción.
+        <br><br>
+        <strong>Escenario 2: Subida de enlaces o archivos</strong><br>
+        <strong>Dado</strong> que deseo compartir más detalles, <strong>cuando</strong> incluyo un enlace externo o archivo complementario, <strong>entonces</strong> este queda vinculado al proyecto para ser visualizado por los gerentes.
+      </td>
+      <td>Epic 05</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Visualización del portafolio por gerentes</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> poder revisar el portafolio de un estudiante antes de seleccionarlo, <strong>para</strong> evaluar su experiencia previa.
+      </td>
+      <td>
+        <strong>Escenario 1: Acceso al portafolio desde la lista de postulantes</strong><br>
+        <strong>Dado</strong> que estoy revisando candidatos en un proyecto, <strong>cuando</strong> hago clic en el nombre de un postulante, <strong>entonces</strong> se abre su perfil donde puedo ver los proyectos de su portafolio organizados con nombre, descripción y tecnología.
+        <br><br>
+        <strong>Escenario 2: Exploración de detalles del proyecto</strong><br>
+        <strong>Dado</strong> que quiero revisar un proyecto específico, <strong>cuando</strong> hago clic en una tarjeta de portafolio, <strong>entonces</strong> se despliega una vista más detallada con enlaces, archivos o imágenes relacionados.
+      </td>
+      <td>Epic 05</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Ver estado de mis postulaciones</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> consultar el estado de mis postulaciones, <strong>para</strong> saber si fui considerado.
+      </td>
+      <td>
+        <strong>Escenario 1: Vista general del estado de cada postulación</strong><br>
+        <strong>Dado</strong> que he postulado a varios proyectos, <strong>cuando</strong> accedo a la sección "Mis Postulaciones", <strong>entonces</strong> puedo ver el nombre del proyecto, la empresa, y su estado: En revisión, Aceptado o Rechazado.
+        <br><br>
+        <strong>Escenario 2: Notificación de cambios en el estado</strong><br>
+        <strong>Dado</strong> que estoy esperando una respuesta, <strong>cuando</strong> el gerente cambia el estado de mi postulación, <strong>entonces</strong> recibo una notificación dentro de la plataforma y/o por correo electrónico.
+      </td>
+      <td>Epic 04</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Ver reputación de un estudiante</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> ver el historial de evaluación de un estudiante, <strong>para</strong> decidir si confiarle un nuevo proyecto.
+      </td>
+      <td>
+        <strong>Escenario 1: Acceso a evaluación desde el perfil del estudiante</strong><br>
+        <strong>Dado</strong> que estoy considerando un postulante, <strong>cuando</strong> entro a su perfil, <strong>entonces</strong> puedo visualizar su reputación con puntuaciones previas, feedback recibido y métricas como cumplimiento de plazos.
+        <br><br>
+        <strong>Escenario 2: Información clara y filtrada</strong><br>
+        <strong>Dado</strong> que quiero una lectura rápida, <strong>cuando</strong> reviso la reputación, <strong>entonces</strong> puedo ver una visualización resumida con promedio de evaluación, número de proyectos completados y etiquetas destacadas.
+      </td>
+      <td>Epic 06</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Recuperar contraseña</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder recuperar mi contraseña, <strong>para</strong> acceder a mi cuenta si la olvido..
+      </td>
+      <td>
+        <strong>Escenario 1: Solicitud de recuperación</strong><br>
+        <strong>Dado</strong> que olvidé mi contraseña, <strong>cuando</strong> selecciono la opción "¿Olvidaste tu contraseña?" en la pantalla de login, <strong>entonces</strong> puedo ingresar mi correo electrónico asociado a la cuenta.
+        <br><br>
+        <strong>Escenario 2: Enlace de recuperación enviado</strong><br>
+        <strong>Dado</strong> que ingreso un correo válido, <strong>cuando</strong> envío la solicitud, <strong>entonces</strong> recibo un correo con un enlace temporal para establecer una nueva contraseña.
+        <br><br>
+        <strong>Escenario 3: Contraseña restablecida correctamente</strong><br>
+        <strong>Dado</strong> que hago clic en el enlace recibido, <strong>cuando</strong> ingreso una nueva contraseña válida y la confirmo, <strong>entonces</strong> mi acceso se restablece y puedo ingresar normalmente a la plataforma.
+      </td>
+      <td>Epic 01</td>
+    </tr>
+<tr>
+      <td>US10</td>
+      <td>Modificación de perfil de usuario</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> modificar la información de mi perfil <strong>para</strong> mantener mis datos actualizados en la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1:   Usuario modifica nombre y descripción</strong><br>
+        <strong>Dado</strong> que el usuario ha iniciado sesión <strong>Y</strong> se encuentra en la sección de perfil<strong>cuando</strong>  edita su nombre o descripción  <strong>entonces</strong>  los cambios deben guardarse correctamente y mostrarse en el perfil.
+        <br><br>
+        <strong>Escenario 2:  Usuario cambia su foto de perfil</strong><br>
+        <strong>Dado</strong>  que el usuario accede a su perfil <strong>cuando</strong> sube una nueva imagen <strong>entonces</strong> la nueva foto debe reemplazar la anterior y visualizarse correctamente.
+        <br><br>
+      </td>
+      <td>Epic 01</td>
+    </tr>
+        <tr>
+      <td>US11</td>
+      <td>Calificación de estudiante freelance</td>
+      <td>
+        <strong>Como</strong> empresario, <strong>quiero</strong>  calificar a un estudiante luego de un proyecto <strong>para</strong> reflejar su desempeño en la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1: Empresario deja una calificación</strong><br>
+        <strong>Dado</strong> que el proyecto ha finalizado <strong>cuando</strong> el empresario accede al perfil del estudiante <strong>Y</strong> completa una calificación con comentario <strong>entonces</strong> esta debe guardarse y reflejarse públicamente.
+        <br><br>
+      </td>
+      <td>Epic 04</td>
+    </tr>
+        <tr>
+      <td>US12</td>
+      <td>Modificación del portafolio del estudiante</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> poder editar mi portafolio <strong>para</strong>  mostrar mis trabajos actualizados y habilidades recientes.
+      </td>
+      <td>
+        <strong>Escenario 1: Estudiante agrega un nuevo proyecto</strong><br>
+        <strong>Dado</strong> que está en la sección de portafolio <strong>cuando</strong> agrega título y descripción <strong>entonces</strong> el nuevo proyecto debe guardarse correctamente.
+        <br><br>
+        <strong>Escenario 2:  Estudiante edita proyecto existente</strong><br>
+        <strong>Dado</strong> que el proyecto ya existe en el portafolio <strong>cuando</strong> el estudiante actualiza su información <strong>entonces</strong> el sistema debe guardar y reflejar los cambios.
+        <br><br>
+        <strong>Escenario 3: Estudiante elimina un proyecto</strong><br>
+        <strong>Dado</strong> que el estudiante visualiza sus proyectos <strong>cuando</strong> selecciona eliminar <strong>entonces</strong> el proyecto debe desaparecer del portafolio.
+      </td>
+      <td>Epic 05</td>
+    </tr>
+        <tr>
+      <td>US13</td>
+      <td>Calificación del contratador</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> calificar al empresario luego del proyecto <strong>para</strong> compartir mi experiencia con futuros postulantes.
+      </td>
+      <td>
+        <strong>Escenario 1:  Estudiante deja una calificación al empresario</strong><br>
+        <strong>Dado</strong> que el proyecto ha concluido <strong>cuando</strong> el estudiante selecciona puntuación y comentario <strong>entonces</strong> el sistema debe guardar y mostrar la evaluación.
+        <br><br>
+      </td>
+      <td>Epic 04</td>
+    </tr>
+        <tr>
+      <td>US14</td>
+      <td> Búsqueda de postulante</td>
+      <td>
+        <strong>Como</strong>  empresario, <strong>quiero</strong> buscar postulantes usando filtros <strong>para</strong> encontrar al candidato ideal para mi proyecto.
+      </td>
+      <td>
+        <strong>Escenario 1: Búsqueda por carrera y habilidades</strong><br>
+        <strong>Dado</strong> que el empresario accede al buscador <strong>cuando</strong> selecciona carrera e ingresa habilidades clave <strong>entonces</strong> el sistema muestra resultados relacionados.
+        <br><br>
+      </td>
+      <td>Epic 07</td>
+    </tr>
+<tr>
+      <td>US15</td>
+      <td>Registrarse como usuario</td>
+      <td>
+        <strong>Como</strong> usuario nuevo, <strong>quiero</strong> crear una cuenta, <strong>para</strong> utilizar la aplicación.
+      </td>
+      <td>
+        <strong>Escenario 1: Estudiante crea una cuenta</strong><br>
+        <strong>Dado</strong> que el estudiante se encuentra en la pantalla de registro
+        <strong>Y</strong> selecciona la opción "Registrarse como estudiante". <strong>Cuando</strong> ingresa un nombre de usuario, un correo electronico y una contraseña válidos <strong>Y </strong> presiona el botón "Registrarse" <strong>
+        Entonces</strong> la cuenta debe crearse correctamente.
+        <br><br>
+        <strong>Escenario 2: Gerente crea una cuenta</strong><br>
+        <strong>Dado</strong> que el gerente se encuentra en la pantalla de registro
+        <strong>Y</strong> selecciona la opción "Registrarse como gerente". <strong>Cuando</strong> ingresa un nombre de usuario, un correo electronico y una contraseña válidos <strong>Y </strong> presiona el botón "Registrarse" <strong>
+        Entonces</strong> la cuenta debe crearse correctamente.
+        <br><br>
+      </td>
+      <td>Epic 01</td>
+    </tr>
+
+
+ <tr>
+      <td>US16</td>
+      <td>Iniciar sesión</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> iniciar sesión en la aplicación, <strong>para</strong> acceder a sus funcionalidades.
+      </td>
+      <td>
+        <strong>Escenario 1: Usuario inicia sesión</strong><br>
+        <strong>Dado</strong> que el usuario se encuentra en la pantalla de inicio de sesión
+        <strong>Cuando</strong> ingresa  un correo electronico y una contraseña válidos <strong>Y</strong> presiona el botón "Iniciar Sesión" <strong>
+        Entonces</strong> el usuario debe acceder correctamente a la aplicación.
+        <br><br>
+        <strong>Escenario 2: Fallo al iniciar sesión</strong><br>
+        <strong>Dado</strong> que el usuario se encuentra en la pantalla de inicio de sesión
+        <strong>Cuando</strong> ingresa  un correo electronico o una contraseña inválidos <strong>Y</strong> presiona el botón "Iniciar Sesión" <strong>
+        Entonces</strong> el sistema debe enviar un mensaje de error al usuario.
+        <br><br>
+      </td>
+      <td>Epic 01</td>
+    </tr>
+  <tr>
+      <td>US17</td>
+      <td>Crear Convocatoria</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> crear convocatorias en la aplicación, <strong>para</strong> recibir solicitudes de postulantes.
+      </td>
+      <td>
+        <strong>Escenario 1: Gerente crea convocatoria</strong><br>
+        <strong>Dado</strong> que el usuario se encuentra en el apartado de proyectos
+        <strong>Cuando</strong> hace click en "Nueva convocatoria" <strong>Y</strong> añade los datos requeridos (título, descripción, duración, sueldo, habilidades)
+        <strong>Y</strong> le da click al botón "Publicar convocatoria" 
+        <strong>Entonces</strong> la convocatoria será publicada en la aplicación.
+        <br><br>
+        <strong>Escenario 2: Gerente crea convocatoria con información incompleta</strong><br>
+        <strong>Dado</strong> que el usuario se encuentra en el apartado de proyectos
+        <strong>Cuando</strong> hace click en "Nueva convocatoria" <strong>Y</strong> solo añade algunos de los datos requeridos (título, descripción, duración, sueldo, habilidades) 
+        <strong>Y</strong> le da click al botón "Publicar convocatoria" 
+        <strong> Entonces</strong> el gerente recibirá un aviso de que su convocatoria no fue publicada.
+        <br><br>
+      </td>
+      <td>Epic 02</td>
+    </tr>
+ <tr>
+      <td>US18</td>
+      <td>Editar Convocatoria</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> editar convocatorias en la aplicación, <strong>para</strong>  corregir o actualizar la infromación cuando lo necesite.
+      </td>
+      <td>
+        <strong>Escenario 1: Gerente edita convocatoria</strong><br>
+        <strong>Dado</strong> que el gerente haya creado una convocatoria
+        <strong>Y</strong> se encuentre en el apartado de convocatorias  
+        <strong>Cuando</strong> hace click en el botón "Editar información" de una convocatoria <strong>Y</strong> modifica los datos requeridos (título, descripción, duración, sueldo, habilidades) <strong>
+        <strong>Y</strong> le da click al botón "Guardar cambios" 
+        Entonces</strong> los cambios deben de guardarse y mostrarse correctamente en la aplicación.
+        <br><br>
+      </td>
+      <td>Epic 02</td>
+    </tr>
+<tr>
+      <td>US19</td>
+      <td>Eliminar Convocatoria</td>
+      <td>
+        <strong>Como</strong> gerente, <strong>quiero</strong> eliminar una convocatoria publicada en la aplicación, <strong>para</strong> evitar recibir nuesvas postulaciones cuando el proyecto cierre.
+      </td>
+      <td>
+        <strong>Escenario 1: Gerente borra convocatoria</strong><br>
+        <strong>Dado</strong> que el gerente haya creado una convocatoria
+        <strong>Y</strong> se encuentre en el apartado de convocatorias  
+        <strong>Cuando</strong> hace click en el botón "Eliminar" de una convocatoria
+        <strong>Y</strong> da click en el botón "Sí" en el cuadro de confirmación. 
+        <strong>Entonces</strong> la convocatoria será eliminada de la aplicación.
+        <br><br>
+        <strong>Escenario 2: Gerente cancela la eliminación de convocatoria</strong><br>
+        <strong>Dado</strong> que el gerente haya creado una convocatoria
+        <strong>Y</strong> se encuentre en el apartado de convocatorias  
+        <strong>Cuando</strong> hace click en el botón "Eliminar" de una convocatoria
+        <strong>Y</strong> da click en el botón "No" en el cuadro de confirmación. 
+        <strong>Entonces</strong> la convocatoria se mantendrá disponible en la aplicación.
+      </td>
+      <td>Epic 02</td>
+    </tr>
+
+<tr>
+      <td>US20</td>
+      <td>Guardar filtros de búsqueda personalizados</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> guardar mis filtros de búsqueda más usados, <strong>para</strong> no tener que configurarlos cada vez.
+      </td>
+      <td>
+        <strong>Escenario 1: Guardar filtros</strong><br>
+        <strong>Dado</strong> que he aplicado filtros en la búsqueda de proyectos
+        <strong>Cuando</strong> Cuando presiono “Guardar filtro”
+        <strong>Entonces</strong> el sistema guarda esa combinación de criterios bajo un nombre personalizado.
+        <br><br>
+        <strong>Escenario 2: Aplicar filtro guardado</strong><br>
+        <strong>Dado</strong> que tengo filtros guardados
+        <strong>Cuando</strong> selecciono uno desde la lista de filtros guardados 
+        <strong>Entonces</strong> los criterios se aplican automáticamente a la búsqueda
+      </td>
+      <td>Epic 03</td>
+    </tr>
+
+<tr>
+      <td>US21</td>
+      <td>Cerrar sesión</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder cerrar sesión en cualquier momento, <strong>para</strong> asegurar la privacidad de mi cuenta.
+      </td>
+      <td>
+        <strong>Escenario 1: Usuario cierra sesión</strong><br>
+        <strong>Dado</strong> que estoy en cualquier parte de la aplicación
+        <strong>Cuando</strong> presiono el botón de “Cerrar sesión”
+        <strong>Entonces</strong> la sesión finaliza y soy redirigido a la pantalla de inicio.
+      </td>
+      <td>Epic 01</td>
+    </tr>
+
+<tr>
+      <td>US22</td>
+      <td>Marcar proyecto como favorito</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> marcar proyectos como favoritos, <strong>para</strong> revisarlos después con facilidad.
+      </td>
+      <td>
+        <strong>Escenario 1: Marcar proyecto</strong><br>
+        <strong>Dado</strong> que he iniciado sesión y veo un proyecto
+        <strong>Cuando</strong> hago clic en el ícono de estrella
+        <strong>Entonces</strong> el proyecto se guarda en mi lista de favoritos.
+        <br><br>
+        <strong>Escenario 2: Ver lista de favoritos</strong><br>
+        <strong>Dado</strong> que tengo proyectos guardados como favoritos
+        <strong>Cuando</strong> accedo a “Mis favoritos”
+        <strong>Entonces</strong> puedo ver todos los proyectos que he marcado
+      </td>
+      <td>Epic 03</td>
+    </tr>
+
+<tr>
+      <td>US24</td>
+      <td>Notificación de proyecto nuevo</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> recibir una notificación cuando se publique un proyecto compatible con mis habilidades, <strong>para</strong> no perder oportunidades.
+      </td>
+      <td>
+        <strong>Escenario 1: Nueva coincidencia</strong><br>
+        <strong>Dado</strong> que tengo habilidades seleccionadas en mi perfil
+        <strong>Cuando</strong> se publica un proyecto que coincide
+        <strong>Entonces</strong> recibo una notificación en la aplicación
+      </td>
+      <td>Epic 02</td>
+    </tr>
+
+<tr>
+      <td>US25</td>
+      <td>Eliminar cuenta</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> poder eliminar mi cuenta permanentemente, <strong>para</strong> asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.
+      </td>
+      <td>
+        <strong>Escenario 1: Nueva coincidencia</strong><br>
+        <strong>Dado</strong> que he iniciado sesión y accedo a la configuración de la cuenta
+        <strong>Cuando</strong> presiono “Eliminar cuenta” y confirmo la acción
+        <strong>Entonces</strong> mi cuenta es eliminada y los datos personales son removidos del sistema
+      </td>
+      <td>Epic 01</td>
+    </tr>
+
+  </tbody>
+</table>
+
+<br>
+
+### 3.3. Impact Mapping <br><br>
+
+<p align="center">
+  <img src="images/impact_mapping.png" alt="impact mapping" width="80%">
+</p>
+
+### 3.4. Product Backlog  <br><br>
+
+| Orden | User Story ID | Título | Descripción | User Stories |
+|:-----:|--------------|--------|-------------|--------------|
+|   1   |
+|   2   |
 
 ---
 
@@ -875,21 +1700,343 @@ s
 
 ### 4.1. Style Guidelines
 
+Esta sección establece un conjunto de directrices visuales y de interacción coherentes que funcionarán como fuente central de referencia para el equipo de diseño, desarrollo y comunicación de UniTalents Connect.
+El objetivo es garantizar una presentación unificada, profesional y alineada con la esencia de la marca: conectar a turistas con experiencias auténticas, de manera simple y confiable.
+
 #### 4.1.1. General Style Guidelines 
+
+- _Branding:_    
+    - La identidad visual de UniTalents Connect es moderna, cercana y confiable. El logotipo incorpora dos figuras humanas estilizadas unidas en un gesto de conexión, lo que simboliza el espíritu colaborativo y humano de la plataforma.
+    - Uso del logotipo: El logotipo debe usarse preferentemente sobre fondos claros (beige, blanco o pastel neutro). En fondos oscuros, se permite una versión monocromática blanca o en azul marino (#1C1F2B).
+    - No se permite:
+        - Rotar el logotipo.
+        - Aplicar sombras, contornos o degradados.
+        - Cambiar la tipografía original de la palabra UniTalents Connect.
+  
+  <p align="center">
+    <img src="images/LogoUniTalents-Connect.png"/ width=70%>
+  </p>
+
+- _Typography:_
+    - La tipografía utilizada en el logotipo es una fuente sans-serif geométrica, amigable y legible. Para mantener coherencia, se adoptará un sistema tipográfico similar en toda la aplicación.
+
+    - Fuente primaria: Nunito Sans
+        - Uso: Títulos, botones, navegación.
+        - Estilos permitidos: Regular, SemiBold, Bold.
+
+    - Fuente secundaria: Inter
+        - Uso: Cuerpos de texto largos, formularios.
+
+    - Tamaños recomendados:
+        - Título principal (H1): 32px / 700
+        - Subtítulo (H2): 24px / 600
+        - Texto normal: 16px / 400
+        - Nota o ayuda: 12px / 400
+    
+        | Nombre de fuente | Tipografia |
+        |:----------------:|:----------:|
+        | Nunito Sans | <img src="images/nunito-sans-font.png" alt="nunito-sans-font" width=200px/> |
+        | Inter | <img src="images/inter-font.png" alt="inter-font" width=200px/> |        
+              
+- _Colors:_
+    - La paleta de UniTalents Connect se basa en contrastes suaves y un color protagonista: azul marino profundo, que transmite confianza y estabilidad. Se acompaña de colores neutros y un acento cálido para llamados a la acción<br><br>
+    
+    | Color | Hex | Uso Principal | 
+    |:-----:|:---:|:-------------:|
+    |Azul Marino| #1C1F2B | Texto principal, botones|
+    |Beige Claro| #F5F0E6 | Fondo base|
+    |Gris Suave| #B3B3B3 | Bordes, textos secundarios|
+    |Azul Claro| #3A71C1 | Enlaces, etiquetas, botones secundarios|
+    |Amarillo Arena| #FFD479| Llamado a la acción / botones |
+    |Blanco| #FFFFFF|Logotipo, tarjetas, formularios|
+<br>
+<p align="center">
+    <img src="images/system-colors.png"/ width=70%>
+</p>
+
+- _Spacing:_
+    - La coherencia en el espaciado es clave para una interfaz limpia y clara.
+        - Espaciado entre secciones principales: 32px
+        - Margen interno de botones y campos: 12px vertical / 20px horizontal
+        - Separación entre elementos repetitivos (cards, ítems): 16px
+        - Padding general de contenedores: 24px
+
+- _Tono de comunicación y lenguaje:_
+    - El tono de UniTalents Connect es cercano, entusiasta y profesional.
+    
+    | Estilo de redacción | Tono predominante |
+    |---------------------|-------------------|
+    | 1. Amigable y claro <br> 2. Sin tecnicismos innecesarios <br> 3. Verbos en voz activa <br> 4. Enfocado en beneficios (“Descubre experiencias únicas”, “Reserva en segundos”)| 1. Formal-casual: Respetuoso, pero no rígido. <br> 2. Entusiasta: Inspirador, motivador, acogedor. <br> 3. Directo: Frases cortas y llamadas a la acción claras. |
 
 #### 4.1.2. Web Style Guidelines  
 
+- _Responsive Design Standards:_  
+    UniTalents Connect está diseñado como una aplicación web mobile-first, adaptándose fluidamente a diferentes dispositivos:
+
+    - **Mobile (360px - 768px):**  
+        - Navegación tipo hamburguesa.  
+        - Cards apiladas en columna.  
+        - Botones grandes y legibles.  
+
+    - **Tablet (769px - 1024px):**  
+        - Layout en 2 columnas.  
+        - Menú lateral colapsable.  
+
+    - **Desktop (1025px en adelante):**  
+        - Menú principal visible.  
+        - Layout de 3 columnas donde sea posible.  
+
+    Todos los componentes deben utilizar **flexbox/grid** con puntos de quiebre en 768px y 1024px.
+
+- _Interactivity:_  
+    - **Botones:**  
+        - Bordes redondeados (border-radius: 12px).  
+        - Hover: cambio de fondo o sombra suave (box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1)).  
+        - Feedback claro al clic (cambio de color, animación sutil).  
+
+    - **Transiciones y animaciones:**  
+        - Duración: 200–300ms.  
+        - Usar ease-in-out.  
+        - Aplicables en sliders, modales, tooltips y feedback de formularios.
+
+- _Accessibility:_  
+    - Contrastes de texto cumplen con **WCAG AA** como mínimo.  
+    - Todo ícono debe tener alternativa textual (aria-label o alt).  
+    - Navegación compatible con teclado (Tab, Enter, Esc).  
+    - Uso de role, aria-expanded, aria-hidden en componentes dinámicos.  
+    - Fuente mínima: 16px.
+
+- _UI Consistency:_  
+    - Uso de un sistema de componentes reutilizables: botones, tarjetas, inputs, modales.  
+    - Evitar cambios de estilo arbitrarios entre páginas.  
+    - Todos los formularios deben compartir un estilo común:  
+        - Etiqueta arriba, campo debajo, mensaje de error abajo.  
+        - Validaciones claras y mensajes amigables.
+
 ### 4.2. Information Architecture
 
-#### 4.2.1. Organization Systems 
+La arquitectura de información de UniTalents Connect define cómo se organizará, etiquetará, navegará y buscará el contenido dentro de la plataforma. Su objetivo es permitir que estudiantes y gerentes interactúen de forma fluida con la plataforma, accedan sin dificultad a los recursos clave, y cumplan sus objetivos con el mínimo esfuerzo cognitivo.
 
-#### 4.2.2. Labeling Systems  
+#### 4.2.1. Organization Systems <br><br>
 
-#### 4.2.3. SEO Tags and Meta Tags  
+UniTalents Connect utilizará una combinación de organización jerárquica, secuencial y matricial, aplicada de forma estratégica tanto en la Landing Page como en las secciones funcionales de la aplicación web. Además, se aplicarán diferentes esquemas de categorización.
 
-#### 4.2.4. Searching Systems  
++ Jerarquía visual:
 
-#### 4.2.5. Navigation Systems  
+La jerarquía visual en UniTalents Connect se aplicará estratégicamente en distintas vistas clave de la plataforma. En la Landing Page, el contenido estará organizado en secciones descendentes que priorizan el título, los beneficios principales y llamados a la acción como “Comienza tu camino profesional” o “Publica tu proyecto ahora”, siguiendo una lógica de atracción y conversión. En el dashboard del estudiante, se destacarán visualmente las oportunidades recomendadas, el estado de las postulaciones y los próximos pasos mediante tarjetas y elementos gráficos resaltados. Por su parte, el dashboard del gerente priorizará la visualización de los proyectos activos, los estudiantes pendientes de validación y las alertas relacionadas con entregas o cierres próximos, facilitando una gestión eficiente desde el primer acceso.<br><br>
+
++ Organización secuencial:
+
+La organización secuencial en UniTalents Connect se aplicará en procesos clave que requieren acompañamiento paso a paso, facilitando la experiencia incluso para usuarios sin experiencia previa. En el onboarding del estudiante, el flujo estará compuesto por etapas guiadas que incluyen el registro, la carga del perfil, publicación del portafolio de habilidades y la vinculación a oportunidades compatibles. Para los gerentes, la publicación de proyectos se estructurará como un formulario inteligente que avanza progresivamente desde los datos básicos del proyecto hasta los requisitos específicos y filtros de búsqueda del candidato ideal. Asimismo, el proceso de postulación estará compuesto por pasos ordenados que abarcan la elección del proyecto, la revisión de los detalles, la confirmación y el envío de la postulación, asegurando una navegación clara, sin fricciones.<br><br>
+
++ Organización matricial:
+
+La organización matricial en UniTalents Connect estará orientada a facilitar la exploración libre de contenidos mediante el uso de cuadrículas y tarjetas visuales. En el caso de los estudiantes, se aplicará en el explorador de proyectos, donde las oportunidades aparecerán organizadas en una grilla que podrá filtrarse dinámicamente según criterios relevantes. Para los gerentes, la vista de postulantes mostrará tarjetas con información clave como nombre, carrera, portafolio, puntuación y habilidades destacadas, permitiendo una comparación ágil entre candidatos.<br><br>
+
++ Esquemas de categorización:
+
+  + **Por audiencia:** el contenido se adapta a si el usuario es estudiante o gerente, con rutas y menús diferenciados.
+
+  + **Alfabético:** para búsquedas de universidades, empresas y habilidades.
+
+  + **Cronológico:** en el historial de entregas, postulaciones, comentarios y validaciones.<br><br>
+
+#### 4.2.2. Labeling Systems  <br><br>
+
+El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y consistente entre interfaces. Se emplearán términos cortos y directos (máximo 2 palabras), que permitan a usuarios de distintos niveles de experiencia entender rápidamente el propósito de cada sección o acción.
+
++ Landing Page:
+
+  + Inicio
+
+  + ¿Cómo funciona?
+
+  + Casos de éxito
+
+  + Integrantes
+
+  + Accceder
+
++ WebApp (Estudiantes):
+
+  + Inicio
+
+  + Oportunidades
+
+  + Portafolio
+
+  + Mis postulaciones
+
+  + Perfil
+
+  + Cerrar sesión
+
++ WebApp (Gerentes):
+
+  + Inicio
+
+  + Mis Proyectos
+
+  + Talento
+
+  + Evaluaciones
+
+  + Mi empresa
+
+  + Cerrar sesión
+
+  <br><br>
+
+  <table align="center">
+  <tr>
+    <td><strong>Tipo etiqueta</strong></td>
+    <td><strong>Ejemplo</strong></td>
+    <td><strong>Aparición</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Encabezado</strong></td>
+    <td>"Mis postulaciones"</td>
+    <td>En la parte superior del dashboard del estudiante</td>
+  </tr>
+  <tr>
+    <td><strong>Panel</strong></td>
+    <td>"Portafolio"</td>
+    <td>Dentro de una tarjeta destacada del dashboard</td>
+  </tr>
+  <tr>
+    <td><strong>Botón</strong></td>
+    <td>"Publicar proyecto”</td>
+    <td>Acción principal para los gerentes en el módulo de creación de oportunidades</td>
+  </tr>
+  <tr>
+    <td><strong>Navegación</strong></td>
+    <td>“Inicio” – “Portafolio” – “Evaluaciones”</td>
+    <td>En la barra lateral o menú superior según el dispositivo</td>
+  </tr>
+  <tr>
+    <td><strong>Estado</strong></td>
+    <td>““En revisión” – “Aceptado” – “Entregado””</td>
+    <td>En la tarjeta de estado de cada proyecto o postulación</td>
+  </tr>
+</table><br><br>
+
+#### 4.2.3. SEO Tags and Meta Tags  <br><br>
+
+Las meta etiquetas permitirán estructurar adecuadamente la información que los buscadores necesitan para indexar y posicionar el contenido del sitio. Serán definidas de forma diferenciada para la Landing Page y la Aplicación Web.
+
++ Landing Page:
+
+  + Título<br><br>
+
+  ```html
+  <title>UniTalents Connect – Conecta con talento universitario</title>
+  ```
+
+  + Codificación de caracteres<br><br>
+
+  ```html
+  <meta charset="utf-8">
+  ```
+
+  + Meta Description<br><br>
+
+  ```html
+  <meta name="description" content="Plataforma que conecta a estudiantes universitarios con oportunidades de desarrollo profesional mediante proyectos por encargo validados por empresas reales."/>
+  ```
+
+  + Keywords<br><br>
+
+  ```html
+  <meta name="keywords" content="prácticas preprofesionales, oportunidades laborales, estudiantes, portafolio digital, talento joven"/>
+  ```
+
+  + Autor y Derechos de Autor<br><br>
+
+  ```html
+  <meta name="author" content="UniTalents Connect Team"/>
+  <meta name="copyright" content="© 2025 UniTalents Connect. Todos los derechos reservados." />
+  ```
+
+<br>
+
++ Web Application:
+
+  + Título<br><br>
+
+  ```html
+  <title>UniTalents Connect – Talento y Proyectos</title>
+  ```
+
+  + Codificación de caracteres<br><br>
+
+  ```html
+  <meta charset="utf-8">
+  ```
+
+  + Meta Description<br><br>
+
+  ```html
+  <meta name="description" content="Gestiona tu perfil profesional, postula a proyectos validados, construye un portafolio digital y recibe feedback de empresas reales."/>
+  ```
+
+  + Keywords<br><br>
+
+  ```html
+  <meta name="keywords" content="estudiantes universitarios, oportunidades laborales, estudiantes, portafolio digital, talento joven, networking académico"/>
+  ```
+
+  + Autor y Derechos de Autor<br><br>
+
+  ```html
+  <meta name="author" content="UniTalents Connect Team"/>
+  <meta name="copyright" content="© 2025 UniTalents Connect. Todos los derechos reservados." />
+  ```
+
+  <br>
+
+#### 4.2.4. Searching Systems <br><br>
+
+Dado que la plataforma gestionará gran cantidad de datos (postulaciones, estudiantes, habilidades, proyectos, empresas), se implementará un sistema de búsqueda flexible y filtrado inteligente.
+
++ Opciones de búsqueda:
+
+  + Buscar proyectos disponibles
+
+  + Buscar por empresa
+
+  + Buscar estudiantes por universidad
+
+  + Buscar estudiantes por carrera
+
++ Filtros:
+
+  + Modalidad (remoto/presencial)
+
+  + Habilidades requeridad
+
+  + Duración del proyecto
+
+  + Carrera
+
+  + Universidad
+
+  + Empresa
+
++ Visualización de Datos
+
+  ...(imagenes)
+
+#### 4.2.5. Navigation Systems<br><br>
+
+La navegación en UniTalents Connect está diseñada para ofrecer una experiencia continua, limpia y responsive. Se evitarán interfaces recargadas, permitiendo una interacción clara tanto en escritorio como en dispositivos móviles.
+
++ Landing Page:
+
+  En la Landing Page de UniTalents Connect se implementará un diseño de tipo one-page scroll, donde el contenido se presenta de manera continua en una sola página, permitiendo al usuario desplazarse verticalmente a través de las distintas secciones. Para facilitar la navegación, se incluirá un encabezado fijo que funcionará como menú principal, desde el cual se podrá acceder rápidamente a secciones ancladas como “¿Cómo funciona?”, “Planes”, “Casos de éxito”, “FAQs” y “Registro”. Además, en cada sección se destacarán botones de acción visibles y llamativos como “Empieza hoy” o “Publica tu primer proyecto”, con el fin de guiar al usuario hacia los principales objetivos de conversión.
+
++ Web App:
+
+  En la aplicación web de UniTalents Connect se implementará una navegación híbrida que combina flujos guiados y navegación libre según el contexto de uso. Para los procesos clave como el registro y perfilamiento del usuario, la postulación a una oportunidad y la publicación de un nuevo proyecto, se utilizará una navegación secuencial que acompañará paso a paso al usuario hasta completar cada tarea con éxito. Paralelamente, se ofrecerá una navegación libre a través de un menú lateral en la versión de escritorio y un menú inferior en dispositivos móviles, desde donde se podrá acceder rápidamente a los módulos principales como oportunidades, portafolio, feedback, evaluaciones, perfil y más, permitiendo una experiencia fluida, intuitiva y adaptable a distintos estilos de interacción.
 
 ### 4.3. Landing Page UI Design
 
@@ -982,6 +2129,19 @@ s
 ---
 
 ## Bibliografía  
+
+- Instituto Nacional de Estadística e Informática (INEI). (2023). Más de 8 millones de jóvenes viven en el Perú. Recuperado de https://m.inei.gob.pe/prensa/noticias/mas-de-8-millones-de-jovenes-viven-en-el-peru-9325/​
+
+
+- Secretaría Nacional de la Juventud (Senaju). (2023). Día Mundial de la Educación: Más del 90% de jóvenes de 15 a 29 años accede a la educación secundaria y menos del 40% transita a la educación superior. Recuperado de https://juventud.gob.pe/2023/03/dia-mundial-de-la-educacion-mas-del-90-de-jovenes-de-15-a-29-anos-accede-a-la-educacion-secundaria-y-menos-del-40-transita-a-la-educacion-superior/​
+
+
+- Instituto Nacional de Estadística e Informática (INEI). (2013). Micro, Pequeñas y Medianas empresas concentran más del 20% de las ventas. Recuperado de https://m.inei.gob.pe/prensa/noticias/micro-pequenas-y-medianas-empresas-concentran-mas-/​
+
+
+- ComexPerú. (2022). MYPES dedicadas a servicios representan el 50% del total, pero son las que tienen el menor índice de capacidad formal. Recuperado de https://www.comexperu.org.pe/articulo/mypes-dedicadas-a-servicios-representan-el-50-del-total-pero-son-las-que-tienen-el-menor-indice-de-capacidad-formal​
+Comexperu
+
 
 ---
 
