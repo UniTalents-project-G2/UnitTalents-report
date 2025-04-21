@@ -1564,7 +1564,90 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 02</td>
     </tr>
 
+<tr>
+      <td>US20</td>
+      <td>Guardar filtros de búsqueda personalizados</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> guardar mis filtros de búsqueda más usados, <strong>para</strong> no tener que configurarlos cada vez.
+      </td>
+      <td>
+        <strong>Escenario 1: Guardar filtros</strong><br>
+        <strong>Dado</strong> que he aplicado filtros en la búsqueda de proyectos
+        <strong>Cuando</strong> Cuando presiono “Guardar filtro”
+        <strong>Entonces</strong> el sistema guarda esa combinación de criterios bajo un nombre personalizado.
+        <br><br>
+        <strong>Escenario 2: Aplicar filtro guardado</strong><br>
+        <strong>Dado</strong> que tengo filtros guardados
+        <strong>Cuando</strong> selecciono uno desde la lista de filtros guardados 
+        <strong>Entonces</strong> los criterios se aplican automáticamente a la búsqueda
+      </td>
+      <td>Epic 03</td>
+    </tr>
 
+<tr>
+      <td>US21</td>
+      <td>Cerrar sesión</td>
+      <td>
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder cerrar sesión en cualquier momento, <strong>para</strong> asegurar la privacidad de mi cuenta.
+      </td>
+      <td>
+        <strong>Escenario 1: Usuario cierra sesión</strong><br>
+        <strong>Dado</strong> que estoy en cualquier parte de la aplicación
+        <strong>Cuando</strong> presiono el botón de “Cerrar sesión”
+        <strong>Entonces</strong> la sesión finaliza y soy redirigido a la pantalla de inicio.
+      </td>
+      <td>Epic 01</td>
+    </tr>
+
+<tr>
+      <td>US22</td>
+      <td>Marcar proyecto como favorito</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> marcar proyectos como favoritos, <strong>para</strong> revisarlos después con facilidad.
+      </td>
+      <td>
+        <strong>Escenario 1: Marcar proyecto</strong><br>
+        <strong>Dado</strong> que he iniciado sesión y veo un proyecto
+        <strong>Cuando</strong> hago clic en el ícono de estrella
+        <strong>Entonces</strong> el proyecto se guarda en mi lista de favoritos.
+        <br><br>
+        <strong>Escenario 2: Ver lista de favoritos</strong><br>
+        <strong>Dado</strong> que tengo proyectos guardados como favoritos
+        <strong>Cuando</strong> accedo a “Mis favoritos”
+        <strong>Entonces</strong> puedo ver todos los proyectos que he marcado
+      </td>
+      <td>Epic 03</td>
+    </tr>
+
+<tr>
+      <td>US24</td>
+      <td>Notificación de proyecto nuevo</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> recibir una notificación cuando se publique un proyecto compatible con mis habilidades, <strong>para</strong> no perder oportunidades.
+      </td>
+      <td>
+        <strong>Escenario 1: Nueva coincidencia</strong><br>
+        <strong>Dado</strong> que tengo habilidades seleccionadas en mi perfil
+        <strong>Cuando</strong> se publica un proyecto que coincide
+        <strong>Entonces</strong> recibo una notificación en la aplicación
+      </td>
+      <td>Epic 02</td>
+    </tr>
+
+<tr>
+      <td>US25</td>
+      <td>Eliminar cuenta</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> poder eliminar mi cuenta permanentemente, <strong>para</strong> asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.
+      </td>
+      <td>
+        <strong>Escenario 1: Nueva coincidencia</strong><br>
+        <strong>Dado</strong> que he iniciado sesión y accedo a la configuración de la cuenta
+        <strong>Cuando</strong> presiono “Eliminar cuenta” y confirmo la acción
+        <strong>Entonces</strong> mi cuenta es eliminada y los datos personales son removidos del sistema
+      </td>
+      <td>Epic 01</td>
+    </tr>
 
   </tbody>
 </table>
