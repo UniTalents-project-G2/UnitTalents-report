@@ -1230,14 +1230,6 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
     <tr>
       <td>EP07</td>
-      <td>Comunicación y Gestión Colaborativa</td>
-      <td>
-        <strong>Como</strong> participante de un proyecto, <strong>quiero</strong> poder comunicarme dentro de la plataforma con la contraparte, <strong>para</strong> coordinar entregas, resolver dudas y dar seguimiento al avance del trabajo.</td>
-      <td>No corresponde</td>
-      <td>No corresponde</td>
-    </tr>
-    <tr>
-      <td>EP08</td>
       <td>Búsqueda y Filtros Inteligentes</td>
       <td>
         <strong>Como</strong> usuario, <strong>quiero</strong> buscar proyectos o talentos aplicando filtros específicos como carrera, habilidades o disponibilidad, <strong>para</strong> encontrar rápidamente las opciones que mejor se adaptan a mis necesidades.</td>
@@ -1245,7 +1237,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>No corresponde</td>
     </tr>
     <tr>
-      <td>EP09</td>
+      <td>EP08</td>
       <td>Presentación Clara del Valor de la Plataforma</td>
       <td>
         <strong>Como</strong> visitante nuevo en la web, <strong>quiero</strong> entender fácilmente qué ofrece UniTalents Connect, <strong>para</strong> saber si se adapta a mis necesidades como estudiante o empresa.</td>
@@ -1253,7 +1245,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>No corresponde</td>
     </tr>
     <tr>
-      <td>EP10</td>
+      <td>EP09</td>
       <td>Validación Social y Casos de Éxito</td>
       <td>
         <strong>Como</strong> potencial usuario, <strong>quiero</strong> ver testimonios y casos de éxito reales, <strong>para</strong> confiar en la plataforma antes de registrarme.</td>
@@ -1272,7 +1264,7 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Escenario 2: Perfilamiento por tipo de usuario</strong><br>
         <strong>Dado</strong> que soy un visitante interesado en contratar talento, <strong>cuando</strong> hago scroll o clic en "¿Cómo funciona?", <strong>entonces</strong> puedo identificar fácilmente los beneficios dirigidos a empresas o gerentes sin confundirlos con los de estudiantes.
       </td>
-      <td>Epic 09</td>
+      <td>Epic 08</td>
     </tr>
     <tr>
       <td>US02</td>
@@ -1294,7 +1286,7 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Escenario 1: Visualización básica de testimonios</strong><br>
         <strong>Dado</strong> que llego a la sección de testimonios, <strong>cuando</strong> leo los testimonios, <strong>entonces</strong> puedo ver el nombre, rol (estudiante o gerente) y un mensaje real validado por el sistema.
       </td>
-      <td>Epic 10</td>
+      <td>Epic 09</td>
     </tr>
     <tr>
       <td>US04</td>
@@ -1457,7 +1449,7 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Dado</strong> que el empresario accede al buscador <strong>cuando</strong> selecciona carrera e ingresa habilidades clave <strong>entonces</strong> el sistema muestra resultados relacionados.
         <br><br>
       </td>
-      <td>Epic 08</td>
+      <td>Epic 07</td>
     </tr>
 <tr>
       <td>US15</td>
