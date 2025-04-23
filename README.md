@@ -38,13 +38,151 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha | Descripción de cambios | Autor(es) |
-|--------|-------|-------------------------|-----------|
-| 1.0    |       |                         |           |
+<table align="center">
+  <tr>
+    <td><strong>Versión</strong></td>
+    <td><strong>Fecha</strong></td>
+    <td><strong>Autor(es)</strong></td>
+    <td><strong>Descripción de cambios</strong></td>
+  </tr>
+    <tr>
+    <td>1.0</td>
+    <td>08/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Creación del documento de trabajo en formato markdown.</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>10/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Desarrollo de la Startup profile, solution profile y segmentos objetivos.</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>13/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Elaboración del diseño de entrevistas, entrevistamos a los segmentos objetivos y desarrollamos el análisis de entrevistas.</td>
+  </tr>
+    <tr>
+    <td>1.4</td>
+    <td>15/04/23</td>
+    <td>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Desarrollo del análisis competitivo, user personas, user task matrix, journey maps, emphaty mapping, As-Is y To-Be scenario, impact mapping y ubiquitous language.</td>
+  </tr>
+    <tr>
+    <td>1.5</td>
+    <td>17/04/23</td>
+    <td>
+    Gonzales,<br>
+    Linares
+    </td>
+    <td>Añadimos los sytle guidelines y la arquitectura de información</td>
+  </tr>
+  <tr>
+    <td>1.6</td>
+    <td>20/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Elaboración de los wireframes y mockups de la landing page y la appweb.</td>
+  </tr>
+  <tr>
+    <td>1.7</td>
+    <td>21/04/23</td>
+    <td>
+    Gonzales,<br>
+    Rivera
+    </td>
+    <td>Wireflows, UserFlow y Prototyping</td>
+  </tr>
+  <tr>
+    <td>1.8</td>
+    <td>23/04/23</td>
+    <td>
+    Palomino,<br>
+    Coca
+    </td>
+    <td>Elaboración de diagrama de contenedores, diagrama de contexto, diagrama de componentes, diagrama de clases y diccionario de clases</td>
+  </tr>
+</table>
 
 ---
 
 ## Project Report Collaboration Insights
+
+
+**TB1**
+---
+
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      Startup Profile, antecedentes, problemática, Lean Ux proccess, diseño de entrevistas, registro de entrevistas, análisis de entrevistas, user stories, arquitectura de la información, mockups landing page y web application, 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      Segmentos objetivos, análisis de competidores y estrategias, diseño de entrevistas, registro de entrevistas, análisis de entrevistas, user stories, diagrama de contexto, diagrama de contenedores, diagrama de componentes, mockups web application, 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      User personas, user task matrix, journey maps, diseño de entrevistas, registro de entrevistas, análisis de entrevistas, user stories,  web application wireframes y mockups, wireflows, userflows, prototyping
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Andres Coca
+    </td>
+    <td>
+      Empathy maps, As-Is scenario, ubiquitous language, diseño de entrevistas, registro de entrevistas, análisis de entrevistas, diagrama de clases, diccionario de clases, mockups web application, 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Cesar Linares
+    </td>
+    <td>
+      To-Be scenario, impact mapping, product backlog, user stories, style guidelines. 
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -145,6 +283,63 @@
 
 ## Student Outcome
 
+<table align="center">
+  <tr>
+    <td><strong>Criterio</strong></td>
+    <td><strong>Acciones Realizadas</strong></td>
+    <td><strong>Conclusiones</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Trabaja en equipo para proporcionar liderazgo en forma conjunta
+    </td>
+    <td>
+      <strong>Javier Gonzales:</strong>
+      TB1 - Coordinación general del proyecto, elaboración del Startup Profile, definición de problemáticas, arquitectura de la información, desarrollo del Lean UX process y gestión del diseño de entrevistas.
+      <br><br>
+      <strong>Erick Palomino:</strong>
+      TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.
+      <br><br>
+      <strong>Renzo Rivera:</strong>
+      TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional
+      <br><br>
+      <strong>Andres Coca:</strong>
+      TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.
+      <br><br>
+      <strong>Cesar Linares</strong>
+      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines.
+    </td>
+    <td>
+      El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. 
+    </td>
+    <td>
+      <strong>Javier Gonzales:</strong>
+      TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.
+      <br><br>
+      <strong>Erick Palomino:</strong>
+      TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.
+      <br><br>
+      <strong>Renzo Rivera:</strong>
+      TB1 – Colaboración en planificación funcional de interfaz, distribución de tareas de prototipado y verificación del cumplimiento de tiempos.
+      <br><br>
+      <strong>Andres Coca:</strong>
+      TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.
+      <br><br>
+      <strong>Cesar Linares:</strong>
+      TB1 – Apoyo en la definición de objetivos y metas del producto, priorización de funcionalidades clave y control del avance del backlog.
+    </td>
+    <td>
+      El grupo logró establecer un entorno colaborativo donde se respetaron los roles, tiempos y responsabilidades de cada integrante. Se definieron metas alcanzables, se mantuvo una comunicación efectiva y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y solidario.
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## Capítulo I: Introducción
@@ -162,13 +357,43 @@ La propuesta de UniTalents se basa en la creación de un ecosistema inclusivo, c
 **Visión:**  En los próximos 5 años **UniTalents Connect** sea la principal plataforma digital en Latinoamérica que potencia el talento universitario. Además busca que **UniTalents** se convierta en un negocio rentable y sostenible contribuyendo al desarrollo profesional y económico de miles de jóvenes.
 
 #### 1.1.2. Perfiles de integrantes del equipo  
-| Código | Apellidos y Nombres |
-|--------|----------------------|
-|Hola mi nombre es Javier Gonzales, estudió la carrera de ingeniería y actualmente me encuentro en el 5to ciclo. Me considero una persona amable, analítica y muy perseverante en cada aspecto de mi vida, por lo que esto me permite desenvolverme bien en los proyectos y en algunas ocasiones dirigir el equipo como Team Leader. Respecto a mis conocimientos técnicos, pues sé C++, Python, SQL, HTML, CSS y lo básico de JavaScript. Aunque se me dificulta mucho aprender idiomas, domino muy bien el Inglés. ||
-|||
-|||
-|||
-|||
+
+<table align="center">
+  <tr>
+    <td><strong>Descripción</strong></td>
+    <td><strong>Estudiante</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Hola mi nombre es Javier Gonzales, estudió la carrera de ingeniería y actualmente me encuentro en el 5to ciclo. Me considero una persona amable, analítica y muy perseverante en cada aspecto de mi vida, por lo que esto me permite desenvolverme bien en los proyectos y en algunas ocasiones dirigir el equipo como Team Leader. Respecto a mis conocimientos técnicos, pues sé C++, Python, SQL, HTML, CSS y lo básico de JavaScript. Aunque se me dificulta mucho aprender idiomas, domino muy bien el Inglés.
+    </td>
+    <td>
+      <p align="center">
+        <img src="images/foto-gonzales.png" alt="foto-team" width="400">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Hola, mi nombre es Erick Leonardo Palomino Fiestas y actualmente soy estudiante de la carrera de Ingeniería de Software, cursando el quinto ciclo. Tengo conocimientos en  C++, HTML, CSS, lo básico de JavaScript, así como en bases de datos SQL y MongoDB.  Me caracterizo por ser una persona responsable, con buena comunicación dentro de mi equipo y una actitud siempre positiva. Además, cuento con un dominio básico del idioma inglés.
+    </td>
+    <td>
+      <p align="center">
+        <img src="images/foto-erik.jpg" alt="foto-team" width="400">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Soy Renzo Sebastian Rivera Ratachi y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo de mi carrera y tengo conocimientos intermedios de HTML, CSS, JavaScript y C++. Me considero una persona responsable y puntual.
+    </td>
+    <td>
+      <p align="center">
+        <img src="images/foto-renzo.png" alt="foto-team" width="400">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 1.2. Solution Profile
 
