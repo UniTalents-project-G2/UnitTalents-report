@@ -355,9 +355,10 @@ La propuesta de UniTalents se basa en la creación de un ecosistema inclusivo, c
 **Misión:** Empoderar a estudiantes universitarios mediante una plataforma digital que les permita ofrecer servicios freelance, construir su reputación profesional y adquirir experiencia laboral, del mismo modo brindando a empresas candidatos ideales. 
 
 **Visión:**  En los próximos 5 años **UniTalents Connect** sea la principal plataforma digital en Latinoamérica que potencia el talento universitario. Además busca que **UniTalents** se convierta en un negocio rentable y sostenible contribuyendo al desarrollo profesional y económico de miles de jóvenes.
+<br><br>
 
 #### 1.1.2. Perfiles de integrantes del equipo  
-
+<br>
 <table align="center">
   <tr>
     <td><strong>Descripción</strong></td>
@@ -393,7 +394,28 @@ La propuesta de UniTalents se basa en la creación de un ecosistema inclusivo, c
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+      Soy César Alejandro Linares Bernable y me encuentro estudiando la carrera de Ingeniería de Software en el 5to ciclo. Tengo conocimientos en c++, angular, sql, html y lo básico de css. Me considero responsable y puntual con lo que respecta a cumplir con las tareas encomendadas. Tengo un manejo intermedio del idioma inglés.
+    </td>
+    <td>
+      <p align="center">
+        <img src="images/foto-cesar.png" alt="foto-team" width="400">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Mi Nombre es Carlos Andrés Coca, tengo 19 años, actualmente me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Cuento con conocimientos en C++, Python y HTML.  y desde muy joven me ha interesado la ciberseguridad y el desarrollo de Software. Teniendo en cuenta el gran impacto que presentan a día de hoy.
+    </td>
+    <td>
+      <p align="center">
+        <img src="images/foto-cr7.jpg" alt="foto-team" width="400">
+      </p>
+    </td>
+  </tr>
 </table>
+<br>
 
 ### 1.2. Solution Profile
 
