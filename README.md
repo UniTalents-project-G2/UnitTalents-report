@@ -2169,6 +2169,8 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
   + Casos de éxito
 
+  + FAQs
+
   + Integrantes
 
   + Accceder
