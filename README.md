@@ -1620,7 +1620,7 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
 
 <tr>
-      <td>US24</td>
+      <td>US23</td>
       <td>Notificación de proyecto nuevo</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> recibir una notificación cuando se publique un proyecto compatible con mis habilidades, <strong>para</strong> no perder oportunidades.
@@ -1635,7 +1635,7 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
 
 <tr>
-      <td>US25</td>
+      <td>US24</td>
       <td>Eliminar cuenta</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> poder eliminar mi cuenta permanentemente, <strong>para</strong> asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.
