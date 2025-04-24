@@ -2364,9 +2364,188 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 
 ### 4.4. Web Applications UX/UI Design
 
-#### 4.4.1. Web Applications Wireframes  
+#### 4.4.1. Web Applications Wireframes 
+
+Los wireframes de UniTalents Connect han sido desarrollados aplicando principios clave de diseño centrado en el usuario, priorizando la claridad visual, la jerarquía de información y la accesibilidad. Cada sección está estructurada con una navegación intuitiva y coherente entre el menú lateral, encabezado fijo y bloques de contenido, lo cual refleja una arquitectura de información jerárquica y secuencial bien definida. Se han utilizado elementos de diseño consistentes como tarjetas, iconos descriptivos, botones llamativos y formularios bien distribuidos, facilitando la interacción fluida en dispositivos de diferentes tamaños. Además, se ha incorporado un enfoque de diseño inclusivo al priorizar la legibilidad (uso de contrastes adecuados, tamaños de fuente amplios y campos de formulario claros), permitiendo que usuarios con distintos niveles de experiencia digital puedan navegar sin fricciones. Todo el diseño contribuye a lograr una experiencia coherente entre perfiles (estudiante y gerente), enfocada en guiar a los usuarios hacia sus metas (postular, contratar, calificar, publicar proyectos) de forma eficiente y accesible.
+
+[Enlace Figma](https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1)
+<br><br>
+
++ Iniciar Sesión / Registrarse:
+
+Permite a nuevos usuarios crear una cuenta como estudiante o gerente, y a usuarios existentes ingresar con sus credenciales para acceder a su respectivo dashboard.
+
+<p align="center">
+  <img src="images/wireframes/Sign In.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/wireframes/Manager Register.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/wireframes/Student Register.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Dashboard del Estudiante:
+
+Muestra un resumen del estado de las postulaciones, proyectos sugeridos, y accesos rápidos a portafolio y feedback. El punto de inicios son las oportunidades.
+
+<p align="center">
+  <img src="images/wireframes/Estudiante 01 -Homepage.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Agregar Proyecto al Portafolio:
+
+Formulario para registrar un nuevo proyecto, con campos como título, descripción, tecnologías y enlaces.
+
+<p align="center">
+  <img src="images/wireframes/Estudiante 07 - Portafolio - Add project.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Vista del Portafolio del Estudiante:
+
+Muestra todos los proyectos subidos con opción de editar o eliminar.
+
+<p align="center">
+  <img src="images/wireframes/Estudiante 06 - Portafolio.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Mis Postulaciones:
+
+Muestra el estado actual de todas las postulaciones enviadas (en revisión, aceptado, rechazado).
+
+<p align="center">
+  <img src="images/wireframes/Estudiante 15 - Mis Postulaciones.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Dashboard del Gerente:
+
+Muestra resumen de proyectos activos, buscar talento, mis evaluaciones y mi empresa. Empezando con Mis Proyectos.
+
+<p align="center">
+  <img src="images/wireframes/Gerente 01 - Homepage.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Vista del Proyecto:
+
+Presenta los detalles del proyecto ya concluido, historial del proceso, entregables y resultados.
+
+<p align="center">
+  <img src="images/wireframes/Gerente 03 - ver info proyecto.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Buscar Talento:
+
+Permite buscar estudiantes por filtros, acceder a perfiles, portafolios y evaluaciones anteriores.
+
+<p align="center">
+  <img src="images/wireframes/Gerente 08 - Buscar Talento.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Evaluaciones:
+
+Panel que muestra los proyectos pendientes de evaluación y permite calificar estudiantes.
+
+<p align="center">
+  <img src="images/wireframes/Gerente 15 - Evaluaciones.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+
+
 
 #### 4.4.2. Web Applications Wireflow Diagrams 
+
+[Enlace Overflow](https://overflow.io/s/TQAWUZY8)
+<br><br>
+
++ **Wireflow 1: Login / Registrarse**
+
+**User Goal:** Como nuevo usuario, quiero ingresar o crear una cuenta, para acceder a la plataforma según mi rol.
+
+**Flujo:** El usuario accede a la landing page y hace clic en “Acceder” desde el encabezado. Al seleccionar una opción, puede elegir entre perfil Estudiante o Gerente mediante un botón conmutador. Si ya está registrado, introduce su correo y contraseña. Si es nuevo, completa el formulario correspondiente con nombre, correo, contraseña y rubro (en el caso de estudiantes). Tras completar el proceso, es redirigido automáticamente a su dashboard correspondiente.
+
+<p align="center">
+  <img src="images/wireflows/wf1.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 2: Postular a un proyecto**
+
+**User Goal:** Como estudiante, quiero postularme a un proyecto, para ganar experiencia y construir mi portafolio.
+
+**Flujo:** Desde el menú lateral, el estudiante accede a la sección Oportunidades. Allí visualiza un listado de proyectos activos con filtros (carrera, habilidades, duración, etc.). Al hacer clic en un proyecto, se despliega su ficha completa con descripción, empresa y requisitos. El estudiante hace clic en “Postularme”, y recibe una confirmación visual de que su postulación fue enviada. El proyecto aparece ahora en la sección “Mis Postulaciones”.
+
+<p align="center">
+  <img src="images/wireflows/wf2.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 3: Gestionar portafolio**
+
+**User Goal:** Como estudiante, quiero gestionar mis proyectos, para mostrar mi trabajo a posibles contratantes.
+
+**Flujo:** Desde su dashboard, el estudiante selecciona la sección Mi Portafolio. Allí encuentra una lista de tarjetas con sus proyectos previos. Puede hacer clic en “Agregar proyecto” para abrir un formulario con campos como título, descripción, tecnologías y enlaces o archivos. También puede editar o eliminar un proyecto existente desde un ícono de opciones en cada tarjeta. Al guardar los cambios, la lista se actualiza y queda lista para ser visualizada por los gerentes.
+
+<p align="center">
+  <img src="images/wireflows/wf3.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 4: Calificar empresa**
+
+**User Goal:** Como estudiante, quiero evaluar a la empresa al finalizar un proyecto, para compartir mi experiencia con otros usuarios.
+
+**Flujo:** Una vez que un proyecto en el que participó ha sido marcado como Finalizado, el estudiante recibe una notificación para dejar una calificación. Desde Mis Postulaciones, puede acceder a un botón “Calificar empresa” que le permite puntuar aspectos como comunicación, claridad de requerimientos y cumplimiento de condiciones, además de dejar un comentario opcional. Al confirmar la evaluación, esta se almacena en el historial de la empresa y contribuye a su reputación en la plataforma.
+
+<p align="center">
+  <img src="images/wireflows/wf4.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 5: Crear proyecto**
+
+**User Goal:** Como gerente, quiero publicar un nuevo proyecto, para encontrar estudiantes con el perfil adecuado.
+
+**Flujo:** Desde el apartado "Mis Proyectos", el gerente accede a la opción “Agregar Proyecto”. Se abre un formulario con campos organizados paso a paso: nombre del proyecto, descripción, habilidades requeridas, duración, modalidad, fechas clave y nivel de compromiso. Al finalizar, puede hacer clic en “Publicar” y el proyecto pasa a estar visible en la plataforma dentro del explorador de oportunidades. 
+
+<p align="center">
+  <img src="images/wireflows/wf5.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 6: Calificar postulante**
+
+**User Goal:** Como gerente, quiero calificar al estudiante que participó en mi proyecto, para contribuir a su reputación.
+
+**Flujo:** Una vez un proyecto termina, el gerente accede a Evaluaciones. Ahí visualiza la lista de estudiantes asignados. Al hacer clic en “Evaluar”, se abre un formulario con escala de puntuación (ej. responsabilidad, calidad, puntualidad) y un campo de comentario. Al guardar, la evaluación se almacena y se refleja en la reputación del estudiante, visible para futuros gerentes.
+
+<p align="center">
+  <img src="images/wireflows/wf6.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 7: Contratar estudiante**
+
+**User Goal:** Como gerente, quiero seleccionar a un estudiante para un proyecto, para iniciar oficialmente su participación.
+
+**Flujo:** Desde el listado de postulaciones dentro de un proyecto publicado, el gerente puede revisar el perfil y portafolio de cada candidato. Al decidirse por uno, hace clic en el botón “Contratar” dentro de su tarjeta. Se solicita una confirmación de la acción y se genera automáticamente el vínculo entre el estudiante y el proyecto. A partir de ese momento, el proyecto se mueve a la fase En curso y el estudiante recibe una notificación en su panel.
+
+<p align="center">
+  <img src="images/wireflows/wf7.png" alt="wireflows" width="1000">
+</p>
+<br><br>
 
 #### 4.4.3. Web Applications Mock-ups  
 
