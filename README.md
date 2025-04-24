@@ -1230,14 +1230,6 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
     <tr>
       <td>EP07</td>
-      <td>Comunicación y Gestión Colaborativa</td>
-      <td>
-        <strong>Como</strong> participante de un proyecto, <strong>quiero</strong> poder comunicarme dentro de la plataforma con la contraparte, <strong>para</strong> coordinar entregas, resolver dudas y dar seguimiento al avance del trabajo.</td>
-      <td>No corresponde</td>
-      <td>No corresponde</td>
-    </tr>
-    <tr>
-      <td>EP08</td>
       <td>Búsqueda y Filtros Inteligentes</td>
       <td>
         <strong>Como</strong> usuario, <strong>quiero</strong> buscar proyectos o talentos aplicando filtros específicos como carrera, habilidades o disponibilidad, <strong>para</strong> encontrar rápidamente las opciones que mejor se adaptan a mis necesidades.</td>
@@ -1245,7 +1237,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>No corresponde</td>
     </tr>
     <tr>
-      <td>EP09</td>
+      <td>EP08</td>
       <td>Presentación Clara del Valor de la Plataforma</td>
       <td>
         <strong>Como</strong> visitante nuevo en la web, <strong>quiero</strong> entender fácilmente qué ofrece UniTalents Connect, <strong>para</strong> saber si se adapta a mis necesidades como estudiante o empresa.</td>
@@ -1253,7 +1245,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>No corresponde</td>
     </tr>
     <tr>
-      <td>EP10</td>
+      <td>EP09</td>
       <td>Validación Social y Casos de Éxito</td>
       <td>
         <strong>Como</strong> potencial usuario, <strong>quiero</strong> ver testimonios y casos de éxito reales, <strong>para</strong> confiar en la plataforma antes de registrarme.</td>
@@ -1272,7 +1264,7 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Escenario 2: Perfilamiento por tipo de usuario</strong><br>
         <strong>Dado</strong> que soy un visitante interesado en contratar talento, <strong>cuando</strong> hago scroll o clic en "¿Cómo funciona?", <strong>entonces</strong> puedo identificar fácilmente los beneficios dirigidos a empresas o gerentes sin confundirlos con los de estudiantes.
       </td>
-      <td>Epic 09</td>
+      <td>Epic 08</td>
     </tr>
     <tr>
       <td>US02</td>
@@ -1294,7 +1286,7 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Escenario 1: Visualización básica de testimonios</strong><br>
         <strong>Dado</strong> que llego a la sección de testimonios, <strong>cuando</strong> leo los testimonios, <strong>entonces</strong> puedo ver el nombre, rol (estudiante o gerente) y un mensaje real validado por el sistema.
       </td>
-      <td>Epic 10</td>
+      <td>Epic 09</td>
     </tr>
     <tr>
       <td>US04</td>
@@ -1457,7 +1449,7 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Dado</strong> que el empresario accede al buscador <strong>cuando</strong> selecciona carrera e ingresa habilidades clave <strong>entonces</strong> el sistema muestra resultados relacionados.
         <br><br>
       </td>
-      <td>Epic 08</td>
+      <td>Epic 07</td>
     </tr>
 <tr>
       <td>US15</td>
@@ -1644,9 +1636,80 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Escenario 1: Nueva coincidencia</strong><br>
         <strong>Dado</strong> que he iniciado sesión y accedo a la configuración de la cuenta
         <strong>Cuando</strong> presiono “Eliminar cuenta” y confirmo la acción
-        <strong>Entonces</strong> mi cuenta es eliminada y los datos personales son removidos del sistema
+        <strong>Entonces</strong> mi cuenta es eliminada y los datos personales son removidos del sistema.
       </td>
       <td>Epic 01</td>
+    </tr>
+    <tr>
+      <td>US25</td>
+      <td>Tener un encabezado fijo para navegar por la página</td>
+      <td>
+        <strong>Como</strong> visitante de la landing page, <strong>quiero</strong> contar con un encabezado visible en todo momento, <strong>para</strong> moverme fácilmente entre las secciones sin hacer scroll manualmente.
+      </td>
+      <td>
+        <strong>Escenario 1: Encabezado permanece visible al hacer scroll</strong><br>
+        <strong>Dado</strong> que estoy navegando hacia abajo en la landing page,
+        <strong>Cuando</strong> hago scroll,
+        <strong>Entonces</strong> el encabezado permanece fijo en la parte superior con accesos visibles a las secciones principales.
+        <br><br>
+        <strong>Escenario 2: Enlaces del encabezado con anclaje interno</strong><br>
+        <strong>Dado</strong> que deseo moverme a otra sección desde cualquier parte,
+        <strong>Cuando</strong> hago clic en un ítem del encabezado (ej. “Planes”, “Casos de éxito”, “Registro”),
+        <strong>Entonces</strong> la página se desplaza automáticamente hasta la sección correspondiente sin recargar.
+      </td>
+      <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>US26</td>
+      <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
+      <td>
+        <strong>Como</strong> visitante indeciso, <strong>quiero</strong> acceder fácilmente a una sección de preguntas frecuentes, <strong>para</strong> resolver mis dudas antes de registrarme en la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1: Acceso directo desde el menú</strong><br>
+        <strong>Dado</strong> que estoy navegando en la landing page,
+        <strong>Cuando</strong> hago clic en “FAQs” en el encabezado,
+        <strong>Entonces</strong> soy llevado directamente a la sección de preguntas frecuentes sin salir de la página.
+        <br><br>
+        <strong>Escenario 2: Visualización organizada de preguntas y respuestas</strong><br>
+        <strong>Dado</strong> que ya estoy en la sección FAQs,
+        <strong>Cuando</strong> reviso las preguntas,
+        <strong>Entonces</strong> estas aparecen con un formato desplegable que permite leer las respuestas una por una.
+      </td>
+      <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>US27</td>
+      <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
+      <td>
+        <strong>Como</strong> usuario nuevo, <strong>quiero</strong> ver de inmediato una propuesta visual clara y atractiva, <strong>para</strong> captar rápidamente la esencia de UniTalents Connect sin necesidad de leer demasiado.
+      </td>
+      <td>
+        <strong>Escenario 1: Mensaje central visible en el primer vistazo</strong><br>
+        <strong>Dado</strong> que ingreso a la landing page,
+        <strong>Cuando</strong> visualizo el primer bloque superior,
+        <strong>Entonces</strong> veo un mensaje corto, atractivo y centrado que transmite el valor principal de la plataforma.
+        <br><br>
+        <strong>Escenario 2: Imagen o ilustración complementaria al mensaje</strong><br>
+        <strong>Dado</strong> que leo el mensaje principal,
+        <strong>Cuando</strong> observo el diseño,
+        <strong>Entonces</strong> se acompaña de una imagen relevante, que refuerza visualmente la propuesta de valor.
+      </td>
+      <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>US30</td>
+      <td>Acceder a información de contacto o soporte desde la landing</td>
+      <td>
+        <strong>Como</strong> visitante que necesita ayuda, <strong>quiero</strong> poder acceder fácilmente a los datos de contacto o soporte, <strong>para</strong> resolver dudas antes de registrarme o publicar un proyecto.
+      </td>
+      <td>
+        <strong>Escenario 1: Acceso al contacto desde el pie de página</strong><br>
+        <strong>Dado</strong> que estoy en la landing page,
+        <strong>Cuando</strong> llego al final del sitio,
+        <strong>Entonces</strong> visualizo una sección con enlaces a “Contáctanos”, correo de soporte, y redes sociales.
+      </td>
+      <td>Epic 08</td>
     </tr>
 
   </tbody>
