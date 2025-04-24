@@ -1993,7 +1993,24 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 
 #### 4.7.1. Class Diagrams  
 
+<p align="center">
+  <img src="images/UniTalents_UML.png" alt="impact mapping" width="80%">
+</p>
+
 #### 4.7.2. Class Dictionary  
+
+| Clase | Descripción | Atributos | Metodos |
+|:-----:|--------------|--------|-------------|
+|User (abstracta)|Representa a cualquier usuario del sistema. Base para Manager y Student.|id: string, name: string, email: string, password: string, role: string|login(), logout()|
+|Student|Usuario que ofrece servicios freelance. Hereda de User.|university: string, degree: string, semester: int, portfolio: Portfolio, availableTimeSlots: vector<string>|applyToProject(Project), viewApplications()|
+|Manager|Usuario que publica proyectos. Hereda de User.|companyName: string, position: string, postedProjects: vector<Project>|postProject(Project), reviewApplications()|
+|Project|Proyecto freelance publicado por un Manager|projectId: string, title: string, description: string, budget: float, deadline: string, skillsRequired: vector<string>, isOpen: bool, postedBy: Manager, applicants: vector<Student>|closeProject(), addApplicant(Student)|
+|Briefcase|Portafolio del estudiante con habilidades y logros.|briefcaseId: string, studentId: string, bio: string, skills: vector<Skill>, projectsCompleted: vector<Project>, certifications: vector<string>|addSkill(Skill), addProject(Project)|
+|Skill|Habilidad técnica o blanda.|skillName: string, proficiencyLevel: string|No presenta metodos|
+|Application|Postulación de un estudiante a un proyecto.|applicationId: string, student: Student, project: Project, status: string, submissionDate: string|updateStatus(string)|
+|Review|Calificación entre usuarios.|reviewId: string, rating: float, comment: string, fromUser: User, toUser: User, date: string|No presenta metodos|
+|Chat|Conversación entre usuarios.|chatId: string, participants: vector<User>, messages: vector<Message>|sendMessage(Message)|
+|Message|Mensaje dentro del chat.|messageId: string, sender: User, content: string, timestamp: string|No presenta metodos|
 
 ### 4.8. Database Design
 
