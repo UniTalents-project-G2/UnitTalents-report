@@ -2551,7 +2551,19 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 #### 4.4.4. Web Applications User Flow Diagrams  
 
-### 4.5. Web Applications Prototyping  
+### 4.5. Web Applications Prototyping
+
+En esta sección se presentan los prototipos interactivos de UniTalents Connect, diseñados para navegadores web en escritorio. Los prototipos simulan los principales flujos de interacción definidos previamente en los wireflows y userflows, asegurando coherencia con la arquitectura de información planteada. Las decisiones de navegación están centradas en facilitar el acceso a funcionalidades clave según el perfil del usuario (estudiante o gerente), aplicando principios de diseño intuitivo, jerarquía visual y navegación contextual. La interacción se apoya en menús laterales, encabezados fijos y componentes visuales consistentes que guían al usuario sin fricciones. A continuación, se incluye una captura de cada entorno y un enlace a Microsoft Stream donde se demuestran los recorridos principales del sistema.
+
+<p align="center">
+  <img src="images/Prototyping-UniTalents.png" alt="Screenshot Prototype" width="1000">
+</p>
+
+[Flujo del Prototype](https://www.figma.com/proto/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=221-28&p=f&t=YEIOKlYTwERsPlmy-1&scaling=scale-down&content-scaling=fixed&page-id=221%3A27&starting-point-node-id=221%3A28)
+
+[Video de la explicación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ea_FbYEpeTpEjxRoXPocuQsB2j86_1cxAu5UfIHw0v7cpw?e=kbvru5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<br>
 
 ### 4.6. Domain-Driven Software Architecture
 
