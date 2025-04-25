@@ -1892,8 +1892,9 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 03</td>
     </tr>
-    <tr>
-      <td>US24</td>
+
+<tr>
+      <td>US23</td>
       <td>Notificación de proyecto nuevo</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> recibir una notificación cuando se publique un proyecto compatible con mis habilidades, <strong>para</strong> no perder oportunidades.
@@ -1906,8 +1907,9 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 02</td>
     </tr>
-    <tr>
-      <td>US25</td>
+
+<tr>
+      <td>US24</td>
       <td>Eliminar cuenta</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> poder eliminar mi cuenta permanentemente, <strong>para</strong> asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.
@@ -1921,7 +1923,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 01</td>
     </tr>
     <tr>
-      <td>US26</td>
+      <td>US25</td>
       <td>Tener un encabezado fijo para navegar por la página</td>
       <td>
         <strong>Como</strong> visitante de la landing page, <strong>quiero</strong> contar con un encabezado visible en todo momento, <strong>para</strong> moverme fácilmente entre las secciones sin hacer scroll manualmente.
@@ -1940,7 +1942,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US27</td>
+      <td>US26</td>
       <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
       <td>
         <strong>Como</strong> visitante indeciso, <strong>quiero</strong> acceder fácilmente a una sección de preguntas frecuentes, <strong>para</strong> resolver mis dudas antes de registrarme en la plataforma.
@@ -1959,7 +1961,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US28</td>
+      <td>US27</td>
       <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
       <td>
         <strong>Como</strong> usuario nuevo, <strong>quiero</strong> ver de inmediato una propuesta visual clara y atractiva, <strong>para</strong> captar rápidamente la esencia de UniTalents Connect sin necesidad de leer demasiado.
@@ -1978,7 +1980,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US29</td>
+      <td>US30</td>
       <td>Acceder a información de contacto o soporte desde la landing</td>
       <td>
         <strong>Como</strong> visitante que necesita ayuda, <strong>quiero</strong> poder acceder fácilmente a los datos de contacto o soporte, <strong>para</strong> resolver dudas antes de registrarme o publicar un proyecto.
@@ -2594,7 +2596,24 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 
 #### 4.7.1. Class Diagrams  
 
+<p align="center">
+  <img src="images/UniTalents_UML.png" alt="impact mapping" width="80%">
+</p>
+
 #### 4.7.2. Class Dictionary  
+
+| Clase | Descripción | Atributos | Metodos |
+|:-----:|--------------|--------|-------------|
+|User (abstracta)|Representa a cualquier usuario del sistema. Base para Manager y Student.|id: string, name: string, email: string, password: string, role: string|login(), logout()|
+|Student|Usuario que ofrece servicios freelance. Hereda de User.|university: string, degree: string, semester: int, portfolio: Portfolio, availableTimeSlots: vector<string>|applyToProject(Project), viewApplications()|
+|Manager|Usuario que publica proyectos. Hereda de User.|companyName: string, position: string, postedProjects: vector<Project>|postProject(Project), reviewApplications()|
+|Project|Proyecto freelance publicado por un Manager|projectId: string, title: string, description: string, budget: float, deadline: string, skillsRequired: vector<string>, isOpen: bool, postedBy: Manager, applicants: vector<Student>|closeProject(), addApplicant(Student)|
+|Briefcase|Portafolio del estudiante con habilidades y logros.|briefcaseId: string, studentId: string, bio: string, skills: vector<Skill>, projectsCompleted: vector<Project>, certifications: vector<string>|addSkill(Skill), addProject(Project)|
+|Skill|Habilidad técnica o blanda.|skillName: string, proficiencyLevel: string|No presenta metodos|
+|Application|Postulación de un estudiante a un proyecto.|applicationId: string, student: Student, project: Project, status: string, submissionDate: string|updateStatus(string)|
+|Review|Calificación entre usuarios.|reviewId: string, rating: float, comment: string, fromUser: User, toUser: User, date: string|No presenta metodos|
+|Chat|Conversación entre usuarios.|chatId: string, participants: vector<User>, messages: vector<Message>|sendMessage(Message)|
+|Message|Mensaje dentro del chat.|messageId: string, sender: User, content: string, timestamp: string|No presenta metodos|
 
 ### 4.8. Database Design
 
