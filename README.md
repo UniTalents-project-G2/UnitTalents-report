@@ -2555,11 +2555,40 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 ### 4.6. Domain-Driven Software Architecture
 
+El Domain Driven Design (DDD) permite alinear el desarrollo de UniTalent Connect con las necesidades reales del dominio freelance estudiantil. A través del uso de un lenguaje ubicuo y una estructura centrada en el negocio, se mejora la colaboración entre desarrolladores y expertos del dominio. DDD guía el diseño del sistema mediante patrones y diagramas que reflejan fielmente la lógica del dominio. 
+
+Este diagrama de arquitectura fue creado en **Structurizr**.
+[Ver el diagrama en Structurizr](https://structurizr.com/share/101680/d80ffe9c-a1bc-4b6b-9909-9f517d610348)
+
 #### 4.6.1. Software Architecture Context Diagram  
+
+El diagrama de contexto ofrece una visión general de alto nivel que representa cómo el sistema de software UniTalent Connect se relaciona con sus usuarios y, cuando aplica, con otros sistemas externos.
+
+<p align="center">
+  <img src="images/diagramaC4/diagramac4-contexto.png" alt="UPC logo" width="500">
+</p>
 
 #### 4.6.2. Software Architecture Container Diagrams  
 
+El diagrama de contenedores proporciona una vista general de alto nivel sobre cómo se conectan las aplicaciones y las fuentes de datos que forman parte de la operación del sistema de software UniTalent Connect.
+
+<p align="center">
+  <img src="images/diagramaC4/diagramac4-contenedores.png" alt="UPC logo" width="800">
+</p>
+
 #### 4.6.3. Software Architecture Components Diagrams  
+
+Los diagramas de componentes muestran la estructura interna de los contenedores principales del sistema UniTalent Connect, detallando cómo se organizan e interactúan sus componentes. En este caso, se presentan los componentes clave de la Web Application (interfaz de usuario) y de la API Application (lógica de negocio y acceso a datos), lo cual permite entender cómo se implementan las funcionalidades y cómo se comunican entre sí a través de servicios.
+
+**Web Application**
+<p align="center">
+  <img src="images/diagramaC4/diagramac4-webapplication.png" alt="UPC logo" width="1000">
+</p>
+
+**API Application**
+<p align="center">
+  <img src="images/diagramaC4/diagramac4-coponenteAPI.png" alt="UPC logo" width="1000">
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
