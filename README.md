@@ -2565,7 +2565,7 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 Los siguientes Mock-ups fueron elaborados en base a los wireframes previamente hechos. Representan fielmente la manera en la que nuestros usuarios podrán apreciar la aplicación web.
 
-[Enlace Figma](https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1)
+[Enlace Figma](https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=0-1&p=f&t=dIa0V1UemHWoieb7-0)
 <br><br>
 
 + Iniciar Sesión / Registrarse:
@@ -2661,6 +2661,8 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 
 #### 4.4.4. Web Applications User Flow Diagrams  
+
+Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows previamente hechos y representan los pasos que seguirán nuestros usuarios a través de la aplicación.
 
 
 [Enlace para acceder a Overflow](https://overflow.io/s/QHU9N2IZ)
