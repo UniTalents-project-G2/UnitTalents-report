@@ -2779,13 +2779,166 @@ chore: Tareas de mantenimiento.
 
 ##### 5.2.1.3. Sprint Backlog 1 
 
-##### 5.2.1.4. Development Evidence for Sprint Review  
+##### 5.2.1.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-LandingPage</td>
+    <td>develop</td>
+    <td>2fa5600</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>23/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>bc64786</td>
+    <td>docs:created 3 principale docs</td>
+    <td>created 3 principale docs (index,sytle,script)</td>
+    <td>23/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>dd5540c</td>
+    <td>feat: added the header and 2 sections</td>
+    <td>Added the header and two sections, also modified the css doc</td>
+    <td>23/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>1b95644</td>
+    <td>feat: added section of success stories</td>
+    <td>Added code of the section of succes stories</td>
+    <td>24/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>2c41955</td>
+    <td>feat: added faq and team members</td>
+    <td>Added FAQ section and team members section</td>
+    <td>24/04/25</td>
+  </tr>
+</table>
+
+<br>
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante el sprint 1 se completó exitosamente el despliegue de la landing page. Esta página cuenta con diversas secciones diseñadas para que los usuarios puedan informarse detalladamente sobre nuestro producto y sus características principales.
+
+1. Header:
+
+Barra superior fija con el logo de UniTalents Connect, menú de navegación por anclas (Cómo funciona, Casos de Éxito, FAQs, Integrantes) y botones visibles para ingresar o registrarse según el tipo de usuario.
+
+<p align="center">
+  <img src="images/landingPage/header.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+2. Sección principal:
+
+Bloque visual destacado con mensaje central claro, acompañado de una imagen o ilustración que represente la plataforma. Incluye un llamado a la acción (CTA) como “Empieza tu camino profesional”.
+
+<p align="center">
+  <img src="images/landingPage/hero.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+3. Sección How it works:
+
+Explicación sencilla y visual del funcionamiento de la plataforma en 4 pasos. Incluye íconos y frases breves por cada etapa.
+
+<p align="center">
+  <img src="images/landingPage/how-it-works.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+4. Sección casos de éxito:
+
+Testimonios reales y breves de estudiantes y gerentes que utilizaron UniTalents con éxito. Se presenta en formato de tarjetas con nombres, rol, breve cita.
+
+<p align="center">
+  <img src="images/landingPage/casos.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+5. FAQs:
+
+Sección de preguntas frecuentes organizada en formato acordeón, diseñada para responder dudas comunes de estudiantes y empresas.
+
+<p align="center">
+  <img src="images/landingPage/FAQs.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+6. Footer:
+
+Pie de página con enlaces a contacto. 
+
+<p align="center">
+  <img src="images/landingPage/footer.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+7. Formulario de registro:
+
+Nueva página donde los usuarios pueden crear una cuenta seleccionando su perfil (Estudiante o Empresa), completando un formulario con nombre, correo, contraseña y datos adicionales según el rol.
+
+<p align="center">
+  <img src="images/landingPage/register.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Para este primer sprint no se vio una ejecutación de servicios.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 1 del desarrollo de UniTalents Connect, se realizaron las actividades iniciales de despliegue enfocadas principalmente en la publicación del Landing Page. A continuación, se detallan los procesos realizados:
+
++ Creación y configuración del proyecto de desarrollo:
+
+Se creó el repositorio principal del proyecto en GitHub, en el cual se integraron ramas específicas para desarrollo (develop) y (main). Se estructuró el entorno del landing y  se configuró el archivo *index.html* como punto de entrada principal.
+
++ Configuración del entorno de despliegue:
+
+Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page. Esta decisión se tomó por su facilidad de configuración y despliegue directo desde la rama main. Se enlazó correctamente el repositorio con el entorno de despliegue, permitiendo publicar actualizaciones de manera continua tras cada commit.
+
+  + Activación de GitHub Pages en el repositorio
+
+<p align="center">
+  <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación
+
+<p align="center">
+  <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa del dominio temporal generado por GitHub Pages
+
+<p align="center">
+  <img src="images/sprint1/sp1-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la página](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint  
 
