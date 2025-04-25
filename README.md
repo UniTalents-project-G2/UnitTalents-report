@@ -487,7 +487,7 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen: <br>
-      Estefano Solis es 
+      Estefano Solís, estudiante de Ingeniería de Software de 19 años, busca activamente oportunidades laborales para ganar experiencia práctica en su campo. Ha trabajado como freelancer en proyectos pequeños, pero enfrenta dificultades para acceder a puestos formales debido a la exigencia de experiencia previa, conocimientos técnicos específicos y un alto nivel de inglés. Aunque tiene una base sólida en programación (Python, Java, C++, SQL) y control de versiones, muchas veces siente que su perfil es descartado automáticamente. Estaría dispuesto a colaborar en tareas como testing, debugging y apoyo en desarrollo. Valora entornos donde pueda aprender y recibir validación por su trabajo. Al presentársele la idea de una plataforma que conecte a jóvenes con empresas mediante proyectos concretos, la consideró una oportunidad ideal para iniciar su historial profesional y construir un portafolio.
     </td>
   </tr>
   <tr>
