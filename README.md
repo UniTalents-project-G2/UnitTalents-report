@@ -2627,7 +2627,143 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 
 #### 5.1.1. Software Development Environment Configuration  
 
-#### 5.1.2. Source Code Management  
+**Gestión de Proyecto (Project Management)**
+
+GitHub Pages: Plataforma basada en la web para gestionar y alojar las páginas del proyecto. Facilita la colaboración en la documentación y permite desplegar contenidos en línea de forma fácil y accesible.
+
+Ruta de acceso: https://pages.github.com
+
+**Gestión de Requisitos (Requirements Management)**
+
+Trello: Aplicación para organizar tareas, asignar responsabilidades y monitorear el avance de las actividades. Se utilizará para coordinar las tareas del equipo y gestionar el progreso de los sprints e historias de usuario.
+
+Ruta de acceso: https://trello.com/es
+
+**Diseño de UX/UI del Producto (Product UX/UI Design)**
+
+Figma: Herramienta online para crear prototipos y diseños gráficos. Se empleará para desarrollar las interfaces de usuario de la aplicación en sus versiones Desktop y Mobile.
+
+Ruta de acceso: https://www.figma.com/login
+
+Overflow: Plataforma para diseñar flujos de usuario y wireflows, útil para representar la experiencia del usuario dentro del sistema.
+
+Ruta de acceso: https://overflow.io
+
+**Desarrollo de Software (Software Development)**
+
+Visual Studio Code: Entorno de desarrollo integrado utilizado por el equipo para escribir y compilar código, gracias a su soporte extensivo de lenguajes y herramientas adicionales.
+
+Ruta de acceso: https://code.visualstudio.com
+
+IntelliJ IDEA: IDE avanzado para el desarrollo de aplicaciones en lenguajes como Java y Kotlin, siendo clave para la creación de los componentes del sistema.
+
+Ruta de acceso: https://www.jetbrains.com/idea
+
+HTML5: Lenguaje de marcado para estructurar el contenido web de la aplicación.
+
+Ruta de acceso: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+CSS: Lenguaje de estilos utilizado para diseñar y presentar las páginas web, garantizando una presentación adecuada del contenido.
+
+Ruta de acceso:  https://developer.mozilla.org/en-US/docs/Web/CSS
+
+JavaScript: Lenguaje de programación que permite implementar funcionalidades interactivas en el navegador, esencial para la interacción con la interfaz de usuario.
+
+Ruta de acceso: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+**Despliegue de Software (Software Deployment)**
+
+Git: Sistema de control de versiones que registra los cambios en el código fuente y facilita el trabajo colaborativo entre los miembros del equipo. Se usará para mantener el historial del proyecto y controlar las versiones del software.
+
+Ruta de acceso: https://git-scm.com
+
+**Documentación del Software (Software Documentation)**
+
+Markdown: Lenguaje de marcado utilizado para crear documentación técnica, permitiendo una fácil redacción y lectura en plataformas como GitHub.
+
+Ruta de acceso: https://www.markdownguide.org
+
+GitHub Pages: Servicio en la web para alojar documentación del proyecto, accesible públicamente o de manera privada.
+
+Ruta de acceso: https://pages.github.com
+
+#### 5.1.2. Source Code Management 
+
+GitHub se utilizará como plataforma central de control de versiones para todo el proyecto. En este apartado se podra visualizar los URL de los repositorios de GitHub de nuestra Documentacion de nuestro informe y nuestra Landing Page.
+
+URL de Repositorios:
+
+Documentacion Informe: https://github.com/UniTalents-project-G2/UnitTalents-report
+
+Landing Page: https://github.com/UniTalents-project-G2/UniTalents-LandingPage
+
+Cada repositorio incluirá todos los archivos del proyecto.
+
+**Implementación de GitFlow como Workflow de Control de Versiones**
+
+Modelo de GitFlow:
+
+GitFlow se implementará como el flujo de trabajo para gestionar las ramas del proyecto y asegurar una integración fluida entre los desarrolladores.
+
+<p align="center">
+  <img src="images/flujo-gitflow.png" alt="wireflows" width="500">
+</p>
+
+Ramas principales:
+
+Main branch: main
+
+Esta será la rama principal donde siempre se encontrará el código estable y listo para producción.
+
+Development branch: develop
+
+Aquí se realizará todo el desarrollo del proyecto antes de fusionarlo a la rama principal. Los cambios y mejoras en el código serán fusionados primero en esta rama antes de pasar a main.
+
+Feature branches: feature
+
+ Cada nueva funcionalidad o característica se desarrollará en una rama separada basada en develop. Estas ramas seguirán la convención:
+
+feature/ch1-actvidiad-hecha
+
+Ejemplo: feature/ch1-target-segment
+
+Release branches: realse
+
+Para preparar el proyecto para una nueva versión estable, se creará una rama de liberación a partir de develop.Este tipo de ramas se utilizará para corregir errores menores, realizar pruebas finales y documentar el código antes de realizar una versión estable. Las ramas de liberación seguirán la convención:
+
+release/version
+
+Ejemplo: release/v1.0.0
+
+Hotfix branches: hotfix
+
+Cuando sea necesario realizar una corrección crítica o urgente en producción, se creará una rama desde main. Las ramas de hotfix seguirán la convención:
+
+hotfix/parte-arreglada
+
+Ejemplo: hotfix/imagen-bug
+
+**Convenciones para Versiones**
+
+Se aplicará Semantic Versioning (Versionado Semántico) para todas las versiones lanzadas.
+
+**Mensajes de Commits con Conventional Commits**
+ 
+Para los mensajes de commit, se implementará Conventional Commits para asegurar claridad en los cambios realizados en el código. Esta convención incluirá los siguientes tipos:
+
+feat: Nuevas características o funcionalidades.
+
+fix: Corrección de errores.
+
+docs: Cambios en la documentación.
+
+style: Cambios de formato, sin alterar la funcionalidad.
+
+refactor: Refactorización de código, sin cambios en el comportamiento.
+
+test: Añadir o modificar pruebas.
+
+chore: Tareas de mantenimiento.
 
 #### 5.1.3. Source Code Style Guide & Conventions  
 
