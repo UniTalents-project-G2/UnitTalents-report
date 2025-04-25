@@ -2549,6 +2549,103 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 #### 4.4.3. Web Applications Mock-ups  
 
+Los siguientes Mock-ups fueron elaborados en base a los wireframes previamente hechos. Representan fielmente la manera en la que nuestros usuarios podrán apreciar la aplicación web.
+
+[Enlace Figma](https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1)
+<br><br>
+
++ Iniciar Sesión / Registrarse:
+
+Permite a nuevos usuarios crear una cuenta como estudiante o gerente, y a usuarios existentes ingresar con sus credenciales para acceder a su respectivo dashboard.
+
+<p align="center">
+  <img src="images/mockups/Sign In.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/mockups/Manager Register.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/mockups/Student Register.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Dashboard del Estudiante:
+
+Muestra un resumen del estado de las postulaciones, proyectos sugeridos, y accesos rápidos a portafolio y feedback. El punto de inicios son las oportunidades.
+
+<p align="center">
+  <img src="images/mockups/HomePage(Estudiante).png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Agregar Proyecto al Portafolio:
+
+Formulario para registrar un nuevo proyecto, con campos como título, descripción, tecnologías y enlaces.
+
+<p align="center">
+  <img src="images/mockups/Estudiante - Portafolio - Add project.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Vista del Portafolio del Estudiante:
+
+Muestra todos los proyectos subidos con opción de editar o eliminar.
+
+<p align="center">
+  <img src="images/mockups/Estudiante - Portafolio.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Mis Postulaciones:
+
+Muestra el estado actual de todas las postulaciones enviadas (en revisión, aceptado, rechazado).
+
+<p align="center">
+  <img src="images/mockups/Estudiante - Mis Postulaciones.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Dashboard del Gerente:
+
+Muestra resumen de proyectos activos, buscar talento, mis evaluaciones y mi empresa. Empezando con Mis Proyectos.
+
+<p align="center">
+  <img src="images/mockups/HomePage(Gerente).png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Vista del Proyecto:
+
+Presenta los detalles del proyecto ya concluido, historial del proceso, entregables y resultados.
+
+<p align="center">
+  <img src="images/mockups/View Project Info.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Buscar Talento:
+
+Permite buscar estudiantes por filtros, acceder a perfiles, portafolios y evaluaciones anteriores.
+
+<p align="center">
+  <img src="images/mockups/Gerente - Buscar Talento.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Evaluaciones:
+
+Panel que muestra los proyectos pendientes de evaluación y permite calificar estudiantes.
+
+<p align="center">
+  <img src="images/mockups/Gerente - Evaluaciones.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+
 #### 4.4.4. Web Applications User Flow Diagrams  
 
 ### 4.5. Web Applications Prototyping  
