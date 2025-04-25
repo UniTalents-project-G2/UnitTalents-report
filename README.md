@@ -2474,6 +2474,8 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 **User Goal:** Como nuevo usuario, quiero ingresar o crear una cuenta, para acceder a la plataforma según mi rol.
 
+**User Persona:** Estudiante y Gerente de empresa
+
 **Flujo:** El usuario accede a la landing page y hace clic en “Acceder” desde el encabezado. Al seleccionar una opción, puede elegir entre perfil Estudiante o Gerente mediante un botón conmutador. Si ya está registrado, introduce su correo y contraseña. Si es nuevo, completa el formulario correspondiente con nombre, correo, contraseña y rubro (en el caso de estudiantes). Tras completar el proceso, es redirigido automáticamente a su dashboard correspondiente.
 
 <p align="center">
@@ -2484,6 +2486,8 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 + **Wireflow 2: Postular a un proyecto**
 
 **User Goal:** Como estudiante, quiero postularme a un proyecto, para ganar experiencia y construir mi portafolio.
+
+**User Persona:** Estudiante
 
 **Flujo:** Desde el menú lateral, el estudiante accede a la sección Oportunidades. Allí visualiza un listado de proyectos activos con filtros (carrera, habilidades, duración, etc.). Al hacer clic en un proyecto, se despliega su ficha completa con descripción, empresa y requisitos. El estudiante hace clic en “Postularme”, y recibe una confirmación visual de que su postulación fue enviada. El proyecto aparece ahora en la sección “Mis Postulaciones”.
 
@@ -2496,6 +2500,8 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 **User Goal:** Como estudiante, quiero gestionar mis proyectos, para mostrar mi trabajo a posibles contratantes.
 
+**User Persona:** Estudiante
+
 **Flujo:** Desde su dashboard, el estudiante selecciona la sección Mi Portafolio. Allí encuentra una lista de tarjetas con sus proyectos previos. Puede hacer clic en “Agregar proyecto” para abrir un formulario con campos como título, descripción, tecnologías y enlaces o archivos. También puede editar o eliminar un proyecto existente desde un ícono de opciones en cada tarjeta. Al guardar los cambios, la lista se actualiza y queda lista para ser visualizada por los gerentes.
 
 <p align="center">
@@ -2506,6 +2512,8 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 + **Wireflow 4: Calificar empresa**
 
 **User Goal:** Como estudiante, quiero evaluar a la empresa al finalizar un proyecto, para compartir mi experiencia con otros usuarios.
+
+**User Persona:** Estudiante
 
 **Flujo:** Una vez que un proyecto en el que participó ha sido marcado como Finalizado, el estudiante recibe una notificación para dejar una calificación. Desde Mis Postulaciones, puede acceder a un botón “Calificar empresa” que le permite puntuar aspectos como comunicación, claridad de requerimientos y cumplimiento de condiciones, además de dejar un comentario opcional. Al confirmar la evaluación, esta se almacena en el historial de la empresa y contribuye a su reputación en la plataforma.
 
@@ -2518,6 +2526,8 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 **User Goal:** Como gerente, quiero publicar un nuevo proyecto, para encontrar estudiantes con el perfil adecuado.
 
+**User Persona:** Gerente
+
 **Flujo:** Desde el apartado "Mis Proyectos", el gerente accede a la opción “Agregar Proyecto”. Se abre un formulario con campos organizados paso a paso: nombre del proyecto, descripción, habilidades requeridas, duración, modalidad, fechas clave y nivel de compromiso. Al finalizar, puede hacer clic en “Publicar” y el proyecto pasa a estar visible en la plataforma dentro del explorador de oportunidades. 
 
 <p align="center">
@@ -2529,6 +2539,8 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 **User Goal:** Como gerente, quiero calificar al estudiante que participó en mi proyecto, para contribuir a su reputación.
 
+**User Persona:** Gerente
+
 **Flujo:** Una vez un proyecto termina, el gerente accede a Evaluaciones. Ahí visualiza la lista de estudiantes asignados. Al hacer clic en “Evaluar”, se abre un formulario con escala de puntuación (ej. responsabilidad, calidad, puntualidad) y un campo de comentario. Al guardar, la evaluación se almacena y se refleja en la reputación del estudiante, visible para futuros gerentes.
 
 <p align="center">
@@ -2539,6 +2551,8 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 + **Wireflow 7: Contratar estudiante**
 
 **User Goal:** Como gerente, quiero seleccionar a un estudiante para un proyecto, para iniciar oficialmente su participación.
+
+**User Persona:** Gerente
 
 **Flujo:** Desde el listado de postulaciones dentro de un proyecto publicado, el gerente puede revisar el perfil y portafolio de cada candidato. Al decidirse por uno, hace clic en el botón “Contratar” dentro de su tarjeta. Se solicita una confirmación de la acción y se genera automáticamente el vínculo entre el estudiante y el proyecto. A partir de ese momento, el proyecto se mueve a la fase En curso y el estudiante recibe una notificación en su panel.
 
@@ -2647,6 +2661,103 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 
 #### 4.4.4. Web Applications User Flow Diagrams  
+
+
+[Enlace para acceder a Overflow](https://overflow.io/s/QHU9N2IZ)
+
+<br>
+
++ **User Flow Diagram 1: Login / Registrarse**
+
+**User Goal:** Como nuevo usuario, quiero ingresar o crear una cuenta, para acceder a la plataforma según mi rol.
+
+**User Persona:** Gerente de empresa y Estudiante
+
+**Flujo:** El usuario accede a la landing page y hace clic en “Acceder” desde el encabezado. Al seleccionar una opción, puede elegir entre perfil Estudiante o Gerente mediante un botón conmutador. Si ya está registrado, introduce su correo y contraseña. Si es nuevo, completa el formulario correspondiente con nombre, correo, contraseña y rubro (en el caso de estudiantes). Tras completar el proceso, es redirigido automáticamente a su dashboard correspondiente.
+
+<p align="center">
+  <img src="images/userflows/login.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 2: Postular a un proyecto**
+
+**User Goal:** Como estudiante, quiero postularme a un proyecto, para ganar experiencia y construir mi portafolio.
+
+**User Persona:** Estudiante
+
+**Flujo:** Desde el menú lateral, el estudiante accede a la sección Oportunidades. Allí visualiza un listado de proyectos activos con filtros (carrera, habilidades, duración, etc.). Al hacer clic en un proyecto, se despliega su ficha completa con descripción, empresa y requisitos. El estudiante hace clic en “Postularme”, y recibe una confirmación visual de que su postulación fue enviada. El proyecto aparece ahora en la sección “Mis Postulaciones”.
+
+<p align="center">
+  <img src="images/userflows/postular.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 3: Gestionar portafolio**
+
+**User Goal:** Como estudiante, quiero gestionar mis proyectos, para mostrar mi trabajo a posibles contratantes.
+
+**User Persona:** Estudiante
+
+**Flujo:** Desde su dashboard, el estudiante selecciona la sección Mi Portafolio. Allí encuentra una lista de tarjetas con sus proyectos previos. Puede hacer clic en “Agregar proyecto” para abrir un formulario con campos como título, descripción, tecnologías y enlaces o archivos. También puede editar o eliminar un proyecto existente desde un ícono de opciones en cada tarjeta. Al guardar los cambios, la lista se actualiza y queda lista para ser visualizada por los gerentes.
+
+<p align="center">
+  <img src="images/userflows/gestionarportafolio.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 4: Calificar empresa**
+
+**User Goal:** Como estudiante, quiero evaluar a la empresa al finalizar un proyecto, para compartir mi experiencia con otros usuarios.
+
+**User Persona:** Estudiante
+
+**Flujo:** Una vez que un proyecto en el que participó ha sido marcado como Finalizado, el estudiante recibe una notificación para dejar una calificación. Desde Mis Postulaciones, puede acceder a un botón “Calificar empresa” que le permite puntuar aspectos como comunicación, claridad de requerimientos y cumplimiento de condiciones, además de dejar un comentario opcional. Al confirmar la evaluación, esta se almacena en el historial de la empresa y contribuye a su reputación en la plataforma.
+
+<p align="center">
+  <img src="images/userflows/calificar empresa.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 5: Crear proyecto**
+
+**User Goal:** Como gerente, quiero publicar un nuevo proyecto, para encontrar estudiantes con el perfil adecuado.
+
+**User Persona:** Gerente de Empresa
+
+**Flujo:** Desde el apartado "Mis Proyectos", el gerente accede a la opción “Agregar Proyecto”. Se abre un formulario con campos organizados paso a paso: nombre del proyecto, descripción, habilidades requeridas, duración, modalidad, fechas clave y nivel de compromiso. Al finalizar, puede hacer clic en “Publicar” y el proyecto pasa a estar visible en la plataforma dentro del explorador de oportunidades. 
+
+<p align="center">
+  <img src="images/userflows/crearproyecto.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 6: Calificar postulante**
+
+**User Goal:** Como gerente, quiero calificar al estudiante que participó en mi proyecto, para contribuir a su reputación.
+
+**User Persona:** Gerente de Empresa
+
+**Flujo:** Una vez un proyecto termina, el gerente accede a Evaluaciones. Ahí visualiza la lista de estudiantes asignados. Al hacer clic en “Evaluar”, se abre un formulario con escala de puntuación (ej. responsabilidad, calidad, puntualidad) y un campo de comentario. Al guardar, la evaluación se almacena y se refleja en la reputación del estudiante, visible para futuros gerentes.
+
+<p align="center">
+  <img src="images/userflows/calificarestudainte.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 7: Contratar estudiante**
+
+**User Goal:** Como gerente, quiero seleccionar a un estudiante para un proyecto, para iniciar oficialmente su participación.
+
+**User Persona:** Gerente de Empresa
+
+**Flujo:** Desde el listado de postulaciones dentro de un proyecto publicado, el gerente puede revisar el perfil y portafolio de cada candidato. Al decidirse por uno, hace clic en el botón “Contratar” dentro de su tarjeta. Se solicita una confirmación de la acción y se genera automáticamente el vínculo entre el estudiante y el proyecto. A partir de ese momento, el proyecto se mueve a la fase En curso y el estudiante recibe una notificación en su panel.
+
+<p align="center">
+  <img src="images/userflows/contratarestudiante.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
 
 ### 4.5. Web Applications Prototyping  
 
