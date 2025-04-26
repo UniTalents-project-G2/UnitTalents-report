@@ -2582,47 +2582,47 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 
 **Registro de usuarios**
 <p align="center">
-  <img src="images/diagramaC4/c4-registro-usuarios.png" alt="" width="400">
+  <img src="images/diagramaC4/c4-registro-usuarios.png" alt="" width="500">
 </p>
 
 **Autenticación y Autorización**
 <p align="center">
-  <img src="images/diagramaC4/c4-autenticacion-autorizacion.png" alt="" width="400">
+  <img src="images/diagramaC4/c4-autenticacion-autorizacion.png" alt="" width="500">
 </p>
 
 **Gestión de Proyectos**
 <p align="center">
-  <img src="images/diagramaC4/c4-gestion-proyectos.png" alt="" width="400">
+  <img src="images/diagramaC4/c4-gestion-proyectos.png" alt="" width="500">
 </p>
 
 **Gestión de Pagos y Suscripciones**
 <p align="center">
-  <img src="images/diagramaC4/c4-gestion-pagos-suscripciones.png" alt="" width="400">
+  <img src="images/diagramaC4/c4-gestion-pagos-suscripciones.png" alt="" width="500">
 </p>
 
 **Notificaciones**
 <p align="center">
-  <img src="images/diagramaC4/c4-notificaciones.png" alt="" width="400">
+  <img src="images/diagramaC4/c4-notificaciones.png" alt="" width="500">
 </p>
 
 **Gestión de Perfiles y Portafolios**
 <p align="center">
-  <img src="images/diagramaC4/c4-gestion-perfiles-portafolios.png" alt="" width="400">
+  <img src="images/diagramaC4/c4-gestion-perfiles-portafolios.png" alt="" width="500">
 </p>
 
 **Sistema de Evaluaciones**
 <p align="center">
-  <img src="images/diagramaC4/c4-sistema-evaluaciones.png" alt="" width="400">
+  <img src="images/diagramaC4/c4-sistema-evaluaciones.png" alt="" width="500">
 </p>
 
 **Modulo de Búsqueda**
 <p align="center">
-  <img src="images/diagramaC4/c4-modulo-busqueda.png" alt="" width="400">
+  <img src="images/diagramaC4/c4-modulo-busqueda.png" alt="" width="500">
 </p>
 
 **Panel Administración**
 <p align="center">
-  <img src="images/diagramaC4/c4-panel-administrativo.png" alt="" width="400">
+  <img src="images/diagramaC4/c4-panel-administrativo.png" alt="" width="500">
 </p>
 
 ### 4.7. Software Object-Oriented Design
