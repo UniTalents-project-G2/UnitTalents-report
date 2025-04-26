@@ -2719,6 +2719,35 @@ chore: Tareas de mantenimiento.
 
 #### 5.1.3. Source Code Style Guide & Conventions  
 
+**HTML:** Estas prácticas se aplicaron en el desarrollo de la Landing Page estática.
+
+1. Se utilizará href=#id para una navegación interna fluida.
+
+2. Se utilizan atributos "alt" para reemplazar imagenes en caso de que no carguen. Por ejemplo: < img src="images/image-hero.png" alt="Persona frente a computadora"/>
+
+
+3. Los iconos SVG serán conseguidos desde FontAwesome.
+
+4. Se utilizará snake case para nombrar los id y las clases. Por ejemplo: class="success-stories" id="casos-exito"
+
+**CSS:**
+1. Se utiliza Flexbox para facilitar el diseño responsive de la Landing Page.
+
+2. Los colores utilizados serán definidos en codigo HEX. Por ejemplo: #1C1F2B
+
+3. Se utiliza comentarios al inicio de cada hoja de estilos para distinguir las secciones de la Landing Page.
+
+
+
+**JavaScript:** 
+
+1. Para la declaración de funciones se utilizará Camel Case. 
+
+
+**Gherkin:** Este lenguaje de dominio se utilizó para realizar los escenarios de las User Stories usando palabras clave como "Given", "When", "Then" y "And".
+
+
+
 #### 5.1.4. Software Deployment Configuration  
 
 ### 5.2. Landing Page, Services & Applications Implementation
