@@ -2750,6 +2750,24 @@ chore: Tareas de mantenimiento.
 
 #### 5.1.4. Software Deployment Configuration  
 
+**Landing Page Deployment:**
+
+Para el despliegue de nuestra Landing Page se utilizó Github Pages por la facilidad de uso. Se tomó el archivo index.html como punto de entrada para el principal.
+
+<p align="center">
+  <img src="images/deployment-1.png" alt="deployment-evidence" width="1000">
+</p>
+
+Se nos muestra el enlace que usaremos para compartir la vista de nuestra Landing Page estática.
+
+<p align="center">
+  <img src="images/deployment-2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+
+[Enlace para acceder a la Landing Page](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
+
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
