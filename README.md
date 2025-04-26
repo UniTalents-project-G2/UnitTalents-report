@@ -694,7 +694,7 @@ análisis?</td>
     <td rowspan="2">Overview</td>
     <td> UniTalent Connect
 
-![logo UniTalent Connect](...)
+<img src="images/LogoUniTalents-Connect.png" alt="logo" width="1000">
 </td>
     <td>
     Workana
@@ -1069,16 +1069,18 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>00:05</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen: <br>
-      Estefano Solis es 
+      Estefano Solis, estudiante de Ingeniería de Software de 19 años, busca activamente oportunidades laborales para ganar experiencia práctica en su campo. Ha trabajado como freelancer en proyectos pequeños, pero enfrenta dificultades para acceder a puestos formales debido a la exigencia de experiencia previa, conocimientos técnicos específicos y un alto nivel de inglés. Aunque tiene una base sólida en programación (Python, Java, C++, SQL) y control de versiones, muchas veces siente que su perfil es descartado automáticamente. Estaría dispuesto a colaborar en tareas como testing, debugging y apoyo en desarrollo. Valora entornos donde pueda aprender y recibir validación por su trabajo. Al presentársele la idea de una plataforma que conecte a jóvenes con empresas mediante proyectos concretos, la consideró una oportunidad ideal para iniciar su historial profesional y construir un portafolio.
     </td>
   </tr>
   <tr>
@@ -1088,6 +1090,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
 </table>
 
+<br><br>
 
 <table align="center">
   <tr>
@@ -1107,11 +1110,13 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>6:17</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1125,6 +1130,49 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
     </td>
   </tr>
 </table>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Ian Curo</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>10:22</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      Ian es un estudiante de Ingeniería Mecatrónica interesado en comenzar a trabajar, principalmente por motivos económicos y personales. Aunque ya ha tenido experiencia laboral, esta no ha estado relacionada con su carrera. Reconoce que encontrar empleo en su rubro puede ser complicado debido al alto nivel de conocimientos técnicos que se requieren. Considera que las empresas priorizan candidatos con experiencia laboral, jóvenes, con alta disponibilidad, habilidades blandas y conocimientos técnicos específicos. Ha experimentado dificultades para acceder a ciertos puestos por falta de experiencia previa, aunque aclara que esto puede depender del tipo de trabajo. Entre las actividades en las que tiene mayor soltura están la mecánica, soporte técnico, servicios y automóviles. Destaca su proactividad y buen desenvolvimiento interpersonal, y afirma contar con habilidades blandas sólidas gracias a experiencias previas en otros trabajos. Menciona que usa plataformas como LinkedIn y redes sociales para buscar oportunidades laborales. Finalmente, considera que UniTalents Connect es una buena propuesta, ya que ve como necesaria una herramienta que conecte a empresas con jóvenes con alta disponibilidad para tareas específicas.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/entrevista-IanCuro.png" alt="entrevista" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 *Entrevistas a segmento 2*
 ---
@@ -1147,11 +1195,13 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>16:22</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1166,9 +1216,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
 </table>
 
-
-<br>
-
+<br><br>
 
 <table align="center">
   <tr>
@@ -1188,11 +1236,13 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>21:32</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1207,7 +1257,60 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
 </table>
 
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Luis Enrique Ayala</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>33</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>38:11</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Luis Enrique Ayala, actual gerente nacional de ventas de Donofrio en Nestlé, describe su rol como estratégico, enfocado en diseñar, ordenar y delegar tareas dentro de su equipo, mientras que áreas como marketing o soporte operativo las gestiona a través de equipos especializados. En casos de emergencia o sobrecarga, recurre a agencias externas para recibir apoyo, aunque comenta que existen demoras importantes en la respuesta, llegando a tardar entre 3 semanas y 1 mes para conseguir personal disponible. Señala que la mayor dificultad para contratar radica en la falta de confianza, los elevados filtros que deben pasar los candidatos externos, y los limitados presupuestos disponibles para profesionales experimentados. Reconoce que no suele dejar tareas sin hacer por falta de personal, pero sí experimenta retrasos debido a estos cuellos de botella. Al momento de colaborar en proyectos, Luis prioriza el conocimiento técnico, la actitud proactiva, la confianza y el trabajo en equipo. Afirma que la experiencia laboral sigue siendo un factor clave, especialmente para cargos de mayor responsabilidad, ya que permite una mejor capacidad de reacción ante problemas. Sin embargo, también valora las habilidades blandas para puestos de entrada. Finalmente, valida positivamente la propuesta de UniTalents Connect, destacando que actualmente no existe una solución que le permita contactar rápidamente con talento joven calificado, ajustado a sus necesidades específicas.
+    </td>
+  </tr>
+   <tr>
+    <td colspan="2"><br>
+      <img src="images/entrevista-luisAyala.jpg" alt="entrevista" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
 #### 2.2.3. Análisis de entrevistas  
+
+*Análisis de Entrevistas – Segmento 1 (Estudiantes)*
+---
+En primer lugar, el 100% de los entrevistados tiene entre 19 y 20 años y actualmente cursa una carrera universitaria relacionada con tecnología o ingeniería. Todos comparten el deseo de obtener ingresos propios mientras estudian, ya sea por razones económicas personales o familiares. Asimismo, el 100% de ellos reconoce haber tenido dificultades para acceder a oportunidades laborales dentro de su rubro, debido a la exigencia de experiencia previa, conocimientos técnicos avanzados o alta disponibilidad, condiciones poco compatibles con la realidad académica de un estudiante. El 100% afirma haber utilizado plataformas como LinkedIn, Computrabajo o redes sociales para buscar trabajo, aunque también declaran que estas plataformas no siempre se ajustan al perfil de un estudiante sin experiencia. El 66% indica que ha tenido experiencias laborales previas, aunque no necesariamente relacionadas con su carrera. Todos manifiestan disposición para realizar proyectos pequeños o tareas específicas con el objetivo de ganar experiencia profesional y fortalecer su portafolio. En cuanto a habilidades, el 100% valora sus habilidades blandas, como la proactividad, el trabajo en equipo y la comunicación, considerándolas claves para desenvolverse en entornos laborales aún sin experiencia técnica formal. Finalmente, el 100% de los entrevistados valida positivamente la idea de UniTalents Connect, reconociendo que no existe actualmente una plataforma enfocada en conectar empresas con estudiantes dispuestos a colaborar en proyectos reales y de corta duración, que les permitan construir experiencia profesional desde etapas tempranas.
+
+<br>
+
+*Análisis de Entrevistas – Segmento 2 (Gerentes / Empresarios)*
+---
+El 100% de los entrevistados ocupa cargos gerenciales en empresas con distintos enfoques (tecnología, educación, consumo masivo), con edades que oscilan entre los 33 y 58 años. Todos cuentan con experiencia laboral significativa y participan activamente en la toma de decisiones estratégicas y operativas dentro de sus organizaciones. Un hallazgo común en el 100% de los casos es que las empresas sí recurren a personal externo, principalmente cuando el equipo interno no puede asumir toda la carga operativa, especialmente en momentos críticos o campañas específicas. Sin embargo, también el 100% identifica limitaciones al momento de contratar: principalmente la falta de confianza, los procesos lentos de intermediación (con agencias), la disponibilidad del talento y el costo de profesionales con experiencia. El 100% de los entrevistados coincide en que la confianza y la actitud son factores decisivos al momento de seleccionar colaboradores, incluso por encima de los conocimientos técnicos en algunos casos. Además, un 66% valora el uso de portafolios y catálogos virtuales como solución para agilizar procesos de selección y tomar decisiones informadas. Si bien todos reconocen que la experiencia laboral sigue siendo relevante (sobre todo en roles de responsabilidad), también valoran las habilidades blandas y la proactividad, especialmente en perfiles junior o de entrada. Finalmente, el 100% de los entrevistados validó positivamente la propuesta de UniTalents Connect, resaltando la necesidad de una plataforma que permita conectar con talento joven confiable, con alta disponibilidad y evidencia clara de sus habilidades, sin pasar por procesos burocráticos o poco flexibles. Consideran que una herramienta así podría optimizar el tiempo de respuesta y permitir cubrir tareas específicas de forma más eficiente y ajustada al contexto actual.
+
+<br>
 
 ### 2.3. Needfinding
 
