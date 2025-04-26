@@ -2595,6 +2595,120 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 ##### 5.2.1.3. Sprint Backlog 1 
 
+Durante el primer sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. La herramienta empleada para la organización y gestión a los miembros del equipo fue Trello. Ya que esta herramienta permitió que se pueda dividir todas las user stories
+en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era
+construir en su totalidad la landing page, logrando que sea atractiva y funcional.
+
+<img src="images/SprintBacklogTrello.png" alt="wireflows" width="1000">
+
+link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="6">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status (To-do/In-Process/To-Review/Done)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US01</td>
+            <td>Comprender el propósito de la plataforma desde la página de inicio</td>
+            <td>UT01</td>
+            <td>Crear mensaje principal de bienvenida</td>
+            <td>Crear un mensaje claro y llamativo que explique qué es UniTalents Connect y cómo funciona para nuevos usuarios en la landing page.</td>
+            <td>3</td>
+            <td>Andrés Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Registro inmediato desde la landing</td>
+            <td>UT02</td>
+            <td>	Implementar botón "Acceder" en el header</td>
+            <td>Añadir funcionalidad a los enlaces de la sección contacto</td>
+            <td>1</td>
+            <td>Javier Gonzales</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Ver testimonios de usuarios reales</td>
+            <td>UT03</td>
+            <td>Funcionalidad "desplegar y contraer pregunta"</td>
+            <td>Mostrar testimonios reales exitosos de usuarios
+            </td>
+            <td>2</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Llamados a la acción claros en cada sección</td>
+            <td>UT04</td>
+            <td>Botones interactivos para fácil acceso</td>
+            <td>configurar botones de acción relevantes a lo largo de la landing</td>
+            <td>1</td>
+            <td>Cesar Linares</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US25</td>
+            <td>Tener un encabezado fijo para navegar por la página</td>
+            <td>UT05</td>
+            <td>Encabezado visible al hacer scroll</td>
+            <td>	Implementar que el encabezado de la landing page permanezca visible mientras se hace scroll hacia abajo, manteniendo acceso a secciones principales.</td>
+            <td>2</td>
+            <td>Renzo Rivera</td>
+            <td>In-Process</td>
+        </tr>
+          <tr>
+            <td>US26</td>
+            <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
+            <td>UT06</td>
+            <td>Implementar sección FAQs accesible</td>
+            <td>Crear sección FAQs accesible desde el menú superior, permitiendo despliegue de preguntas y respuestas en formato claro y organizado.</td>
+            <td>3</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US27</td>
+            <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
+            <td>UT07</td>
+            <td>Crear mensaje visual principal de propuesta de valor</td>
+            <td>Diseñar e implementar un bloque visual llamativo con mensaje corto + imagen/ilustración en la landing page que transmita el valor de UniTalents Connect.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US28</td>
+            <td>Acceder a información de contacto o soporte desde la landing</td>
+            <td>UT08</td>
+            <td>	Acceso a información de contacto o soporte</td>
+            <td>acceso fáci a los datos de contacto o soporte para resolver dudas antes de registrarme o publicar un</td>
+            <td>2</td>
+            <td>Cesar Linares</td>
+            <td>To-Review</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ##### 5.2.1.4. Development Evidence for Sprint Review  
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
