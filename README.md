@@ -2558,36 +2558,71 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 El Domain Driven Design (DDD) permite alinear el desarrollo de UniTalent Connect con las necesidades reales del dominio freelance estudiantil. A través del uso de un lenguaje ubicuo y una estructura centrada en el negocio, se mejora la colaboración entre desarrolladores y expertos del dominio. DDD guía el diseño del sistema mediante patrones y diagramas que reflejan fielmente la lógica del dominio. 
 
 Este diagrama de arquitectura fue creado en **Structurizr**.
-[Ver el diagrama en Structurizr](https://structurizr.com/share/101680/d80ffe9c-a1bc-4b6b-9909-9f517d610348)
+[Ver el diagrama en Structurizr](https://structurizr.com/share/101676/c0e4ce4f-36d3-4065-b4e4-ae9dc8c4d388)
 
 #### 4.6.1. Software Architecture Context Diagram  
 
 El diagrama de contexto ofrece una visión general de alto nivel que representa cómo el sistema de software UniTalent Connect se relaciona con sus usuarios y, cuando aplica, con otros sistemas externos.
 
 <p align="center">
-  <img src="images/diagramaC4/diagramac4-contexto.png" alt="UPC logo" width="500">
+  <img src="images/diagramaC4/c4-context.png" alt="" width="800">
 </p>
 
 #### 4.6.2. Software Architecture Container Diagrams  
 
-El diagrama de contenedores proporciona una vista general de alto nivel sobre cómo se conectan las aplicaciones y las fuentes de datos que forman parte de la operación del sistema de software UniTalent Connect.
+El diagrama de contenedores proporciona una vista general de alto nivel sobre el software UniTalent Connect.
 
 <p align="center">
-  <img src="images/diagramaC4/diagramac4-contenedores.png" alt="UPC logo" width="800">
+  <img src="images/diagramaC4/c4-container.png" alt="" width="1000">
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams  
 
-Los diagramas de componentes muestran la estructura interna de los contenedores principales del sistema UniTalent Connect, detallando cómo se organizan e interactúan sus componentes. En este caso, se presentan los componentes clave de la Web Application (interfaz de usuario) y de la API Application (lógica de negocio y acceso a datos), lo cual permite entender cómo se implementan las funcionalidades y cómo se comunican entre sí a través de servicios.
+Los diagramas de componentes muestran la estructura interna de los contenedores principales del sistema UniTalent Connect, detallando cómo se organizan e interactúan sus componentes. En este caso, se presentan todos los componentes de las diferentes funcionalidades que va a tener nuestro producto.
 
-**Web Application**
+**Registro de usuarios**
 <p align="center">
-  <img src="images/diagramaC4/diagramac4-webapplication.png" alt="UPC logo" width="1000">
+  <img src="images/diagramaC4/c4-registro-usuarios.png" alt="" width="400">
 </p>
 
-**API Application**
+**Autenticación y Autorización**
 <p align="center">
-  <img src="images/diagramaC4/diagramac4-coponenteAPI.png" alt="UPC logo" width="1000">
+  <img src="images/diagramaC4/c4-autenticacion-autorizacion.png" alt="" width="400">
+</p>
+
+**Gestión de Proyectos**
+<p align="center">
+  <img src="images/diagramaC4/c4-gestion-proyectos.png" alt="" width="400">
+</p>
+
+**Gestión de Pagos y Suscripciones**
+<p align="center">
+  <img src="images/diagramaC4/c4-gestion-pagos-suscripciones.png" alt="" width="400">
+</p>
+
+**Notificaciones**
+<p align="center">
+  <img src="images/diagramaC4/c4-notificaciones.png" alt="" width="400">
+</p>
+
+**Gestión de Perfiles y Portafolios**
+<p align="center">
+  <img src="images/diagramaC4/c4-gestion-perfiles-portafolios.png" alt="" width="400">
+</p>
+
+**Sistema de Evaluaciones**
+<p align="center">
+  <img src="images/diagramaC4/c4-sistema-evaluaciones.png" alt="" width="400">
+</p>
+
+**Modulo de Búsqueda**
+<p align="center">
+  <img src="images/diagramaC4/c4-modulo-busqueda.png" alt="" width="400">
+</p>
+
+**Panel Administración**
+<p align="center">
+  <img src="images/diagramaC4/c4-panel-administrativo.png" alt="" width="400">
 </p>
 
 ### 4.7. Software Object-Oriented Design
