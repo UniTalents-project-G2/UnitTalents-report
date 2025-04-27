@@ -46,7 +46,7 @@
     <td><strong>Descripción de cambios</strong></td>
   </tr>
     <tr>
-    <td>1.0</td>
+    <td>1.00</td>
     <td>08/04/23</td>
     <td>
     Gonzales,<br>
@@ -58,7 +58,7 @@
   </tr>
   </tr>
   <tr>
-    <td>1.1</td>
+    <td>1.01</td>
     <td>10/04/23</td>
     <td>
     Gonzales,<br>
@@ -69,7 +69,7 @@
     <td>Desarrollo de la Startup profile, solution profile y segmentos objetivos.</td>
   </tr>
   <tr>
-    <td>1.3</td>
+    <td>1.03</td>
     <td>13/04/23</td>
     <td>
     Gonzales,<br>
@@ -80,7 +80,7 @@
     <td>Elaboración del diseño de entrevistas, entrevistamos a los segmentos objetivos y desarrollamos el análisis de entrevistas.</td>
   </tr>
     <tr>
-    <td>1.4</td>
+    <td>1.04</td>
     <td>15/04/23</td>
     <td>
     Palomino,<br>
@@ -90,7 +90,7 @@
     <td>Desarrollo del análisis competitivo, user personas, user task matrix, journey maps, emphaty mapping, As-Is y To-Be scenario, impact mapping y ubiquitous language.</td>
   </tr>
     <tr>
-    <td>1.5</td>
+    <td>1.05</td>
     <td>17/04/23</td>
     <td>
     Gonzales,<br>
@@ -99,7 +99,7 @@
     <td>Añadimos los sytle guidelines y la arquitectura de información</td>
   </tr>
   <tr>
-    <td>1.6</td>
+    <td>1.06</td>
     <td>20/04/23</td>
     <td>
     Gonzales,<br>
@@ -110,7 +110,7 @@
     <td>Elaboración de los wireframes y mockups de la landing page y la appweb.</td>
   </tr>
   <tr>
-    <td>1.7</td>
+    <td>1.07</td>
     <td>21/04/23</td>
     <td>
     Gonzales,<br>
@@ -119,13 +119,43 @@
     <td>Wireflows, UserFlow y Prototyping</td>
   </tr>
   <tr>
-    <td>1.8</td>
+    <td>1.08</td>
     <td>23/04/23</td>
     <td>
     Palomino,<br>
     Coca
     </td>
     <td>Elaboración de diagrama de contenedores, diagrama de contexto, diagrama de componentes, diagrama de clases y diccionario de clases</td>
+  </tr>
+  <tr>
+    <td>1.09</td>
+    <td>24/04/23</td>
+    <td>
+    Linares
+    </td>
+    <td>Elaboración de diagrama de base de datos</td>
+  </tr>
+  <tr>
+    <td>1.10</td>
+    <td>25/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de evidencias del sprint 1</td>
+  </tr>
+    <tr>
+    <td>1.11</td>
+    <td>25/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de software configuration management y conclusiones</td>
   </tr>
 </table>
 
@@ -350,6 +380,8 @@ La propuesta de UniTalents se basa en la creación de un ecosistema inclusivo, c
 **Misión:** Empoderar a estudiantes universitarios mediante una plataforma digital que les permita ofrecer servicios freelance, construir su reputación profesional y adquirir experiencia laboral, del mismo modo brindando a empresas candidatos ideales. 
 
 **Visión:**  En los próximos 5 años **UniTalents Connect** sea la principal plataforma digital en Latinoamérica que potencia el talento universitario. Además busca que **UniTalents** se convierta en un negocio rentable y sostenible contribuyendo al desarrollo profesional y económico de miles de jóvenes.
+
+**Alcance del proyecto:** UniTalents Connect es una plataforma web que conecta estudiantes universitarios con empresas mediante proyectos reales de corta duración, gestionando postulaciones, portafolios, evaluaciones y certificaciones para impulsar la empleabilidad joven.
 <br><br>
 
 #### 1.1.2. Perfiles de integrantes del equipo  
@@ -2082,7 +2114,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US30</td>
+      <td>US28</td>
       <td>Acceder a información de contacto o soporte desde la landing</td>
       <td>
         <strong>Como</strong> visitante que necesita ayuda, <strong>quiero</strong> poder acceder fácilmente a los datos de contacto o soporte, <strong>para</strong> resolver dudas antes de registrarme o publicar un proyecto.
@@ -2094,6 +2126,82 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Entonces</strong> visualizo una sección con enlaces a “Contáctanos”, correo de soporte, y redes sociales.
       </td>
       <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>TS01</td>
+      <td>Endpoint para registro de usuarios</td>
+      <td>
+        <strong>Como</strong> developer, <strong>quiero</strong> crear un endpoint para registrar nuevos usuarios diferenciando su rol (estudiante o gerente), <strong>para</strong> permitir su autenticación y posterior personalización de la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1: Registro exitoso</strong><br>
+        <strong>Dado</strong> que el usuario ingresa datos válidos (nombre, correo, contraseña, rol),
+        <strong>Cuando</strong> envía una solicitud POST al endpoint,
+        <strong>Entonces</strong> el sistema crea la cuenta y responde con código 201 Created.
+        <br><br>
+        <strong>Escenario 2: Error en validación de campos</strong><br>
+        <strong>Dado</strong> que el usuario omite campos requeridos o envía datos inválidos,
+        <strong>Cuando</strong> envía la solicitud,
+        <strong>Entonces</strong> el sistema responde con código 400 Bad Request y un mensaje de error claro.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Endpoint para creación de proyectos</td>
+      <td>
+        <strong>Como</strong> developer, <strong>quiero</strong> crear un endpoint para que los gerentes puedan publicar nuevos proyectos, <strong>para</strong> que los estudiantes puedan visualizar y postular.
+      </td>
+      <td>
+        <strong>Escenario 1: Proyecto creado correctamente</strong><br>
+        <strong>Dado</strong> que el gerente envía todos los datos requeridos (nombre, descripción, habilidades, plazos),
+        <strong>Cuando</strong> realiza un POST a /api/projects,
+        <strong>Entonces</strong> el sistema guarda el proyecto y responde con código 201 Created.
+        <br><br>
+        <strong>Escenario 2: Falta de autorización</strong><br>
+        <strong>Dado</strong> que un usuario no autenticado intenta crear un proyecto,
+        <strong>Cuando</strong> envía la solicitud,
+        <strong>Entonces</strong> el sistema responde con código 401 Unauthorized.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Endpoint para postulación a proyectos</td>
+      <td>
+        <strong>Como</strong> developer, <strong>quiero</strong> desarrollar un endpoint para que los estudiantes puedan postular a proyectos, <strong>para</strong> registrar su interés formal en una oportunidad.
+      </td>
+      <td>
+        <strong>Escenario 1: Postulación registrada correctamente</strong><br>
+        <strong>Dado</strong> que el estudiante está autenticado y el proyecto existe,
+        <strong>Cuando</strong> envía un POST a /api/applications,
+        <strong>Entonces</strong> el sistema registra su postulación y responde con código 201 Created.
+        <br><br>
+        <strong>Escenario 2: Postulación duplicada</strong><br>
+        <strong>Dado</strong> que el estudiante ya postuló antes al mismo proyecto,
+        <strong>Cuando</strong> intenta enviar otra solicitud,
+        <strong>Entonces</strong> el sistema responde con código 409 Conflict.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Endpoint para calificación de desempeño</td>
+      <td>
+        <strong>Como</strong> developer, <strong>quiero</strong> crear un endpoint que permita a los gerentes calificar el desempeño de un estudiante tras finalizar un proyecto, <strong>para</strong> actualizar su reputación en la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1: Evaluación registrada correctamente</strong><br>
+        <strong>Dado</strong> que el gerente finalizó el proyecto y el estudiante participó,
+        <strong>Cuando</strong> envía un POST a /api/evaluations,
+        <strong>Entonces</strong> la evaluación se guarda y se actualiza el perfil del estudiante.
+        <br><br>
+        <strong>Escenario 2: Error por proyecto no finalizado</strong><br>
+        <strong>Dado</strong> que el proyecto aún no ha sido marcado como "finalizado",
+        <strong>Cuando</strong> el gerente intenta evaluar,
+        <strong>Entonces</strong> el sistema responde con código 403 Forbidden.
+      </td>
+      <td></td>
     </tr>
 
   </tbody>
@@ -2290,7 +2398,7 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
 + Landing Page:
 
-  + Inicio
+  + Inicio (logo)
 
   + ¿Cómo funciona?
 
@@ -2304,8 +2412,6 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
 + WebApp (Estudiantes):
 
-  + Inicio
-
   + Oportunidades
 
   + Portafolio
@@ -2314,11 +2420,8 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
   + Perfil
 
-  + Cerrar sesión
 
 + WebApp (Gerentes):
-
-  + Inicio
 
   + Mis Proyectos
 
@@ -2328,9 +2431,13 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
   + Mi empresa
 
-  + Cerrar sesión
+<br>
 
-  <br><br>
+<p align="center">
+  <img src="images/labelingSystem.jpg" alt="wireframe" width="1000">
+</p>
+
+<br><br>
 
   <table align="center">
   <tr>
@@ -2467,9 +2574,6 @@ Dado que la plataforma gestionará gran cantidad de datos (postulaciones, estudi
 
   + Empresa
 
-+ Visualización de Datos
-
-  ...(imagenes)
 
 #### 4.2.5. Navigation Systems<br><br>
 
@@ -2487,7 +2591,47 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 
 #### 4.3.1. Landing Page Wireframe  
 
+<p align="center">
+  <img src="images/landingPage/wfLP1.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/wfLP2.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/wfLP3.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/wfLP4.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
 #### 4.3.2. Landing Page Mock-up  
+
+<p align="center">
+  <img src="images/landingPage/lp1.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/lp2.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/lp3.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/lp4.png" alt="mockup" width="1000">
+</p>
+<br><br>
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -3578,13 +3722,66 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
   + Visualización activa del dominio temporal generado por GitHub Pages
 
 <p align="center">
-  <img src="images/sprint1/sp1-3.png" alt="evidencia-sprint" width="1000">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
-<br><br>
+<br>
 
 [Link de la página](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint  
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Implementación del header, sección inicio y la sección "¿Cómo funciona?"</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Implementación de la sección "Casos de éxito"</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Implementación de la sección "FAQs" e "Integrates"</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>Implementación del footer y responsive de la Landing Page</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>Implementación de la página de registro</td>
+  </tr>
+</table>
+<br><br>
+
+<p align="center">
+  <img src="images/insights-spr1/insight-spr1-1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/insights-spr1/insight-spr1-2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+*Nota:*
+Nuestro compañero César Linares utilizó una plataforma externa a GitHub para gestionar parte de su trabajo, por lo que su actividad no se refleja en los insights de GitHub. Sin embargo, todo el equipo puede dar fe de que César ha participado activamente y ha trabajado de manera adecuada durante todo el desarrollo de la TB1.
+
+<p align="center">
+  <img src="images/insights-spr1/insight-spr1-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
 
 ---
 
@@ -3622,3 +3819,5 @@ Comexperu
 ---
 
 ## Anexos  
+
+[Video TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
