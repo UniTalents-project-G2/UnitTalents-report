@@ -3125,9 +3125,114 @@ chore: Tareas de mantenimiento.
 
 #### 5.2.1. Sprint 1
 
+Durante el Sprint 1 del proyecto UniTalents Connect, el equipo se enfocó en el diseño y construcción funcional de la Landing Page de la plataforma. Se implementaron las principales secciones informativas, incluyendo el mensaje de bienvenida, los botones de registro y navegación, la sección de testimonios de usuarios, preguntas frecuentes (FAQs) y el acceso a información de contacto. Además, se trabajó en aspectos clave de interacción como la fijación del encabezado al hacer scroll y la visualización atractiva de la propuesta de valor. El equipo logró completar la mayoría de las tareas planificadas, dejando solo algunos elementos en proceso de revisión. Todo el despliegue del Sprint 1 priorizó una navegación fluida, accesibilidad y claridad en la comunicación hacia los usuarios nuevos.
+
 ##### 5.2.1.1. Sprint Planning 1 
 
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 04 -23</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Javier Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Erik Palomino, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Review Summary</strong></td>
+    <td>No tuvimos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Retorspective Summary</strong></td>
+    <td>No tuvimos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Goal</strong></td>
+    <td>Desarrollar la landing page estática de nuestro proyecto UniTalents Connect</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Velocity</strong></td>
+    <td>19</td>
+  </tr>
+</table>
+<br>
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Contenido y mensajes</strong></td>
+    <td><strong>Funcionalidades específicas</strong></td>
+    <td><strong>Diseño y Navegación</strong></td>
+    <td><strong>Deployment</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
 
 ##### 5.2.1.3. Sprint Backlog 1 
 
@@ -3153,6 +3258,7 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <th>US-ID</th>
             <th>Title</th>
             <th>ID</th>
+            <th>Title</th>
             <th>Description</th>
             <th>Estimation (Hours)</th>
             <th>Assigned To</th>
@@ -3235,15 +3341,15 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>US28</td>
             <td>Acceder a información de contacto o soporte desde la landing</td>
             <td>UT08</td>
-            <td>	Acceso a información de contacto o soporte</td>
-            <td>acceso fáci a los datos de contacto o soporte para resolver dudas antes de registrarme o publicar un</td>
+            <td>Acceso a información de contacto o soporte</td>
+            <td>Acceso fácil a los datos de contacto o soporte para resolver dudas antes de registrarme o publicar un proyecto.</td>
             <td>2</td>
             <td>Cesar Linares</td>
             <td>To-Review</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 
 ##### 5.2.1.4. Development Evidence for Sprint Review 
 
