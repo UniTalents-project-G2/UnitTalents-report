@@ -188,119 +188,91 @@
 
 ## Contenido
 
-- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [**TB1**](#tb1)
-- [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-      - [What (Qué)](#what-qué)
-        - [¿Cuál es el problema?](#cuál-es-el-problema)
-      - [When (Cuando)](#when-cuando)
-        - [¿Cuándo sucede el problema?](#cuándo-sucede-el-problema)
-      - [Where (Dónde)](#where-dónde)
-        - [¿Dónde surge el problema?](#dónde-surge-el-problema)
-      - [Who (Quién)](#who-quién)
-        - [¿Quiénes son los afectados?](#quiénes-son-los-afectados)
-      - [Why (Por qué)](#why-por-qué)
-        - [¿Cuál es la causa del problema?](#cuál-es-la-causa-del-problema)
-      - [How (Cómo)](#how-cómo)
-        - [¿Cómo se utilizará el producto?](#cómo-se-utilizará-el-producto)
-      - [How Much (Cuánto)](#how-much-cuánto)
-        - [¿Cuánto costará implementar la solución?](#cuánto-costará-implementar-la-solución)
-    - [1.2.2. Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-        - [Business Assumptions](#business-assumptions)
-        - [User Assumptions](#user-assumptions)
-        - [Feature Assumptions](#feature-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements  ](#1223-lean-ux-hypothesis-statements--)
-      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas  ](#221-diseño-de-entrevistas--)
-- [*Preguntas dirigidas al segmento 1*](#preguntas-dirigidas-al-segmento-1)
-- [*Preguntas dirigidas al segmento 2*](#preguntas-dirigidas-al-segmento-2)
-    - [2.2.2. Registro de entrevistas  ](#222-registro-de-entrevistas--)
-- [*Entrevistas a segmento 1*](#entrevistas-a-segmento-1)
-- [*Entrevistas a segmento 2*](#entrevistas-a-segmento-2)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-- [*Análisis de Entrevistas – Segmento 1 (Estudiantes)*](#análisis-de-entrevistas--segmento-1-estudiantes)
-- [*Análisis de Entrevistas – Segmento 2 (Gerentes / Empresarios)*](#análisis-de-entrevistas--segmento-2-gerentes--empresarios)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping ](#33-impact-mapping-)
-  - [3.4. Product Backlog  ](#34-product-backlog--)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems ](#421-organization-systems-)
-    - [4.2.2. Labeling Systems  ](#422-labeling-systems--)
-    - [4.2.3. SEO Tags and Meta Tags  ](#423-seo-tags-and-meta-tags--)
-    - [4.2.4. Searching Systems ](#424-searching-systems-)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
-  - [4.8. Database Design](#48-database-design)
-    - [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografía)
+- [Student Outcome](#student-outcome)  
+- [Capítulo I: Introducción](#capítulo-i-introducción)  
+  - [1.1. Startup Profile](#11-startup-profile)  
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)  
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)  
+  - [1.2. Solution Profile](#12-solution-profile)  
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)  
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)  
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)  
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)  
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)  
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)  
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)  
+
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)  
+  - [2.1. Competidores](#21-competidores)  
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)  
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)  
+  - [2.2. Entrevistas](#22-entrevistas)  
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)  
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)  
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)  
+  - [2.3. Needfinding](#23-needfinding)  
+    - [2.3.1. User Personas](#231-user-personas)  
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)  
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)  
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)  
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)  
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)  
+
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)  
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)  
+  - [3.2. User Stories](#32-user-stories)  
+  - [3.3. Impact Mapping](#33-impact-mapping)  
+  - [3.4. Product Backlog](#34-product-backlog)  
+
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)  
+  - [4.1. Style Guidelines](#41-style-guidelines)  
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)  
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)  
+  - [4.2. Information Architecture](#42-information-architecture)  
+    - [4.2.1. Organization Systems](#421-organization-systems)  
+    - [4.2.2. Labeling Systems](#422-labeling-systems)  
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)  
+    - [4.2.4. Searching Systems](#424-searching-systems)  
+    - [4.2.5. Navigation Systems](#425-navigation-systems)  
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)  
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)  
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)  
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)  
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)  
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)  
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)  
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)  
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)  
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)  
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)  
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)  
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)  
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)  
+    - [4.7.1. Class Diagrams](#471-class-diagrams)  
+    - [4.7.2. Class Dictionary](#472-class-dictionary)  
+  - [4.8. Database Design](#48-database-design)  
+    - [4.8.1. Database Diagram](#481-database-diagram)  
+
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)  
+  - [5.1. Software Configuration Management](#51-software-configuration-management)  
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)  
+    - [5.1.2. Source Code Management](#512-source-code-management)  
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)  
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)  
+  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
+    - [5.2.1. Sprint 1](#521-sprint-1)  
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)  
+      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)  
+      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)  
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)  
+
+- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)  
+- [Bibliografía](#bibliografía)  
+
 - [Anexos](#anexos)
 ---
 
@@ -3167,15 +3139,172 @@ chore: Tareas de mantenimiento.
 
 #### 5.1.3. Source Code Style Guide & Conventions  
 
+**HTML:** Estas prácticas se aplicaron en el desarrollo de la Landing Page estática.
+
+1. Se utilizará href=#id para una navegación interna fluida.
+
+2. Se utilizan atributos "alt" para reemplazar imagenes en caso de que no carguen. Por ejemplo: < img src="images/image-hero.png" alt="Persona frente a computadora"/>
+
+
+3. Los iconos SVG serán conseguidos desde FontAwesome.
+
+4. Se utilizará snake case para nombrar los id y las clases. Por ejemplo: class="success-stories" id="casos-exito"
+
+**CSS:**
+1. Se utiliza Flexbox para facilitar el diseño responsive de la Landing Page.
+
+2. Los colores utilizados serán definidos en codigo HEX. Por ejemplo: #1C1F2B
+
+3. Se utiliza comentarios al inicio de cada hoja de estilos para distinguir las secciones de la Landing Page.
+
+
+
+**JavaScript:** 
+
+1. Para la declaración de funciones se utilizará Camel Case. 
+
+
+**Gherkin:** Este lenguaje de dominio se utilizó para realizar los escenarios de las User Stories usando palabras clave como "Given", "When", "Then" y "And".
+
+
+
 #### 5.1.4. Software Deployment Configuration  
+
+**Landing Page Deployment:**
+
+Para el despliegue de nuestra Landing Page se utilizó Github Pages por la facilidad de uso. Se tomó el archivo index.html como punto de entrada para el principal.
+
+<p align="center">
+  <img src="images/deployment-1.png" alt="deployment-evidence" width="1000">
+</p>
+
+Se nos muestra el enlace que se usó para compartir la vista de nuestra Landing Page estática.
+
+<p align="center">
+  <img src="images/deployment-2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+Se muestra nuestra landing page en GitHub Pages.
+
+<p align="center">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+[Enlace para acceder a la Landing Page](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
 
+Durante el Sprint 1 del proyecto UniTalents Connect, el equipo se enfocó en el diseño y construcción funcional de la Landing Page de la plataforma. Se implementaron las principales secciones informativas, incluyendo el mensaje de bienvenida, los botones de registro y navegación, la sección de testimonios de usuarios, preguntas frecuentes (FAQs) y el acceso a información de contacto. Además, se trabajó en aspectos clave de interacción como la fijación del encabezado al hacer scroll y la visualización atractiva de la propuesta de valor. El equipo logró completar la mayoría de las tareas planificadas, dejando solo algunos elementos en proceso de revisión. Todo el despliegue del Sprint 1 priorizó una navegación fluida, accesibilidad y claridad en la comunicación hacia los usuarios nuevos.
+
 ##### 5.2.1.1. Sprint Planning 1 
 
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 04 -23</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Javier Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Erik Palomino, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Review Summary</strong></td>
+    <td>No tuvimos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Retorspective Summary</strong></td>
+    <td>No tuvimos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Goal</strong></td>
+    <td>Desarrollar la landing page estática de nuestro proyecto UniTalents Connect</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Velocity</strong></td>
+    <td>19</td>
+  </tr>
+</table>
+<br>
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Contenido y mensajes</strong></td>
+    <td><strong>Funcionalidades específicas</strong></td>
+    <td><strong>Diseño y Navegación</strong></td>
+    <td><strong>Deployment</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
 
 ##### 5.2.1.3. Sprint Backlog 1 
 
@@ -3201,6 +3330,7 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <th>US-ID</th>
             <th>Title</th>
             <th>ID</th>
+            <th>Title</th>
             <th>Description</th>
             <th>Estimation (Hours)</th>
             <th>Assigned To</th>
@@ -3283,15 +3413,15 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>US28</td>
             <td>Acceder a información de contacto o soporte desde la landing</td>
             <td>UT08</td>
-            <td>	Acceso a información de contacto o soporte</td>
-            <td>acceso fáci a los datos de contacto o soporte para resolver dudas antes de registrarme o publicar un</td>
+            <td>Acceso a información de contacto o soporte</td>
+            <td>Acceso fácil a los datos de contacto o soporte para resolver dudas antes de registrarme o publicar un proyecto.</td>
             <td>2</td>
             <td>Cesar Linares</td>
             <td>To-Review</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 
 ##### 5.2.1.4. Development Evidence for Sprint Review 
 
@@ -3456,16 +3586,6 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint  
 
-### 5.3. Validation Interviews
-
-#### 5.3.1. Diseño de Entrevistas  
-
-#### 5.3.2. Registro de Entrevistas  
-
-#### 5.3.3. Evaluaciones según heurísticas  
-
-### 5.4. Video About-the-Product  
-
 ---
 
 ## Conclusiones
@@ -3481,8 +3601,6 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 
 
 
-
-### Video About-the-Team  
 
 ---
 
