@@ -163,6 +163,58 @@
 
 ## Project Report Collaboration Insights
 
+**Integrantes:**
+
++ Javier Gonzales (WoodsDos)
+
++ Erik Palomino(ErickLeo13)
+
++ Renzo Rivera(renzor11)
+
++ Carlos Coca(MrAndres08DV)
+
++ Cesar Linares(Cesar-Linares)
+
+<p align="center">
+  <img src="images/insights-report/ins1.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/insights-report/ins2.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/insights-report/ins3.png" alt="insights" width="1000">
+</p>
+<br>
+
+*Nota:*
+Nuestro compañero César Linares utilizó una plataforma externa a GitHub para gestionar parte de su trabajo, por lo que su actividad no se refleja en los insights de GitHub. Sin embargo, todo el equipo puede dar fe de que César ha participado activamente y ha trabajado de manera adecuada durante todo el desarrollo de la TB1.
+
+<p align="center">
+  <img src="images/insights-report/ins-cesar-1.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/insights-report/ins-cesar-2.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/insights-report/ins-cesar-3.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/insights-report/ins-cesar-4.png" alt="insights" width="1000">
+</p>
+<br><br>
+
+
+
 
 **TB1**
 ---
