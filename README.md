@@ -179,7 +179,7 @@
       Cesar Linares
     </td>
     <td>
-      To-Be scenario, impact mapping, product backlog, user stories, style guidelines. 
+      To-Be scenario, impact mapping, product backlog, user stories, style guidelines, database diagram
     </td>
   </tr>
 </table>
@@ -272,6 +272,7 @@
 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)  
 - [Bibliografía](#bibliografía)  
+
 - [Anexos](#anexos)
 ---
 
@@ -301,7 +302,7 @@
       TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.
       <br><br>
       <strong>Cesar Linares</strong>
-      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines.
+      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams
     </td>
     <td>
       El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
@@ -2103,15 +2104,38 @@ El lenguaje a utilizar para este proyecto es:
 ### 3.3. Impact Mapping <br><br>
 
 <p align="center">
-  <img src="images/impact_mapping.png" alt="impact mapping" width="80%">
+  <img src="images/impactMapping/parte1.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte2.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte3.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte4.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte5.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte6.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte7.png" alt="impact mapping" width="80%">
 </p>
 
 ### 3.4. Product Backlog  <br><br>
 
-| Orden | User Story ID | Título | Descripción | User Stories |
-|:-----:|--------------|--------|-------------|--------------|
-|   1   |
-|   2   |
+<p align="center">
+  <img src="images/product_backlog.png" alt="product backlog" width="80%">
+</p>
 
 ---
 
@@ -2943,7 +2967,7 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 #### 4.7.1. Class Diagrams  
 
 <p align="center">
-  <img src="images/UniTalents_UML.png" alt="impact mapping" width="80%">
+  <img src="images/UniTalents_UML.png" alt="class diagram" width="80%">
 </p>
 
 #### 4.7.2. Class Dictionary  
@@ -2965,7 +2989,9 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 
 #### 4.8.1. Database Diagram  
 
----
+<p align="center">
+  <img src="images/database-diagram.png" alt="database diagram" width="80%">
+</p>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
