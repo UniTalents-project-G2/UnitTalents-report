@@ -2758,7 +2758,7 @@ Para el despliegue de nuestra Landing Page se utilizó Github Pages por la facil
   <img src="images/deployment-1.png" alt="deployment-evidence" width="1000">
 </p>
 
-Se nos muestra el enlace que usaremos para compartir la vista de nuestra Landing Page estática.
+Se nos muestra el enlace que se usó para compartir la vista de nuestra Landing Page estática.
 
 <p align="center">
   <img src="images/deployment-2.png" alt="deployment-evidence-confirmation" width="1000">
@@ -2803,15 +2803,6 @@ Se nos muestra el enlace que usaremos para compartir la vista de nuestra Landing
 ## Conclusiones
 
 ### Conclusiones y recomendaciones  
-
-1. Una gran parte de los estudiantes no pueden conectar con el mercado laboral debido a la falta de plataformas adecuadas.
-
-2. Creemos que nuestros clientes valoran la experiencia real y estan dispuestos a aprovechar plataformas para mejorar su perfil laboral.
-
-3. Esperamos que al menos el 60% de los proyectos publicados en la plataforma se completen exitosamente, de forma que se beneficien ambos segmentos objetivos.
-
-4. Consideraremos que la aplicación fue un exito cuando los estudiantes generen ingresos adicionales sin comprometer horarios académicos y los gerentes puedan acceder a talento joven y asequible. 
-
 
 
 
