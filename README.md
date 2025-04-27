@@ -1504,22 +1504,22 @@ Este Journey Map describe el proceso de Alexander Dávila en su busqueda de post
 #### 2.3.4. Empathy Mapping  
 
 <p align="center">
-  <img src="images/Empathy Map Jair.png" alt="EmpathyMap" width="1000">
+  <img src="images/Jair-EmpathyMap.png" alt="EmpathyMap" width="1000">
 </p>
 
 
 <p align="center">
-  <img src="images/Empathy Map Alexander.png" alt="EmpathyMap2" width="1000">
+  <img src="images/Alexander-EmpathyMap.png" alt="EmpathyMap2" width="1000">
 </p>
 
 #### 2.3.5. As-is Scenario Mapping  
 
 <p align="center">
-  <img src="images/Scenario1.png" alt="As-Is Scenario1" width="1000">
+  <img src="images/As-Is Escenario1.png" alt="As-Is Scenario1" width="1000">
 </p>
 
 <p align="center">
-  <img src="images/Scenario2.png" alt="As-Is Scenario2" width="1000">
+  <img src="images/As-Is Escenario2.png" alt="As-Is Scenario2" width="1000">
 </p>
 
 ### 2.4. Ubiquitous Language  
