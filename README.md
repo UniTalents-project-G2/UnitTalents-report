@@ -3274,6 +3274,16 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 ## Conclusiones
 
 ### Conclusiones y recomendaciones  
+1. Una gran parte de los estudiantes no pueden conectar con el mercado laboral debido a la falta de plataformas adecuadas.
+
+2. Creemos que nuestros clientes valoran la experiencia real y estan dispuestos a aprovechar plataformas para mejorar su perfil laboral.
+
+3. Esperamos que al menos el 60% de los proyectos publicados en la plataforma se completen exitosamente, de forma que se beneficien ambos segmentos objetivos.
+
+4. Consideraremos que la aplicación fue un exito cuando los estudiantes generen ingresos adicionales sin comprometer horarios académicos y los gerentes puedan acceder a talento joven y asequible. 
+
+
+
 
 ### Video About-the-Team  
 
