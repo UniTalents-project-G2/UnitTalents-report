@@ -214,6 +214,55 @@
   </tr>
 </table>
 
+**TF**
+---
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      Feature de gestión de postulaciones para los gerentes, gestión del perfil de mi empresa. Correción de las tablas competidores y user task matrix
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      Feature de búsqueda de oportunidades, búsqueda de trabajo y postulación para los postulantes.  
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      Feature del login y register para el ingreso a la appweb, además la configuración de ambos perfiles tanto estudiantes como gerente. 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Andres Coca
+    </td>
+    <td>
+      Feature de la creación, edición y eliminación de proyectos para los gerentes. Corrección del sprint backlog 1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Cesar Linares
+    </td>
+    <td>
+      Feature de la gestión del pefil del estudiante. Correción del product backlog. 
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Contenido
@@ -299,6 +348,15 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)  
+    - [5.2.2. Sprint 2](#522-sprint-2)  
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)  
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)  
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)  
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)  
 - [Bibliografía](#bibliografía)  
@@ -319,23 +377,30 @@
       Trabaja en equipo para proporcionar liderazgo en forma conjunta
     </td>
     <td>
-      <strong>Javier Gonzales:</strong>
-      TB1 - Coordinación general del proyecto, elaboración del Startup Profile, definición de problemáticas, arquitectura de la información, desarrollo del Lean UX process y gestión del diseño de entrevistas.
+      <strong>Javier Gonzales:</strong><br>
+      TB1 - Coordinación general del proyecto, elaboración del Startup Profile, definición de problemáticas, arquitectura de la información, desarrollo del Lean UX process y gestión del diseño de entrevistas.<br><br>
+      TP1 – Coordinación del equipo durante el Sprint 2, liderazgo en la implementación de gestión de postulaciones para gerentes y perfil de empresa. Revisión de user task matrix y tablas de competidores.
       <br><br>
-      <strong>Erick Palomino:</strong>
-      TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.
+      <strong>Erick Palomino:</strong><br>
+      TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.<br><br>
+      TP1 – Participación activa en reuniones de planificación. Desarrollo de búsqueda de oportunidades y postulaciones.
       <br><br>
-      <strong>Renzo Rivera:</strong>
-      TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional
+      <strong>Renzo Rivera:</strong><br>
+      TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional<br><br>
+      TP1 – Encargado del login/register y configuración de perfiles. Participación constante en decisiones técnicas.
       <br><br>
-      <strong>Andres Coca:</strong>
-      TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.
+      <strong>Andres Coca:</strong><br>
+      TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.<br><br>
+      TP1 – Desarrollo de creación, edición y eliminación de proyectos. Aportó en revisión de sprint backlog 1.
       <br><br>
-      <strong>Cesar Linares</strong>
-      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams
+      <strong>Cesar Linares</strong><br>
+      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams<br><br>
+      TP1 – Desarrollo del perfil del estudiante y corrección del product backlog.
     </td>
     <td>
-      El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
+      TB1 - El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
+      <br><br>
+      TP1 - El grupo ha demostrado un liderazgo compartido durante la planificación y ejecución del Sprint 2, asignando roles según fortalezas técnicas. Se lograron avances significativos en las funcionalidades principales gracias a la coordinación continua y compromiso de cada integrante. Las decisiones se tomaron en conjunto, fortaleciendo el sentido de equipo.
     </td>
   </tr>
   <tr>
@@ -343,23 +408,30 @@
       Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. 
     </td>
     <td>
-      <strong>Javier Gonzales:</strong>
-      TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.
+      <strong>Javier Gonzales:</strong><br>
+      TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.<br><br>
+      TP1 – Coordinación del equipo en Discord, definición de metas de sprint, liderazgo en tareas críticas y soporte técnico.
       <br><br>
-      <strong>Erick Palomino:</strong>
-      TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.
+      <strong>Erick Palomino:</strong><br>
+      TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.<br><br>
+      TP1 – Apoyo continuo al equipo, cumplimiento de tareas asignadas en tiempo y forma, proactividad para levantar issues y dar seguimiento.
       <br><br>
-      <strong>Renzo Rivera:</strong>
-      TB1 – Colaboración en planificación funcional de interfaz, distribución de tareas de prototipado y verificación del cumplimiento de tiempos.
+      <strong>Renzo Rivera:</strong><br>
+      TB1 – Colaboración en planificación funcional de interfaz, distribución de tareas de prototipado y verificación del cumplimiento de tiempos.<br><br>
+      TP1 – Gestión de interfaz de autenticación, organización de estructuras de carpetas y soporte en configuración de perfiles.
       <br><br>
-      <strong>Andres Coca:</strong>
-      TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.
+      <strong>Andres Coca:</strong><br>
+      TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.<br><br>
+      TP1 – Organización de los módulos de proyectos, planificación de tareas en GitHub y revisión del backlog anterior.
       <br><br>
-      <strong>Cesar Linares:</strong>
-      TB1 – Apoyo en la definición de objetivos y metas del producto, priorización de funcionalidades clave y control del avance del backlog.
+      <strong>Cesar Linares:</strong><br>
+      TB1 – Apoyo en la definición de objetivos y metas del producto, priorización de funcionalidades clave y control del avance del backlog.<br><br>
+      TP1 – Coordinación del trabajo en perfil del estudiante, seguimiento del progreso del equipo y apoyo en ajustes del product backlog.
     </td>
     <td>
-      El grupo logró establecer un entorno colaborativo donde se respetaron los roles, tiempos y responsabilidades de cada integrante. Se definieron metas alcanzables, se mantuvo una comunicación efectiva y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y solidario.
+      TB1 - El grupo logró establecer un entorno colaborativo donde se respetaron los roles, tiempos y responsabilidades de cada integrante. Se definieron metas alcanzables, se mantuvo una comunicación efectiva y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y solidario.
+      <br><br>
+      TP1 - El equipo logró establecer un entorno colaborativo eficaz, distribuyendo tareas de manera equitativa y planificada. El uso de herramientas como Discord, Trello y GitHub permitió cumplir con los objetivos del sprint. El compromiso de cada miembro garantizó avances sostenibles y alineados con las metas del proyecto.
     </td>
   </tr>
 </table>
@@ -3817,6 +3889,256 @@ Nuestro compañero César Linares utilizó una plataforma externa a GitHub para 
 
 ---
 
+#### 5.2.2. Sprint 2
+
+Durante el Sprint 2 del proyecto UniTalents Connect, el equipo enfocó sus esfuerzos en avanzar con el desarrollo del frontend funcional de la aplicación web, priorizando las funcionalidades clave para los distintos perfiles de usuario. Se implementaron los módulos de autenticación, incluyendo login, registro y configuración de cuenta. Para el perfil de estudiante, se desarrollaron las vistas de oportunidades laborales, búsqueda de trabajos, postulaciones activas y visualización del perfil personal. Por parte del gerente, se construyeron las funcionalidades para la creación, edición y eliminación de proyectos, así como la gestión de postulaciones recibidas, evaluación de candidatos y visualización del perfil de la empresa. Todo el desarrollo siguió los principios de Domain-Driven Design (DDD), permitiendo una estructura clara del dominio del sistema, y se utilizó WebStorm como entorno principal de desarrollo. Este sprint permitió sentar las bases operativas de la plataforma, brindando una experiencia inicial funcional tanto para estudiantes como para gerentes, y alineando el producto con los objetivos de empleabilidad y conexión profesional definidos en la propuesta de valor.
+
+##### 5.2.2.1. Sprint Planning 2
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 09 - 05</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>6:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Review Summary</strong></td>
+    <td>	Durante el Sprint 1 se completó exitosamente la landing page estática, incluyendo navegación fluida, encabezado fijo, secciones informativas, testimonios y preguntas frecuentes.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Retorspective Summary</strong></td>
+    <td>El equipo resaltó una buena coordinación, cumplimiento de tareas planificadas y propuso como mejora la distribución más equilibrada de tareas técnicas entre los miembros.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Goal</strong></td>
+    <td>	Desarrollar el frontend funcional para login, registro, perfil, oportunidades y gestión de proyectos según el rol del usuario.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Velocity</strong></td>
+    <td></td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Autenticación (Login/Register)</strong></td>
+    <td><strong>Funcionalidad <br>Estudiante (Oportunidades, <br>y Postulación)</strong></td>
+    <td><strong>Funcionalidad<br>Gerente (Proyectos y <br>Postulaciones)</strong></td>
+    <td><strong>Configuración<br> y Perfil</strong></td>
+    <td><strong>Integración y Testing</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
+
+##### 5.2.2.3. Sprint Backlog 2
+
+Durante el primer sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. La herramienta empleada para la organización y gestión a los miembros del equipo fue Trello. Ya que esta herramienta permitió que se pueda dividir todas las user stories
+en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era
+construir en su totalidad la landing page, logrando que sea atractiva y funcional.
+
+<img src="images/SprintBacklogTrello.png" alt="wireflows" width="1000">
+
+link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 2</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Acceptance Criteria</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+
+##### 5.2.2.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>develop</td>
+    <td>38b3314</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>09/05/25</td>
+  </tr>
+</table>
+
+<br>
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td></td>
+  </tr>
+</table>
+<br><br>
+
+
+---
 ## Conclusiones
 
 ### Conclusiones y recomendaciones  
@@ -3852,4 +4174,4 @@ Comexperu
 
 ## Anexos  
 
-[Video TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Video TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
