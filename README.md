@@ -46,7 +46,7 @@
     <td><strong>Descripción de cambios</strong></td>
   </tr>
     <tr>
-    <td>1.0</td>
+    <td>1.00</td>
     <td>08/04/23</td>
     <td>
     Gonzales,<br>
@@ -58,7 +58,7 @@
   </tr>
   </tr>
   <tr>
-    <td>1.1</td>
+    <td>1.01</td>
     <td>10/04/23</td>
     <td>
     Gonzales,<br>
@@ -69,7 +69,7 @@
     <td>Desarrollo de la Startup profile, solution profile y segmentos objetivos.</td>
   </tr>
   <tr>
-    <td>1.3</td>
+    <td>1.03</td>
     <td>13/04/23</td>
     <td>
     Gonzales,<br>
@@ -80,7 +80,7 @@
     <td>Elaboración del diseño de entrevistas, entrevistamos a los segmentos objetivos y desarrollamos el análisis de entrevistas.</td>
   </tr>
     <tr>
-    <td>1.4</td>
+    <td>1.04</td>
     <td>15/04/23</td>
     <td>
     Palomino,<br>
@@ -90,7 +90,7 @@
     <td>Desarrollo del análisis competitivo, user personas, user task matrix, journey maps, emphaty mapping, As-Is y To-Be scenario, impact mapping y ubiquitous language.</td>
   </tr>
     <tr>
-    <td>1.5</td>
+    <td>1.05</td>
     <td>17/04/23</td>
     <td>
     Gonzales,<br>
@@ -99,7 +99,7 @@
     <td>Añadimos los sytle guidelines y la arquitectura de información</td>
   </tr>
   <tr>
-    <td>1.6</td>
+    <td>1.06</td>
     <td>20/04/23</td>
     <td>
     Gonzales,<br>
@@ -110,7 +110,7 @@
     <td>Elaboración de los wireframes y mockups de la landing page y la appweb.</td>
   </tr>
   <tr>
-    <td>1.7</td>
+    <td>1.07</td>
     <td>21/04/23</td>
     <td>
     Gonzales,<br>
@@ -119,13 +119,43 @@
     <td>Wireflows, UserFlow y Prototyping</td>
   </tr>
   <tr>
-    <td>1.8</td>
+    <td>1.08</td>
     <td>23/04/23</td>
     <td>
     Palomino,<br>
     Coca
     </td>
     <td>Elaboración de diagrama de contenedores, diagrama de contexto, diagrama de componentes, diagrama de clases y diccionario de clases</td>
+  </tr>
+  <tr>
+    <td>1.09</td>
+    <td>24/04/23</td>
+    <td>
+    Linares
+    </td>
+    <td>Elaboración de diagrama de base de datos</td>
+  </tr>
+  <tr>
+    <td>1.10</td>
+    <td>25/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de evidencias del sprint 1</td>
+  </tr>
+    <tr>
+    <td>1.11</td>
+    <td>25/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de software configuration management y conclusiones</td>
   </tr>
 </table>
 
@@ -179,7 +209,7 @@
       Cesar Linares
     </td>
     <td>
-      To-Be scenario, impact mapping, product backlog, user stories, style guidelines. 
+      To-Be scenario, impact mapping, product backlog, user stories, style guidelines, database diagram
     </td>
   </tr>
 </table>
@@ -269,15 +299,10 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)  
-  - [5.3. Validation Interviews](#53-validation-interviews)  
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)  
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
-  - [5.4. Video About-the-Product](#54-video-about-the-product)  
 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)  
-- [Video About-the-Team](#video-about-the-team)  
 - [Bibliografía](#bibliografía)  
+
 - [Anexos](#anexos)
 ---
 
@@ -307,7 +332,7 @@
       TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.
       <br><br>
       <strong>Cesar Linares</strong>
-      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines.
+      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams
     </td>
     <td>
       El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
@@ -355,6 +380,8 @@ La propuesta de UniTalents se basa en la creación de un ecosistema inclusivo, c
 **Misión:** Empoderar a estudiantes universitarios mediante una plataforma digital que les permita ofrecer servicios freelance, construir su reputación profesional y adquirir experiencia laboral, del mismo modo brindando a empresas candidatos ideales. 
 
 **Visión:**  En los próximos 5 años **UniTalents Connect** sea la principal plataforma digital en Latinoamérica que potencia el talento universitario. Además busca que **UniTalents** se convierta en un negocio rentable y sostenible contribuyendo al desarrollo profesional y económico de miles de jóvenes.
+
+**Alcance del proyecto:** UniTalents Connect es una plataforma web que conecta estudiantes universitarios con empresas mediante proyectos reales de corta duración, gestionando postulaciones, portafolios, evaluaciones y certificaciones para impulsar la empleabilidad joven.
 <br><br>
 
 #### 1.1.2. Perfiles de integrantes del equipo  
@@ -693,19 +720,23 @@ análisis?</td>
     <td rowspan="3">PERFIL</td>
     <td rowspan="2">Overview</td>
     <td> UniTalent Connect
-
-![logo UniTalent Connect](...)
+<img src="images/LogoUniTalents-Connect.png" alt="logo" width="1000">
 </td>
     <td>
-    Workana
+    Workana <p align="center">
+    <img src="images/workana-logo.png">
+  </p>
     
-![logo Workana](data:image/png;base64,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)</td>
+![]()</td>
     <td>
     Freelancer.com
 ![logo Freelancer.com](https://www.f-cdn.com/assets/main/en/assets/freelancer-logo-light.svg)</td>
     <td>
-  LinkedIn   
-![logo LinkedIn ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAflBMVEUKZsL///8AXL8AYMAAWL7u8vlql9OJqtv4/P4AYsEAX8CYtd+2y+m90+wAZMFMic9ij9DL1+02eckRbMUAV77w9/wAVL3T4fJHgszh6vZ3n9clccaBp9rD0+xXjNDb5/Wrw+WowORrmdVQhMwfcMYtd8igu+IATLqEqNqzyOh0zMFGAAAGNElEQVR4nO3da1ujPBAGYAhQSNqm9iQH7cnavuv//4MvtK5WBWbAdTPDzvNhr2s/0PY2QCAJg+cPPd6H/61f4qcR8xTjTZMw2Z9CZXTAPUap7bxOOFkq6w0kWmX5Z+F6Fg7GV8Xejz8Kc61d/6Y/HTW7FebeoBrwGnN8FyZ2gMCSePcm3Aauf8zPJNy/Cieh65/yQ7FqfRU+DHIfrRIUF+GLcv1DfizWRJUwG2wTll3GoRQmw23CshGzUpgOWeipUngYtnDt+WPj+lf8ZMLI8+OBdvfXiJB/RMg/IuQfEfKPCPlHhPzTS8hq6LGr0BoVKqvVShkmY+SdhDYIs3gSXWY5puOtMhzasovQ6Me3+Zwq0dhjcO+MF9r7OPk8u5rE9Oer0EK93NXNIEcL6s2IFZrsSwO+5on4OBZSaEYNvjIxbSJOqLNmYNmKpHdUlNAum3bRazLKXSNKeJ+3Av0kIHxGxQhN3A70/QnhQxEhtBYC+v6CbiMihGYMC6d0GxEhVBEs9DkL9RYB9I9kd1NYiNlJKU+Uw0I1h30+4VlWWBi29/avicje94NCG2CAfnLiK/RgXhWy6zlg4RInJHsyhYWIK5pqLyV7VYM406CE6yVjYe3oxefkjHsLc8AIN4yF+gkjfCJ7EwwLrV0jhGQ7fNS9xQQGpnSX4GLugB9g4R3ZnRQ1iqEOEHBO9jyDE1oDXXyTvSj1kGNt0E3wI+EmRI4Iq9a7YMojbehR/dVLMzC9/wu/s3+wMzNhYytOaAPxs2uqYW4mpv5EH36G1DzXDNikC9LHYJUOs9xWbdOPvnxEvQG9jisVdKiLTX7pHJN8/msZ0r2SeU/H1SZWK/Vw3G6PJ6OYrDPqsWLIWq3p3kp8iaz64h8R8o8I+UeE/CPCv5/yksmoMkFQ/avMd6+faAltYMLgVBwm8zTd7dJ0Pn05FJmtiub0ZuLWtYHps9XXDZQenesWmCWb+M6onjcyqNHE5wWQupoMdgnk0zZBmG1aVu5Em1m/deWodW3n5i++pm7mCVrDkaxu/xxBWADLA8stzn2KIKGE4IqauvFENW3fZn0j1KbATP+UX/TQedSEgtCqI2oW9pJz14EFAkLt7dG+MnnWrRndC1WG20HfE6+6HI3Oheqxo+/ydR2IroV9gL4/7/Agi2Nh82RBe6b4rtGtsF8LVtmjp9WdCg1qcW59CuxDHi6FmAUCzcEuM3MoDEPwOq0t6errdxIT/tfzLPM7v3D7qTthhFzW2RzcrbE7YfKtfbQKrvqTO+H3k6B6DM5C3JHIWrgbvBDVJ/IW7hG3iryFEaLX5y30Z/CQBnMhoktkLtzBXSJzoQ8/Y81dCD9uRUa4Ts+j4+J0WhyLF/zoKeJAJCKcjExYzaNV0SpcjFEPPfqYJ1lICCdWfTyerFItS3ZvAz+NRECYzGq2tuoOtTH8RJl7YW7re23TWm3kLeCpxrlw3XinjhuJG0FXNa6FSUtdFAXOW5Z5hCawXQuLtjPFCjFnA3YXjoW71oX+Vdl/KGBFDsfCbetRZD24JMeOtjACntVAPBgYQdfeboUF8M0BPHOzpi2E3hxin8GPAF/s4FQIlwtBTG2QPpeewRsDRGEVaK7UqRAeZYGLcNEWwlMrGr7+XgIf4VKIePuLXYBC6GzlUoioS4SYJqYsRNSWQlTHgZ6ydilEDHZaC163URYi1iZbDXaIM8LCArHK0KTQp0BdjksheHvOX4ip7stbiGhDxVqIKYgCX5iKUIQiFKEIRShCEYpQhCIUoQhFKEIRilCEIhShCEUoQhGKUIQiFKEIRShCEYpQhCIUoQhFKEIRilCEIhShCEX4l4V/4JkZTxsgtR8AboUq7PjtT6H1boSfiAj5R4T8I0L+ESH/iJB/RMg/IuSff0OIq8DPNZUQLtfEOZUQLMzHOirx/PWQhfbZ9+BCRJxjxpXwPOBGVGkljBi9DL5jbOZXQj8ebCOu0qvQfx5oI5qqxutFmKJfY8Yq19qZ14poe+QbsFjF2vxd6O87vFKQSbR3LYX2u6rdpn5+hW/U4rWa3VvdvmS0Gk6vYU34Vg38pjJhmgV93w1NKdYa5T2+1wL/UHsx3z8tFfuc4unt2yO+VpdMmOez53+YaqtyYV06hwAAAABJRU5ErkJggg==)</td>
+  LinkedIn 
+  <p align="center">
+    <img src="images/likedin-logo.png">
+  </p>  
+</td>
   </tr>
   <tr>
     <td>Plataforma web que conecta a estudiantes universitarios de ciclos avanzados con personas o pequeñas empresas que necesitan servicios puntuales (como diseño, redacción, programación, etc.). Promueve el trabajo freelance como una vía para adquirir experiencia real, flexible y útil para su desarrollo profesional.</td>
@@ -1069,16 +1100,18 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>00:05</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen: <br>
-      Estefano Solis es 
+      Estefano Solis, estudiante de Ingeniería de Software de 19 años, busca activamente oportunidades laborales para ganar experiencia práctica en su campo. Ha trabajado como freelancer en proyectos pequeños, pero enfrenta dificultades para acceder a puestos formales debido a la exigencia de experiencia previa, conocimientos técnicos específicos y un alto nivel de inglés. Aunque tiene una base sólida en programación (Python, Java, C++, SQL) y control de versiones, muchas veces siente que su perfil es descartado automáticamente. Estaría dispuesto a colaborar en tareas como testing, debugging y apoyo en desarrollo. Valora entornos donde pueda aprender y recibir validación por su trabajo. Al presentársele la idea de una plataforma que conecte a jóvenes con empresas mediante proyectos concretos, la consideró una oportunidad ideal para iniciar su historial profesional y construir un portafolio.
     </td>
   </tr>
   <tr>
@@ -1088,6 +1121,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
 </table>
 
+<br><br>
 
 <table align="center">
   <tr>
@@ -1107,11 +1141,13 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>6:17</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1125,6 +1161,49 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
     </td>
   </tr>
 </table>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Ian Curo</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>10:22</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      Ian es un estudiante de Ingeniería Mecatrónica interesado en comenzar a trabajar, principalmente por motivos económicos y personales. Aunque ya ha tenido experiencia laboral, esta no ha estado relacionada con su carrera. Reconoce que encontrar empleo en su rubro puede ser complicado debido al alto nivel de conocimientos técnicos que se requieren. Considera que las empresas priorizan candidatos con experiencia laboral, jóvenes, con alta disponibilidad, habilidades blandas y conocimientos técnicos específicos. Ha experimentado dificultades para acceder a ciertos puestos por falta de experiencia previa, aunque aclara que esto puede depender del tipo de trabajo. Entre las actividades en las que tiene mayor soltura están la mecánica, soporte técnico, servicios y automóviles. Destaca su proactividad y buen desenvolvimiento interpersonal, y afirma contar con habilidades blandas sólidas gracias a experiencias previas en otros trabajos. Menciona que usa plataformas como LinkedIn y redes sociales para buscar oportunidades laborales. Finalmente, considera que UniTalents Connect es una buena propuesta, ya que ve como necesaria una herramienta que conecte a empresas con jóvenes con alta disponibilidad para tareas específicas.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/entrevista-IanCuro.png" alt="entrevista" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 *Entrevistas a segmento 2*
 ---
@@ -1147,11 +1226,13 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>16:22</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1166,9 +1247,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
 </table>
 
-
-<br>
-
+<br><br>
 
 <table align="center">
   <tr>
@@ -1188,11 +1267,13 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>21:32</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1207,7 +1288,60 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   </tr>
 </table>
 
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Luis Enrique Ayala</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>33</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>38:11</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Luis Enrique Ayala, actual gerente nacional de ventas de Donofrio en Nestlé, describe su rol como estratégico, enfocado en diseñar, ordenar y delegar tareas dentro de su equipo, mientras que áreas como marketing o soporte operativo las gestiona a través de equipos especializados. En casos de emergencia o sobrecarga, recurre a agencias externas para recibir apoyo, aunque comenta que existen demoras importantes en la respuesta, llegando a tardar entre 3 semanas y 1 mes para conseguir personal disponible. Señala que la mayor dificultad para contratar radica en la falta de confianza, los elevados filtros que deben pasar los candidatos externos, y los limitados presupuestos disponibles para profesionales experimentados. Reconoce que no suele dejar tareas sin hacer por falta de personal, pero sí experimenta retrasos debido a estos cuellos de botella. Al momento de colaborar en proyectos, Luis prioriza el conocimiento técnico, la actitud proactiva, la confianza y el trabajo en equipo. Afirma que la experiencia laboral sigue siendo un factor clave, especialmente para cargos de mayor responsabilidad, ya que permite una mejor capacidad de reacción ante problemas. Sin embargo, también valora las habilidades blandas para puestos de entrada. Finalmente, valida positivamente la propuesta de UniTalents Connect, destacando que actualmente no existe una solución que le permita contactar rápidamente con talento joven calificado, ajustado a sus necesidades específicas.
+    </td>
+  </tr>
+   <tr>
+    <td colspan="2"><br>
+      <img src="images/entrevista-luisAyala.jpg" alt="entrevista" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
 #### 2.2.3. Análisis de entrevistas  
+
+*Análisis de Entrevistas – Segmento 1 (Estudiantes)*
+---
+En primer lugar, el 100% de los entrevistados tiene entre 19 y 20 años y actualmente cursa una carrera universitaria relacionada con tecnología o ingeniería. Todos comparten el deseo de obtener ingresos propios mientras estudian, ya sea por razones económicas personales o familiares. Asimismo, el 100% de ellos reconoce haber tenido dificultades para acceder a oportunidades laborales dentro de su rubro, debido a la exigencia de experiencia previa, conocimientos técnicos avanzados o alta disponibilidad, condiciones poco compatibles con la realidad académica de un estudiante. El 100% afirma haber utilizado plataformas como LinkedIn, Computrabajo o redes sociales para buscar trabajo, aunque también declaran que estas plataformas no siempre se ajustan al perfil de un estudiante sin experiencia. El 66% indica que ha tenido experiencias laborales previas, aunque no necesariamente relacionadas con su carrera. Todos manifiestan disposición para realizar proyectos pequeños o tareas específicas con el objetivo de ganar experiencia profesional y fortalecer su portafolio. En cuanto a habilidades, el 100% valora sus habilidades blandas, como la proactividad, el trabajo en equipo y la comunicación, considerándolas claves para desenvolverse en entornos laborales aún sin experiencia técnica formal. Finalmente, el 100% de los entrevistados valida positivamente la idea de UniTalents Connect, reconociendo que no existe actualmente una plataforma enfocada en conectar empresas con estudiantes dispuestos a colaborar en proyectos reales y de corta duración, que les permitan construir experiencia profesional desde etapas tempranas.
+
+<br>
+
+*Análisis de Entrevistas – Segmento 2 (Gerentes / Empresarios)*
+---
+El 100% de los entrevistados ocupa cargos gerenciales en empresas con distintos enfoques (tecnología, educación, consumo masivo), con edades que oscilan entre los 33 y 58 años. Todos cuentan con experiencia laboral significativa y participan activamente en la toma de decisiones estratégicas y operativas dentro de sus organizaciones. Un hallazgo común en el 100% de los casos es que las empresas sí recurren a personal externo, principalmente cuando el equipo interno no puede asumir toda la carga operativa, especialmente en momentos críticos o campañas específicas. Sin embargo, también el 100% identifica limitaciones al momento de contratar: principalmente la falta de confianza, los procesos lentos de intermediación (con agencias), la disponibilidad del talento y el costo de profesionales con experiencia. El 100% de los entrevistados coincide en que la confianza y la actitud son factores decisivos al momento de seleccionar colaboradores, incluso por encima de los conocimientos técnicos en algunos casos. Además, un 66% valora el uso de portafolios y catálogos virtuales como solución para agilizar procesos de selección y tomar decisiones informadas. Si bien todos reconocen que la experiencia laboral sigue siendo relevante (sobre todo en roles de responsabilidad), también valoran las habilidades blandas y la proactividad, especialmente en perfiles junior o de entrada. Finalmente, el 100% de los entrevistados validó positivamente la propuesta de UniTalents Connect, resaltando la necesidad de una plataforma que permita conectar con talento joven confiable, con alta disponibilidad y evidencia clara de sus habilidades, sin pasar por procesos burocráticos o poco flexibles. Consideran que una herramienta así podría optimizar el tiempo de respuesta y permitir cubrir tareas específicas de forma más eficiente y ajustada al contexto actual.
+
+<br>
 
 ### 2.3. Needfinding
 
@@ -1397,22 +1531,22 @@ Este Journey Map describe el proceso de Alexander Dávila en su busqueda de post
 #### 2.3.4. Empathy Mapping  
 
 <p align="center">
-  <img src="images/Empathy Map Jair.png" alt="EmpathyMap" width="1000">
+  <img src="images/Jair-EmpathyMap.png" alt="EmpathyMap" width="1000">
 </p>
 
 
 <p align="center">
-  <img src="images/Empathy Map Alexander.png" alt="EmpathyMap2" width="1000">
+  <img src="images/Alexander-EmpathyMap.png" alt="EmpathyMap2" width="1000">
 </p>
 
 #### 2.3.5. As-is Scenario Mapping  
 
 <p align="center">
-  <img src="images/Scenario1.png" alt="As-Is Scenario1" width="1000">
+  <img src="images/As-Is Escenario1.png" alt="As-Is Scenario1" width="1000">
 </p>
 
 <p align="center">
-  <img src="images/Scenario2.png" alt="As-Is Scenario2" width="1000">
+  <img src="images/As-Is Escenario2.png" alt="As-Is Scenario2" width="1000">
 </p>
 
 ### 2.4. Ubiquitous Language  
@@ -1894,7 +2028,7 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
 
 <tr>
-      <td>US24</td>
+      <td>US23</td>
       <td>Notificación de proyecto nuevo</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> recibir una notificación cuando se publique un proyecto compatible con mis habilidades, <strong>para</strong> no perder oportunidades.
@@ -1909,7 +2043,7 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
 
 <tr>
-      <td>US25</td>
+      <td>US24</td>
       <td>Eliminar cuenta</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> poder eliminar mi cuenta permanentemente, <strong>para</strong> asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.
@@ -1918,9 +2052,156 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Escenario 1: Nueva coincidencia</strong><br>
         <strong>Dado</strong> que he iniciado sesión y accedo a la configuración de la cuenta
         <strong>Cuando</strong> presiono “Eliminar cuenta” y confirmo la acción
-        <strong>Entonces</strong> mi cuenta es eliminada y los datos personales son removidos del sistema
+        <strong>Entonces</strong> mi cuenta es eliminada y los datos personales son removidos del sistema.
       </td>
       <td>Epic 01</td>
+    </tr>
+    <tr>
+      <td>US25</td>
+      <td>Tener un encabezado fijo para navegar por la página</td>
+      <td>
+        <strong>Como</strong> visitante de la landing page, <strong>quiero</strong> contar con un encabezado visible en todo momento, <strong>para</strong> moverme fácilmente entre las secciones sin hacer scroll manualmente.
+      </td>
+      <td>
+        <strong>Escenario 1: Encabezado permanece visible al hacer scroll</strong><br>
+        <strong>Dado</strong> que estoy navegando hacia abajo en la landing page,
+        <strong>Cuando</strong> hago scroll,
+        <strong>Entonces</strong> el encabezado permanece fijo en la parte superior con accesos visibles a las secciones principales.
+        <br><br>
+        <strong>Escenario 2: Enlaces del encabezado con anclaje interno</strong><br>
+        <strong>Dado</strong> que deseo moverme a otra sección desde cualquier parte,
+        <strong>Cuando</strong> hago clic en un ítem del encabezado (ej. “Planes”, “Casos de éxito”, “Registro”),
+        <strong>Entonces</strong> la página se desplaza automáticamente hasta la sección correspondiente sin recargar.
+      </td>
+      <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>US26</td>
+      <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
+      <td>
+        <strong>Como</strong> visitante indeciso, <strong>quiero</strong> acceder fácilmente a una sección de preguntas frecuentes, <strong>para</strong> resolver mis dudas antes de registrarme en la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1: Acceso directo desde el menú</strong><br>
+        <strong>Dado</strong> que estoy navegando en la landing page,
+        <strong>Cuando</strong> hago clic en “FAQs” en el encabezado,
+        <strong>Entonces</strong> soy llevado directamente a la sección de preguntas frecuentes sin salir de la página.
+        <br><br>
+        <strong>Escenario 2: Visualización organizada de preguntas y respuestas</strong><br>
+        <strong>Dado</strong> que ya estoy en la sección FAQs,
+        <strong>Cuando</strong> reviso las preguntas,
+        <strong>Entonces</strong> estas aparecen con un formato desplegable que permite leer las respuestas una por una.
+      </td>
+      <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>US27</td>
+      <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
+      <td>
+        <strong>Como</strong> usuario nuevo, <strong>quiero</strong> ver de inmediato una propuesta visual clara y atractiva, <strong>para</strong> captar rápidamente la esencia de UniTalents Connect sin necesidad de leer demasiado.
+      </td>
+      <td>
+        <strong>Escenario 1: Mensaje central visible en el primer vistazo</strong><br>
+        <strong>Dado</strong> que ingreso a la landing page,
+        <strong>Cuando</strong> visualizo el primer bloque superior,
+        <strong>Entonces</strong> veo un mensaje corto, atractivo y centrado que transmite el valor principal de la plataforma.
+        <br><br>
+        <strong>Escenario 2: Imagen o ilustración complementaria al mensaje</strong><br>
+        <strong>Dado</strong> que leo el mensaje principal,
+        <strong>Cuando</strong> observo el diseño,
+        <strong>Entonces</strong> se acompaña de una imagen relevante, que refuerza visualmente la propuesta de valor.
+      </td>
+      <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>US28</td>
+      <td>Acceder a información de contacto o soporte desde la landing</td>
+      <td>
+        <strong>Como</strong> visitante que necesita ayuda, <strong>quiero</strong> poder acceder fácilmente a los datos de contacto o soporte, <strong>para</strong> resolver dudas antes de registrarme o publicar un proyecto.
+      </td>
+      <td>
+        <strong>Escenario 1: Acceso al contacto desde el pie de página</strong><br>
+        <strong>Dado</strong> que estoy en la landing page,
+        <strong>Cuando</strong> llego al final del sitio,
+        <strong>Entonces</strong> visualizo una sección con enlaces a “Contáctanos”, correo de soporte, y redes sociales.
+      </td>
+      <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>TS01</td>
+      <td>Endpoint para registro de usuarios</td>
+      <td>
+        <strong>Como</strong> developer, <strong>quiero</strong> crear un endpoint para registrar nuevos usuarios diferenciando su rol (estudiante o gerente), <strong>para</strong> permitir su autenticación y posterior personalización de la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1: Registro exitoso</strong><br>
+        <strong>Dado</strong> que el usuario ingresa datos válidos (nombre, correo, contraseña, rol),
+        <strong>Cuando</strong> envía una solicitud POST al endpoint,
+        <strong>Entonces</strong> el sistema crea la cuenta y responde con código 201 Created.
+        <br><br>
+        <strong>Escenario 2: Error en validación de campos</strong><br>
+        <strong>Dado</strong> que el usuario omite campos requeridos o envía datos inválidos,
+        <strong>Cuando</strong> envía la solicitud,
+        <strong>Entonces</strong> el sistema responde con código 400 Bad Request y un mensaje de error claro.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Endpoint para creación de proyectos</td>
+      <td>
+        <strong>Como</strong> developer, <strong>quiero</strong> crear un endpoint para que los gerentes puedan publicar nuevos proyectos, <strong>para</strong> que los estudiantes puedan visualizar y postular.
+      </td>
+      <td>
+        <strong>Escenario 1: Proyecto creado correctamente</strong><br>
+        <strong>Dado</strong> que el gerente envía todos los datos requeridos (nombre, descripción, habilidades, plazos),
+        <strong>Cuando</strong> realiza un POST a /api/projects,
+        <strong>Entonces</strong> el sistema guarda el proyecto y responde con código 201 Created.
+        <br><br>
+        <strong>Escenario 2: Falta de autorización</strong><br>
+        <strong>Dado</strong> que un usuario no autenticado intenta crear un proyecto,
+        <strong>Cuando</strong> envía la solicitud,
+        <strong>Entonces</strong> el sistema responde con código 401 Unauthorized.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Endpoint para postulación a proyectos</td>
+      <td>
+        <strong>Como</strong> developer, <strong>quiero</strong> desarrollar un endpoint para que los estudiantes puedan postular a proyectos, <strong>para</strong> registrar su interés formal en una oportunidad.
+      </td>
+      <td>
+        <strong>Escenario 1: Postulación registrada correctamente</strong><br>
+        <strong>Dado</strong> que el estudiante está autenticado y el proyecto existe,
+        <strong>Cuando</strong> envía un POST a /api/applications,
+        <strong>Entonces</strong> el sistema registra su postulación y responde con código 201 Created.
+        <br><br>
+        <strong>Escenario 2: Postulación duplicada</strong><br>
+        <strong>Dado</strong> que el estudiante ya postuló antes al mismo proyecto,
+        <strong>Cuando</strong> intenta enviar otra solicitud,
+        <strong>Entonces</strong> el sistema responde con código 409 Conflict.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Endpoint para calificación de desempeño</td>
+      <td>
+        <strong>Como</strong> developer, <strong>quiero</strong> crear un endpoint que permita a los gerentes calificar el desempeño de un estudiante tras finalizar un proyecto, <strong>para</strong> actualizar su reputación en la plataforma.
+      </td>
+      <td>
+        <strong>Escenario 1: Evaluación registrada correctamente</strong><br>
+        <strong>Dado</strong> que el gerente finalizó el proyecto y el estudiante participó,
+        <strong>Cuando</strong> envía un POST a /api/evaluations,
+        <strong>Entonces</strong> la evaluación se guarda y se actualiza el perfil del estudiante.
+        <br><br>
+        <strong>Escenario 2: Error por proyecto no finalizado</strong><br>
+        <strong>Dado</strong> que el proyecto aún no ha sido marcado como "finalizado",
+        <strong>Cuando</strong> el gerente intenta evaluar,
+        <strong>Entonces</strong> el sistema responde con código 403 Forbidden.
+      </td>
+      <td></td>
     </tr>
 
   </tbody>
@@ -1931,15 +2212,38 @@ El lenguaje a utilizar para este proyecto es:
 ### 3.3. Impact Mapping <br><br>
 
 <p align="center">
-  <img src="images/impact_mapping.png" alt="impact mapping" width="80%">
+  <img src="images/impactMapping/parte1.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte2.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte3.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte4.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte5.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte6.png" alt="impact mapping" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/impactMapping/parte7.png" alt="impact mapping" width="80%">
 </p>
 
 ### 3.4. Product Backlog  <br><br>
 
-| Orden | User Story ID | Título | Descripción | User Stories |
-|:-----:|--------------|--------|-------------|--------------|
-|   1   |
-|   2   |
+<p align="center">
+  <img src="images/product_backlog.png" alt="product backlog" width="80%">
+</p>
 
 ---
 
@@ -2094,19 +2398,19 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
 + Landing Page:
 
-  + Inicio
+  + Inicio (logo)
 
   + ¿Cómo funciona?
 
   + Casos de éxito
+
+  + FAQs
 
   + Integrantes
 
   + Accceder
 
 + WebApp (Estudiantes):
-
-  + Inicio
 
   + Oportunidades
 
@@ -2116,11 +2420,8 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
   + Perfil
 
-  + Cerrar sesión
 
 + WebApp (Gerentes):
-
-  + Inicio
 
   + Mis Proyectos
 
@@ -2130,9 +2431,13 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 
   + Mi empresa
 
-  + Cerrar sesión
+<br>
 
-  <br><br>
+<p align="center">
+  <img src="images/labelingSystem.jpg" alt="wireframe" width="1000">
+</p>
+
+<br><br>
 
   <table align="center">
   <tr>
@@ -2269,9 +2574,6 @@ Dado que la plataforma gestionará gran cantidad de datos (postulaciones, estudi
 
   + Empresa
 
-+ Visualización de Datos
-
-  ...(imagenes)
 
 #### 4.2.5. Navigation Systems<br><br>
 
@@ -2289,39 +2591,551 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 
 #### 4.3.1. Landing Page Wireframe  
 
+<p align="center">
+  <img src="images/landingPage/wfLP1.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/wfLP2.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/wfLP3.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/wfLP4.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
 #### 4.3.2. Landing Page Mock-up  
+
+<p align="center">
+  <img src="images/landingPage/lp1.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/lp2.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/lp3.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/landingPage/lp4.png" alt="mockup" width="1000">
+</p>
+<br><br>
 
 ### 4.4. Web Applications UX/UI Design
 
-#### 4.4.1. Web Applications Wireframes  
+#### 4.4.1. Web Applications Wireframes 
+
+Los wireframes de UniTalents Connect han sido desarrollados aplicando principios clave de diseño centrado en el usuario, priorizando la claridad visual, la jerarquía de información y la accesibilidad. Cada sección está estructurada con una navegación intuitiva y coherente entre el menú lateral, encabezado fijo y bloques de contenido, lo cual refleja una arquitectura de información jerárquica y secuencial bien definida. Se han utilizado elementos de diseño consistentes como tarjetas, iconos descriptivos, botones llamativos y formularios bien distribuidos, facilitando la interacción fluida en dispositivos de diferentes tamaños. Además, se ha incorporado un enfoque de diseño inclusivo al priorizar la legibilidad (uso de contrastes adecuados, tamaños de fuente amplios y campos de formulario claros), permitiendo que usuarios con distintos niveles de experiencia digital puedan navegar sin fricciones. Todo el diseño contribuye a lograr una experiencia coherente entre perfiles (estudiante y gerente), enfocada en guiar a los usuarios hacia sus metas (postular, contratar, calificar, publicar proyectos) de forma eficiente y accesible.
+
+[Enlace Figma](https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1)
+<br><br>
+
++ Iniciar Sesión / Registrarse:
+
+Permite a nuevos usuarios crear una cuenta como estudiante o gerente, y a usuarios existentes ingresar con sus credenciales para acceder a su respectivo dashboard.
+
+<p align="center">
+  <img src="images/wireframes/Sign In.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/wireframes/Manager Register.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/wireframes/Student Register.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Dashboard del Estudiante:
+
+Muestra un resumen del estado de las postulaciones, proyectos sugeridos, y accesos rápidos a portafolio y feedback. El punto de inicios son las oportunidades.
+
+<p align="center">
+  <img src="images/wireframes/Estudiante 01 -Homepage.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Agregar Proyecto al Portafolio:
+
+Formulario para registrar un nuevo proyecto, con campos como título, descripción, tecnologías y enlaces.
+
+<p align="center">
+  <img src="images/wireframes/Estudiante 07 - Portafolio - Add project.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Vista del Portafolio del Estudiante:
+
+Muestra todos los proyectos subidos con opción de editar o eliminar.
+
+<p align="center">
+  <img src="images/wireframes/Estudiante 06 - Portafolio.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Mis Postulaciones:
+
+Muestra el estado actual de todas las postulaciones enviadas (en revisión, aceptado, rechazado).
+
+<p align="center">
+  <img src="images/wireframes/Estudiante 15 - Mis Postulaciones.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Dashboard del Gerente:
+
+Muestra resumen de proyectos activos, buscar talento, mis evaluaciones y mi empresa. Empezando con Mis Proyectos.
+
+<p align="center">
+  <img src="images/wireframes/Gerente 01 - Homepage.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Vista del Proyecto:
+
+Presenta los detalles del proyecto ya concluido, historial del proceso, entregables y resultados.
+
+<p align="center">
+  <img src="images/wireframes/Gerente 03 - ver info proyecto.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Buscar Talento:
+
+Permite buscar estudiantes por filtros, acceder a perfiles, portafolios y evaluaciones anteriores.
+
+<p align="center">
+  <img src="images/wireframes/Gerente 08 - Buscar Talento.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
++ Evaluaciones:
+
+Panel que muestra los proyectos pendientes de evaluación y permite calificar estudiantes.
+
+<p align="center">
+  <img src="images/wireframes/Gerente 15 - Evaluaciones.png" alt="wireframe" width="1000">
+</p>
+<br><br>
+
+
+
 
 #### 4.4.2. Web Applications Wireflow Diagrams 
 
+[Enlace Overflow](https://overflow.io/s/TQAWUZY8)
+<br><br>
+
++ **Wireflow 1: Login / Registrarse**
+
+**User Goal:** Como nuevo usuario, quiero ingresar o crear una cuenta, para acceder a la plataforma según mi rol.
+
+**User Persona:** Estudiante y Gerente de empresa
+
+**Flujo:** El usuario accede a la landing page y hace clic en “Acceder” desde el encabezado. Al seleccionar una opción, puede elegir entre perfil Estudiante o Gerente mediante un botón conmutador. Si ya está registrado, introduce su correo y contraseña. Si es nuevo, completa el formulario correspondiente con nombre, correo, contraseña y rubro (en el caso de estudiantes). Tras completar el proceso, es redirigido automáticamente a su dashboard correspondiente.
+
+<p align="center">
+  <img src="images/wireflows/wf1.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 2: Postular a un proyecto**
+
+**User Goal:** Como estudiante, quiero postularme a un proyecto, para ganar experiencia y construir mi portafolio.
+
+**User Persona:** Estudiante
+
+**Flujo:** Desde el menú lateral, el estudiante accede a la sección Oportunidades. Allí visualiza un listado de proyectos activos con filtros (carrera, habilidades, duración, etc.). Al hacer clic en un proyecto, se despliega su ficha completa con descripción, empresa y requisitos. El estudiante hace clic en “Postularme”, y recibe una confirmación visual de que su postulación fue enviada. El proyecto aparece ahora en la sección “Mis Postulaciones”.
+
+<p align="center">
+  <img src="images/wireflows/wf2.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 3: Gestionar portafolio**
+
+**User Goal:** Como estudiante, quiero gestionar mis proyectos, para mostrar mi trabajo a posibles contratantes.
+
+**User Persona:** Estudiante
+
+**Flujo:** Desde su dashboard, el estudiante selecciona la sección Mi Portafolio. Allí encuentra una lista de tarjetas con sus proyectos previos. Puede hacer clic en “Agregar proyecto” para abrir un formulario con campos como título, descripción, tecnologías y enlaces o archivos. También puede editar o eliminar un proyecto existente desde un ícono de opciones en cada tarjeta. Al guardar los cambios, la lista se actualiza y queda lista para ser visualizada por los gerentes.
+
+<p align="center">
+  <img src="images/wireflows/wf3.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 4: Calificar empresa**
+
+**User Goal:** Como estudiante, quiero evaluar a la empresa al finalizar un proyecto, para compartir mi experiencia con otros usuarios.
+
+**User Persona:** Estudiante
+
+**Flujo:** Una vez que un proyecto en el que participó ha sido marcado como Finalizado, el estudiante recibe una notificación para dejar una calificación. Desde Mis Postulaciones, puede acceder a un botón “Calificar empresa” que le permite puntuar aspectos como comunicación, claridad de requerimientos y cumplimiento de condiciones, además de dejar un comentario opcional. Al confirmar la evaluación, esta se almacena en el historial de la empresa y contribuye a su reputación en la plataforma.
+
+<p align="center">
+  <img src="images/wireflows/wf4.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 5: Crear proyecto**
+
+**User Goal:** Como gerente, quiero publicar un nuevo proyecto, para encontrar estudiantes con el perfil adecuado.
+
+**User Persona:** Gerente
+
+**Flujo:** Desde el apartado "Mis Proyectos", el gerente accede a la opción “Agregar Proyecto”. Se abre un formulario con campos organizados paso a paso: nombre del proyecto, descripción, habilidades requeridas, duración, modalidad, fechas clave y nivel de compromiso. Al finalizar, puede hacer clic en “Publicar” y el proyecto pasa a estar visible en la plataforma dentro del explorador de oportunidades. 
+
+<p align="center">
+  <img src="images/wireflows/wf5.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 6: Calificar postulante**
+
+**User Goal:** Como gerente, quiero calificar al estudiante que participó en mi proyecto, para contribuir a su reputación.
+
+**User Persona:** Gerente
+
+**Flujo:** Una vez un proyecto termina, el gerente accede a Evaluaciones. Ahí visualiza la lista de estudiantes asignados. Al hacer clic en “Evaluar”, se abre un formulario con escala de puntuación (ej. responsabilidad, calidad, puntualidad) y un campo de comentario. Al guardar, la evaluación se almacena y se refleja en la reputación del estudiante, visible para futuros gerentes.
+
+<p align="center">
+  <img src="images/wireflows/wf6.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
++ **Wireflow 7: Contratar estudiante**
+
+**User Goal:** Como gerente, quiero seleccionar a un estudiante para un proyecto, para iniciar oficialmente su participación.
+
+**User Persona:** Gerente
+
+**Flujo:** Desde el listado de postulaciones dentro de un proyecto publicado, el gerente puede revisar el perfil y portafolio de cada candidato. Al decidirse por uno, hace clic en el botón “Contratar” dentro de su tarjeta. Se solicita una confirmación de la acción y se genera automáticamente el vínculo entre el estudiante y el proyecto. A partir de ese momento, el proyecto se mueve a la fase En curso y el estudiante recibe una notificación en su panel.
+
+<p align="center">
+  <img src="images/wireflows/wf7.png" alt="wireflows" width="1000">
+</p>
+<br><br>
+
 #### 4.4.3. Web Applications Mock-ups  
 
+Los siguientes Mock-ups fueron elaborados en base a los wireframes previamente hechos. Representan fielmente la manera en la que nuestros usuarios podrán apreciar la aplicación web.
+
+[Enlace Figma](https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=0-1&p=f&t=dIa0V1UemHWoieb7-0)
+<br><br>
+
++ Iniciar Sesión / Registrarse:
+
+Permite a nuevos usuarios crear una cuenta como estudiante o gerente, y a usuarios existentes ingresar con sus credenciales para acceder a su respectivo dashboard.
+
+<p align="center">
+  <img src="images/mockups/Sign In.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/mockups/Manager Register.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/mockups/Student Register.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Dashboard del Estudiante:
+
+Muestra un resumen del estado de las postulaciones, proyectos sugeridos, y accesos rápidos a portafolio y feedback. El punto de inicios son las oportunidades.
+
+<p align="center">
+  <img src="images/mockups/HomePage(Estudiante).png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Agregar Proyecto al Portafolio:
+
+Formulario para registrar un nuevo proyecto, con campos como título, descripción, tecnologías y enlaces.
+
+<p align="center">
+  <img src="images/mockups/Estudiante - Portafolio - Add project.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Vista del Portafolio del Estudiante:
+
+Muestra todos los proyectos subidos con opción de editar o eliminar.
+
+<p align="center">
+  <img src="images/mockups/Estudiante - Portafolio.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Mis Postulaciones:
+
+Muestra el estado actual de todas las postulaciones enviadas (en revisión, aceptado, rechazado).
+
+<p align="center">
+  <img src="images/mockups/Estudiante - Mis Postulaciones.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Dashboard del Gerente:
+
+Muestra resumen de proyectos activos, buscar talento, mis evaluaciones y mi empresa. Empezando con Mis Proyectos.
+
+<p align="center">
+  <img src="images/mockups/HomePage(Gerente).png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Vista del Proyecto:
+
+Presenta los detalles del proyecto ya concluido, historial del proceso, entregables y resultados.
+
+<p align="center">
+  <img src="images/mockups/View Project Info.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Buscar Talento:
+
+Permite buscar estudiantes por filtros, acceder a perfiles, portafolios y evaluaciones anteriores.
+
+<p align="center">
+  <img src="images/mockups/Gerente - Buscar Talento.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
++ Evaluaciones:
+
+Panel que muestra los proyectos pendientes de evaluación y permite calificar estudiantes.
+
+<p align="center">
+  <img src="images/mockups/Gerente - Evaluaciones.png" alt="mockup" width="1000">
+</p>
+<br><br>
+
+
 #### 4.4.4. Web Applications User Flow Diagrams  
+
+Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows previamente hechos y representan los pasos que seguirán nuestros usuarios a través de la aplicación.
+
+
+[Enlace para acceder a Overflow](https://overflow.io/s/QHU9N2IZ)
+
+<br>
+
++ **User Flow Diagram 1: Login / Registrarse**
+
+**User Goal:** Como nuevo usuario, quiero ingresar o crear una cuenta, para acceder a la plataforma según mi rol.
+
+**User Persona:** Gerente de empresa y Estudiante
+
+**Flujo:** El usuario accede a la landing page y hace clic en “Acceder” desde el encabezado. Al seleccionar una opción, puede elegir entre perfil Estudiante o Gerente mediante un botón conmutador. Si ya está registrado, introduce su correo y contraseña. Si es nuevo, completa el formulario correspondiente con nombre, correo, contraseña y rubro (en el caso de estudiantes). Tras completar el proceso, es redirigido automáticamente a su dashboard correspondiente.
+
+<p align="center">
+  <img src="images/userflows/login.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 2: Postular a un proyecto**
+
+**User Goal:** Como estudiante, quiero postularme a un proyecto, para ganar experiencia y construir mi portafolio.
+
+**User Persona:** Estudiante
+
+**Flujo:** Desde el menú lateral, el estudiante accede a la sección Oportunidades. Allí visualiza un listado de proyectos activos con filtros (carrera, habilidades, duración, etc.). Al hacer clic en un proyecto, se despliega su ficha completa con descripción, empresa y requisitos. El estudiante hace clic en “Postularme”, y recibe una confirmación visual de que su postulación fue enviada. El proyecto aparece ahora en la sección “Mis Postulaciones”.
+
+<p align="center">
+  <img src="images/userflows/postular.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 3: Gestionar portafolio**
+
+**User Goal:** Como estudiante, quiero gestionar mis proyectos, para mostrar mi trabajo a posibles contratantes.
+
+**User Persona:** Estudiante
+
+**Flujo:** Desde su dashboard, el estudiante selecciona la sección Mi Portafolio. Allí encuentra una lista de tarjetas con sus proyectos previos. Puede hacer clic en “Agregar proyecto” para abrir un formulario con campos como título, descripción, tecnologías y enlaces o archivos. También puede editar o eliminar un proyecto existente desde un ícono de opciones en cada tarjeta. Al guardar los cambios, la lista se actualiza y queda lista para ser visualizada por los gerentes.
+
+<p align="center">
+  <img src="images/userflows/gestionarportafolio.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 4: Calificar empresa**
+
+**User Goal:** Como estudiante, quiero evaluar a la empresa al finalizar un proyecto, para compartir mi experiencia con otros usuarios.
+
+**User Persona:** Estudiante
+
+**Flujo:** Una vez que un proyecto en el que participó ha sido marcado como Finalizado, el estudiante recibe una notificación para dejar una calificación. Desde Mis Postulaciones, puede acceder a un botón “Calificar empresa” que le permite puntuar aspectos como comunicación, claridad de requerimientos y cumplimiento de condiciones, además de dejar un comentario opcional. Al confirmar la evaluación, esta se almacena en el historial de la empresa y contribuye a su reputación en la plataforma.
+
+<p align="center">
+  <img src="images/userflows/calificar empresa.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 5: Crear proyecto**
+
+**User Goal:** Como gerente, quiero publicar un nuevo proyecto, para encontrar estudiantes con el perfil adecuado.
+
+**User Persona:** Gerente de Empresa
+
+**Flujo:** Desde el apartado "Mis Proyectos", el gerente accede a la opción “Agregar Proyecto”. Se abre un formulario con campos organizados paso a paso: nombre del proyecto, descripción, habilidades requeridas, duración, modalidad, fechas clave y nivel de compromiso. Al finalizar, puede hacer clic en “Publicar” y el proyecto pasa a estar visible en la plataforma dentro del explorador de oportunidades. 
+
+<p align="center">
+  <img src="images/userflows/crearproyecto.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 6: Calificar postulante**
+
+**User Goal:** Como gerente, quiero calificar al estudiante que participó en mi proyecto, para contribuir a su reputación.
+
+**User Persona:** Gerente de Empresa
+
+**Flujo:** Una vez un proyecto termina, el gerente accede a Evaluaciones. Ahí visualiza la lista de estudiantes asignados. Al hacer clic en “Evaluar”, se abre un formulario con escala de puntuación (ej. responsabilidad, calidad, puntualidad) y un campo de comentario. Al guardar, la evaluación se almacena y se refleja en la reputación del estudiante, visible para futuros gerentes.
+
+<p align="center">
+  <img src="images/userflows/calificarestudainte.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
++ **User Flow Diagram 7: Contratar estudiante**
+
+**User Goal:** Como gerente, quiero seleccionar a un estudiante para un proyecto, para iniciar oficialmente su participación.
+
+**User Persona:** Gerente de Empresa
+
+**Flujo:** Desde el listado de postulaciones dentro de un proyecto publicado, el gerente puede revisar el perfil y portafolio de cada candidato. Al decidirse por uno, hace clic en el botón “Contratar” dentro de su tarjeta. Se solicita una confirmación de la acción y se genera automáticamente el vínculo entre el estudiante y el proyecto. A partir de ese momento, el proyecto se mueve a la fase En curso y el estudiante recibe una notificación en su panel.
+
+<p align="center">
+  <img src="images/userflows/contratarestudiante.png" alt="userflows" width="1000">
+</p>
+<br><br>
+
 
 ### 4.5. Web Applications Prototyping  
 
 ### 4.6. Domain-Driven Software Architecture
 
+El Domain Driven Design (DDD) permite alinear el desarrollo de UniTalent Connect con las necesidades reales del dominio freelance estudiantil. A través del uso de un lenguaje ubicuo y una estructura centrada en el negocio, se mejora la colaboración entre desarrolladores y expertos del dominio. DDD guía el diseño del sistema mediante patrones y diagramas que reflejan fielmente la lógica del dominio. 
+
+Este diagrama de arquitectura fue creado en **Structurizr**.
+[Ver el diagrama en Structurizr](https://structurizr.com/share/101676/c0e4ce4f-36d3-4065-b4e4-ae9dc8c4d388)
+
 #### 4.6.1. Software Architecture Context Diagram  
+
+El diagrama de contexto ofrece una visión general de alto nivel que representa cómo el sistema de software UniTalent Connect se relaciona con sus usuarios y, cuando aplica, con otros sistemas externos.
+
+<p align="center">
+  <img src="images/diagramaC4/c4-context.png" alt="" width="800">
+</p>
 
 #### 4.6.2. Software Architecture Container Diagrams  
 
+El diagrama de contenedores proporciona una vista general de alto nivel sobre el software UniTalent Connect.
+
+<p align="center">
+  <img src="images/diagramaC4/c4-container.png" alt="" width="1000">
+</p>
+
 #### 4.6.3. Software Architecture Components Diagrams  
+
+Los diagramas de componentes muestran la estructura interna de los contenedores principales del sistema UniTalent Connect, detallando cómo se organizan e interactúan sus componentes. En este caso, se presentan todos los componentes de las diferentes funcionalidades que va a tener nuestro producto.
+
+**Registro de usuarios**
+<p align="center">
+  <img src="images/diagramaC4/c4-registro-usuarios.png" alt="" width="500">
+</p>
+
+**Autenticación y Autorización**
+<p align="center">
+  <img src="images/diagramaC4/c4-autenticacion-autorizacion.png" alt="" width="500">
+</p>
+
+**Gestión de Proyectos**
+<p align="center">
+  <img src="images/diagramaC4/c4-gestion-proyectos.png" alt="" width="500">
+</p>
+
+**Gestión de Pagos y Suscripciones**
+<p align="center">
+  <img src="images/diagramaC4/c4-gestion-pagos-suscripciones.png" alt="" width="500">
+</p>
+
+**Notificaciones**
+<p align="center">
+  <img src="images/diagramaC4/c4-notificaciones.png" alt="" width="500">
+</p>
+
+**Gestión de Perfiles y Portafolios**
+<p align="center">
+  <img src="images/diagramaC4/c4-gestion-perfiles-portafolios.png" alt="" width="500">
+</p>
+
+**Sistema de Evaluaciones**
+<p align="center">
+  <img src="images/diagramaC4/c4-sistema-evaluaciones.png" alt="" width="500">
+</p>
+
+**Modulo de Búsqueda**
+<p align="center">
+  <img src="images/diagramaC4/c4-modulo-busqueda.png" alt="" width="500">
+</p>
+
+**Panel Administración**
+<p align="center">
+  <img src="images/diagramaC4/c4-panel-administrativo.png" alt="" width="500">
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams  
 
+<p align="center">
+  <img src="images/UniTalents_UML.png" alt="class diagram" width="80%">
+</p>
+
 #### 4.7.2. Class Dictionary  
+
+| Clase | Descripción | Atributos | Metodos |
+|:-----:|--------------|--------|-------------|
+|User (abstracta)|Representa a cualquier usuario del sistema. Base para Manager y Student.|id: string, name: string, email: string, password: string, role: string|login(), logout()|
+|Student|Usuario que ofrece servicios freelance. Hereda de User.|university: string, degree: string, semester: int, portfolio: Portfolio, availableTimeSlots: vector<string>|applyToProject(Project), viewApplications()|
+|Manager|Usuario que publica proyectos. Hereda de User.|companyName: string, position: string, postedProjects: vector<Project>|postProject(Project), reviewApplications()|
+|Project|Proyecto freelance publicado por un Manager|projectId: string, title: string, description: string, budget: float, deadline: string, skillsRequired: vector<string>, isOpen: bool, postedBy: Manager, applicants: vector<Student>|closeProject(), addApplicant(Student)|
+|Briefcase|Portafolio del estudiante con habilidades y logros.|briefcaseId: string, studentId: string, bio: string, skills: vector<Skill>, projectsCompleted: vector<Project>, certifications: vector<string>|addSkill(Skill), addProject(Project)|
+|Skill|Habilidad técnica o blanda.|skillName: string, proficiencyLevel: string|No presenta metodos|
+|Application|Postulación de un estudiante a un proyecto.|applicationId: string, student: Student, project: Project, status: string, submissionDate: string|updateStatus(string)|
+|Review|Calificación entre usuarios.|reviewId: string, rating: float, comment: string, fromUser: User, toUser: User, date: string|No presenta metodos|
+|Chat|Conversación entre usuarios.|chatId: string, participants: vector<User>, messages: vector<Message>|sendMessage(Message)|
+|Message|Mensaje dentro del chat.|messageId: string, sender: User, content: string, timestamp: string|No presenta metodos|
 
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram  
 
----
+<p align="center">
+  <img src="images/database-diagram.png" alt="database diagram" width="80%">
+</p>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2329,49 +3143,693 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 
 #### 5.1.1. Software Development Environment Configuration  
 
-#### 5.1.2. Source Code Management  
+**Gestión de Proyecto (Project Management)**
+
+GitHub Pages: Plataforma basada en la web para gestionar y alojar las páginas del proyecto. Facilita la colaboración en la documentación y permite desplegar contenidos en línea de forma fácil y accesible.
+
+Ruta de acceso: https://pages.github.com
+
+**Gestión de Requisitos (Requirements Management)**
+
+Trello: Aplicación para organizar tareas, asignar responsabilidades y monitorear el avance de las actividades. Se utilizará para coordinar las tareas del equipo y gestionar el progreso de los sprints e historias de usuario.
+
+Ruta de acceso: https://trello.com/es
+
+**Diseño de UX/UI del Producto (Product UX/UI Design)**
+
+Figma: Herramienta online para crear prototipos y diseños gráficos. Se empleará para desarrollar las interfaces de usuario de la aplicación en sus versiones Desktop y Mobile.
+
+Ruta de acceso: https://www.figma.com/login
+
+Overflow: Plataforma para diseñar flujos de usuario y wireflows, útil para representar la experiencia del usuario dentro del sistema.
+
+Ruta de acceso: https://overflow.io
+
+**Desarrollo de Software (Software Development)**
+
+Visual Studio Code: Entorno de desarrollo integrado utilizado por el equipo para escribir y compilar código, gracias a su soporte extensivo de lenguajes y herramientas adicionales.
+
+Ruta de acceso: https://code.visualstudio.com
+
+IntelliJ IDEA: IDE avanzado para el desarrollo de aplicaciones en lenguajes como Java y Kotlin, siendo clave para la creación de los componentes del sistema.
+
+Ruta de acceso: https://www.jetbrains.com/idea
+
+HTML5: Lenguaje de marcado para estructurar el contenido web de la aplicación.
+
+Ruta de acceso: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+CSS: Lenguaje de estilos utilizado para diseñar y presentar las páginas web, garantizando una presentación adecuada del contenido.
+
+Ruta de acceso:  https://developer.mozilla.org/en-US/docs/Web/CSS
+
+JavaScript: Lenguaje de programación que permite implementar funcionalidades interactivas en el navegador, esencial para la interacción con la interfaz de usuario.
+
+Ruta de acceso: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+**Despliegue de Software (Software Deployment)**
+
+Git: Sistema de control de versiones que registra los cambios en el código fuente y facilita el trabajo colaborativo entre los miembros del equipo. Se usará para mantener el historial del proyecto y controlar las versiones del software.
+
+Ruta de acceso: https://git-scm.com
+
+**Documentación del Software (Software Documentation)**
+
+Markdown: Lenguaje de marcado utilizado para crear documentación técnica, permitiendo una fácil redacción y lectura en plataformas como GitHub.
+
+Ruta de acceso: https://www.markdownguide.org
+
+GitHub Pages: Servicio en la web para alojar documentación del proyecto, accesible públicamente o de manera privada.
+
+Ruta de acceso: https://pages.github.com
+
+#### 5.1.2. Source Code Management 
+
+GitHub se utilizará como plataforma central de control de versiones para todo el proyecto. En este apartado se podra visualizar los URL de los repositorios de GitHub de nuestra Documentacion de nuestro informe y nuestra Landing Page.
+
+URL de Repositorios:
+
+Documentacion Informe: https://github.com/UniTalents-project-G2/UnitTalents-report
+
+Landing Page: https://github.com/UniTalents-project-G2/UniTalents-LandingPage
+
+Cada repositorio incluirá todos los archivos del proyecto.
+
+**Implementación de GitFlow como Workflow de Control de Versiones**
+
+Modelo de GitFlow:
+
+GitFlow se implementará como el flujo de trabajo para gestionar las ramas del proyecto y asegurar una integración fluida entre los desarrolladores.
+
+<p align="center">
+  <img src="images/flujo-gitflow.png" alt="wireflows" width="500">
+</p>
+
+Ramas principales:
+
+Main branch: main
+
+Esta será la rama principal donde siempre se encontrará el código estable y listo para producción.
+
+Development branch: develop
+
+Aquí se realizará todo el desarrollo del proyecto antes de fusionarlo a la rama principal. Los cambios y mejoras en el código serán fusionados primero en esta rama antes de pasar a main.
+
+Feature branches: feature
+
+ Cada nueva funcionalidad o característica se desarrollará en una rama separada basada en develop. Estas ramas seguirán la convención:
+
+feature/ch1-actvidiad-hecha
+
+Ejemplo: feature/ch1-target-segment
+
+Release branches: realse
+
+Para preparar el proyecto para una nueva versión estable, se creará una rama de liberación a partir de develop.Este tipo de ramas se utilizará para corregir errores menores, realizar pruebas finales y documentar el código antes de realizar una versión estable. Las ramas de liberación seguirán la convención:
+
+release/version
+
+Ejemplo: release/v1.0.0
+
+Hotfix branches: hotfix
+
+Cuando sea necesario realizar una corrección crítica o urgente en producción, se creará una rama desde main. Las ramas de hotfix seguirán la convención:
+
+hotfix/parte-arreglada
+
+Ejemplo: hotfix/imagen-bug
+
+**Convenciones para Versiones**
+
+Se aplicará Semantic Versioning (Versionado Semántico) para todas las versiones lanzadas.
+
+**Mensajes de Commits con Conventional Commits**
+ 
+Para los mensajes de commit, se implementará Conventional Commits para asegurar claridad en los cambios realizados en el código. Esta convención incluirá los siguientes tipos:
+
+feat: Nuevas características o funcionalidades.
+
+fix: Corrección de errores.
+
+docs: Cambios en la documentación.
+
+style: Cambios de formato, sin alterar la funcionalidad.
+
+refactor: Refactorización de código, sin cambios en el comportamiento.
+
+test: Añadir o modificar pruebas.
+
+chore: Tareas de mantenimiento.
 
 #### 5.1.3. Source Code Style Guide & Conventions  
 
+**HTML:** Estas prácticas se aplicaron en el desarrollo de la Landing Page estática.
+
+1. Se utilizará href=#id para una navegación interna fluida.
+
+2. Se utilizan atributos "alt" para reemplazar imagenes en caso de que no carguen. Por ejemplo: < img src="images/image-hero.png" alt="Persona frente a computadora"/>
+
+
+3. Los iconos SVG serán conseguidos desde FontAwesome.
+
+4. Se utilizará snake case para nombrar los id y las clases. Por ejemplo: class="success-stories" id="casos-exito"
+
+**CSS:**
+1. Se utiliza Flexbox para facilitar el diseño responsive de la Landing Page.
+
+2. Los colores utilizados serán definidos en codigo HEX. Por ejemplo: #1C1F2B
+
+3. Se utiliza comentarios al inicio de cada hoja de estilos para distinguir las secciones de la Landing Page.
+
+
+
+**JavaScript:** 
+
+1. Para la declaración de funciones se utilizará Camel Case. 
+
+
+**Gherkin:** Este lenguaje de dominio se utilizó para realizar los escenarios de las User Stories usando palabras clave como "Given", "When", "Then" y "And".
+
+
+
 #### 5.1.4. Software Deployment Configuration  
+
+**Landing Page Deployment:**
+
+Para el despliegue de nuestra Landing Page se utilizó Github Pages por la facilidad de uso. Se tomó el archivo index.html como punto de entrada para el principal.
+
+<p align="center">
+  <img src="images/deployment-1.png" alt="deployment-evidence" width="1000">
+</p>
+
+Se nos muestra el enlace que se usó para compartir la vista de nuestra Landing Page estática.
+
+<p align="center">
+  <img src="images/deployment-2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+Se muestra nuestra landing page en GitHub Pages.
+
+<p align="center">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+[Enlace para acceder a la Landing Page](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
 
+Durante el Sprint 1 del proyecto UniTalents Connect, el equipo se enfocó en el diseño y construcción funcional de la Landing Page de la plataforma. Se implementaron las principales secciones informativas, incluyendo el mensaje de bienvenida, los botones de registro y navegación, la sección de testimonios de usuarios, preguntas frecuentes (FAQs) y el acceso a información de contacto. Además, se trabajó en aspectos clave de interacción como la fijación del encabezado al hacer scroll y la visualización atractiva de la propuesta de valor. El equipo logró completar la mayoría de las tareas planificadas, dejando solo algunos elementos en proceso de revisión. Todo el despliegue del Sprint 1 priorizó una navegación fluida, accesibilidad y claridad en la comunicación hacia los usuarios nuevos.
+
 ##### 5.2.1.1. Sprint Planning 1 
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 04 -23</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Javier Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Erik Palomino, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Review Summary</strong></td>
+    <td>No tuvimos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Retorspective Summary</strong></td>
+    <td>No tuvimos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Goal</strong></td>
+    <td>Desarrollar la landing page estática de nuestro proyecto UniTalents Connect</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Velocity</strong></td>
+    <td>19</td>
+  </tr>
+</table>
+<br>
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Contenido y mensajes</strong></td>
+    <td><strong>Funcionalidades específicas</strong></td>
+    <td><strong>Diseño y Navegación</strong></td>
+    <td><strong>Deployment</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
+
 ##### 5.2.1.3. Sprint Backlog 1 
 
-##### 5.2.1.4. Development Evidence for Sprint Review  
+Durante el primer sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. La herramienta empleada para la organización y gestión a los miembros del equipo fue Trello. Ya que esta herramienta permitió que se pueda dividir todas las user stories
+en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era
+construir en su totalidad la landing page, logrando que sea atractiva y funcional.
+
+<img src="images/SprintBacklogTrello.png" alt="wireflows" width="1000">
+
+link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Acceptance Criteria</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US01</td>
+            <td>Comprender el propósito de la plataforma desde la página de inicio</td>
+            <td>UT01</td>
+            <td>Crear mensaje principal de bienvenida</td>
+            <td><strong>Como usuario nuevo</strong>, quiero entender el propósito de UniTalents Connect desde la landing page <strong>para decidir si registrarme rápidamente</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que accedo a la landing page, When la carga, Then debo ver un mensaje claro que diga: "Conecta con talentos universitarios en un solo clic".<br>
+                <strong>Escenario 2:</strong> Given que leo el mensaje, When termino, Then debo ver un botón naranja con texto "Regístrate gratis".
+            </td>
+            <td>6</td>
+            <td>Andrés Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Registro inmediato desde la landing</td>
+            <td>UT02</td>
+            <td>Implementar botón "Acceder" en el header</td>
+            <td><strong>Como usuario no registrado</strong>, quiero un botón de acceso rápido<strong>para reducir el tiempo de registro</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago clic en "Acceder", Then soy redirigido a "/registro".<br>
+                <strong>Escenario 2:</strong> Given que hago scroll, When reviso el header, Then el botón sigue visible.
+            </td>
+            <td>8</td>
+            <td>Javier Gonzales</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Ver testimonios de usuarios reales</td>
+            <td>UT03</td>
+            <td>Funcionalidad "desplegar testimonios"</td>
+            <td><strong>Como visitante</strong>, quiero leer testimonios reales <strong>para confiar en la plataforma </strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que navego a "Testimonios", Then veo 3 tarjetas con foto, nombre y texto.<br>
+                <strong>Escenario 2:</strong> Given que hago clic en "Siguiente", Then la transición es suave.
+            </td>
+            <td>5</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Llamados a la acción claros en cada sección</td>
+            <td>UT04</td>
+            <td>Botones interactivos para fácil acceso</td>
+            <td><strong>Como usuario</strong>, quiero botones interactivos en cada sección<strong>para navegar fácilmente</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que veo una sección, Then encuentro un botón con texto claro.<br>
+                <strong>Escenario 2:</strong> Given que paso el mouse sobre un botón, Then cambia de color.
+            </td>
+            <td>4</td>
+            <td>Cesar Linares</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US25</td>
+            <td>Tener un encabezado fijo para navegar por la página</td>
+            <td>UT05</td>
+            <td>Encabezado visible al hacer scroll</td>
+            <td><strong>Como usuario</strong>, quiero un header fijo<strong>para navegar sin perder tiempo</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago scroll, Then el header permanece visible.<br>
+                <strong>Escenario 2:</strong> Given que uso móvil, Then el header se convierte en menú hamburguesa.
+            </td>
+            <td>5</td>
+            <td>Renzo Rivera</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US26</td>
+            <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
+            <td>UT06</td>
+            <td>Implementar sección FAQs accesible</td>
+            <td><strong>Como usuario con dudas</strong>, quiero una sección FAQs accesible<strong>para resolver preguntas sin contacto</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago clic en "FAQs", Then veo preguntas organizadas por temas.<br>
+                <strong>Escenario 2:</strong> Given que selecciono una pregunta, Then se expande con su respuesta.
+            </td>
+            <td>8</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US27</td>
+            <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
+            <td>UT07</td>
+            <td>Crear mensaje visual principal de propuesta de valor</td>
+            <td><strong>Como visitante</strong>, quiero un bloque visual con la propuesta de valor<strong>para entender rápidamente el servicio</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que ingreso a la landing, Then veo un bloque con imagen + texto destacado.<br>
+                <strong>Escenario 2:</strong> Given que cargo la página, Then el bloque es visible sin hacer scroll.
+            </td>
+            <td>8</td>
+            <td>Renzo Rivera</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US28</td>
+            <td>Acceder a información de contacto o soporte desde la landing</td>
+            <td>UT08</td>
+            <td>Acceso a información de contacto o soporte</td>
+            <td><strong>Como usuario</strong>, quiero datos de contacto visibles<strong>para resolver dudas antes de registrarme</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago clic en "Contacto", Then veo un formulario con campos obligatorios.<br>
+                <strong>Escenario 2:</strong> Given que envío el formulario, Then recibo un email de confirmación.
+            </td>
+            <td>6</td>
+            <td>Cesar Linares</td>
+            <td>To-Review</td>
+        </tr>
+    </tbody>
+</table>
+
+
+##### 5.2.1.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-LandingPage</td>
+    <td>develop</td>
+    <td>2fa5600</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>23/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>bc64786</td>
+    <td>docs:created 3 principale docs</td>
+    <td>created 3 principale docs (index,sytle,script)</td>
+    <td>23/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>dd5540c</td>
+    <td>feat: added the header and 2 sections</td>
+    <td>Added the header and two sections, also modified the css doc</td>
+    <td>23/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>1b95644</td>
+    <td>feat: added section of success stories</td>
+    <td>Added code of the section of succes stories</td>
+    <td>24/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>2c41955</td>
+    <td>feat: added faq and team members</td>
+    <td>Added FAQ section and team members section</td>
+    <td>24/04/25</td>
+  </tr>
+</table>
+
+<br>
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante el sprint 1 se completó exitosamente el despliegue de la landing page. Esta página cuenta con diversas secciones diseñadas para que los usuarios puedan informarse detalladamente sobre nuestro producto y sus características principales.
+
+1. Header:
+
+Barra superior fija con el logo de UniTalents Connect, menú de navegación por anclas (Cómo funciona, Casos de Éxito, FAQs, Integrantes) y botones visibles para ingresar o registrarse según el tipo de usuario.
+
+<p align="center">
+  <img src="images/landingPage/header.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+2. Sección principal:
+
+Bloque visual destacado con mensaje central claro, acompañado de una imagen o ilustración que represente la plataforma. Incluye un llamado a la acción (CTA) como “Empieza tu camino profesional”.
+
+<p align="center">
+  <img src="images/landingPage/hero.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+3. Sección How it works:
+
+Explicación sencilla y visual del funcionamiento de la plataforma en 4 pasos. Incluye íconos y frases breves por cada etapa.
+
+<p align="center">
+  <img src="images/landingPage/how-it-works.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+4. Sección casos de éxito:
+
+Testimonios reales y breves de estudiantes y gerentes que utilizaron UniTalents con éxito. Se presenta en formato de tarjetas con nombres, rol, breve cita.
+
+<p align="center">
+  <img src="images/landingPage/casos.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+5. FAQs:
+
+Sección de preguntas frecuentes organizada en formato acordeón, diseñada para responder dudas comunes de estudiantes y empresas.
+
+<p align="center">
+  <img src="images/landingPage/FAQs.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+6. Footer:
+
+Pie de página con enlaces a contacto. 
+
+<p align="center">
+  <img src="images/landingPage/footer.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+7. Formulario de registro:
+
+Nueva página donde los usuarios pueden crear una cuenta seleccionando su perfil (Estudiante o Empresa), completando un formulario con nombre, correo, contraseña y datos adicionales según el rol.
+
+<p align="center">
+  <img src="images/landingPage/register.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este primer sprint no se vio una ejecutación de servicios.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint  
+Durante el Sprint 1 del desarrollo de UniTalents Connect, se realizaron las actividades iniciales de despliegue enfocadas principalmente en la publicación del Landing Page. A continuación, se detallan los procesos realizados:
 
-### 5.3. Validation Interviews
++ Creación y configuración del proyecto de desarrollo:
 
-#### 5.3.1. Diseño de Entrevistas  
+Se creó el repositorio principal del proyecto en GitHub, en el cual se integraron ramas específicas para desarrollo (develop) y (main). Se estructuró el entorno del landing y  se configuró el archivo *index.html* como punto de entrada principal.
 
-#### 5.3.2. Registro de Entrevistas  
++ Configuración del entorno de despliegue:
 
-#### 5.3.3. Evaluaciones según heurísticas  
+Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page. Esta decisión se tomó por su facilidad de configuración y despliegue directo desde la rama main. Se enlazó correctamente el repositorio con el entorno de despliegue, permitiendo publicar actualizaciones de manera continua tras cada commit.
 
-### 5.4. Video About-the-Product  
+  + Activación de GitHub Pages en el repositorio
+
+<p align="center">
+  <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación
+
+<p align="center">
+  <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa del dominio temporal generado por GitHub Pages
+
+<p align="center">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+[Link de la página](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Implementación del header, sección inicio y la sección "¿Cómo funciona?"</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Implementación de la sección "Casos de éxito"</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Implementación de la sección "FAQs" e "Integrates"</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>Implementación del footer y responsive de la Landing Page</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>Implementación de la página de registro</td>
+  </tr>
+</table>
+<br><br>
+
+<p align="center">
+  <img src="images/insights-spr1/insight-spr1-1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/insights-spr1/insight-spr1-2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+*Nota:*
+Nuestro compañero César Linares utilizó una plataforma externa a GitHub para gestionar parte de su trabajo, por lo que su actividad no se refleja en los insights de GitHub. Sin embargo, todo el equipo puede dar fe de que César ha participado activamente y ha trabajado de manera adecuada durante todo el desarrollo de la TB1.
+
+<p align="center">
+  <img src="images/insights-spr1/insight-spr1-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
 
 ---
 
 ## Conclusiones
 
 ### Conclusiones y recomendaciones  
+1. Una gran parte de los estudiantes no pueden conectar con el mercado laboral debido a la falta de plataformas adecuadas.
 
-### Video About-the-Team  
+2. Creemos que nuestros clientes valoran la experiencia real y estan dispuestos a aprovechar plataformas para mejorar su perfil laboral.
+
+3. Esperamos que al menos el 60% de los proyectos publicados en la plataforma se completen exitosamente, de forma que se beneficien ambos segmentos objetivos.
+
+4. Consideraremos que la aplicación fue un exito cuando los estudiantes generen ingresos adicionales sin comprometer horarios académicos y los gerentes puedan acceder a talento joven y asequible. 
+
+
+
 
 ---
 
@@ -2393,3 +3851,5 @@ Comexperu
 ---
 
 ## Anexos  
+
+[Video TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
