@@ -3464,11 +3464,11 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
     <thead>
         <tr>
             <th>Sprint #</th>
-            <th colspan="6">Sprint 1</th>
+            <th colspan="8">Sprint 1</th>
         </tr>
         <tr>
             <th colspan="2">User Story</th>
-            <th colspan="6">WorkItem-Task</th>
+            <th colspan="7">WorkItem-Task</th>
         </tr>
         <tr>
             <th>US-ID</th>
@@ -3476,9 +3476,10 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <th>ID</th>
             <th>Title</th>
             <th>Description</th>
+            <th>Acceptance Criteria</th>
             <th>Estimation (Hours)</th>
             <th>Assigned To</th>
-            <th>Status (To-do/In-Process/To-Review/Done)</th>
+            <th>Status</th>
         </tr>
     </thead>
     <tbody>
@@ -3487,8 +3488,12 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>Comprender el propósito de la plataforma desde la página de inicio</td>
             <td>UT01</td>
             <td>Crear mensaje principal de bienvenida</td>
-            <td>Crear un mensaje claro y llamativo que explique qué es UniTalents Connect y cómo funciona para nuevos usuarios en la landing page.</td>
-            <td>3</td>
+            <td><strong>Como usuario nuevo</strong>, quiero entender el propósito de UniTalents Connect desde la landing page <strong>para decidir si registrarme rápidamente</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que accedo a la landing page, When la carga, Then debo ver un mensaje claro que diga: "Conecta con talentos universitarios en un solo clic".<br>
+                <strong>Escenario 2:</strong> Given que leo el mensaje, When termino, Then debo ver un botón naranja con texto "Regístrate gratis".
+            </td>
+            <td>6</td>
             <td>Andrés Coca</td>
             <td>Done</td>
         </tr>
@@ -3496,9 +3501,13 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>US02</td>
             <td>Registro inmediato desde la landing</td>
             <td>UT02</td>
-            <td>	Implementar botón "Acceder" en el header</td>
-            <td>Añadir funcionalidad a los enlaces de la sección contacto</td>
-            <td>1</td>
+            <td>Implementar botón "Acceder" en el header</td>
+            <td><strong>Como usuario no registrado</strong>, quiero un botón de acceso rápido<strong>para reducir el tiempo de registro</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago clic en "Acceder", Then soy redirigido a "/registro".<br>
+                <strong>Escenario 2:</strong> Given que hago scroll, When reviso el header, Then el botón sigue visible.
+            </td>
+            <td>8</td>
             <td>Javier Gonzales</td>
             <td>In-Process</td>
         </tr>
@@ -3506,10 +3515,13 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>US03</td>
             <td>Ver testimonios de usuarios reales</td>
             <td>UT03</td>
-            <td>Funcionalidad "desplegar y contraer pregunta"</td>
-            <td>Mostrar testimonios reales exitosos de usuarios
+            <td>Funcionalidad "desplegar testimonios"</td>
+            <td><strong>Como visitante</strong>, quiero leer testimonios reales <strong>para confiar en la plataforma </strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que navego a "Testimonios", Then veo 3 tarjetas con foto, nombre y texto.<br>
+                <strong>Escenario 2:</strong> Given que hago clic en "Siguiente", Then la transición es suave.
             </td>
-            <td>2</td>
+            <td>5</td>
             <td>Leonardo Palomino</td>
             <td>Done</td>
         </tr>
@@ -3518,8 +3530,12 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>Llamados a la acción claros en cada sección</td>
             <td>UT04</td>
             <td>Botones interactivos para fácil acceso</td>
-            <td>configurar botones de acción relevantes a lo largo de la landing</td>
-            <td>1</td>
+            <td><strong>Como usuario</strong>, quiero botones interactivos en cada sección<strong>para navegar fácilmente</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que veo una sección, Then encuentro un botón con texto claro.<br>
+                <strong>Escenario 2:</strong> Given que paso el mouse sobre un botón, Then cambia de color.
+            </td>
+            <td>4</td>
             <td>Cesar Linares</td>
             <td>Done</td>
         </tr>
@@ -3528,28 +3544,40 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>Tener un encabezado fijo para navegar por la página</td>
             <td>UT05</td>
             <td>Encabezado visible al hacer scroll</td>
-            <td>	Implementar que el encabezado de la landing page permanezca visible mientras se hace scroll hacia abajo, manteniendo acceso a secciones principales.</td>
-            <td>2</td>
+            <td><strong>Como usuario</strong>, quiero un header fijo<strong>para navegar sin perder tiempo</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago scroll, Then el header permanece visible.<br>
+                <strong>Escenario 2:</strong> Given que uso móvil, Then el header se convierte en menú hamburguesa.
+            </td>
+            <td>5</td>
             <td>Renzo Rivera</td>
             <td>In-Process</td>
         </tr>
-          <tr>
+        <tr>
             <td>US26</td>
             <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
             <td>UT06</td>
             <td>Implementar sección FAQs accesible</td>
-            <td>Crear sección FAQs accesible desde el menú superior, permitiendo despliegue de preguntas y respuestas en formato claro y organizado.</td>
-            <td>3</td>
+            <td><strong>Como usuario con dudas</strong>, quiero una sección FAQs accesible<strong>para resolver preguntas sin contacto</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago clic en "FAQs", Then veo preguntas organizadas por temas.<br>
+                <strong>Escenario 2:</strong> Given que selecciono una pregunta, Then se expande con su respuesta.
+            </td>
+            <td>8</td>
             <td>Javier Gonzales</td>
             <td>Done</td>
         </tr>
-         <tr>
+        <tr>
             <td>US27</td>
             <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
             <td>UT07</td>
             <td>Crear mensaje visual principal de propuesta de valor</td>
-            <td>Diseñar e implementar un bloque visual llamativo con mensaje corto + imagen/ilustración en la landing page que transmita el valor de UniTalents Connect.</td>
-            <td>4</td>
+            <td><strong>Como visitante</strong>, quiero un bloque visual con la propuesta de valor<strong>para entender rápidamente el servicio</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que ingreso a la landing, Then veo un bloque con imagen + texto destacado.<br>
+                <strong>Escenario 2:</strong> Given que cargo la página, Then el bloque es visible sin hacer scroll.
+            </td>
+            <td>8</td>
             <td>Renzo Rivera</td>
             <td>In-Process</td>
         </tr>
@@ -3558,14 +3586,18 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>Acceder a información de contacto o soporte desde la landing</td>
             <td>UT08</td>
             <td>Acceso a información de contacto o soporte</td>
-            <td>Acceso fácil a los datos de contacto o soporte para resolver dudas antes de registrarme o publicar un proyecto.</td>
-            <td>2</td>
+            <td><strong>Como usuario</strong>, quiero datos de contacto visibles<strong>para resolver dudas antes de registrarme</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago clic en "Contacto", Then veo un formulario con campos obligatorios.<br>
+                <strong>Escenario 2:</strong> Given que envío el formulario, Then recibo un email de confirmación.
+            </td>
+            <td>6</td>
             <td>Cesar Linares</td>
             <td>To-Review</td>
         </tr>
     </tbody>
 </table>
-<br>
+
 
 ##### 5.2.1.4. Development Evidence for Sprint Review 
 
