@@ -4204,7 +4204,7 @@ Durante el Sprint 2 del proyecto UniTalents Connect, el equipo enfocó sus esfue
   </tr>
   <tr>
     <td>Rivera Ratachi, Renzo Sebastian</td>
-    <td>rezor11</td>
+    <td>renzor11</td>
     <td>L</td>
     <td>C</td>
     <td>C</td>
@@ -4300,6 +4300,85 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
 <br>
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra
+diferentes secciones donde el usuario podra acceder tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplicación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+
+- US15
+
+<img src="images/sprint2-evidence/signIN.png" alt="wireflows" width="1000">
+
+
+- US16
+
+<img src="images/sprint2-evidence/Register.png" alt="wireflows" width="1000">
+
+- US17
+
+<img src="images/sprint2-evidence/managerNewProject.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/managerProyectos.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/managerProyectosInfo.png" alt="wireflows" width="1000">
+
+- US18
+
+
+<img src="images/sprint2-evidence/managerEditPRoject.png" alt="wireflows" width="1000">
+
+- US19
+
+
+<img src="images/sprint2-evidence/managerDeletePRoject.png" alt="wireflows" width="1000">
+
+
+- US30
+
+<img src="images/sprint2-evidence/managerPostulations.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/managerPostulationsList.png" alt="wireflows" width="1000">
+
+
+- US08
+
+<img src="images/sprint2-evidence/managerViewStudentReputation.png" alt="wireflows" width="1000">
+
+- US06
+<img src="images/sprint2-evidence/managerPortfolio.png" alt="wireflows" width="1000">
+
+
+- US10
+
+<img src="images/sprint2-evidence/managerEditProfile.png" alt="wireflows" width="1000">
+
+- US07
+<img src="images/sprint2-evidence/postulaciones.png" alt="wireflows" width="1000">
+
+
+<img src="images/sprint2-evidence/postulaciones2.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/postulaciones3.png" alt="wireflows" width="1000">
+
+
+
+
+
+- US28
+<img src="images/sprint2-evidence/oportunidades.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/mostrarproyectodetalle.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/verEmpresa.png" alt="wireflows" width="1000">
+
+
+
+- US29
+
+<img src="images/sprint2-evidence/portafolioviewall.png" alt="wireflows" width="1000">
+
+
+
+<img src="images/sprint2-evidence/portafolio.png" alt="wireflows" width="1000">
 
 
 
