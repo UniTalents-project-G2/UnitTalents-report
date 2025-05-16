@@ -3282,7 +3282,13 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 
 4. Consideraremos que la aplicación fue un exito cuando los estudiantes generen ingresos adicionales sin comprometer horarios académicos y los gerentes puedan acceder a talento joven y asequible. 
 
+5. Es fundamental establecer una base sólida de diseño antes de iniciar la programación, siendo clave la elaboración de un diagrama de clases que permita representar visualmente cómo se relacionan las entidades del sistema.
 
+6. Construir un frontend funcional con datos simulados permite observar cómo opera la aplicación y evaluar su comportamiento antes de integrar datos reales.
+
+7. Es recomendable asignar tiempo extra en cada sprint para abordar historias de usuario pendientes o no planificadas, ya que en el segundo sprint el desarrollo se vio afectado por este tipo de contratiempos.
+
+8. El siguiente paso será desarrollar el backend con el fin de contar con una aplicación completamente funcional y completar otras funcionalidades restantes.
 
 
 ### Video About-the-Team  
