@@ -4869,22 +4869,22 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
   <tr>
     <td>Gonzales Alvarado, Javier Sebastian</td>
     <td>WoodsDos</td>
-    <td></td>
+    <td>Router Gerente, Apartado de evaluaciones y aceptación de estudiantes a proyectos</td>
   </tr>
   <tr>
     <td>Palomino Fiestas, Erik Leonardo</td>
     <td>ErickLeo13</td>
-    <td></td>
+    <td>Sección de oportunidades (estudiante)</td>
   </tr>
   <tr>
     <td>Rivera Ratachi, Renzo Sebastian</td>
     <td>renzor11</td>
-    <td></td>
+    <td>Login, Register, y  Portafolio</td>
   </tr>
   <tr>
     <td>Coca Lavado, Carlos Andres</td>
     <td>MrAndres08DV</td>
-    <td></td>
+    <td>Creación, edición y eliminación de proyectos</td>
   </tr>
 </table>
 <br><br>
