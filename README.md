@@ -4039,7 +4039,7 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 </p>
 <br>
 
-[Link de la página](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
+https://unitalents-project-g2.github.io/UniTalents-LandingPage/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 <br>
@@ -4172,15 +4172,6 @@ Durante el Sprint 2 del proyecto UniTalents Connect, el equipo enfocó sus esfue
     <td>C</td>
     <td>C</td>
     <td>L</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Linares Bernable, Cesar Alejandro</td>
-    <td>Cesar-Linares</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
     <td>L</td>
     <td>C</td>
   </tr>
@@ -4402,9 +4393,155 @@ link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+Durante este Sprint se logró documentar y validar los servicios web (endpoints REST) utilizados para la interacción entre el frontend de UniTalents y la base de datos local simulada a través de json-server. Se enfocó en la documentación de endpoints relacionados con oportunidades de postulación estudiantil, empresas, y postulaciones, todos ellos utilizados en el desarrollo de funcionalidades clave implementadas en este Sprint.
+
+La documentación de estos servicios sigue el estilo OpenAPI de forma local y se complementa con ejemplos de pruebas reales realizadas en la interfaz web, así como el detalle del verbo HTTP, parámetros y respuestas obtenidas.
+
+<h3>📌 Endpoints implementados</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint URL (local)</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+      <th>Descripción breve</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/opportunities</td>
+      <td>Oportunidades</td>
+      <td><code>GET</code></td>
+      <td>/opportunities</td>
+      <td>—</td>
+      <td><code>[ { id, title, ... } ]</code></td>
+      <td>Lista todas las oportunidades</td>
+    </tr>
+    <tr>
+      <td>/opportunities/:id</td>
+      <td>Oportunidad específica</td>
+      <td><code>GET</code></td>
+      <td>/opportunities/1</td>
+      <td>id</td>
+      <td><code>{ id: 1, ... }</code></td>
+      <td>Detalle de una oportunidad</td>
+    </tr>
+    <tr>
+      <td>/companies</td>
+      <td>Empresas</td>
+      <td><code>GET</code></td>
+      <td>/companies</td>
+      <td>—</td>
+      <td><code>[ { id, name, ... } ]</code></td>
+      <td>Lista todas las empresas</td>
+    </tr>
+    <tr>
+      <td>/companies/:id</td>
+      <td>Empresa específica</td>
+      <td><code>GET</code></td>
+      <td>/companies/1</td>
+      <td>id</td>
+      <td><code>{ id: 1, ... }</code></td>
+      <td>Datos de una empresa específica</td>
+    </tr>
+    <tr>
+      <td>/studentPostulations</td>
+      <td>Postulaciones</td>
+      <td><code>GET</code></td>
+      <td>/studentPostulations</td>
+      <td>—</td>
+      <td><code>[ { projectId, postulationStatus } ]</code></td>
+      <td>Lista todas las postulaciones</td>
+    </tr>
+    <tr>
+      <td>/studentPostulations</td>
+      <td>Nueva postulación</td>
+      <td><code>POST</code></td>
+      <td>body: { projectId, postulationStatus }</td>
+      <td>—</td>
+      <td><code>{ id: X, projectId: Y, ... }</code></td>
+      <td>Crea una nueva postulación</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante el presente Sprint se realizó el despliegue del frontend funcional del sistema UniTalents como una Azure Static Web App, lo que permitió publicar la aplicación en un entorno de producción accesible, escalable y con integración directa desde GitHub. Este despliegue se configuró para tomar automáticamente los cambios desde la rama principal (main), permitiendo validar y mostrar en tiempo real los avances del desarrollo.
+
+Adicionalmente, se hace referencia al despliegue de la landing page institucional, el cual fue implementado en el Sprint anterior mediante GitHub Pages, sirviendo como punto de presentación del proyecto para usuarios externos y validadores. Esta landing continúa activa y disponible como parte del entorno general de la plataforma.
+
+Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y han permitido validar la correcta integración entre los módulos implementados, la navegación funcional del sistema y la correcta visualización del contenido publicado.
+
+*Landing Page:*
+---
+
+  + Activación de GitHub Pages en el repositorio
+
+<p align="center">
+  <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación
+
+<p align="center">
+  <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa del dominio temporal generado por GitHub Pages
+
+<p align="center">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+*Front End:*
+---
+
+  + Creación de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev0.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Configuración de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Vista de recursos de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+  + Confirmación de creación de la página desde GitHub
+
+<p align="center">
+  <img src="images/sprint2/ev3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa de la Static WebApp en azure
+
+<p align="center">
+  <img src="images/sprint2/ev4.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 <br>
@@ -4435,13 +4572,28 @@ link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
     <td>MrAndres08DV</td>
     <td></td>
   </tr>
-  <tr>
-    <td>Linares Bernable, Cesar Alejandro</td>
-    <td>Cesar-Linares</td>
-    <td></td>
-  </tr>
 </table>
 <br><br>
+
+<p align="center">
+  <img src="images/sprint2/ins1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/sprint2/ins2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/sprint2/ins3.png" alt="deployment-evidence-confirmation" width="400">
+</p>
+<br>
+<p align="center">
+  <img src="images/sprint2/ins4.png" alt="deployment-evidence-confirmation" width="400">
+</p>
+<br>
+
 
 
 ---
