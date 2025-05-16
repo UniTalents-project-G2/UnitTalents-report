@@ -4289,11 +4289,91 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
   </tr>
   <tr>
     <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
-    <td>develop</td>
+    <td>main</td>
     <td>38b3314</td>
     <td>Initial commit</td>
     <td>Initial commit</td>
     <td>09/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>d99d18c</td>
+    <td>feat: added postulations proccess</td>
+    <td>Added postulations proccess, acept or decline students, view students, toolbar</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>8cf417a</td>
+    <td>feat: added my company setting</td>
+    <td>added my company setting</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>3da2108</td>
+    <td>docs: add auth login and register</td>
+    <td>Added a login, register and recover password pages, allows updating passwords and adding users to json file</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>3da2108</td>
+    <td>docs: add auth login and register</td>
+    <td>Added a login, register and recover password pages, allows updating passwords and adding users to json file</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>c2477f3</td>
+    <td>feat:Projects-Bounded-Context</td>
+    <td>Added create, edit and delete projects of managers</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>60e1be1</td>
+    <td>feat:fixed the Button of the Add Skills for new Project</td>
+    <td>Fixed the button of add Skills required for new projects</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>96105ab</td>
+    <td>feat:Develop of the Projects-Bounded-Context</td>
+    <td>Complete de Develop of the Projects-Bounded-Context</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>c4bd344</td>
+    <td>feat: add student portfolio page</td>
+    <td>Added student portfolio page, shows completed projects and project info</td>
+    <td>16/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>0af3dd3</td>
+    <td>feat: add student postulations page</td>
+    <td>Shows student postulations and their status( in progress, finished, or denied) also shows project details</td>
+    <td>16/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>dd0f0a8</td>
+    <td>feat: opportunities, and connect to postulations</td>
+    <td>opportunities, and connect to postulation</td>
+    <td>16/05/25</td>
   </tr>
 </table>
 
