@@ -47,7 +47,7 @@
   </tr>
     <tr>
     <td>1.00</td>
-    <td>08/04/23</td>
+    <td>08/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>1.01</td>
-    <td>10/04/23</td>
+    <td>10/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td>1.03</td>
-    <td>13/04/23</td>
+    <td>13/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -81,7 +81,7 @@
   </tr>
     <tr>
     <td>1.04</td>
-    <td>15/04/23</td>
+    <td>15/04/25</td>
     <td>
     Palomino,<br>
     Rivera,<br>
@@ -91,7 +91,7 @@
   </tr>
     <tr>
     <td>1.05</td>
-    <td>17/04/23</td>
+    <td>17/04/25</td>
     <td>
     Gonzales,<br>
     Linares
@@ -100,7 +100,7 @@
   </tr>
   <tr>
     <td>1.06</td>
-    <td>20/04/23</td>
+    <td>20/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td>1.07</td>
-    <td>21/04/23</td>
+    <td>21/04/25</td>
     <td>
     Gonzales,<br>
     Rivera
@@ -120,7 +120,7 @@
   </tr>
   <tr>
     <td>1.08</td>
-    <td>23/04/23</td>
+    <td>23/04/25</td>
     <td>
     Palomino,<br>
     Coca
@@ -129,7 +129,7 @@
   </tr>
   <tr>
     <td>1.09</td>
-    <td>24/04/23</td>
+    <td>24/04/25</td>
     <td>
     Linares
     </td>
@@ -137,7 +137,7 @@
   </tr>
   <tr>
     <td>1.10</td>
-    <td>25/04/23</td>
+    <td>25/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -148,7 +148,7 @@
   </tr>
     <tr>
     <td>1.11</td>
-    <td>25/04/23</td>
+    <td>25/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -156,6 +156,69 @@
     Linares, Coca
     </td>
     <td>Redacción de software configuration management y conclusiones</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.01</td>
+    <td>8/05/25</td>
+    <td>
+    Gonzales<br>
+    </td>
+    <td>Mejora continua, correcion de las tabla de competidores y task matrix</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.02</td>
+    <td>9/05/25</td>
+    <td>
+    Gonzales<br>
+    </td>
+    <td>Mejora continua, redacción del alcance del proyecto</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.03</td>
+    <td>25/05/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Mejora continua, correción del user journey maps y impact mapping</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.04</td>
+    <td>25/05/25</td>
+    <td>
+    Linares
+    </td>
+    <td>Mejora continua, correcion de product backlog</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.05</td>
+    <td>15/05/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción del Sprint 2.</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.06</td>
+    <td>16/05/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome.</td>
   </tr>
 </table>
 
@@ -266,6 +329,55 @@ Nuestro compañero César Linares utilizó una plataforma externa a GitHub para 
   </tr>
 </table>
 
+**TF**
+---
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      Feature de gestión de postulaciones para los gerentes, gestión del perfil de mi empresa. Correción de las tablas competidores y user task matrix
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      Feature de búsqueda de oportunidades, búsqueda de trabajo y postulación para los postulantes.  
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      Feature del login y register para el ingreso a la appweb, además la configuración de ambos perfiles tanto estudiantes como gerente. 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Andres Coca
+    </td>
+    <td>
+      Feature de la creación, edición y eliminación de proyectos para los gerentes. Corrección del sprint backlog 1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Cesar Linares
+    </td>
+    <td>
+      Feature de la gestión del pefil del estudiante. Correción del product backlog. 
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Contenido
@@ -351,6 +463,15 @@ Nuestro compañero César Linares utilizó una plataforma externa a GitHub para 
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)  
+    - [5.2.2. Sprint 2](#522-sprint-2)  
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)  
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)  
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)  
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)  
 - [Bibliografía](#bibliografía)  
@@ -371,23 +492,30 @@ Nuestro compañero César Linares utilizó una plataforma externa a GitHub para 
       Trabaja en equipo para proporcionar liderazgo en forma conjunta
     </td>
     <td>
-      <strong>Javier Gonzales:</strong>
-      TB1 - Coordinación general del proyecto, elaboración del Startup Profile, definición de problemáticas, arquitectura de la información, desarrollo del Lean UX process y gestión del diseño de entrevistas.
+      <strong>Javier Gonzales:</strong><br>
+      TB1 - Coordinación general del proyecto, elaboración del Startup Profile, definición de problemáticas, arquitectura de la información, desarrollo del Lean UX process y gestión del diseño de entrevistas.<br><br>
+      TP1 – Coordinación del equipo durante el Sprint 2, liderazgo en la implementación de gestión de postulaciones para gerentes y perfil de empresa. Revisión de user task matrix y tablas de competidores.
       <br><br>
-      <strong>Erick Palomino:</strong>
-      TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.
+      <strong>Erick Palomino:</strong><br>
+      TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.<br><br>
+      TP1 – Participación activa en reuniones de planificación. Desarrollo de búsqueda de oportunidades y postulaciones.
       <br><br>
-      <strong>Renzo Rivera:</strong>
-      TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional
+      <strong>Renzo Rivera:</strong><br>
+      TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional<br><br>
+      TP1 – Encargado del login/register y configuración de perfiles. Participación constante en decisiones técnicas.
       <br><br>
-      <strong>Andres Coca:</strong>
-      TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.
+      <strong>Andres Coca:</strong><br>
+      TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.<br><br>
+      TP1 – Desarrollo de creación, edición y eliminación de proyectos. Aportó en revisión de sprint backlog 1.
       <br><br>
-      <strong>Cesar Linares</strong>
-      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams
+      <strong>Cesar Linares</strong><br>
+      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams<br><br>
+      TP1 – Desarrollo del perfil del estudiante y corrección del product backlog.
     </td>
     <td>
-      El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
+      TB1 - El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
+      <br><br>
+      TP1 - El grupo ha demostrado un liderazgo compartido durante la planificación y ejecución del Sprint 2, asignando roles según fortalezas técnicas. Se lograron avances significativos en las funcionalidades principales gracias a la coordinación continua y compromiso de cada integrante. Las decisiones se tomaron en conjunto, fortaleciendo el sentido de equipo.
     </td>
   </tr>
   <tr>
@@ -395,23 +523,30 @@ Nuestro compañero César Linares utilizó una plataforma externa a GitHub para 
       Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. 
     </td>
     <td>
-      <strong>Javier Gonzales:</strong>
-      TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.
+      <strong>Javier Gonzales:</strong><br>
+      TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.<br><br>
+      TP1 – Coordinación del equipo en Discord, definición de metas de sprint, liderazgo en tareas críticas y soporte técnico.
       <br><br>
-      <strong>Erick Palomino:</strong>
-      TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.
+      <strong>Erick Palomino:</strong><br>
+      TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.<br><br>
+      TP1 – Apoyo continuo al equipo, cumplimiento de tareas asignadas en tiempo y forma, proactividad para levantar issues y dar seguimiento.
       <br><br>
-      <strong>Renzo Rivera:</strong>
-      TB1 – Colaboración en planificación funcional de interfaz, distribución de tareas de prototipado y verificación del cumplimiento de tiempos.
+      <strong>Renzo Rivera:</strong><br>
+      TB1 – Colaboración en planificación funcional de interfaz, distribución de tareas de prototipado y verificación del cumplimiento de tiempos.<br><br>
+      TP1 – Gestión de interfaz de autenticación, organización de estructuras de carpetas y soporte en configuración de perfiles.
       <br><br>
-      <strong>Andres Coca:</strong>
-      TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.
+      <strong>Andres Coca:</strong><br>
+      TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.<br><br>
+      TP1 – Organización de los módulos de proyectos, planificación de tareas en GitHub y revisión del backlog anterior.
       <br><br>
-      <strong>Cesar Linares:</strong>
-      TB1 – Apoyo en la definición de objetivos y metas del producto, priorización de funcionalidades clave y control del avance del backlog.
+      <strong>Cesar Linares:</strong><br>
+      TB1 – Apoyo en la definición de objetivos y metas del producto, priorización de funcionalidades clave y control del avance del backlog.<br><br>
+      TP1 – Coordinación del trabajo en perfil del estudiante, seguimiento del progreso del equipo y apoyo en ajustes del product backlog.
     </td>
     <td>
-      El grupo logró establecer un entorno colaborativo donde se respetaron los roles, tiempos y responsabilidades de cada integrante. Se definieron metas alcanzables, se mantuvo una comunicación efectiva y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y solidario.
+      TB1 - El grupo logró establecer un entorno colaborativo donde se respetaron los roles, tiempos y responsabilidades de cada integrante. Se definieron metas alcanzables, se mantuvo una comunicación efectiva y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y solidario.
+      <br><br>
+      TP1 - El equipo logró establecer un entorno colaborativo eficaz, distribuyendo tareas de manera equitativa y planificada. El uso de herramientas como Discord, Trello y GitHub permitió cumplir con los objetivos del sprint. El compromiso de cada miembro garantizó avances sostenibles y alineados con las metas del proyecto.
     </td>
   </tr>
 </table>
@@ -755,221 +890,181 @@ Emprendedores, profesionales independientes y pequeñas empresas que no cuentan 
 
 #### 2.1.1. Análisis competitivo  
 
-<table border ="1" ><thead>
-  <tr>
-    <th colspan="6">Competitive Analysis Landscape</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="2">¿Por qué llevar acabo este
-análisis?</td>
-    <td colspan="5">Quienes son nuestros principales competidores?</td>
-  </tr>
-  <tr>
-    <td colspan="5">  Mediante el análisis de la competencia en el mercado, se puede comprender el entorno competitivo en el que se lanzará nuestro producto. Esto brinda una perspectiva clara sobre cómo otros competidores han incorporado funcionalidades y de qué manera atienden las necesidades de sus usuarios.</td>
-  </tr>
-  <tr>
-    <td rowspan="3">PERFIL</td>
-    <td rowspan="2">Overview</td>
-    <td> UniTalent Connect
-<img src="images/LogoUniTalents-Connect.png" alt="logo" width="1000">
-</td>
-    <td>
-    Workana <p align="center">
-    <img src="images/workana-logo.png">
-  </p>
-    
-![]()</td>
-    <td>
-    Freelancer.com
-![logo Freelancer.com](https://www.f-cdn.com/assets/main/en/assets/freelancer-logo-light.svg)</td>
-    <td>
-  LinkedIn 
-  <p align="center">
-    <img src="images/likedin-logo.png">
-  </p>  
-</td>
-  </tr>
-  <tr>
-    <td>Plataforma web que conecta a estudiantes universitarios de ciclos avanzados con personas o pequeñas empresas que necesitan servicios puntuales (como diseño, redacción, programación, etc.). Promueve el trabajo freelance como una vía para adquirir experiencia real, flexible y útil para su desarrollo profesional.</td>
-    <td>Plataforma líder en Latinoamérica para contratar freelancers en áreas como programación, diseño, traducción y marketing.</td>
-    <td>Plataforma global que conecta freelancers con proyectos en diversas categorías: desarrollo, escritura, arte, etc. </td>
-    <td> Red social profesional que conecta empleadores con talento, usada también para promocionar servicios y encontrar oportunidades de empleo.</td>
-  </tr>
-  <tr>
-    <td>Ventaja competitiva
-    ¿Que valor ofrece a los clientes?</td>
-    <td>Se enfoca exclusivamente en estudiantes, lo que permite personalizar la experiencia: horarios flexibles, oportunidades acordes a su formación académica, sin requerir experiencia previa.</td>
-    <td>
-
-Amplia base de usuarios, reputación consolidada, y herramientas avanzadas para gestión de proyectos. 
-    </td>
-    <td>
-    
-Cobertura internacional, variedad de categorías, concursos públicos para contratación.
-    </td>
-    <td>
-
-Reputación global, red de contactos, integración con empresas.
-  </td>
-  </tr>
-  <tr>
-    <td rowspan="2">PERFIL DEL MARKETING</td>
-    <td>Mercado
-Objetivo</td>
-    <td>Estudiantes universitarios, tambien personas naturales y pequeños emprendedores que buscan servicios digitales puntuales</td>
-    <td>Profesionales freelancers de habla hispana y empresas medianas que buscan reducir costos.</td>
-    <td>Freelancers de todos los niveles y empresas de todos los tamaños.</td>
-    <td>Profesionales yestudiantes en búsqueda de empleo, tambien empresas de todos los tamaños</td>
-  </tr>
-  <tr>
-    <td>Estrategias de
-Marketing</td>
-    <td>
-
-+ Alianzas con universidades.
-+ Programas de referidos para estudiantes
-+ Marketing de contenido en TikTok e Instagram (tips laborales, historias de éxito)
- 
-</td>
-
-  <td>Google Ads, blog con contenido educativo y certificaciones de habilidades</td>
-    <td>
-
- Alianzas corporativas y certifaciones.
-    </td>
-    <td>Integracion con universidades y contenido compartido por usuarios, ademas de usar anuncios por internet exclusivos</td>
-  </tr>
-  <tr>
-    <td rowspan="3">PERFIL DEL PRODUCTO</td>
-    <td>Productos &
-Servicios</td>
-    <td>
-
-- Listado de perfiles de estudiantes por habilidad
-- Postulación a proyectos freelance.
-    </td>
-    <td> 
-
-+ Publicación y postulación de proyectos.
-- Contratos, seguimiento y pagos seguros.
- </td>
-    <td>
-    
-+ Publicación de proyectos, concursos, gestión y pago.
-</td>
-    <td>
-
-- Perfil profesional, buscador de empleo, recomendaciones, networking.
-    </td>
-  </tr>
-  <tr>
-    <td>Precios &
-Costos</td>
-    <td>Ofrecemos los planes Basico ($2.99/mes), Premium ($5.99/mes) y PRO ($9.99/mes) para los empresarios y estudiantes. </td>
-    <td>Comisión de 15–20% para freelancers y Clientes publican gratis.</td>
-    <td> 
-    Opciones premium para destacar perfiles y comisión del 10–20%. 
-    </td>
-    <td>Gratuito con funciones premium, ademas de suscripciones para empresas y usuarios. 
-    </td>
-  </tr>
-  <tr>
-    <td>Canales de
-distribución
-(web/móvil)</td>
-    <td>Móvil y Web</td>
-    <td>Móvil y Web</td>
-    <td>Móvil y Web</td>
-    <td>Móvil y Web</td>
-  </tr>
-  <tr>
-    <td rowspan="4">ANÁLISIS SWOT</td>
-    <td>Fortalezas</td>
-    <td>
-
-- Público segmentado y claro.
-- Precios bajos y acceso rápido a talento.
-- Beneficio educativo: experiencia laboral para el CV.
-</td>
-    <td> 
-
-  - Gran comunidad.
-  - Confianza por trayectoria.
-</td>
-    <td>
-
-- Alcance global.
-- Multilingüe y multisectorial.
-</td>
-    <td>
-    
-- Amplia base de usuarios profesionales.
-- Confianza en el entorno profesional.
-</td>
-  </tr>
-  <tr>
-    <td>Debilidades</td>
-    <td>
-
-- Puede haber estudiantes poco responsables.
-- Difícil asegurar calidad de entregables al inicio.</td>
-    <td>
-
- + Alta competencia interna
- - Dificultad para principiantes.
-</td>
-    <td>
-
-
-+ Menor enfoque en estudiantes.
-+ Costos ocultos y alta comisión.
-</td>
-    <td>
-    
-- No está centrado en freelancers.
-- No permite gestión de proyectos.
-  </td>
-  </tr>
-  <tr>
-    <td>Oportunidades</td>
-    <td>
-
-+ Aumento de freelancing post-pandemia.
-- Universidades apoyan prácticas no tradicionales.</td>
-    <td>
-
- + Expansión a nichos educativos o junior.
- - Expansión a plataformas web</td>
-    <td>
-+ Subdividir en micromercados (como estudiantes).
-
-</td>
-    <td>
-    
-+ Crecimiento de features para estudiantes y freelancers.
-    </td>
-  </tr>
-  <tr>
-    <td>Amenazas</td>
-    <td>
-
-- Plataformas grandes que podrían crear secciones para estudiantes
-- Dificultad para escalar sin inversión.
-
-</td>
-    <td>
- 
-+ Saturación del mercado freelance.
-- Nuevas plataformas especializadas.</td>
-    <td>
-+ Usuarios migran a plataformas especializadas.</td>
-    <td>
-    
-- Otras redes con mejor UX.
-    </td>
-  </tr>
-</tbody></table>
+<table border ="1" >
+  <thead>
+    <tr>
+      <th colspan="6">Competitive Analysis Landscape</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">¿Por qué llevar acabo este análisis?</td>
+      <td colspan="5">Quienes son nuestros principales competidores?</td>
+    </tr>
+    <tr>
+      <td colspan="5">  Mediante el análisis de la competencia en el mercado, se puede comprender el entorno competitivo en el que se lanzará nuestro producto. Esto brinda una perspectiva clara sobre cómo otros competidores han incorporado funcionalidades y de qué manera atienden las necesidades de sus usuarios.</td>
+    </tr>
+    <tr>
+      <td rowspan="3">PERFIL</td>
+      <td rowspan="2">Overview</td>
+      <td> 
+        UniTalent Connect
+        <img src="images/LogoUniTalents-Connect.png" alt="logo" width="1000">
+      </td>
+      <td>
+        Workana
+        <img src="images/workana-logo.png">
+      </td>
+      <td>
+        Freelancer.com
+        <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2017/08/freelancer-logo-alt.webp" alt="logo">
+      </td>
+      <td>
+        LinkedIn 
+        <img src="images/likedin-logo.png">
+      </td>
+    </tr>
+    <tr>
+      <td>Plataforma web que conecta a estudiantes universitarios de ciclos avanzados con personas o pequeñas empresas que necesitan servicios puntuales (como diseño redacción, programación, etc.). Promueve el trabajo freelance como una vía para adquirir experiencia real, flexible y útil para su desarrollo profesional.</td>
+      <td>Plataforma líder en Latinoamérica para contratar freelancers en áreas como programación, diseño, traducción y marketing.</td>
+      <td>Plataforma global que conecta freelancers con proyectos en diversas categorías: desarrollo, escritura, arte, etc. </td>
+      <td> Red social profesional que conecta empleadores con talento, usada también para promocionar servicios y encontrar oportunidades de empleo.</td>
+    </tr>
+    <tr>
+      <td>Ventaja competitiva
+      ¿Que valor ofrece a los clientes?</td>
+      <td>Se enfoca exclusivamente en estudiantes, lo que permite personalizar la experiencia: horarios flexibles, oportunidades acordes a su formación académica, sin requerir experiencia previa.</td>
+      <td>Amplia base de usuarios, reputación consolidada, y herramientas avanzadas para gestión de proyectos.</td>
+      <td>Cobertura internacional, variedad de categorías, concursos públicos para contratación.</td>
+      <td>Reputación global, red de contactos, integración con empresas.</td>
+    </tr>
+    <tr>
+      <td rowspan="2">PERFIL DEL MARKETING</td>
+      <td>Mercado Objetivo</td>
+      <td>Estudiantes universitarios, tambien personas naturales y pequeños emprendedores que buscan servicios digitales puntuales</td>
+      <td>Profesionales freelancers de habla hispana y empresas medianas que buscan reducir costos.</td>
+      <td>Freelancers de todos los niveles y empresas de todos los tamaños.</td>
+      <td>Profesionales yestudiantes en búsqueda de empleo, tambien empresas de todos los tamaños</td>
+    </tr>
+    <tr>
+      <td>Estrategias de Marketing</td>
+      <td>
+        + Alianzas con universidades.
+        + Programas de referidos para estudiantes
+        + Marketing de contenido en TikTok e Instagram (tips laborales, historias de éxito)
+      </td>
+      <td>Google Ads, blog con contenido educativo y certificaciones de habilidades</td>
+      <td>Alianzas corporativas y certifaciones.</td>
+      <td>Integracion con universidades y contenido compartido por usuarios, ademas de usar anuncios por internet exclusivos</td>
+    </tr>
+    <tr>
+      <td rowspan="3">PERFIL DEL PRODUCTO</td>
+      <td>Productos & Servicios</td>
+      <td>
+        - Listado de perfiles de estudiantes por habilidad<br>
+        - Postulación a proyectos freelance.
+      </td>
+      <td> 
+        + Publicación y postulación de proyectos.<br>
+        - Contratos, seguimiento y pagos seguros.
+      </td>
+      <td>
+        + Publicación de proyectos, concursos, gestión y pago.
+      </td>
+      <td>
+        - Perfil profesional, buscador de empleo, recomendaciones, networking.
+      </td>
+    </tr>
+    <tr>
+      <td>Precios & Costos</td>
+      <td>Ofrecemos los planes Basico ($2.99/mes), Premium ($5.99/mes) y PRO ($9.99/mes) para los empresarios y estudiantes.</td>
+      <td>Comisión de 15–20% para freelancers y Clientes publican gratis.</td>
+      <td>Opciones premium para destacar perfiles y comisión del 10–20%.</td>
+      <td>Gratuito con funciones premium, ademas de suscripciones para empresas y usuarios.</td>
+    </tr>
+    <tr>
+      <td>Canales de distribución (web/móvil)</td>
+      <td>Móvil y Web</td>
+      <td>Móvil y Web</td>
+      <td>Móvil y Web</td>
+      <td>Móvil y Web</td>
+    </tr>
+    <tr>
+      <td rowspan="4">ANÁLISIS SWOT</td>
+      <td>Fortalezas</td>
+      <td>
+        - Público segmentado y claro.<br>
+        - Precios bajos y acceso rápido a talento.<br>
+        - Beneficio educativo: experiencia laboral para el CV.
+      </td>
+      <td> 
+        - Gran comunidad.<br>
+        - Confianza por trayectoria.
+      </td>
+      <td>
+        - Alcance global.<br>
+        - Multilingüe y multisectorial.
+      </td>
+      <td>
+        - Amplia base de usuarios profesionales.<br>
+        - Confianza en el entorno profesional.
+      </td>
+    </tr>
+    <tr>
+      <td>Debilidades</td>
+      <td>
+        - Puede haber estudiantes poco responsables.<br>
+        - Difícil asegurar calidad de entregables al inicio.
+      </td>
+      <td>
+        + Alta competencia interna<br>
+        - Dificultad para principiantes.
+      </td>
+      <td>
+        + Menor enfoque en estudiantes.<br>
+        + Costos ocultos y alta comisión.
+      </td>
+      <td>
+        - No está centrado en freelancers.<br>
+        - No permite gestión de proyectos.
+      </td>
+    </tr>
+    <tr>
+      <td>Oportunidades</td>
+      <td>
+        + Aumento de freelancing post-pandemia.<br>
+        - Universidades apoyan prácticas no tradicionales.
+      </td>
+      <td>
+        + Expansión a nichos educativos o junior.<br>
+        - Expansión a plataformas web
+      </td>
+      <td>
+        + Subdividir en micromercados (como estudiantes).
+      </td>
+      <td>
+        + Crecimiento de features para estudiantes y freelancers.
+      </td>
+    </tr>
+    <tr>
+      <td>Amenazas</td>
+      <td>
+        - Plataformas grandes que podrían crear secciones para estudiantes<br>
+        - Dificultad para escalar sin inversión.
+      </td>
+      <td>
+        + Saturación del mercado freelance.<br>
+        - Nuevas plataformas especializadas.
+      </td>
+      <td>
+        + Usuarios migran a plataformas especializadas.
+      </td>
+      <td>
+        - Otras redes con mejor UX.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores 
 
@@ -1416,132 +1511,115 @@ En esta sección se elaborarán las User Personas, las cuales se construirán a 
   En este apartado se realizará la User Task Matrix tomando en cuenta los dos segmentos definidos y relacionados a nuestras User Persona, estudiantes univeristarios deseosos de experiencia laboral y gerentes que buscan contratar talento joven para el desarrollo de proyectos.
 
 
-<table border ="1"><thead>
-  <tr>
-    <th></th>
-    <th colspan="2">Estudiante</th>
-    <th colspan="2">Gerente</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>TASK</td>
-    <td>FREQUENCY (Estudiante)</td>
-    <td>IMPORTANCE (Estudiante)</td>
-    <td>FREQUENCY (Gerente)</td>
-    <td>IMPORTANCE (Geremte)</td>
-  </tr>
-
-   <tr>
-    <td>Buscar proyectos disponibles</td>
-    <td>Often</td>
-    <td>High</td>
-    <td>Sometimes</td>
-    <td>Low</td>
-  </tr>
-
-
-  <tr>
-    <td>Postular a ofertas</td>
-    <td>Sometimes</td>
-    <td>High</td>
-    <td>Never</td>
-    <td>Low</td>
-  </tr>
-  
-
-  <tr>
-    <td>Editar o actualizar su perfil profesional</td>
-    <td>Rarely</td>
-    <td>High</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
+<table border ="1">
+  <thead>
     <tr>
-    <td>Consultar el estado de sus postulaciones</td>
-    <td>Sometimes</td>
-    <td>High</td>
-    <td>Never</td>
-    <td>Low</td>
-  </tr>
-   <tr>
-    <td>Asistir a entrevistas</td>
-    <td>Rarely</td>
-    <td>High</td>
-    <td>Sometimes</td>
-    <td>High</td>
-  </tr>
-   <tr>
-    <td>Asistir al daily scrum</td>
-    <td>Always</td>
-    <td>High</td>
-    <td>Rarely</td>
-    <td>Medium</td>
-  </tr>
-
-  
-  
- <tr>
-    <td>
-    Registrar requerimientos de proyecto</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
-  
-   <tr>
-    <td>Publicar convocatorias de proyecto</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
-  
-   <tr>
-    <td>Chatear con miembros del equipo</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
-
-
-   <tr>
-    <td>Ver postulaciones recibidas</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
+      <th></th>
+      <th colspan="2">Estudiante</th>
+      <th colspan="2">Gerente</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-    <td>Validar postulantes</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Rarely</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td>Aprobar entregables</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Often</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td>Planificacion del sprint</td>
-    <td>Often</td>
-    <td>High</td>
-    <td>Often</td>
-    <td>High</td>
-  </tr>
-
-
-
-
-
-
-
-</tbody>
+      <td>TASK</td>
+      <td>FREQUENCY (Estudiante)</td>
+      <td>IMPORTANCE (Estudiante)</td>
+      <td>FREQUENCY (Gerente)</td>
+      <td>IMPORTANCE (Geremte)</td>
+    </tr>
+    <tr>
+      <td>Buscar proyectos disponibles</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Postular a ofertas</td>
+      <td>Sometimes</td>
+      <td>High</td>
+      <td>Never</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Editar o actualizar su perfil profesional</td>
+      <td>Rarely</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Consultar el estado de sus postulaciones</td>
+      <td>Sometimes</td>
+      <td>High</td>
+      <td>Never</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Asistir a entrevistas</td>
+      <td>Rarely</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Asistir al daily scrum</td>
+      <td>Always</td>
+      <td>High</td>
+      <td>Rarely</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>
+      Registrar requerimientos de proyecto</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Publicar convocatorias de proyecto</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Chatear con miembros del equipo</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Ver postulaciones recibidas</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Validar postulantes</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Rarely</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Aprobar entregables</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Planificacion del sprint</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
@@ -1772,14 +1850,11 @@ El lenguaje a utilizar para este proyecto es:
       <td>US05</td>
       <td>Subir proyecto a mi portafolio</td>
       <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> subir mis proyectos académicos al portafolio, <strong>para</strong> mostrar evidencia de mis habilidades.
+        <strong>Como</strong> estudiante, <strong>quiero</strong> poder subir una URL que dirija a un proyecto de mi portafolio, <strong>para</strong> que los gerentes o empresas puedan visualizar mi trabajo y evaluar mejor mi experiencia.
       </td>
       <td>
-        <strong>Escenario 1: Registro básico del proyecto</strong><br>
-        <strong>Dado</strong> que tengo una cuenta de estudiante activa, <strong>cuando</strong> accedo a la sección "Mi Portafolio" y selecciono "Agregar proyecto", <strong>entonces</strong> puedo registrar información como el nombre del proyecto, tecnologías utilizadas y una breve descripción.
-        <br><br>
-        <strong>Escenario 2: Subida de enlaces o archivos</strong><br>
-        <strong>Dado</strong> que deseo compartir más detalles, <strong>cuando</strong> incluyo un enlace externo o archivo complementario, <strong>entonces</strong> este queda vinculado al proyecto para ser visualizado por los gerentes.
+        <strong>Escenario 1: Registro exitoso del proyecto con URL</strong><br>
+        <strong>Dado</strong> que soy un estudiante autenticado y me encuentro en la sección "Configuración" <strong>cuando</strong> ingresa a "mi portafolio" e inserta una URL válida <strong>entonces</strong> la URL debe guardarse correctamente y debe aparecer como un enlace activo en la vista de portafolio.
       </td>
       <td>Epic 05</td>
     </tr>
@@ -1790,11 +1865,8 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Como</strong> gerente, <strong>quiero</strong> poder revisar el portafolio de un estudiante antes de seleccionarlo, <strong>para</strong> evaluar su experiencia previa.
       </td>
       <td>
-        <strong>Escenario 1: Acceso al portafolio desde la lista de postulantes</strong><br>
-        <strong>Dado</strong> que estoy revisando candidatos en un proyecto, <strong>cuando</strong> hago clic en el nombre de un postulante, <strong>entonces</strong> se abre su perfil donde puedo ver los proyectos de su portafolio organizados con nombre, descripción y tecnología.
-        <br><br>
-        <strong>Escenario 2: Exploración de detalles del proyecto</strong><br>
-        <strong>Dado</strong> que quiero revisar un proyecto específico, <strong>cuando</strong> hago clic en una tarjeta de portafolio, <strong>entonces</strong> se despliega una vista más detallada con enlaces, archivos o imágenes relacionados.
+        <strong>Escenario 1: Visualización del enlace por parte del gerente</strong><br>
+        <strong>Dado</strong> que soy un gerente autenticado y estoy revisando el perfil de un estudiante que esta postulando a uno de mis proyectos <strong>cuando</strong> clickeo en "ver portafolio" <strong>entonces</strong> debo ser redirigido a la página de su portafolio en una nueva pestaña.
       </td>
       <td>Epic 05</td>
     </tr>
@@ -1846,7 +1918,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
-<tr>
+    <tr>
       <td>US10</td>
       <td>Modificación de perfil de usuario</td>
       <td>
@@ -1875,21 +1947,19 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 04</td>
     </tr>
-        <tr>
+    <tr>
       <td>US12</td>
-      <td>Modificación del portafolio del estudiante</td>
+      <td>Actualización de URL del portafolio del estudiante</td>
       <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> poder editar mi portafolio <strong>para</strong>  mostrar mis trabajos actualizados y habilidades recientes.
+        <strong>Como</strong> estudiante, <strong>quiero</strong> modificar la URL de mi portafolio, <strong>para</strong>  mantener actualizado el enlace que visualizan los gerentes o empresas.
       </td>
       <td>
-        <strong>Escenario 1: Estudiante agrega un nuevo proyecto</strong><br>
-        <strong>Dado</strong> que está en la sección de portafolio <strong>cuando</strong> agrega título y descripción <strong>entonces</strong> el nuevo proyecto debe guardarse correctamente.
+        <strong>Escenario 1: Actualización exitosa de URL del portafolio</strong><br>
+        <strong>Dado</strong> que el estudiante ha iniciado sesión y se encuentra en la sección de mi perfil <strong>cuando</strong> actualiza el campo de URL con un enlace válido y hace clic en “Guardar cambios” <strong>entonces</strong> el sistema debe almacenar la nueva URL y reflejarla correctamente en su perfil público.
         <br><br>
-        <strong>Escenario 2:  Estudiante edita proyecto existente</strong><br>
-        <strong>Dado</strong> que el proyecto ya existe en el portafolio <strong>cuando</strong> el estudiante actualiza su información <strong>entonces</strong> el sistema debe guardar y reflejar los cambios.
+        <strong>Escenario 2: Error al ingresar URL inválida</strong><br>
+        <strong>Dado</strong> que el estudiante desea actualizar su portafolio <strong>cuando</strong> ingresa una URL mal formada o vacía <strong>entonces</strong> el sistema debe mostrar un mensaje de error indicando que el enlace no es válido y no debe actualizar la URL anterior.
         <br><br>
-        <strong>Escenario 3: Estudiante elimina un proyecto</strong><br>
-        <strong>Dado</strong> que el estudiante visualiza sus proyectos <strong>cuando</strong> selecciona eliminar <strong>entonces</strong> el proyecto debe desaparecer del portafolio.
       </td>
       <td>Epic 05</td>
     </tr>
@@ -1908,18 +1978,23 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
         <tr>
       <td>US14</td>
-      <td> Búsqueda de postulante</td>
+      <td>Búsqueda de postulante</td>
       <td>
-        <strong>Como</strong>  empresario, <strong>quiero</strong> buscar postulantes usando filtros <strong>para</strong> encontrar al candidato ideal para mi proyecto.
+        <strong>Como</strong> empresario, <strong>quiero</strong> filtrar entre los postulantes a mis proyectos por carrera, habilidades y calificación previa, <strong>para</strong> encontrar más fácilmente al candidato ideal para colaborar.
       </td>
       <td>
-        <strong>Escenario 1: Búsqueda por carrera y habilidades</strong><br>
-        <strong>Dado</strong> que el empresario accede al buscador <strong>cuando</strong> selecciona carrera e ingresa habilidades clave <strong>entonces</strong> el sistema muestra resultados relacionados.
+        <strong>Escenario 1: Filtrado por carrera</strong><br>
+        <strong>Dado</strong> que el gerente visualiza las postulaciones a uno de sus proyectos <strong>cuando</strong> selecciona una carrera específica desde el panel de filtros <strong>entonces</strong> el sistema muestra solo a los postulantes que pertenecen a dicha carrera.
         <br><br>
+        <strong>Escenario 2: Filtrado por habilidades</strong><br>
+        <strong>Dado</strong> que el gerente accede a la lista de postulantes <strong>cuando</strong> ingresa una o más habilidades en el filtro correspondiente <strong>entonces</strong> el sistema filtra y muestra solo a los postulantes que tengan esas habilidades en su perfil.
+        <br><br>
+        <strong>Escenario 3: Filtrado por calificación</strong><br>
+        <strong>Dado</strong> que el gerente desea evaluar postulantes previamente calificados <strong>cuando</strong> aplica el filtro de calificación mínima (por ejemplo, 4 estrellas o más) <strong>entonces</strong> el sistema solo muestra postulantes con calificaciones iguales o superiores.
       </td>
       <td>Epic 07</td>
     </tr>
-<tr>
+    <tr>
       <td>US15</td>
       <td>Registrarse como usuario</td>
       <td>
@@ -1939,9 +2014,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
-
-
- <tr>
+    <tr>
       <td>US16</td>
       <td>Iniciar sesión</td>
       <td>
@@ -1961,7 +2034,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
-  <tr>
+    <tr>
       <td>US17</td>
       <td>Crear Convocatoria</td>
       <td>
@@ -1983,7 +2056,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 02</td>
     </tr>
- <tr>
+    <tr>
       <td>US18</td>
       <td>Editar Convocatoria</td>
       <td>
@@ -2000,7 +2073,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 02</td>
     </tr>
-<tr>
+    <tr>
       <td>US19</td>
       <td>Eliminar Convocatoria</td>
       <td>
@@ -2023,29 +2096,8 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 02</td>
     </tr>
-
-<tr>
+    <tr>
       <td>US20</td>
-      <td>Guardar filtros de búsqueda personalizados</td>
-      <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> guardar mis filtros de búsqueda más usados, <strong>para</strong> no tener que configurarlos cada vez.
-      </td>
-      <td>
-        <strong>Escenario 1: Guardar filtros</strong><br>
-        <strong>Dado</strong> que he aplicado filtros en la búsqueda de proyectos
-        <strong>Cuando</strong> Cuando presiono “Guardar filtro”
-        <strong>Entonces</strong> el sistema guarda esa combinación de criterios bajo un nombre personalizado.
-        <br><br>
-        <strong>Escenario 2: Aplicar filtro guardado</strong><br>
-        <strong>Dado</strong> que tengo filtros guardados
-        <strong>Cuando</strong> selecciono uno desde la lista de filtros guardados 
-        <strong>Entonces</strong> los criterios se aplican automáticamente a la búsqueda
-      </td>
-      <td>Epic 03</td>
-    </tr>
-
-<tr>
-      <td>US21</td>
       <td>Cerrar sesión</td>
       <td>
         <strong>Como</strong> usuario, <strong>quiero</strong> poder cerrar sesión en cualquier momento, <strong>para</strong> asegurar la privacidad de mi cuenta.
@@ -2058,9 +2110,8 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
-
-<tr>
-      <td>US22</td>
+    <tr>
+      <td>US21</td>
       <td>Marcar proyecto como favorito</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> marcar proyectos como favoritos, <strong>para</strong> revisarlos después con facilidad.
@@ -2078,9 +2129,8 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 03</td>
     </tr>
-
-<tr>
-      <td>US23</td>
+    <tr>
+      <td>US22</td>
       <td>Notificación de proyecto nuevo</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> recibir una notificación cuando se publique un proyecto compatible con mis habilidades, <strong>para</strong> no perder oportunidades.
@@ -2093,9 +2143,8 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 02</td>
     </tr>
-
-<tr>
-      <td>US24</td>
+    <tr>
+      <td>US23</td>
       <td>Eliminar cuenta</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> poder eliminar mi cuenta permanentemente, <strong>para</strong> asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.
@@ -2109,7 +2158,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 01</td>
     </tr>
     <tr>
-      <td>US25</td>
+      <td>US24</td>
       <td>Tener un encabezado fijo para navegar por la página</td>
       <td>
         <strong>Como</strong> visitante de la landing page, <strong>quiero</strong> contar con un encabezado visible en todo momento, <strong>para</strong> moverme fácilmente entre las secciones sin hacer scroll manualmente.
@@ -2128,7 +2177,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US26</td>
+      <td>US25</td>
       <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
       <td>
         <strong>Como</strong> visitante indeciso, <strong>quiero</strong> acceder fácilmente a una sección de preguntas frecuentes, <strong>para</strong> resolver mis dudas antes de registrarme en la plataforma.
@@ -2147,7 +2196,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US27</td>
+      <td>US26</td>
       <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
       <td>
         <strong>Como</strong> usuario nuevo, <strong>quiero</strong> ver de inmediato una propuesta visual clara y atractiva, <strong>para</strong> captar rápidamente la esencia de UniTalents Connect sin necesidad de leer demasiado.
@@ -2166,7 +2215,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US28</td>
+      <td>US27</td>
       <td>Acceder a información de contacto o soporte desde la landing</td>
       <td>
         <strong>Como</strong> visitante que necesita ayuda, <strong>quiero</strong> poder acceder fácilmente a los datos de contacto o soporte, <strong>para</strong> resolver dudas antes de registrarme o publicar un proyecto.
@@ -2178,6 +2227,48 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Entonces</strong> visualizo una sección con enlaces a “Contáctanos”, correo de soporte, y redes sociales.
       </td>
       <td>Epic 08</td>
+    </tr>
+    <tr>
+      <td>US28</td>
+      <td>Visualizar oportunidades para estudiante</td>
+      <td>
+        <strong>Como</strong> estudiante que inicio sesión, <strong>quiero</strong> poder acceder a un apartado de oportunidades, <strong>para</strong> para postularme a uno.
+      </td>
+      <td>
+        <strong>Escenario 1: Accedo a el apartado Oportunidades</strong><br>
+        <strong>Dado</strong> que estoy en el inicio de la aplicación,
+        <strong>Cuando</strong> presiono en Oportunidades,
+        <strong>Entonces</strong> visualizo diferentes proyectos para postularme.
+      </td>
+      <td>Epic 03</td>
+    </tr>
+    <tr>
+      <td>US29</td>
+      <td>Visualizar de portafolio para estudiante</td>
+      <td>
+        <strong>Como</strong> estudiante que inicio sesión, <strong>quiero</strong> poder acceder a un apartado de Portafolio, <strong>para</strong> para visualizar mis trabajos hechos.
+      </td>
+      <td>
+        <strong>Escenario 1: Accedo a el apartado Portafolios</strong><br>
+        <strong>Dado</strong> que estoy en el inicio de la aplicación,
+        <strong>Cuando</strong> presiono en Portafolios,
+        <strong>Entonces</strong> visualizo diferentes trabajos hechos.
+      </td>
+      <td>Epic 05</td>
+    </tr>
+    <tr>
+      <td>US30</td>
+      <td>Visualizar de postulaciones para gerentes</td>
+      <td>
+        <strong>Como</strong> gerente que inicio sesión, <strong>quiero</strong> poder acceder a un apartado de Postulaciones, <strong>para</strong> para visualizar las diferentes postulaciones hechas a mi proyecto.
+      </td>
+      <td>
+        <strong>Escenario 1: Accedo a el apartado Postulaciones</strong><br>
+        <strong>Dado</strong> que estoy en el inicio de la aplicación,
+        <strong>Cuando</strong> presiono en Postulaciones,
+        <strong>Entonces</strong> visualizo diferentes postulaciones hechas en mis proyectos.
+      </td>
+      <td>Epic 02</td>
     </tr>
     <tr>
       <td>TS01</td>
@@ -2255,7 +2346,6 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td></td>
     </tr>
-
   </tbody>
 </table>
 
@@ -2293,9 +2383,263 @@ El lenguaje a utilizar para este proyecto es:
 
 ### 3.4. Product Backlog  <br><br>
 
+<br>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US01</td>
+      <td>Comprender el propósito de la plataforma</td>
+      <td>Como usuario nuevo, quiero entender rápidamente de qué trata UniTalents Connect, para decidir si me interesa registrarme como estudiante o gerente.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>US26</td>
+      <td>Visualizar la propuesta de valor</td>
+      <td>Como usuario nuevo, quiero ver de inmediato una propuesta visual clara y atractiva, para captar rápidamente la esencia de UniTalents Connect sin necesidad de leer demasiado.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>US04</td>
+      <td>Llamados a la acción claros</td>
+      <td>Como usuario, quiero encontrar botones de acción relevantes a lo largo de la landing, para tomar decisiones sin tener que regresar al inicio.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>US02</td>
+      <td>Registro inmediato desde la landing</td>
+      <td>Como usuario nuevo, quiero acceder rápidamente al formulario de registro, para comenzar a usar la plataforma sin perder tiempo.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>US03</td>
+      <td>Ver testimonios de usuarios reales</td>
+      <td>Como usuario interesado, quiero ver experiencias de otras personas en la plataforma, para sentir confianza antes de crear una cuenta.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>US24</td>
+      <td>Encabezado fijo para navegar</td>
+      <td>Como visitante de la landing page, quiero contar con un encabezado visible en todo momento, para moverme fácilmente entre las secciones sin hacer scroll manualmente.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>US25</td>
+      <td>Acceder a la sección de FAQs</td>
+      <td>Como visitante indeciso, quiero acceder fácilmente a una sección de preguntas frecuentes, para resolver mis dudas antes de registrarme en la plataforma.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>US27</td>
+      <td>Acceder a información de contacto o soporte</td>
+      <td>Como visitante que necesita ayuda, quiero poder acceder fácilmente a los datos de contacto o soporte, para resolver dudas antes de registrarme o publicar un proyecto.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>US05</td>
+      <td>Subir proyecto a mi portafolio</td>
+      <td>Como estudiante, quiero poder subir una URL que dirija a un proyecto de mi portafolio, para que los gerentes o empresas puedan visualizar mi trabajo y evaluar mejor mi experiencia.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>US06</td>
+      <td>Visualización del portafolio por gerentes</td>
+      <td>Como gerente, quiero poder revisar el portafolio de un estudiante antes de seleccionarlo, para evaluar su experiencia previa.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>US07</td>
+      <td>Ver estado de mis postulaciones</td>
+      <td>Como estudiante, quiero consultar el estado de mis postulaciones, para saber si fui considerado.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>US08</td>
+      <td>Ver reputación de un estudiante</td>
+      <td>Como gerente, quiero ver el historial de evaluación de un estudiante, para decidir si confiarle un nuevo proyecto.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>US09</td>
+      <td>Recuperar contraseña</td>
+      <td>Como usuario, quiero poder recuperar mi contraseña, para acceder a mi cuenta si la olvido.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>US10</td>
+      <td>Modificación de perfil de usuario</td>
+      <td>Como usuario, quiero modificar la información de mi perfil para mantener mis datos actualizados en la plataforma.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US13</td>
+      <td>Calificación del contratador</td>
+      <td>Como estudiante, quiero calificar al empresario luego del proyecto para compartir mi experiencia con futuros postulantes.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>US12</td>
+      <td>Actualizar URL del portafolio</td>
+      <td>Como estudiante, quiero modificar la URL de mi portafolio, para mantener actualizado el enlace que visualizan los gerentes o empresas.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>US14</td>
+      <td>Búsqueda de postulante</td>
+      <td>Como empresario, quiero filtrar entre los postulantes a mis proyectos por carrera, habilidades y calificación previa, para encontrar más fácilmente al candidato ideal para colaborar.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>US15</td>
+      <td>Registrarse como usuario</td>
+      <td>Como usuario nuevo, quiero crear una cuenta, para utilizar la aplicación.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>US16</td>
+      <td>Iniciar sesión</td>
+      <td>Como usuario, quiero iniciar sesión en la aplicación, para acceder a sus funcionalidades.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US17</td>
+      <td>Crear convocatoria</td>
+      <td>Como gerente, quiero crear convocatorias en la aplicación, para recibir solicitudes de postulantes.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>US18</td>
+      <td>Editar convocatoria</td>
+      <td>Como gerente, quiero editar convocatorias en la aplicación, para corregir o actualizar la información cuando lo necesite.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>US19</td>
+      <td>Eliminar convocatoria</td>
+      <td>Como gerente, quiero eliminar una convocatoria publicada, para evitar recibir nuevas postulaciones cuando el proyecto cierre.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>US20</td>
+      <td>Cerrar sesión</td>
+      <td>Como usuario, quiero poder cerrar sesión en cualquier momento, para asegurar la privacidad de mi cuenta.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>US21</td>
+      <td>Marcar proyecto como favorito</td>
+      <td>Como estudiante, quiero marcar proyectos como favoritos, para revisarlos después con facilidad.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>US22</td>
+      <td>Notificación de proyecto nuevo</td>
+      <td>Como estudiante, quiero recibir una notificación cuando se publique un proyecto compatible con mis habilidades, para no perder oportunidades.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>US23</td>
+      <td>Eliminar cuenta</td>
+      <td>Como estudiante, quiero poder eliminar mi cuenta permanentemente, para asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>TS01</td>
+      <td>Endpoint para registro de usuarios</td>
+      <td>Como developer, quiero crear un endpoint para registrar nuevos usuarios diferenciando su rol (estudiante o gerente), para permitir su autenticación y posterior personalización de la plataforma.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>TS02</td>
+      <td>Endpoint para creación de proyectos</td>
+      <td>Como developer, quiero crear un endpoint para que los gerentes puedan publicar nuevos proyectos, para que los estudiantes puedan visualizar y postular.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>TS03</td>
+      <td>Endpoint para postulación a proyectos</td>
+      <td>Como developer, quiero desarrollar un endpoint para que los estudiantes puedan postular a proyectos, para registrar su interés formal en una oportunidad.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>TS04</td>
+      <td>Endpoint para calificación de desempeño</td>
+      <td>Como developer, quiero crear un endpoint que permita a los gerentes calificar el desempeño de un estudiante tras finalizar un proyecto, para actualizar su reputación en la plataforma.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>US28</td>
+      <td>Visualizar oportunidades para estudiante</td>
+      <td>Como estudiante que inicio sesión, quiero poder acceder a un apartado de oportunidades, para para postularme a uno.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>US29</td>
+      <td>Visualizar de portafolio para estudiante</td>
+      <td>Como estudiante que inicio sesión, quiero poder acceder a un apartado de Portafolio, para para visualizar mis trabajos hechos.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>US30</td>
+      <td>Visualizar de postulaciones para gerentes</td>
+      <td>Como gerente que inicio sesión, quiero poder acceder a un apartado de Postulaciones, para para visualizar las diferentes postulaciones hechas a mi proyecto.</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br><br>
+
+
 <p align="center">
   <img src="images/product_backlog.png" alt="product backlog" width="80%">
 </p>
+
+
+https://trello.com/b/sMeOQ8TS/product-backlog-unittalents 
 
 ---
 
@@ -3516,11 +3860,11 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
     <thead>
         <tr>
             <th>Sprint #</th>
-            <th colspan="6">Sprint 1</th>
+            <th colspan="8">Sprint 1</th>
         </tr>
         <tr>
             <th colspan="2">User Story</th>
-            <th colspan="6">WorkItem-Task</th>
+            <th colspan="7">WorkItem-Task</th>
         </tr>
         <tr>
             <th>US-ID</th>
@@ -3528,9 +3872,10 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <th>ID</th>
             <th>Title</th>
             <th>Description</th>
+            <th>Acceptance Criteria</th>
             <th>Estimation (Hours)</th>
             <th>Assigned To</th>
-            <th>Status (To-do/In-Process/To-Review/Done)</th>
+            <th>Status</th>
         </tr>
     </thead>
     <tbody>
@@ -3539,8 +3884,12 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>Comprender el propósito de la plataforma desde la página de inicio</td>
             <td>UT01</td>
             <td>Crear mensaje principal de bienvenida</td>
-            <td>Crear un mensaje claro y llamativo que explique qué es UniTalents Connect y cómo funciona para nuevos usuarios en la landing page.</td>
-            <td>3</td>
+            <td><strong>Como usuario nuevo</strong>, quiero entender el propósito de UniTalents Connect desde la landing page <strong>para decidir si registrarme rápidamente</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que accedo a la landing page, When la carga, Then debo ver un mensaje claro que diga: "Conecta con talentos universitarios en un solo clic".<br>
+                <strong>Escenario 2:</strong> Given que leo el mensaje, When termino, Then debo ver un botón naranja con texto "Regístrate gratis".
+            </td>
+            <td>6</td>
             <td>Andrés Coca</td>
             <td>Done</td>
         </tr>
@@ -3548,9 +3897,13 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>US02</td>
             <td>Registro inmediato desde la landing</td>
             <td>UT02</td>
-            <td>	Implementar botón "Acceder" en el header</td>
-            <td>Añadir funcionalidad a los enlaces de la sección contacto</td>
-            <td>1</td>
+            <td>Implementar botón "Acceder" en el header</td>
+            <td><strong>Como usuario no registrado</strong>, quiero un botón de acceso rápido<strong>para reducir el tiempo de registro</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago clic en "Acceder", Then soy redirigido a "/registro".<br>
+                <strong>Escenario 2:</strong> Given que hago scroll, When reviso el header, Then el botón sigue visible.
+            </td>
+            <td>8</td>
             <td>Javier Gonzales</td>
             <td>In-Process</td>
         </tr>
@@ -3558,10 +3911,13 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>US03</td>
             <td>Ver testimonios de usuarios reales</td>
             <td>UT03</td>
-            <td>Funcionalidad "desplegar y contraer pregunta"</td>
-            <td>Mostrar testimonios reales exitosos de usuarios
+            <td>Funcionalidad "desplegar testimonios"</td>
+            <td><strong>Como visitante</strong>, quiero leer testimonios reales <strong>para confiar en la plataforma </strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que navego a "Testimonios", Then veo 3 tarjetas con foto, nombre y texto.<br>
+                <strong>Escenario 2:</strong> Given que hago clic en "Siguiente", Then la transición es suave.
             </td>
-            <td>2</td>
+            <td>5</td>
             <td>Leonardo Palomino</td>
             <td>Done</td>
         </tr>
@@ -3570,54 +3926,74 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>Llamados a la acción claros en cada sección</td>
             <td>UT04</td>
             <td>Botones interactivos para fácil acceso</td>
-            <td>configurar botones de acción relevantes a lo largo de la landing</td>
-            <td>1</td>
+            <td><strong>Como usuario</strong>, quiero botones interactivos en cada sección<strong>para navegar fácilmente</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que veo una sección, Then encuentro un botón con texto claro.<br>
+                <strong>Escenario 2:</strong> Given que paso el mouse sobre un botón, Then cambia de color.
+            </td>
+            <td>4</td>
             <td>Cesar Linares</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US25</td>
+            <td>US24</td>
             <td>Tener un encabezado fijo para navegar por la página</td>
             <td>UT05</td>
             <td>Encabezado visible al hacer scroll</td>
-            <td>	Implementar que el encabezado de la landing page permanezca visible mientras se hace scroll hacia abajo, manteniendo acceso a secciones principales.</td>
-            <td>2</td>
-            <td>Renzo Rivera</td>
-            <td>In-Process</td>
-        </tr>
-          <tr>
-            <td>US26</td>
-            <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
-            <td>UT06</td>
-            <td>Implementar sección FAQs accesible</td>
-            <td>Crear sección FAQs accesible desde el menú superior, permitiendo despliegue de preguntas y respuestas en formato claro y organizado.</td>
-            <td>3</td>
-            <td>Javier Gonzales</td>
-            <td>Done</td>
-        </tr>
-         <tr>
-            <td>US27</td>
-            <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
-            <td>UT07</td>
-            <td>Crear mensaje visual principal de propuesta de valor</td>
-            <td>Diseñar e implementar un bloque visual llamativo con mensaje corto + imagen/ilustración en la landing page que transmita el valor de UniTalents Connect.</td>
-            <td>4</td>
+            <td><strong>Como usuario</strong>, quiero un header fijo<strong>para navegar sin perder tiempo</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago scroll, Then el header permanece visible.<br>
+                <strong>Escenario 2:</strong> Given que uso móvil, Then el header se convierte en menú hamburguesa.
+            </td>
+            <td>5</td>
             <td>Renzo Rivera</td>
             <td>In-Process</td>
         </tr>
         <tr>
-            <td>US28</td>
+            <td>US25</td>
+            <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
+            <td>UT06</td>
+            <td>Implementar sección FAQs accesible</td>
+            <td><strong>Como usuario con dudas</strong>, quiero una sección FAQs accesible<strong>para resolver preguntas sin contacto</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago clic en "FAQs", Then veo preguntas organizadas por temas.<br>
+                <strong>Escenario 2:</strong> Given que selecciono una pregunta, Then se expande con su respuesta.
+            </td>
+            <td>8</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US26</td>
+            <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
+            <td>UT07</td>
+            <td>Crear mensaje visual principal de propuesta de valor</td>
+            <td><strong>Como visitante</strong>, quiero un bloque visual con la propuesta de valor<strong>para entender rápidamente el servicio</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que ingreso a la landing, Then veo un bloque con imagen + texto destacado.<br>
+                <strong>Escenario 2:</strong> Given que cargo la página, Then el bloque es visible sin hacer scroll.
+            </td>
+            <td>8</td>
+            <td>Renzo Rivera</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US27</td>
             <td>Acceder a información de contacto o soporte desde la landing</td>
             <td>UT08</td>
             <td>Acceso a información de contacto o soporte</td>
-            <td>Acceso fácil a los datos de contacto o soporte para resolver dudas antes de registrarme o publicar un proyecto.</td>
-            <td>2</td>
+            <td><strong>Como usuario</strong>, quiero datos de contacto visibles<strong>para resolver dudas antes de registrarme</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que hago clic en "Contacto", Then veo un formulario con campos obligatorios.<br>
+                <strong>Escenario 2:</strong> Given que envío el formulario, Then recibo un email de confirmación.
+            </td>
+            <td>6</td>
             <td>Cesar Linares</td>
             <td>To-Review</td>
         </tr>
     </tbody>
 </table>
-<br>
+
 
 ##### 5.2.1.4. Development Evidence for Sprint Review 
 
@@ -3778,7 +4154,7 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 </p>
 <br>
 
-[Link de la página](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
+https://unitalents-project-g2.github.io/UniTalents-LandingPage/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 <br>
@@ -3837,6 +4213,704 @@ Nuestro compañero César Linares utilizó una plataforma externa a GitHub para 
 
 ---
 
+#### 5.2.2. Sprint 2
+
+Durante el Sprint 2 del proyecto UniTalents Connect, el equipo enfocó sus esfuerzos en avanzar con el desarrollo del frontend funcional de la aplicación web, priorizando las funcionalidades clave para los distintos perfiles de usuario. Se implementaron los módulos de autenticación, incluyendo login, registro y configuración de cuenta. Para el perfil de estudiante, se desarrollaron las vistas de oportunidades laborales, búsqueda de trabajos, postulaciones activas y visualización del perfil personal. Por parte del gerente, se construyeron las funcionalidades para la creación, edición y eliminación de proyectos, así como la gestión de postulaciones recibidas, evaluación de candidatos y visualización del perfil de la empresa. Todo el desarrollo siguió los principios de Domain-Driven Design (DDD), permitiendo una estructura clara del dominio del sistema, y se utilizó WebStorm como entorno principal de desarrollo. Este sprint permitió sentar las bases operativas de la plataforma, brindando una experiencia inicial funcional tanto para estudiantes como para gerentes, y alineando el producto con los objetivos de empleabilidad y conexión profesional definidos en la propuesta de valor.
+
+##### 5.2.2.1. Sprint Planning 2
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 09 - 05</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>6:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Review Summary</strong></td>
+    <td>	Durante el Sprint 1 se completó exitosamente la landing page estática, incluyendo navegación fluida, encabezado fijo, secciones informativas, testimonios y preguntas frecuentes.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Retorspective Summary</strong></td>
+    <td>El equipo resaltó una buena coordinación, cumplimiento de tareas planificadas y propuso como mejora la distribución más equilibrada de tareas técnicas entre los miembros.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Goal</strong></td>
+    <td>	Desarrollar el frontend funcional para login, registro, perfil, oportunidades y gestión de proyectos según el rol del usuario.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Velocity</strong></td>
+    <td>57</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Autenticación (Login/Register)</strong></td>
+    <td><strong>Funcionalidad <br>Estudiante (Oportunidades, <br>y Postulación)</strong></td>
+    <td><strong>Funcionalidad<br>Gerente (Proyectos y <br>Postulaciones)</strong></td>
+    <td><strong>Configuración<br> y Perfil</strong></td>
+    <td><strong>Integración y Testing</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
+
+##### 5.2.2.3. Sprint Backlog 2
+
+Durante el primer sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. La herramienta empleada para la organización y gestión a los miembros del equipo fue Trello. Ya que esta herramienta permitió que se pueda dividir todas las user stories
+en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era
+construir en su totalidad la landing page, logrando que sea atractiva y funcional.
+
+<img src="images/Sprint2BacklogTrello.png" alt="trello2" width="1000">
+
+link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 2</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US15</td>
+            <td>Registrarse como usuario</td>
+            <td>T01</td>
+            <td>Formulario de registro</td>
+            <td>Como usuario nuevo, quiero crear una cuenta, para utilizar la aplicación.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US16</td>
+            <td>Iniciar sesión</td>
+            <td>T02</td>
+            <td>Login y validación</td>
+            <td>Como usuario, quiero iniciar sesión en la aplicación, para acceder a sus funcionalidades.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Visualización del portafolio por gerentes</td>
+            <td>T03</td>
+            <td>Listado de portafolio por gerente</td>
+            <td>Como gerente, quiero poder revisar el portafolio de un estudiante antes de seleccionarlo, para evaluar su experiencia previa.</td>
+            <td>3</td>
+            <td>Javier Gonzales</td>
+            <td>In procces</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Ver estado de mis postulaciones</td>
+            <td>T04</td>
+            <td>Visualización de estado de las postulaciones</td>
+            <td>Como estudiante, quiero consultar el estado de mis postulaciones, para saber si fui considerado.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US17</td>
+            <td>Crear Convocatoria</td>
+            <td>T05</td>
+            <td>Formulario de creación de convocatoria</td>
+            <td>Como gerente, quiero crear convocatorias en la aplicación, para recibir solicitudes de postulantes.</td>
+            <td>5</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US18</td>
+            <td>Editar Convocatoria</td>
+            <td>T06</td>
+            <td>Formulario de edición de convocatoria</td>
+            <td>Como gerente, quiero editar convocatorias en la aplicación, para corregir o actualizar la infromación cuando lo necesite.</td>
+            <td>5</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US19</td>
+            <td>Eliminar Convocatoria</td>
+            <td>T07</td>
+            <td>Boton y confimación de eliminar convocatoria</td>
+            <td>Como gerente, quiero eliminar una convocatoria publicada en la aplicación, para evitar recibir nuesvas postulaciones cuando el proyecto cierre.</td>
+            <td>3</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Búsqueda de postulante</td>
+            <td>T08</td>
+            <td>Listado de postulantes</td>
+            <td>Como empresario, quiero filtrar entre los postulantes a mis proyectos por carrera, habilidades y calificación previa, para encontrar más fácilmente al candidato ideal para colaborar.</td>
+            <td>3</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Ver reputación de un estudiante</td>
+            <td>T09</td>
+            <td>Visualizacion de estrella con reputación</td>
+            <td>Como gerente, quiero ver el historial de evaluación de un estudiante, para decidir si confiarle un nuevo proyecto.</td>
+            <td>5</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS02</td>
+            <td>Endpoint para creación de proyectos</td>
+            <td>T10</td>
+            <td>Creacion de endpoint para proyectos</td>
+            <td>Como developer, quiero crear un endpoint para que los gerentes puedan publicar nuevos proyectos, para que los estudiantes puedan visualizar y postular.</td>
+            <td>3</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS03</td>
+            <td>Endpoint para postulación a proyectos</td>
+            <td>T11</td>
+            <td>Creacion de endpoint para postulantes a proyectos</td>
+            <td>Como developer, quiero desarrollar un endpoint para que los estudiantes puedan postular a proyectos, para registrar su interés formal en una oportunidad.</td>
+            <td>3</td>
+            <td>Erick Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS04</td>
+            <td>Endpoint para calificación de desempeño</td>
+            <td>T12</td>
+            <td>Creacion de endpoint para calificación de desempeño</td>
+            <td>Como developer, quiero crear un endpoint que permita a los gerentes calificar el desempeño de un estudiante tras finalizar un proyecto, para actualizar su reputación en la plataforma.</td>
+            <td>3</td>
+            <td>Erick Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US28</td>
+            <td>Visualizar oportunidades para estudiante</td>
+            <td>T13</td>
+            <td>Listado de proyectos disponibles para el estudiante</td>
+            <td>Como estudiante que inicio sesión, quiero poder acceder a un apartado de oportunidades, para para postularme a uno.</td>
+            <td>5</td>
+            <td>Erick Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US29</td>
+            <td>Visualizar de portafolio para estudiante</td>
+            <td>T14</td>
+            <td>Listado del portafolio para el estudiante</td>
+            <td>Como estudiante que inicio sesión, quiero poder acceder a un apartado de Portafolio, para para visualizar mis trabajos hechos.</td>
+            <td>3</td>
+            <td>Erick Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US10</td>
+            <td>Modificación de perfil de usuario</td>
+            <td>T15</td>
+            <td>Formulario de edicion de perfil</td>
+            <td>Como usuario, quiero modificar la información de mi perfil para mantener mis datos actualizados en la plataforma.</td>
+            <td>4</td>
+            <td>Javier Gonzales</td>
+            <td>In procces</td>
+        </tr>
+        <tr>
+            <td>US30</td>
+            <td>Visualizar de postulaciones para gerentes</td>
+            <td>T16</td>
+            <td>Listado de postulaciones a proyectos de gerentes</td>
+            <td>Como gerente que inicio sesión, quiero poder acceder a un apartado de Postulaciones, para para visualizar las diferentes postulaciones hechas a mi proyecto.</td>
+            <td>4</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+
+##### 5.2.2.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>38b3314</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>09/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>d99d18c</td>
+    <td>feat: added postulations proccess</td>
+    <td>Added postulations proccess, acept or decline students, view students, toolbar</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>8cf417a</td>
+    <td>feat: added my company setting</td>
+    <td>added my company setting</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>3da2108</td>
+    <td>docs: add auth login and register</td>
+    <td>Added a login, register and recover password pages, allows updating passwords and adding users to json file</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>3da2108</td>
+    <td>docs: add auth login and register</td>
+    <td>Added a login, register and recover password pages, allows updating passwords and adding users to json file</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>c2477f3</td>
+    <td>feat:Projects-Bounded-Context</td>
+    <td>Added create, edit and delete projects of managers</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>60e1be1</td>
+    <td>feat:fixed the Button of the Add Skills for new Project</td>
+    <td>Fixed the button of add Skills required for new projects</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>96105ab</td>
+    <td>feat:Develop of the Projects-Bounded-Context</td>
+    <td>Complete de Develop of the Projects-Bounded-Context</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>c4bd344</td>
+    <td>feat: add student portfolio page</td>
+    <td>Added student portfolio page, shows completed projects and project info</td>
+    <td>16/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>0af3dd3</td>
+    <td>feat: add student postulations page</td>
+    <td>Shows student postulations and their status( in progress, finished, or denied) also shows project details</td>
+    <td>16/05/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>dd0f0a8</td>
+    <td>feat: opportunities, and connect to postulations</td>
+    <td>opportunities, and connect to postulation</td>
+    <td>16/05/25</td>
+  </tr>
+</table>
+
+<br>
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra
+diferentes secciones donde el usuario podra acceder tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplicación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+
+- US15
+
+<img src="images/sprint2-evidence/signIN.png" alt="wireflows" width="1000">
+
+
+- US16
+
+<img src="images/sprint2-evidence/Register.png" alt="wireflows" width="1000">
+
+- US17
+
+<img src="images/sprint2-evidence/managerNewProject.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/managerProyectos.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/managerProyectosInfo.png" alt="wireflows" width="1000">
+
+- US18
+
+
+<img src="images/sprint2-evidence/managerEditPRoject.png" alt="wireflows" width="1000">
+
+- US19
+
+
+<img src="images/sprint2-evidence/managerDeletePRoject.png" alt="wireflows" width="1000">
+
+
+- US30
+
+<img src="images/sprint2-evidence/managerPostulations.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/managerPostulationsList.png" alt="wireflows" width="1000">
+
+
+- US08
+
+<img src="images/sprint2-evidence/managerViewStudentReputation.png" alt="wireflows" width="1000">
+
+- US06
+<img src="images/sprint2-evidence/managerPortfolio.png" alt="wireflows" width="1000">
+
+
+- US10
+
+<img src="images/sprint2-evidence/managerEditProfile.png" alt="wireflows" width="1000">
+
+- US07
+<img src="images/sprint2-evidence/postulaciones.png" alt="wireflows" width="1000">
+
+
+<img src="images/sprint2-evidence/postulaciones2.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/postulaciones3.png" alt="wireflows" width="1000">
+
+
+
+
+
+- US28
+<img src="images/sprint2-evidence/oportunidades.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/mostrarproyectodetalle.png" alt="wireflows" width="1000">
+
+<img src="images/sprint2-evidence/verEmpresa.png" alt="wireflows" width="1000">
+
+
+
+- US29
+
+<img src="images/sprint2-evidence/portafolioviewall.png" alt="wireflows" width="1000">
+
+
+
+<img src="images/sprint2-evidence/portafolio.png" alt="wireflows" width="1000">
+
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint se logró documentar y validar los servicios web (endpoints REST) utilizados para la interacción entre el frontend de UniTalents y la base de datos local simulada a través de json-server. Se enfocó en la documentación de endpoints relacionados con oportunidades de postulación estudiantil, empresas, y postulaciones, todos ellos utilizados en el desarrollo de funcionalidades clave implementadas en este Sprint.
+
+La documentación de estos servicios sigue el estilo OpenAPI de forma local y se complementa con ejemplos de pruebas reales realizadas en la interfaz web, así como el detalle del verbo HTTP, parámetros y respuestas obtenidas.
+
+<h3>📌 Endpoints implementados</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint URL (local)</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+      <th>Descripción breve</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/opportunities</td>
+      <td>Oportunidades</td>
+      <td><code>GET</code></td>
+      <td>/opportunities</td>
+      <td>—</td>
+      <td><code>[ { id, title, ... } ]</code></td>
+      <td>Lista todas las oportunidades</td>
+    </tr>
+    <tr>
+      <td>/opportunities/:id</td>
+      <td>Oportunidad específica</td>
+      <td><code>GET</code></td>
+      <td>/opportunities/1</td>
+      <td>id</td>
+      <td><code>{ id: 1, ... }</code></td>
+      <td>Detalle de una oportunidad</td>
+    </tr>
+    <tr>
+      <td>/companies</td>
+      <td>Empresas</td>
+      <td><code>GET</code></td>
+      <td>/companies</td>
+      <td>—</td>
+      <td><code>[ { id, name, ... } ]</code></td>
+      <td>Lista todas las empresas</td>
+    </tr>
+    <tr>
+      <td>/companies/:id</td>
+      <td>Empresa específica</td>
+      <td><code>GET</code></td>
+      <td>/companies/1</td>
+      <td>id</td>
+      <td><code>{ id: 1, ... }</code></td>
+      <td>Datos de una empresa específica</td>
+    </tr>
+    <tr>
+      <td>/studentPostulations</td>
+      <td>Postulaciones</td>
+      <td><code>GET</code></td>
+      <td>/studentPostulations</td>
+      <td>—</td>
+      <td><code>[ { projectId, postulationStatus } ]</code></td>
+      <td>Lista todas las postulaciones</td>
+    </tr>
+    <tr>
+      <td>/studentPostulations</td>
+      <td>Nueva postulación</td>
+      <td><code>POST</code></td>
+      <td>body: { projectId, postulationStatus }</td>
+      <td>—</td>
+      <td><code>{ id: X, projectId: Y, ... }</code></td>
+      <td>Crea una nueva postulación</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante el presente Sprint se realizó el despliegue del frontend funcional del sistema UniTalents como una Azure Static Web App, lo que permitió publicar la aplicación en un entorno de producción accesible, escalable y con integración directa desde GitHub. Este despliegue se configuró para tomar automáticamente los cambios desde la rama principal (main), permitiendo validar y mostrar en tiempo real los avances del desarrollo.
+
+Adicionalmente, se hace referencia al despliegue de la landing page institucional, el cual fue implementado en el Sprint anterior mediante GitHub Pages, sirviendo como punto de presentación del proyecto para usuarios externos y validadores. Esta landing continúa activa y disponible como parte del entorno general de la plataforma.
+
+Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y han permitido validar la correcta integración entre los módulos implementados, la navegación funcional del sistema y la correcta visualización del contenido publicado.
+
+*Landing Page:*
+---
+
+  + Activación de GitHub Pages en el repositorio
+
+<p align="center">
+  <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación
+
+<p align="center">
+  <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa del dominio temporal generado por GitHub Pages
+
+<p align="center">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+*Front End:*
+---
+
+  + Creación de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev0.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Configuración de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Vista de recursos de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+  + Confirmación de creación de la página desde GitHub
+
+<p align="center">
+  <img src="images/sprint2/ev3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa de la Static WebApp en azure
+
+<p align="center">
+  <img src="images/sprint2/ev4.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td></td>
+  </tr>
+</table>
+<br><br>
+
+<p align="center">
+  <img src="images/sprint2/ins1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/sprint2/ins2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/sprint2/ins3.png" alt="deployment-evidence-confirmation" width="400">
+</p>
+<br>
+<p align="center">
+  <img src="images/sprint2/ins4.png" alt="deployment-evidence-confirmation" width="400">
+</p>
+<br>
+
+
+
+---
 ## Conclusiones
 
 ### Conclusiones y recomendaciones  
@@ -3848,7 +4922,13 @@ Nuestro compañero César Linares utilizó una plataforma externa a GitHub para 
 
 4. Consideraremos que la aplicación fue un exito cuando los estudiantes generen ingresos adicionales sin comprometer horarios académicos y los gerentes puedan acceder a talento joven y asequible. 
 
+5. Es fundamental establecer una base sólida de diseño antes de iniciar la programación, siendo clave la elaboración de un diagrama de clases que permita representar visualmente cómo se relacionan las entidades del sistema.
 
+6. Construir un frontend funcional con datos simulados permite observar cómo opera la aplicación y evaluar su comportamiento antes de integrar datos reales.
+
+7. Es recomendable asignar tiempo extra en cada sprint para abordar historias de usuario pendientes o no planificadas, ya que en el segundo sprint el desarrollo se vio afectado por este tipo de contratiempos.
+
+8. El siguiente paso será desarrollar el backend con el fin de contar con una aplicación completamente funcional y completar otras funcionalidades restantes.
 
 
 ---
@@ -3872,4 +4952,4 @@ Comexperu
 
 ## Anexos  
 
-[Video TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Video TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
