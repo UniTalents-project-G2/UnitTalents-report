@@ -775,221 +775,181 @@ Emprendedores, profesionales independientes y pequeñas empresas que no cuentan 
 
 #### 2.1.1. Análisis competitivo  
 
-<table border ="1" ><thead>
-  <tr>
-    <th colspan="6">Competitive Analysis Landscape</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="2">¿Por qué llevar acabo este
-análisis?</td>
-    <td colspan="5">Quienes son nuestros principales competidores?</td>
-  </tr>
-  <tr>
-    <td colspan="5">  Mediante el análisis de la competencia en el mercado, se puede comprender el entorno competitivo en el que se lanzará nuestro producto. Esto brinda una perspectiva clara sobre cómo otros competidores han incorporado funcionalidades y de qué manera atienden las necesidades de sus usuarios.</td>
-  </tr>
-  <tr>
-    <td rowspan="3">PERFIL</td>
-    <td rowspan="2">Overview</td>
-    <td> UniTalent Connect
-<img src="images/LogoUniTalents-Connect.png" alt="logo" width="1000">
-</td>
-    <td>
-    Workana <p align="center">
-    <img src="images/workana-logo.png">
-  </p>
-    
-![]()</td>
-    <td>
-    Freelancer.com
-![logo Freelancer.com](https://www.f-cdn.com/assets/main/en/assets/freelancer-logo-light.svg)</td>
-    <td>
-  LinkedIn 
-  <p align="center">
-    <img src="images/likedin-logo.png">
-  </p>  
-</td>
-  </tr>
-  <tr>
-    <td>Plataforma web que conecta a estudiantes universitarios de ciclos avanzados con personas o pequeñas empresas que necesitan servicios puntuales (como diseño, redacción, programación, etc.). Promueve el trabajo freelance como una vía para adquirir experiencia real, flexible y útil para su desarrollo profesional.</td>
-    <td>Plataforma líder en Latinoamérica para contratar freelancers en áreas como programación, diseño, traducción y marketing.</td>
-    <td>Plataforma global que conecta freelancers con proyectos en diversas categorías: desarrollo, escritura, arte, etc. </td>
-    <td> Red social profesional que conecta empleadores con talento, usada también para promocionar servicios y encontrar oportunidades de empleo.</td>
-  </tr>
-  <tr>
-    <td>Ventaja competitiva
-    ¿Que valor ofrece a los clientes?</td>
-    <td>Se enfoca exclusivamente en estudiantes, lo que permite personalizar la experiencia: horarios flexibles, oportunidades acordes a su formación académica, sin requerir experiencia previa.</td>
-    <td>
-
-Amplia base de usuarios, reputación consolidada, y herramientas avanzadas para gestión de proyectos. 
-    </td>
-    <td>
-    
-Cobertura internacional, variedad de categorías, concursos públicos para contratación.
-    </td>
-    <td>
-
-Reputación global, red de contactos, integración con empresas.
-  </td>
-  </tr>
-  <tr>
-    <td rowspan="2">PERFIL DEL MARKETING</td>
-    <td>Mercado
-Objetivo</td>
-    <td>Estudiantes universitarios, tambien personas naturales y pequeños emprendedores que buscan servicios digitales puntuales</td>
-    <td>Profesionales freelancers de habla hispana y empresas medianas que buscan reducir costos.</td>
-    <td>Freelancers de todos los niveles y empresas de todos los tamaños.</td>
-    <td>Profesionales yestudiantes en búsqueda de empleo, tambien empresas de todos los tamaños</td>
-  </tr>
-  <tr>
-    <td>Estrategias de
-Marketing</td>
-    <td>
-
-+ Alianzas con universidades.
-+ Programas de referidos para estudiantes
-+ Marketing de contenido en TikTok e Instagram (tips laborales, historias de éxito)
- 
-</td>
-
-  <td>Google Ads, blog con contenido educativo y certificaciones de habilidades</td>
-    <td>
-
- Alianzas corporativas y certifaciones.
-    </td>
-    <td>Integracion con universidades y contenido compartido por usuarios, ademas de usar anuncios por internet exclusivos</td>
-  </tr>
-  <tr>
-    <td rowspan="3">PERFIL DEL PRODUCTO</td>
-    <td>Productos &
-Servicios</td>
-    <td>
-
-- Listado de perfiles de estudiantes por habilidad
-- Postulación a proyectos freelance.
-    </td>
-    <td> 
-
-+ Publicación y postulación de proyectos.
-- Contratos, seguimiento y pagos seguros.
- </td>
-    <td>
-    
-+ Publicación de proyectos, concursos, gestión y pago.
-</td>
-    <td>
-
-- Perfil profesional, buscador de empleo, recomendaciones, networking.
-    </td>
-  </tr>
-  <tr>
-    <td>Precios &
-Costos</td>
-    <td>Ofrecemos los planes Basico ($2.99/mes), Premium ($5.99/mes) y PRO ($9.99/mes) para los empresarios y estudiantes. </td>
-    <td>Comisión de 15–20% para freelancers y Clientes publican gratis.</td>
-    <td> 
-    Opciones premium para destacar perfiles y comisión del 10–20%. 
-    </td>
-    <td>Gratuito con funciones premium, ademas de suscripciones para empresas y usuarios. 
-    </td>
-  </tr>
-  <tr>
-    <td>Canales de
-distribución
-(web/móvil)</td>
-    <td>Móvil y Web</td>
-    <td>Móvil y Web</td>
-    <td>Móvil y Web</td>
-    <td>Móvil y Web</td>
-  </tr>
-  <tr>
-    <td rowspan="4">ANÁLISIS SWOT</td>
-    <td>Fortalezas</td>
-    <td>
-
-- Público segmentado y claro.
-- Precios bajos y acceso rápido a talento.
-- Beneficio educativo: experiencia laboral para el CV.
-</td>
-    <td> 
-
-  - Gran comunidad.
-  - Confianza por trayectoria.
-</td>
-    <td>
-
-- Alcance global.
-- Multilingüe y multisectorial.
-</td>
-    <td>
-    
-- Amplia base de usuarios profesionales.
-- Confianza en el entorno profesional.
-</td>
-  </tr>
-  <tr>
-    <td>Debilidades</td>
-    <td>
-
-- Puede haber estudiantes poco responsables.
-- Difícil asegurar calidad de entregables al inicio.</td>
-    <td>
-
- + Alta competencia interna
- - Dificultad para principiantes.
-</td>
-    <td>
-
-
-+ Menor enfoque en estudiantes.
-+ Costos ocultos y alta comisión.
-</td>
-    <td>
-    
-- No está centrado en freelancers.
-- No permite gestión de proyectos.
-  </td>
-  </tr>
-  <tr>
-    <td>Oportunidades</td>
-    <td>
-
-+ Aumento de freelancing post-pandemia.
-- Universidades apoyan prácticas no tradicionales.</td>
-    <td>
-
- + Expansión a nichos educativos o junior.
- - Expansión a plataformas web</td>
-    <td>
-+ Subdividir en micromercados (como estudiantes).
-
-</td>
-    <td>
-    
-+ Crecimiento de features para estudiantes y freelancers.
-    </td>
-  </tr>
-  <tr>
-    <td>Amenazas</td>
-    <td>
-
-- Plataformas grandes que podrían crear secciones para estudiantes
-- Dificultad para escalar sin inversión.
-
-</td>
-    <td>
- 
-+ Saturación del mercado freelance.
-- Nuevas plataformas especializadas.</td>
-    <td>
-+ Usuarios migran a plataformas especializadas.</td>
-    <td>
-    
-- Otras redes con mejor UX.
-    </td>
-  </tr>
-</tbody></table>
+<table border ="1" >
+  <thead>
+    <tr>
+      <th colspan="6">Competitive Analysis Landscape</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">¿Por qué llevar acabo este análisis?</td>
+      <td colspan="5">Quienes son nuestros principales competidores?</td>
+    </tr>
+    <tr>
+      <td colspan="5">  Mediante el análisis de la competencia en el mercado, se puede comprender el entorno competitivo en el que se lanzará nuestro producto. Esto brinda una perspectiva clara sobre cómo otros competidores han incorporado funcionalidades y de qué manera atienden las necesidades de sus usuarios.</td>
+    </tr>
+    <tr>
+      <td rowspan="3">PERFIL</td>
+      <td rowspan="2">Overview</td>
+      <td> 
+        UniTalent Connect
+        <img src="images/LogoUniTalents-Connect.png" alt="logo" width="1000">
+      </td>
+      <td>
+        Workana
+        <img src="images/workana-logo.png">
+      </td>
+      <td>
+        Freelancer.com
+        <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2017/08/freelancer-logo-alt.webp" alt="logo">
+      </td>
+      <td>
+        LinkedIn 
+        <img src="images/likedin-logo.png">
+      </td>
+    </tr>
+    <tr>
+      <td>Plataforma web que conecta a estudiantes universitarios de ciclos avanzados con personas o pequeñas empresas que necesitan servicios puntuales (como diseño redacción, programación, etc.). Promueve el trabajo freelance como una vía para adquirir experiencia real, flexible y útil para su desarrollo profesional.</td>
+      <td>Plataforma líder en Latinoamérica para contratar freelancers en áreas como programación, diseño, traducción y marketing.</td>
+      <td>Plataforma global que conecta freelancers con proyectos en diversas categorías: desarrollo, escritura, arte, etc. </td>
+      <td> Red social profesional que conecta empleadores con talento, usada también para promocionar servicios y encontrar oportunidades de empleo.</td>
+    </tr>
+    <tr>
+      <td>Ventaja competitiva
+      ¿Que valor ofrece a los clientes?</td>
+      <td>Se enfoca exclusivamente en estudiantes, lo que permite personalizar la experiencia: horarios flexibles, oportunidades acordes a su formación académica, sin requerir experiencia previa.</td>
+      <td>Amplia base de usuarios, reputación consolidada, y herramientas avanzadas para gestión de proyectos.</td>
+      <td>Cobertura internacional, variedad de categorías, concursos públicos para contratación.</td>
+      <td>Reputación global, red de contactos, integración con empresas.</td>
+    </tr>
+    <tr>
+      <td rowspan="2">PERFIL DEL MARKETING</td>
+      <td>Mercado Objetivo</td>
+      <td>Estudiantes universitarios, tambien personas naturales y pequeños emprendedores que buscan servicios digitales puntuales</td>
+      <td>Profesionales freelancers de habla hispana y empresas medianas que buscan reducir costos.</td>
+      <td>Freelancers de todos los niveles y empresas de todos los tamaños.</td>
+      <td>Profesionales yestudiantes en búsqueda de empleo, tambien empresas de todos los tamaños</td>
+    </tr>
+    <tr>
+      <td>Estrategias de Marketing</td>
+      <td>
+        + Alianzas con universidades.
+        + Programas de referidos para estudiantes
+        + Marketing de contenido en TikTok e Instagram (tips laborales, historias de éxito)
+      </td>
+      <td>Google Ads, blog con contenido educativo y certificaciones de habilidades</td>
+      <td>Alianzas corporativas y certifaciones.</td>
+      <td>Integracion con universidades y contenido compartido por usuarios, ademas de usar anuncios por internet exclusivos</td>
+    </tr>
+    <tr>
+      <td rowspan="3">PERFIL DEL PRODUCTO</td>
+      <td>Productos & Servicios</td>
+      <td>
+        - Listado de perfiles de estudiantes por habilidad<br>
+        - Postulación a proyectos freelance.
+      </td>
+      <td> 
+        + Publicación y postulación de proyectos.<br>
+        - Contratos, seguimiento y pagos seguros.
+      </td>
+      <td>
+        + Publicación de proyectos, concursos, gestión y pago.
+      </td>
+      <td>
+        - Perfil profesional, buscador de empleo, recomendaciones, networking.
+      </td>
+    </tr>
+    <tr>
+      <td>Precios & Costos</td>
+      <td>Ofrecemos los planes Basico ($2.99/mes), Premium ($5.99/mes) y PRO ($9.99/mes) para los empresarios y estudiantes.</td>
+      <td>Comisión de 15–20% para freelancers y Clientes publican gratis.</td>
+      <td>Opciones premium para destacar perfiles y comisión del 10–20%.</td>
+      <td>Gratuito con funciones premium, ademas de suscripciones para empresas y usuarios.</td>
+    </tr>
+    <tr>
+      <td>Canales de distribución (web/móvil)</td>
+      <td>Móvil y Web</td>
+      <td>Móvil y Web</td>
+      <td>Móvil y Web</td>
+      <td>Móvil y Web</td>
+    </tr>
+    <tr>
+      <td rowspan="4">ANÁLISIS SWOT</td>
+      <td>Fortalezas</td>
+      <td>
+        - Público segmentado y claro.<br>
+        - Precios bajos y acceso rápido a talento.<br>
+        - Beneficio educativo: experiencia laboral para el CV.
+      </td>
+      <td> 
+        - Gran comunidad.<br>
+        - Confianza por trayectoria.
+      </td>
+      <td>
+        - Alcance global.<br>
+        - Multilingüe y multisectorial.
+      </td>
+      <td>
+        - Amplia base de usuarios profesionales.<br>
+        - Confianza en el entorno profesional.
+      </td>
+    </tr>
+    <tr>
+      <td>Debilidades</td>
+      <td>
+        - Puede haber estudiantes poco responsables.<br>
+        - Difícil asegurar calidad de entregables al inicio.
+      </td>
+      <td>
+        + Alta competencia interna<br>
+        - Dificultad para principiantes.
+      </td>
+      <td>
+        + Menor enfoque en estudiantes.<br>
+        + Costos ocultos y alta comisión.
+      </td>
+      <td>
+        - No está centrado en freelancers.<br>
+        - No permite gestión de proyectos.
+      </td>
+    </tr>
+    <tr>
+      <td>Oportunidades</td>
+      <td>
+        + Aumento de freelancing post-pandemia.<br>
+        - Universidades apoyan prácticas no tradicionales.
+      </td>
+      <td>
+        + Expansión a nichos educativos o junior.<br>
+        - Expansión a plataformas web
+      </td>
+      <td>
+        + Subdividir en micromercados (como estudiantes).
+      </td>
+      <td>
+        + Crecimiento de features para estudiantes y freelancers.
+      </td>
+    </tr>
+    <tr>
+      <td>Amenazas</td>
+      <td>
+        - Plataformas grandes que podrían crear secciones para estudiantes<br>
+        - Dificultad para escalar sin inversión.
+      </td>
+      <td>
+        + Saturación del mercado freelance.<br>
+        - Nuevas plataformas especializadas.
+      </td>
+      <td>
+        + Usuarios migran a plataformas especializadas.
+      </td>
+      <td>
+        - Otras redes con mejor UX.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores 
 
@@ -1436,132 +1396,115 @@ En esta sección se elaborarán las User Personas, las cuales se construirán a 
   En este apartado se realizará la User Task Matrix tomando en cuenta los dos segmentos definidos y relacionados a nuestras User Persona, estudiantes univeristarios deseosos de experiencia laboral y gerentes que buscan contratar talento joven para el desarrollo de proyectos.
 
 
-<table border ="1"><thead>
-  <tr>
-    <th></th>
-    <th colspan="2">Estudiante</th>
-    <th colspan="2">Gerente</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>TASK</td>
-    <td>FREQUENCY (Estudiante)</td>
-    <td>IMPORTANCE (Estudiante)</td>
-    <td>FREQUENCY (Gerente)</td>
-    <td>IMPORTANCE (Geremte)</td>
-  </tr>
-
-   <tr>
-    <td>Buscar proyectos disponibles</td>
-    <td>Often</td>
-    <td>High</td>
-    <td>Sometimes</td>
-    <td>Low</td>
-  </tr>
-
-
-  <tr>
-    <td>Postular a ofertas</td>
-    <td>Sometimes</td>
-    <td>High</td>
-    <td>Never</td>
-    <td>Low</td>
-  </tr>
-  
-
-  <tr>
-    <td>Editar o actualizar su perfil profesional</td>
-    <td>Rarely</td>
-    <td>High</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
+<table border ="1">
+  <thead>
     <tr>
-    <td>Consultar el estado de sus postulaciones</td>
-    <td>Sometimes</td>
-    <td>High</td>
-    <td>Never</td>
-    <td>Low</td>
-  </tr>
-   <tr>
-    <td>Asistir a entrevistas</td>
-    <td>Rarely</td>
-    <td>High</td>
-    <td>Sometimes</td>
-    <td>High</td>
-  </tr>
-   <tr>
-    <td>Asistir al daily scrum</td>
-    <td>Always</td>
-    <td>High</td>
-    <td>Rarely</td>
-    <td>Medium</td>
-  </tr>
-
-  
-  
- <tr>
-    <td>
-    Registrar requerimientos de proyecto</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
-  
-   <tr>
-    <td>Publicar convocatorias de proyecto</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
-  
-   <tr>
-    <td>Chatear con miembros del equipo</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
-
-
-   <tr>
-    <td>Ver postulaciones recibidas</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Sometimes</td>
-    <td>Medium</td>
-  </tr>
+      <th></th>
+      <th colspan="2">Estudiante</th>
+      <th colspan="2">Gerente</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-    <td>Validar postulantes</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Rarely</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td>Aprobar entregables</td>
-    <td>Never</td>
-    <td>Low</td>
-    <td>Often</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td>Planificacion del sprint</td>
-    <td>Often</td>
-    <td>High</td>
-    <td>Often</td>
-    <td>High</td>
-  </tr>
-
-
-
-
-
-
-
-</tbody>
+      <td>TASK</td>
+      <td>FREQUENCY (Estudiante)</td>
+      <td>IMPORTANCE (Estudiante)</td>
+      <td>FREQUENCY (Gerente)</td>
+      <td>IMPORTANCE (Geremte)</td>
+    </tr>
+    <tr>
+      <td>Buscar proyectos disponibles</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Postular a ofertas</td>
+      <td>Sometimes</td>
+      <td>High</td>
+      <td>Never</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Editar o actualizar su perfil profesional</td>
+      <td>Rarely</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Consultar el estado de sus postulaciones</td>
+      <td>Sometimes</td>
+      <td>High</td>
+      <td>Never</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Asistir a entrevistas</td>
+      <td>Rarely</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Asistir al daily scrum</td>
+      <td>Always</td>
+      <td>High</td>
+      <td>Rarely</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>
+      Registrar requerimientos de proyecto</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Publicar convocatorias de proyecto</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Chatear con miembros del equipo</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Ver postulaciones recibidas</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Validar postulantes</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Rarely</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Aprobar entregables</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Planificacion del sprint</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
@@ -1792,14 +1735,11 @@ El lenguaje a utilizar para este proyecto es:
       <td>US05</td>
       <td>Subir proyecto a mi portafolio</td>
       <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> subir mis proyectos académicos al portafolio, <strong>para</strong> mostrar evidencia de mis habilidades.
+        <strong>Como</strong> estudiante, <strong>quiero</strong> poder subir una URL que dirija a un proyecto de mi portafolio, <strong>para</strong> que los gerentes o empresas puedan visualizar mi trabajo y evaluar mejor mi experiencia.
       </td>
       <td>
-        <strong>Escenario 1: Registro básico del proyecto</strong><br>
-        <strong>Dado</strong> que tengo una cuenta de estudiante activa, <strong>cuando</strong> accedo a la sección "Mi Portafolio" y selecciono "Agregar proyecto", <strong>entonces</strong> puedo registrar información como el nombre del proyecto, tecnologías utilizadas y una breve descripción.
-        <br><br>
-        <strong>Escenario 2: Subida de enlaces o archivos</strong><br>
-        <strong>Dado</strong> que deseo compartir más detalles, <strong>cuando</strong> incluyo un enlace externo o archivo complementario, <strong>entonces</strong> este queda vinculado al proyecto para ser visualizado por los gerentes.
+        <strong>Escenario 1: Registro exitoso del proyecto con URL</strong><br>
+        <strong>Dado</strong> que soy un estudiante autenticado y me encuentro en la sección "Configuración" <strong>cuando</strong> ingresa a "mi portafolio" e inserta una URL válida <strong>entonces</strong> la URL debe guardarse correctamente y debe aparecer como un enlace activo en la vista de portafolio.
       </td>
       <td>Epic 05</td>
     </tr>
@@ -1810,11 +1750,8 @@ El lenguaje a utilizar para este proyecto es:
         <strong>Como</strong> gerente, <strong>quiero</strong> poder revisar el portafolio de un estudiante antes de seleccionarlo, <strong>para</strong> evaluar su experiencia previa.
       </td>
       <td>
-        <strong>Escenario 1: Acceso al portafolio desde la lista de postulantes</strong><br>
-        <strong>Dado</strong> que estoy revisando candidatos en un proyecto, <strong>cuando</strong> hago clic en el nombre de un postulante, <strong>entonces</strong> se abre su perfil donde puedo ver los proyectos de su portafolio organizados con nombre, descripción y tecnología.
-        <br><br>
-        <strong>Escenario 2: Exploración de detalles del proyecto</strong><br>
-        <strong>Dado</strong> que quiero revisar un proyecto específico, <strong>cuando</strong> hago clic en una tarjeta de portafolio, <strong>entonces</strong> se despliega una vista más detallada con enlaces, archivos o imágenes relacionados.
+        <strong>Escenario 1: Visualización del enlace por parte del gerente</strong><br>
+        <strong>Dado</strong> que soy un gerente autenticado y estoy revisando el perfil de un estudiante que esta postulando a uno de mis proyectos <strong>cuando</strong> clickeo en "ver portafolio" <strong>entonces</strong> debo ser redirigido a la página de su portafolio en una nueva pestaña.
       </td>
       <td>Epic 05</td>
     </tr>
@@ -1866,7 +1803,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
-<tr>
+    <tr>
       <td>US10</td>
       <td>Modificación de perfil de usuario</td>
       <td>
@@ -1895,21 +1832,19 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 04</td>
     </tr>
-        <tr>
+    <tr>
       <td>US12</td>
-      <td>Modificación del portafolio del estudiante</td>
+      <td>Actualización de URL del portafolio del estudiante</td>
       <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> poder editar mi portafolio <strong>para</strong>  mostrar mis trabajos actualizados y habilidades recientes.
+        <strong>Como</strong> estudiante, <strong>quiero</strong> modificar la URL de mi portafolio, <strong>para</strong>  mantener actualizado el enlace que visualizan los gerentes o empresas.
       </td>
       <td>
-        <strong>Escenario 1: Estudiante agrega un nuevo proyecto</strong><br>
-        <strong>Dado</strong> que está en la sección de portafolio <strong>cuando</strong> agrega título y descripción <strong>entonces</strong> el nuevo proyecto debe guardarse correctamente.
+        <strong>Escenario 1: Actualización exitosa de URL del portafolio</strong><br>
+        <strong>Dado</strong> que el estudiante ha iniciado sesión y se encuentra en la sección de mi perfil <strong>cuando</strong> actualiza el campo de URL con un enlace válido y hace clic en “Guardar cambios” <strong>entonces</strong> el sistema debe almacenar la nueva URL y reflejarla correctamente en su perfil público.
         <br><br>
-        <strong>Escenario 2:  Estudiante edita proyecto existente</strong><br>
-        <strong>Dado</strong> que el proyecto ya existe en el portafolio <strong>cuando</strong> el estudiante actualiza su información <strong>entonces</strong> el sistema debe guardar y reflejar los cambios.
+        <strong>Escenario 2: Error al ingresar URL inválida</strong><br>
+        <strong>Dado</strong> que el estudiante desea actualizar su portafolio <strong>cuando</strong> ingresa una URL mal formada o vacía <strong>entonces</strong> el sistema debe mostrar un mensaje de error indicando que el enlace no es válido y no debe actualizar la URL anterior.
         <br><br>
-        <strong>Escenario 3: Estudiante elimina un proyecto</strong><br>
-        <strong>Dado</strong> que el estudiante visualiza sus proyectos <strong>cuando</strong> selecciona eliminar <strong>entonces</strong> el proyecto debe desaparecer del portafolio.
       </td>
       <td>Epic 05</td>
     </tr>
@@ -1930,16 +1865,21 @@ El lenguaje a utilizar para este proyecto es:
       <td>US14</td>
       <td> Búsqueda de postulante</td>
       <td>
-        <strong>Como</strong>  empresario, <strong>quiero</strong> buscar postulantes usando filtros <strong>para</strong> encontrar al candidato ideal para mi proyecto.
+        <strong>Como</strong> empresario, <strong>quiero</strong> filtrar entre los postulantes a mis proyectos por carrera, habilidades y calificación previa, <strong>para</strong> encontrar más fácilmente al candidato ideal para colaborar.
       </td>
       <td>
-        <strong>Escenario 1: Búsqueda por carrera y habilidades</strong><br>
-        <strong>Dado</strong> que el empresario accede al buscador <strong>cuando</strong> selecciona carrera e ingresa habilidades clave <strong>entonces</strong> el sistema muestra resultados relacionados.
+        <strong>Escenario 1: Filtrado por carrera</strong><br>
+        <strong>Dado</strong> que el gerente visualiza las postulaciones a uno de sus proyectos <strong>cuando</strong> selecciona una carrera específica desde el panel de filtros <strong>entonces</strong> el sistema muestra solo a los postulantes que pertenecen a dicha carrera.
         <br><br>
+        <strong>Escenario 2: Filtrado por habilidades</strong><br>
+        <strong>Dado</strong> que el gerente accede a la lista de postulantes <strong>cuando</strong> ingresa una o más habilidades en el filtro correspondiente <strong>entonces</strong> el sistema filtra y muestra solo a los postulantes que tengan esas habilidades en su perfil.
+        <br><br>
+        <strong>Escenario 3: Filtrado por calificación</strong><br>
+        <strong>Dado</strong> que el gerente desea evaluar postulantes previamente calificados <strong>cuando</strong> aplica el filtro de calificación mínima (por ejemplo, 4 estrellas o más) <strong>entonces</strong> el sistema solo muestra postulantes con calificaciones iguales o superiores.
       </td>
       <td>Epic 07</td>
     </tr>
-<tr>
+    <tr>
       <td>US15</td>
       <td>Registrarse como usuario</td>
       <td>
@@ -1959,9 +1899,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
-
-
- <tr>
+    <tr>
       <td>US16</td>
       <td>Iniciar sesión</td>
       <td>
@@ -1981,7 +1919,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
-  <tr>
+    <tr>
       <td>US17</td>
       <td>Crear Convocatoria</td>
       <td>
@@ -2003,7 +1941,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 02</td>
     </tr>
- <tr>
+    <tr>
       <td>US18</td>
       <td>Editar Convocatoria</td>
       <td>
@@ -2020,7 +1958,7 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 02</td>
     </tr>
-<tr>
+    <tr>
       <td>US19</td>
       <td>Eliminar Convocatoria</td>
       <td>
@@ -2043,29 +1981,8 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 02</td>
     </tr>
-
-<tr>
+    <tr>
       <td>US20</td>
-      <td>Guardar filtros de búsqueda personalizados</td>
-      <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> guardar mis filtros de búsqueda más usados, <strong>para</strong> no tener que configurarlos cada vez.
-      </td>
-      <td>
-        <strong>Escenario 1: Guardar filtros</strong><br>
-        <strong>Dado</strong> que he aplicado filtros en la búsqueda de proyectos
-        <strong>Cuando</strong> Cuando presiono “Guardar filtro”
-        <strong>Entonces</strong> el sistema guarda esa combinación de criterios bajo un nombre personalizado.
-        <br><br>
-        <strong>Escenario 2: Aplicar filtro guardado</strong><br>
-        <strong>Dado</strong> que tengo filtros guardados
-        <strong>Cuando</strong> selecciono uno desde la lista de filtros guardados 
-        <strong>Entonces</strong> los criterios se aplican automáticamente a la búsqueda
-      </td>
-      <td>Epic 03</td>
-    </tr>
-
-<tr>
-      <td>US21</td>
       <td>Cerrar sesión</td>
       <td>
         <strong>Como</strong> usuario, <strong>quiero</strong> poder cerrar sesión en cualquier momento, <strong>para</strong> asegurar la privacidad de mi cuenta.
@@ -2078,9 +1995,8 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 01</td>
     </tr>
-
-<tr>
-      <td>US22</td>
+    <tr>
+      <td>US21</td>
       <td>Marcar proyecto como favorito</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> marcar proyectos como favoritos, <strong>para</strong> revisarlos después con facilidad.
@@ -2098,9 +2014,8 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 03</td>
     </tr>
-
-<tr>
-      <td>US23</td>
+    <tr>
+      <td>US22</td>
       <td>Notificación de proyecto nuevo</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> recibir una notificación cuando se publique un proyecto compatible con mis habilidades, <strong>para</strong> no perder oportunidades.
@@ -2113,9 +2028,8 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td>Epic 02</td>
     </tr>
-
-<tr>
-      <td>US24</td>
+    <tr>
+      <td>US23</td>
       <td>Eliminar cuenta</td>
       <td>
         <strong>Como</strong> estudiante, <strong>quiero</strong> poder eliminar mi cuenta permanentemente, <strong>para</strong> asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.
@@ -2129,7 +2043,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 01</td>
     </tr>
     <tr>
-      <td>US25</td>
+      <td>US24</td>
       <td>Tener un encabezado fijo para navegar por la página</td>
       <td>
         <strong>Como</strong> visitante de la landing page, <strong>quiero</strong> contar con un encabezado visible en todo momento, <strong>para</strong> moverme fácilmente entre las secciones sin hacer scroll manualmente.
@@ -2148,7 +2062,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US26</td>
+      <td>US25</td>
       <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
       <td>
         <strong>Como</strong> visitante indeciso, <strong>quiero</strong> acceder fácilmente a una sección de preguntas frecuentes, <strong>para</strong> resolver mis dudas antes de registrarme en la plataforma.
@@ -2167,7 +2081,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US27</td>
+      <td>US26</td>
       <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
       <td>
         <strong>Como</strong> usuario nuevo, <strong>quiero</strong> ver de inmediato una propuesta visual clara y atractiva, <strong>para</strong> captar rápidamente la esencia de UniTalents Connect sin necesidad de leer demasiado.
@@ -2186,7 +2100,7 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
-      <td>US28</td>
+      <td>US27</td>
       <td>Acceder a información de contacto o soporte desde la landing</td>
       <td>
         <strong>Como</strong> visitante que necesita ayuda, <strong>quiero</strong> poder acceder fácilmente a los datos de contacto o soporte, <strong>para</strong> resolver dudas antes de registrarme o publicar un proyecto.
@@ -2275,7 +2189,6 @@ El lenguaje a utilizar para este proyecto es:
       </td>
       <td></td>
     </tr>
-
   </tbody>
 </table>
 
@@ -2313,9 +2226,242 @@ El lenguaje a utilizar para este proyecto es:
 
 ### 3.4. Product Backlog  <br><br>
 
+<br>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US01</td>
+      <td>Comprender el propósito de la plataforma</td>
+      <td>Como usuario nuevo, quiero entender rápidamente de qué trata UniTalents Connect, para decidir si me interesa registrarme como estudiante o gerente.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>US26</td>
+      <td>Visualizar la propuesta de valor</td>
+      <td>Como usuario nuevo, quiero ver de inmediato una propuesta visual clara y atractiva, para captar rápidamente la esencia de UniTalents Connect sin necesidad de leer demasiado.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>US04</td>
+      <td>Llamados a la acción claros</td>
+      <td>Como usuario, quiero encontrar botones de acción relevantes a lo largo de la landing, para tomar decisiones sin tener que regresar al inicio.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>US02</td>
+      <td>Registro inmediato desde la landing</td>
+      <td>Como usuario nuevo, quiero acceder rápidamente al formulario de registro, para comenzar a usar la plataforma sin perder tiempo.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>US03</td>
+      <td>Ver testimonios de usuarios reales</td>
+      <td>Como usuario interesado, quiero ver experiencias de otras personas en la plataforma, para sentir confianza antes de crear una cuenta.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>US24</td>
+      <td>Encabezado fijo para navegar</td>
+      <td>Como visitante de la landing page, quiero contar con un encabezado visible en todo momento, para moverme fácilmente entre las secciones sin hacer scroll manualmente.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>US25</td>
+      <td>Acceder a la sección de FAQs</td>
+      <td>Como visitante indeciso, quiero acceder fácilmente a una sección de preguntas frecuentes, para resolver mis dudas antes de registrarme en la plataforma.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>US27</td>
+      <td>Acceder a información de contacto o soporte</td>
+      <td>Como visitante que necesita ayuda, quiero poder acceder fácilmente a los datos de contacto o soporte, para resolver dudas antes de registrarme o publicar un proyecto.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>US05</td>
+      <td>Subir proyecto a mi portafolio</td>
+      <td>Como estudiante, quiero poder subir una URL que dirija a un proyecto de mi portafolio, para que los gerentes o empresas puedan visualizar mi trabajo y evaluar mejor mi experiencia.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>US06</td>
+      <td>Visualización del portafolio por gerentes</td>
+      <td>Como gerente, quiero poder revisar el portafolio de un estudiante antes de seleccionarlo, para evaluar su experiencia previa.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>US07</td>
+      <td>Ver estado de mis postulaciones</td>
+      <td>Como estudiante, quiero consultar el estado de mis postulaciones, para saber si fui considerado.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>US08</td>
+      <td>Ver reputación de un estudiante</td>
+      <td>Como gerente, quiero ver el historial de evaluación de un estudiante, para decidir si confiarle un nuevo proyecto.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>US09</td>
+      <td>Recuperar contraseña</td>
+      <td>Como usuario, quiero poder recuperar mi contraseña, para acceder a mi cuenta si la olvido.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>US10</td>
+      <td>Modificación de perfil de usuario</td>
+      <td>Como usuario, quiero modificar la información de mi perfil para mantener mis datos actualizados en la plataforma.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US13</td>
+      <td>Calificación del contratador</td>
+      <td>Como estudiante, quiero calificar al empresario luego del proyecto para compartir mi experiencia con futuros postulantes.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>US12</td>
+      <td>Actualizar URL del portafolio</td>
+      <td>Como estudiante, quiero modificar la URL de mi portafolio, para mantener actualizado el enlace que visualizan los gerentes o empresas.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>US14</td>
+      <td>Búsqueda de postulante</td>
+      <td>Como empresario, quiero filtrar entre los postulantes a mis proyectos por carrera, habilidades y calificación previa, para encontrar más fácilmente al candidato ideal para colaborar.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>US15</td>
+      <td>Registrarse como usuario</td>
+      <td>Como usuario nuevo, quiero crear una cuenta, para utilizar la aplicación.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>US16</td>
+      <td>Iniciar sesión</td>
+      <td>Como usuario, quiero iniciar sesión en la aplicación, para acceder a sus funcionalidades.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US17</td>
+      <td>Crear convocatoria</td>
+      <td>Como gerente, quiero crear convocatorias en la aplicación, para recibir solicitudes de postulantes.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>US18</td>
+      <td>Editar convocatoria</td>
+      <td>Como gerente, quiero editar convocatorias en la aplicación, para corregir o actualizar la información cuando lo necesite.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>US19</td>
+      <td>Eliminar convocatoria</td>
+      <td>Como gerente, quiero eliminar una convocatoria publicada, para evitar recibir nuevas postulaciones cuando el proyecto cierre.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>US20</td>
+      <td>Cerrar sesión</td>
+      <td>Como usuario, quiero poder cerrar sesión en cualquier momento, para asegurar la privacidad de mi cuenta.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>US21</td>
+      <td>Marcar proyecto como favorito</td>
+      <td>Como estudiante, quiero marcar proyectos como favoritos, para revisarlos después con facilidad.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>US22</td>
+      <td>Notificación de proyecto nuevo</td>
+      <td>Como estudiante, quiero recibir una notificación cuando se publique un proyecto compatible con mis habilidades, para no perder oportunidades.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>US23</td>
+      <td>Eliminar cuenta</td>
+      <td>Como estudiante, quiero poder eliminar mi cuenta permanentemente, para asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>TS01</td>
+      <td>Endpoint para registro de usuarios</td>
+      <td>Como developer, quiero crear un endpoint para registrar nuevos usuarios diferenciando su rol (estudiante o gerente), para permitir su autenticación y posterior personalización de la plataforma.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>TS02</td>
+      <td>Endpoint para creación de proyectos</td>
+      <td>Como developer, quiero crear un endpoint para que los gerentes puedan publicar nuevos proyectos, para que los estudiantes puedan visualizar y postular.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>TS03</td>
+      <td>Endpoint para postulación a proyectos</td>
+      <td>Como developer, quiero desarrollar un endpoint para que los estudiantes puedan postular a proyectos, para registrar su interés formal en una oportunidad.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>TS04</td>
+      <td>Endpoint para calificación de desempeño</td>
+      <td>Como developer, quiero crear un endpoint que permita a los gerentes calificar el desempeño de un estudiante tras finalizar un proyecto, para actualizar su reputación en la plataforma.</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br><br>
+
+
 <p align="center">
   <img src="images/product_backlog.png" alt="product backlog" width="80%">
 </p>
+
+
+https://trello.com/b/sMeOQ8TS/product-backlog-unittalents 
 
 ---
 
@@ -3612,7 +3758,7 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>Done</td>
         </tr>
         <tr>
-            <td>US25</td>
+            <td>US24</td>
             <td>Tener un encabezado fijo para navegar por la página</td>
             <td>UT05</td>
             <td>Encabezado visible al hacer scroll</td>
@@ -3626,7 +3772,7 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>In-Process</td>
         </tr>
         <tr>
-            <td>US26</td>
+            <td>US25</td>
             <td>Acceder a la sección de preguntas frecuentes (FAQs)</td>
             <td>UT06</td>
             <td>Implementar sección FAQs accesible</td>
@@ -3640,7 +3786,7 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>Done</td>
         </tr>
         <tr>
-            <td>US27</td>
+            <td>US26</td>
             <td>Visualizar la propuesta de valor con un diseño atractivo desde el inicio</td>
             <td>UT07</td>
             <td>Crear mensaje visual principal de propuesta de valor</td>
@@ -3654,7 +3800,7 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <td>In-Process</td>
         </tr>
         <tr>
-            <td>US28</td>
+            <td>US27</td>
             <td>Acceder a información de contacto o soporte desde la landing</td>
             <td>UT08</td>
             <td>Acceso a información de contacto o soporte</td>
