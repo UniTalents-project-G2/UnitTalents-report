@@ -47,7 +47,7 @@
   </tr>
     <tr>
     <td>1.00</td>
-    <td>08/04/23</td>
+    <td>08/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>1.01</td>
-    <td>10/04/23</td>
+    <td>10/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td>1.03</td>
-    <td>13/04/23</td>
+    <td>13/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -81,7 +81,7 @@
   </tr>
     <tr>
     <td>1.04</td>
-    <td>15/04/23</td>
+    <td>15/04/25</td>
     <td>
     Palomino,<br>
     Rivera,<br>
@@ -91,7 +91,7 @@
   </tr>
     <tr>
     <td>1.05</td>
-    <td>17/04/23</td>
+    <td>17/04/25</td>
     <td>
     Gonzales,<br>
     Linares
@@ -100,7 +100,7 @@
   </tr>
   <tr>
     <td>1.06</td>
-    <td>20/04/23</td>
+    <td>20/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td>1.07</td>
-    <td>21/04/23</td>
+    <td>21/04/25</td>
     <td>
     Gonzales,<br>
     Rivera
@@ -120,7 +120,7 @@
   </tr>
   <tr>
     <td>1.08</td>
-    <td>23/04/23</td>
+    <td>23/04/25</td>
     <td>
     Palomino,<br>
     Coca
@@ -129,7 +129,7 @@
   </tr>
   <tr>
     <td>1.09</td>
-    <td>24/04/23</td>
+    <td>24/04/25</td>
     <td>
     Linares
     </td>
@@ -137,7 +137,7 @@
   </tr>
   <tr>
     <td>1.10</td>
-    <td>25/04/23</td>
+    <td>25/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -148,7 +148,7 @@
   </tr>
     <tr>
     <td>1.11</td>
-    <td>25/04/23</td>
+    <td>25/04/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -156,6 +156,69 @@
     Linares, Coca
     </td>
     <td>Redacción de software configuration management y conclusiones</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.01</td>
+    <td>8/05/25</td>
+    <td>
+    Gonzales<br>
+    </td>
+    <td>Mejora continua, correcion de las tabla de competidores y task matrix</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.02</td>
+    <td>9/05/25</td>
+    <td>
+    Gonzales<br>
+    </td>
+    <td>Mejora continua, redacción del alcance del proyecto</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.03</td>
+    <td>25/05/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Mejora continua, correción del user journey maps y impact mapping</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.04</td>
+    <td>25/05/25</td>
+    <td>
+    Linares
+    </td>
+    <td>Mejora continua, correcion de product backlog</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.05</td>
+    <td>15/05/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción del Sprint 2.</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>2.06</td>
+    <td>16/05/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome.</td>
   </tr>
 </table>
 
