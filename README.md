@@ -1863,7 +1863,7 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
         <tr>
       <td>US14</td>
-      <td> Búsqueda de postulante</td>
+      <td>Búsqueda de postulante</td>
       <td>
         <strong>Como</strong> empresario, <strong>quiero</strong> filtrar entre los postulantes a mis proyectos por carrera, habilidades y calificación previa, <strong>para</strong> encontrar más fácilmente al candidato ideal para colaborar.
       </td>
@@ -4158,9 +4158,9 @@ Durante el primer sprint backlog, el equipo tuvo la tarea de realizar y completa
 en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era
 construir en su totalidad la landing page, logrando que sea atractiva y funcional.
 
-<img src="images/SprintBacklogTrello.png" alt="wireflows" width="1000">
+<img src="images/Sprint2BacklogTrello.png" alt="trello2" width="1000">
 
-link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
+link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
 
 <table border="1" cellspacing="0" cellpadding="5">
     <thead>
@@ -4178,7 +4178,6 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
             <th>ID</th>
             <th>Title</th>
             <th>Description</th>
-            <th>Acceptance Criteria</th>
             <th>Estimation (Hours)</th>
             <th>Assigned To</th>
             <th>Status</th>
@@ -4186,26 +4185,124 @@ link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US15</td>
+            <td>Registrarse como usuario</td>
+            <td>T01</td>
+            <td>Formulario de registro</td>
+            <td>Como usuario nuevo, quiero crear una cuenta, para utilizar la aplicación.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US16</td>
+            <td>Iniciar sesión</td>
+            <td>T02</td>
+            <td>Login y validación</td>
+            <td>Como usuario, quiero iniciar sesión en la aplicación, para acceder a sus funcionalidades.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Visualización del portafolio por gerentes</td>
+            <td>T03</td>
+            <td>Listado de portafolio por gerente</td>
+            <td>Como gerente, quiero poder revisar el portafolio de un estudiante antes de seleccionarlo, para evaluar su experiencia previa.</td>
+            <td>3</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Ver estado de mis postulaciones</td>
+            <td>T04</td>
+            <td>Visualización de estado de las postulaciones</td>
+            <td>Como estudiante, quiero consultar el estado de mis postulaciones, para saber si fui considerado.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US17</td>
+            <td>Crear Convocatoria</td>
+            <td>T05</td>
+            <td>Formulario de creación de convocatoria</td>
+            <td>Como gerente, quiero crear convocatorias en la aplicación, para recibir solicitudes de postulantes.</td>
+            <td>5</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US18</td>
+            <td>Editar Convocatoria</td>
+            <td>T06</td>
+            <td>Formulario de edición de convocatoria</td>
+            <td>Como gerente, quiero editar convocatorias en la aplicación, para corregir o actualizar la infromación cuando lo necesite.</td>
+            <td>5</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US19</td>
+            <td>Eliminar Convocatoria</td>
+            <td>T07</td>
+            <td>Boton y confimación de eliminar convocatoria</td>
+            <td>Como gerente, quiero eliminar una convocatoria publicada en la aplicación, para evitar recibir nuesvas postulaciones cuando el proyecto cierre.</td>
+            <td>3</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Búsqueda de postulante</td>
+            <td>T08</td>
+            <td>Listado de postulantes</td>
+            <td>Como empresario, quiero filtrar entre los postulantes a mis proyectos por carrera, habilidades y calificación previa, para encontrar más fácilmente al candidato ideal para colaborar.</td>
+            <td>3</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Ver reputación de un estudiante</td>
+            <td>T09</td>
+            <td>Visualizacion de estrella con reputación</td>
+            <td>Como gerente, quiero ver el historial de evaluación de un estudiante, para decidir si confiarle un nuevo proyecto.</td>
+            <td>5</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS02</td>
+            <td>Endpoint para creación de proyectos</td>
+            <td>T10</td>
+            <td>Creacion de endpoint para proyectos</td>
+            <td>Como developer, quiero crear un endpoint para que los gerentes puedan publicar nuevos proyectos, para que los estudiantes puedan visualizar y postular.</td>
+            <td>3</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS03</td>
+            <td>Endpoint para postulación a proyectos</td>
+            <td>T11</td>
+            <td>Creacion de endpoint para postulantes a proyectos</td>
+            <td>Como developer, quiero desarrollar un endpoint para que los estudiantes puedan postular a proyectos, para registrar su interés formal en una oportunidad.</td>
+            <td>3</td>
+            <td>Erick Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS04</td>
+            <td>Endpoint para calificación de desempeño</td>
+            <td>T12</td>
+            <td>Creacion de endpoint para calificación de desempeño</td>
+            <td>Como developer, quiero crear un endpoint que permita a los gerentes calificar el desempeño de un estudiante tras finalizar un proyecto, para actualizar su reputación en la plataforma.</td>
+            <td>3</td>
+            <td>Erick Palomino</td>
+            <td>Done</td>
         </tr>
     </tbody>
 </table>
