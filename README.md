@@ -2114,6 +2114,48 @@ El lenguaje a utilizar para este proyecto es:
       <td>Epic 08</td>
     </tr>
     <tr>
+      <td>US28</td>
+      <td>Visualizar oportunidades para estudiante</td>
+      <td>
+        <strong>Como</strong> estudiante que inicio sesión, <strong>quiero</strong> poder acceder a un apartado de oportunidades, <strong>para</strong> para postularme a uno.
+      </td>
+      <td>
+        <strong>Escenario 1: Accedo a el apartado Oportunidades</strong><br>
+        <strong>Dado</strong> que estoy en el inicio de la aplicación,
+        <strong>Cuando</strong> presiono en Oportunidades,
+        <strong>Entonces</strong> visualizo diferentes proyectos para postularme.
+      </td>
+      <td>Epic 03</td>
+    </tr>
+    <tr>
+      <td>US29</td>
+      <td>Visualizar de portafolio para estudiante</td>
+      <td>
+        <strong>Como</strong> estudiante que inicio sesión, <strong>quiero</strong> poder acceder a un apartado de Portafolio, <strong>para</strong> para visualizar mis trabajos hechos.
+      </td>
+      <td>
+        <strong>Escenario 1: Accedo a el apartado Portafolios</strong><br>
+        <strong>Dado</strong> que estoy en el inicio de la aplicación,
+        <strong>Cuando</strong> presiono en Portafolios,
+        <strong>Entonces</strong> visualizo diferentes trabajos hechos.
+      </td>
+      <td>Epic 05</td>
+    </tr>
+    <tr>
+      <td>US30</td>
+      <td>Visualizar de postulaciones para gerentes</td>
+      <td>
+        <strong>Como</strong> gerente que inicio sesión, <strong>quiero</strong> poder acceder a un apartado de Postulaciones, <strong>para</strong> para visualizar las diferentes postulaciones hechas a mi proyecto.
+      </td>
+      <td>
+        <strong>Escenario 1: Accedo a el apartado Postulaciones</strong><br>
+        <strong>Dado</strong> que estoy en el inicio de la aplicación,
+        <strong>Cuando</strong> presiono en Postulaciones,
+        <strong>Entonces</strong> visualizo diferentes postulaciones hechas en mis proyectos.
+      </td>
+      <td>Epic 02</td>
+    </tr>
+    <tr>
       <td>TS01</td>
       <td>Endpoint para registro de usuarios</td>
       <td>
@@ -2448,6 +2490,27 @@ El lenguaje a utilizar para este proyecto es:
       <td>Endpoint para calificación de desempeño</td>
       <td>Como developer, quiero crear un endpoint que permita a los gerentes calificar el desempeño de un estudiante tras finalizar un proyecto, para actualizar su reputación en la plataforma.</td>
       <td>3</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>US28</td>
+      <td>Visualizar oportunidades para estudiante</td>
+      <td>Como estudiante que inicio sesión, quiero poder acceder a un apartado de oportunidades, para para postularme a uno.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>US29</td>
+      <td>Visualizar de portafolio para estudiante</td>
+      <td>Como estudiante que inicio sesión, quiero poder acceder a un apartado de Portafolio, para para visualizar mis trabajos hechos.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>US30</td>
+      <td>Visualizar de postulaciones para gerentes</td>
+      <td>Como gerente que inicio sesión, quiero poder acceder a un apartado de Postulaciones, para para visualizar las diferentes postulaciones hechas a mi proyecto.</td>
+      <td>4</td>
     </tr>
   </tbody>
 </table>
@@ -4086,7 +4149,7 @@ Durante el Sprint 2 del proyecto UniTalents Connect, el equipo enfocó sus esfue
   </tr>
   <tr>
     <td><strong>Sprint 2 Velocity</strong></td>
-    <td></td>
+    <td>57</td>
   </tr>
 </table>
 <br>
@@ -4212,7 +4275,7 @@ link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
             <td>Como gerente, quiero poder revisar el portafolio de un estudiante antes de seleccionarlo, para evaluar su experiencia previa.</td>
             <td>3</td>
             <td>Javier Gonzales</td>
-            <td>Done</td>
+            <td>In procces</td>
         </tr>
         <tr>
             <td>US07</td>
@@ -4302,6 +4365,46 @@ link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
             <td>Como developer, quiero crear un endpoint que permita a los gerentes calificar el desempeño de un estudiante tras finalizar un proyecto, para actualizar su reputación en la plataforma.</td>
             <td>3</td>
             <td>Erick Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US28</td>
+            <td>Visualizar oportunidades para estudiante</td>
+            <td>T13</td>
+            <td>Listado de proyectos disponibles para el estudiante</td>
+            <td>Como estudiante que inicio sesión, quiero poder acceder a un apartado de oportunidades, para para postularme a uno.</td>
+            <td>5</td>
+            <td>Erick Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US29</td>
+            <td>Visualizar de portafolio para estudiante</td>
+            <td>T14</td>
+            <td>Listado del portafolio para el estudiante</td>
+            <td>Como estudiante que inicio sesión, quiero poder acceder a un apartado de Portafolio, para para visualizar mis trabajos hechos.</td>
+            <td>3</td>
+            <td>Erick Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US10</td>
+            <td>Modificación de perfil de usuario</td>
+            <td>T15</td>
+            <td>Formulario de edicion de perfil</td>
+            <td>Como usuario, quiero modificar la información de mi perfil para mantener mis datos actualizados en la plataforma.</td>
+            <td>4</td>
+            <td>Javier Gonzales</td>
+            <td>In procces</td>
+        </tr>
+        <tr>
+            <td>US30</td>
+            <td>Visualizar de postulaciones para gerentes</td>
+            <td>T16</td>
+            <td>Listado de postulaciones a proyectos de gerentes</td>
+            <td>Como gerente que inicio sesión, quiero poder acceder a un apartado de Postulaciones, para para visualizar las diferentes postulaciones hechas a mi proyecto.</td>
+            <td>4</td>
+            <td>Javier Gonzales</td>
             <td>Done</td>
         </tr>
     </tbody>
