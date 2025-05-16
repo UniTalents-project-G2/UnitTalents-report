@@ -238,6 +238,8 @@
 
 + Cesar Linares(Cesar-Linares)
 
+*TB1*
+---
 <p align="center">
   <img src="images/insights-report/ins1.png" alt="insights" width="1000">
 </p>
@@ -250,6 +252,24 @@
 
 <p align="center">
   <img src="images/insights-report/ins3.png" alt="insights" width="1000">
+</p>
+<br>
+
+
+*TP1*
+---
+<p align="center">
+  <img src="images/insights-report/insTp1.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/insights-report/insTp2.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/insights-report/insTp3.png" alt="insights" width="1000">
 </p>
 <br>
 
