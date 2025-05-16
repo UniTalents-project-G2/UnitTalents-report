@@ -253,30 +253,6 @@
 </p>
 <br>
 
-*Nota:*
-Nuestro compañero César Linares utilizó una plataforma externa a GitHub para gestionar parte de su trabajo, por lo que su actividad no se refleja en los insights de GitHub. Sin embargo, todo el equipo puede dar fe de que César ha participado activamente y ha trabajado de manera adecuada durante todo el desarrollo de la TB1.
-
-<p align="center">
-  <img src="images/insights-report/ins-cesar-1.png" alt="insights" width="1000">
-</p>
-<br>
-
-<p align="center">
-  <img src="images/insights-report/ins-cesar-2.png" alt="insights" width="1000">
-</p>
-<br>
-
-<p align="center">
-  <img src="images/insights-report/ins-cesar-3.png" alt="insights" width="1000">
-</p>
-<br>
-
-<p align="center">
-  <img src="images/insights-report/ins-cesar-4.png" alt="insights" width="1000">
-</p>
-<br><br>
-
-
 
 
 **TB1**
@@ -3035,7 +3011,7 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 
 Los wireframes de UniTalents Connect han sido desarrollados aplicando principios clave de diseño centrado en el usuario, priorizando la claridad visual, la jerarquía de información y la accesibilidad. Cada sección está estructurada con una navegación intuitiva y coherente entre el menú lateral, encabezado fijo y bloques de contenido, lo cual refleja una arquitectura de información jerárquica y secuencial bien definida. Se han utilizado elementos de diseño consistentes como tarjetas, iconos descriptivos, botones llamativos y formularios bien distribuidos, facilitando la interacción fluida en dispositivos de diferentes tamaños. Además, se ha incorporado un enfoque de diseño inclusivo al priorizar la legibilidad (uso de contrastes adecuados, tamaños de fuente amplios y campos de formulario claros), permitiendo que usuarios con distintos niveles de experiencia digital puedan navegar sin fricciones. Todo el diseño contribuye a lograr una experiencia coherente entre perfiles (estudiante y gerente), enfocada en guiar a los usuarios hacia sus metas (postular, contratar, calificar, publicar proyectos) de forma eficiente y accesible.
 
-[Enlace Figma](https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1)
+https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1
 <br><br>
 
 + Iniciar Sesión / Registrarse:
@@ -3134,7 +3110,8 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 #### 4.4.2. Web Applications Wireflow Diagrams 
 
-[Enlace Overflow](https://overflow.io/s/TQAWUZY8)
+https://overflow.io/s/TQAWUZY8
+
 <br><br>
 
 + **Wireflow 1: Login / Registrarse**
@@ -3232,7 +3209,7 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 Los siguientes Mock-ups fueron elaborados en base a los wireframes previamente hechos. Representan fielmente la manera en la que nuestros usuarios podrán apreciar la aplicación web.
 
-[Enlace Figma](https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=0-1&p=f&t=dIa0V1UemHWoieb7-0)
+https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=0-1&p=f&t=dIa0V1UemHWoieb7-0
 <br><br>
 
 + Iniciar Sesión / Registrarse:
@@ -3332,7 +3309,7 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows previamente hechos y representan los pasos que seguirán nuestros usuarios a través de la aplicación.
 
 
-[Enlace para acceder a Overflow](https://overflow.io/s/QHU9N2IZ)
+https://overflow.io/s/QHU9N2IZ
 
 <br>
 
@@ -3435,7 +3412,7 @@ Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows pre
 El Domain Driven Design (DDD) permite alinear el desarrollo de UniTalent Connect con las necesidades reales del dominio freelance estudiantil. A través del uso de un lenguaje ubicuo y una estructura centrada en el negocio, se mejora la colaboración entre desarrolladores y expertos del dominio. DDD guía el diseño del sistema mediante patrones y diagramas que reflejan fielmente la lógica del dominio. 
 
 Este diagrama de arquitectura fue creado en **Structurizr**.
-[Ver el diagrama en Structurizr](https://structurizr.com/share/101676/c0e4ce4f-36d3-4065-b4e4-ae9dc8c4d388)
+https://structurizr.com/share/101676/c0e4ce4f-36d3-4065-b4e4-ae9dc8c4d388
 
 #### 4.6.1. Software Architecture Context Diagram  
 
@@ -3731,7 +3708,7 @@ Se muestra nuestra landing page en GitHub Pages.
 </p>
 <br>
 
-[Enlace para acceder a la Landing Page](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
+https://unitalents-project-g2.github.io/UniTalents-LandingPage/
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
@@ -4634,7 +4611,7 @@ diferentes secciones donde el usuario podra acceder tanto en ingles como en espa
 
 - US16
 
-<img src="images/sprint2-evidence/Register.png" alt="wireflows" width="1000">
+<img src="images/sprint2-evidence/register.png" alt="wireflows" width="1000">
 
 - US17
 
@@ -4953,3 +4930,7 @@ Comexperu
 ## Anexos  
 
 Video TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+Video TP1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EbQa5oMyhqlGhFWLufOxCUcBRfAW0x9uH6Ojs9s8pKrY0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MCc4XL 
+
