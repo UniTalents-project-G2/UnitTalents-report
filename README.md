@@ -209,7 +209,7 @@
     <td>Redacción del Sprint 2.</td>
   </tr>
   </tr>
-    <tr>
+  <tr>
     <td>2.06</td>
     <td>16/05/25</td>
     <td>
@@ -219,6 +219,51 @@
     Linares, Coca
     </td>
     <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome.</td>
+  </tr>
+  <tr>
+    <td>3.01</td>
+    <td>11/06/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Correciones del Front End y commits por todo el equipo</td>
+  </tr>
+  <tr>
+    <td>3.02</td>
+    <td>15/06/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Mejora continua, mejoramos los gráficos</td>
+  </tr>
+    <tr>
+    <td>3.02</td>
+    <td>21/06/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción del Sprint 3</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>3.02</td>
+    <td>21/06/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome para el TB2</td>
   </tr>
 </table>
 
@@ -326,6 +371,55 @@
   </tr>
 </table>
 
+**TB2**
+---
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      Configuración del módulo shared, Student Outcome, Registro de versiones, Github Collaborations Insights, Implementacion del la Base de Datos y Deploy del backend.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      Feature del módulo de Projects, Sprint Planning, correciones del anterior sprint.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      Feature del módulo de Students, Aspect Leaders and Collaborators, Execution Evidence for Sprint Review y correciones del anterior sprint
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Andres Coca
+    </td>
+    <td>
+      Feature del módulo de Companies, Sprint Backlog 3, Development Evidence for Sprint Review y correciones del anterior sprint
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Cesar Linares
+    </td>
+    <td>
+      Feature del módulo de Postulations y correciones del anterior sprint.
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Contenido
@@ -420,6 +514,20 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
+    - [5.2.3. Sprint 3](#523-sprint-3)  
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)  
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)  
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)  
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)  
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint) 
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
+    - [5.3.1. Registro de Entrevistas](#532-registro-de-entrevistas) 
+    - [5.3.1. Evaluaciones según heurísticas](#533-evaluacion-según-heurísticas) 
+  - [5.4. Video About-the-Product](#54-validation-interviews)
 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)  
 - [Bibliografía](#bibliografía)  
@@ -441,29 +549,45 @@
     </td>
     <td>
       <strong>Javier Gonzales:</strong><br>
-      TB1 - Coordinación general del proyecto, elaboración del Startup Profile, definición de problemáticas, arquitectura de la información, desarrollo del Lean UX process y gestión del diseño de entrevistas.<br><br>
+      TB1 - Coordinación general del proyecto, elaboración del Startup Profile, definición de problemáticas, arquitectura de la información, desarrollo del Lean UX process y gestión del diseño de entrevistas.
+      <br><br>
       TP1 – Coordinación del equipo durante el Sprint 2, liderazgo en la implementación de gestión de postulaciones para gerentes y perfil de empresa. Revisión de user task matrix y tablas de competidores.
       <br><br>
+      TB2 - Coordinación del módulo shared, registro de versiones y monitoreo de colaboraciones en GitHub mediante Insights.
+      <br><br>
       <strong>Erick Palomino:</strong><br>
-      TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.<br><br>
+      TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.
+      <br><br>
       TP1 – Participación activa en reuniones de planificación. Desarrollo de búsqueda de oportunidades y postulaciones.
       <br><br>
+      TB2 - Participación activa en la planificación del sprint y desarrollo de nuevas funcionalidades del módulo Projects.
+      <br><br>
       <strong>Renzo Rivera:</strong><br>
-      TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional<br><br>
+      TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional
+      <br><br>
       TP1 – Encargado del login/register y configuración de perfiles. Participación constante en decisiones técnicas.
       <br><br>
+      TB2 - Apoyo en el liderazgo de subcomponentes del módulo Students, coordinación con colaboradores y corrección de entregables anteriores.<br><br>
       <strong>Andres Coca:</strong><br>
-      TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.<br><br>
+      TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.
+      <br><br>
       TP1 – Desarrollo de creación, edición y eliminación de proyectos. Aportó en revisión de sprint backlog 1.
       <br><br>
+      TB2 - Participación en el Sprint Backlog 3, gestión de evidencia de desarrollo y solución de observaciones anteriores.
+      <br><br>
       <strong>Cesar Linares</strong><br>
-      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams<br><br>
+      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams
+      <br><br>
       TP1 – Desarrollo del perfil del estudiante y corrección del product backlog.
+      <br><br>
+      TB2 - Coordinación en la revisión del módulo Postulations y mejoras con base en retroalimentación.
     </td>
     <td>
       TB1 - El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
       <br><br>
       TP1 - El grupo ha demostrado un liderazgo compartido durante la planificación y ejecución del Sprint 2, asignando roles según fortalezas técnicas. Se lograron avances significativos en las funcionalidades principales gracias a la coordinación continua y compromiso de cada integrante. Las decisiones se tomaron en conjunto, fortaleciendo el sentido de equipo.
+      <br><br>
+      TB2 - El grupo mostró una sólida capacidad de liderazgo compartido, gestionando eficientemente las responsabilidades de cada módulo. Se evidenció una comunicación activa para resolver pendientes del sprint anterior y mantener el avance planificado.
     </td>
   </tr>
   <tr>
@@ -475,26 +599,40 @@
       TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.<br><br>
       TP1 – Coordinación del equipo en Discord, definición de metas de sprint, liderazgo en tareas críticas y soporte técnico.
       <br><br>
+      TB2 - Apoyo en la planificación del sprint, seguimiento de tareas e integración de la base de datos con los demás módulos.
+      <br><br>
       <strong>Erick Palomino:</strong><br>
-      TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.<br><br>
+      TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.
+      <br><br>
       TP1 – Apoyo continuo al equipo, cumplimiento de tareas asignadas en tiempo y forma, proactividad para levantar issues y dar seguimiento.
+      <br><br>
+      TB2 - Colaboración efectiva en la ejecución del módulo Projects, trabajando en conjunto con el equipo para cumplir los objetivos.
       <br><br>
       <strong>Renzo Rivera:</strong><br>
       TB1 – Colaboración en planificación funcional de interfaz, distribución de tareas de prototipado y verificación del cumplimiento de tiempos.<br><br>
       TP1 – Gestión de interfaz de autenticación, organización de estructuras de carpetas y soporte en configuración de perfiles.
       <br><br>
+      TB2 - Cumplimiento de tareas asignadas, contribución en el desarrollo y validación del módulo Students.
+      <br><br>
       <strong>Andres Coca:</strong><br>
-      TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.<br><br>
+      TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.
+      <br><br>
       TP1 – Organización de los módulos de proyectos, planificación de tareas en GitHub y revisión del backlog anterior.
+      <br><br>
+      TB2 - Participación activa en la planificación técnica del sprint, gestión de entregables y soporte a compañeros.
       <br><br>
       <strong>Cesar Linares:</strong><br>
       TB1 – Apoyo en la definición de objetivos y metas del producto, priorización de funcionalidades clave y control del avance del backlog.<br><br>
       TP1 – Coordinación del trabajo en perfil del estudiante, seguimiento del progreso del equipo y apoyo en ajustes del product backlog.
+      <br><br>
+      TB2 - Colaboración con el equipo para cerrar observaciones y asegurar el cumplimiento de funcionalidades en Postulations.
     </td>
     <td>
       TB1 - El grupo logró establecer un entorno colaborativo donde se respetaron los roles, tiempos y responsabilidades de cada integrante. Se definieron metas alcanzables, se mantuvo una comunicación efectiva y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y solidario.
       <br><br>
       TP1 - El equipo logró establecer un entorno colaborativo eficaz, distribuyendo tareas de manera equitativa y planificada. El uso de herramientas como Discord, Trello y GitHub permitió cumplir con los objetivos del sprint. El compromiso de cada miembro garantizó avances sostenibles y alineados con las metas del proyecto.
+      <br><br>
+      TB2 - Durante el TB2, el equipo demostró un entorno de trabajo inclusivo y cooperativo. Se cumplieron las metas propuestas gracias a una planificación estructurada y a la corresponsabilidad en el cumplimiento de tareas por parte de todos los integrantes.
     </td>
   </tr>
 </table>
@@ -4856,9 +4994,39 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 </p>
 <br>
 
+---
 
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+##### 5.2.3.3. Sprint Backlog 3
+
+##### 5.2.3.4. Development Evidence for Sprint Review 
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ---
+
+### 5.3 Validation Interviews
+
+#### 5.3.1 Diseño de Entrevistas
+
+#### 5.3.2 Registro de Entrevistas
+
+#### 5.3.3 Evaluaciones según heurísticas
+
+### 5.4 Video About-the-Product
+
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones  
