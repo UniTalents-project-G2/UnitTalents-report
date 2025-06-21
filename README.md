@@ -1313,7 +1313,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 #### 2.2.2. Registro de entrevistas  <br><br>
 
-*Entrevistas a segmento 1*
+*Entrevistas a Estudiantes*
 ---
 <table align="center">
   <tr>
@@ -1438,7 +1438,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 <br><br>
 
-*Entrevistas a segmento 2*
+*Entrevistas a Managers*
 ---
 
 <table align="center">
@@ -5000,19 +5000,244 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 
 ##### 5.2.3.1. Sprint Planning 3
 
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 09 - 06</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>6:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Javier Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Erik Palomino, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Review Summary</strong></td>
+    <td>	Durante el Sprint 2 se completó los apartados del frontend de la aplicación web, los cuales fueron los dos dashboards de nuestros dos segmentos, estudiantes universitarios y managers de empresas, tales como ver oportunidades, portafolio, mis postulaciones para estudiantes y para manager, mis proyectos, postulaciones y mi empresa</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Retorspective Summary</strong></td>
+    <td>El equipo resaltó una buena coordinación, cumplimiento de tareas planificadas y propuso como mejora la distribución más equilibrada de tareas técnicas entre los miembros.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Goal</strong></td>
+    <td>	Desarrollar el backend funcional para todas las funcionalidades vistas en el frontend.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Velocity</strong></td>
+    <td>11111</td>
+  </tr>
+</table>
+<br>
+
 ##### 5.2.3.2. Aspect Leaders and Collaborators
+
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
 
 ##### 5.2.3.3. Sprint Backlog 3
 
+Durante el tercer sprint backlog, el equipo tuvo la tarea de realizar y completar el backedn de la aplicación. La herramienta empleada para la organización y gestión a los miembros del equipo fue Trello. Ya que esta herramienta permitió que se pueda dividir todas las user stories
+en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades.
+
+<img src="#" alt="trello3" width="1000">
+
+link al trello:
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 3</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US15</td>
+            <td>Registrarse como usuario</td>
+            <td>T01</td>
+            <td>Formulario de registro</td>
+            <td>Como usuario nuevo, quiero crear una cuenta, para utilizar la aplicación.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
 ##### 5.2.3.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>main</td>
+    <td>38b3314</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>09/05/25</td>
+  </tr>
+</table>
+
+<br>
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+
+<h3>📌 Endpoints implementados</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint URL (local)</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+      <th>Descripción breve</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/opportunities</td>
+      <td>Oportunidades</td>
+      <td><code>GET</code></td>
+      <td>/opportunities</td>
+      <td>—</td>
+      <td><code>[ { id, title, ... } ]</code></td>
+      <td>Lista todas las oportunidades</td>
+    </tr>
+  </tbody>
+</table>
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>a</td>
+  </tr>
+</table>
+<br><br>
 
 ---
 
@@ -5020,9 +5245,446 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 
 #### 5.3.1 Diseño de Entrevistas
 
+*Entrevistas a Estudiantes*
+---
+
+1. ¿La pantalla principal (dashboard) te ayudó a encontrar rápidamente las oportunidades o secciones que te interesaban?
+
+2. ¿Qué te pareció el proceso de revisar proyectos disponibles? ¿La información que se muestra es suficiente para decidir postular?
+
+3. ¿Que te pareció la forma en la que se postula a un proyecto? 
+
+4. ¿La sección de postulaciones te permitió entender claramente en qué estado está cada postulación tuya?
+
+5. ¿Te pareció útil contar con una sección de portafolio donde se guarden los proyectos completados?
+
+6. ¿Qué parte de la app te pareció más útil como estudiante que busca ganar experiencia? ¿Por qué?
+
+7. ¿Qué opinas del estilo visual y la presentación general?
+
+*Entrevistas a Managers*
+---
+
+1.
+3.
+4.
+5.
+6.
+7.
+7.
+
 #### 5.3.2 Registro de Entrevistas
 
+*Entrevistas a Estudiantes*
+---
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Estafano Solis</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Pueblo Libre</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      a
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="#" alt="entrevista1" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alvaro Abanto</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      a
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="#" alt="entrevista2" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Ian Curo</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      a
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="#" alt="entrevista3" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+*Entrevistas a Managers*
+---
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Javier Sandoval</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      a  
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="#" alt="entrevistado" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistada</strong></td>
+    <td>Jackeline Garcia</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      a
+    </td>
+  </tr>
+   <tr>
+    <td colspan="2"><br>
+      <img src="#" alt="entrevistada" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Luis Enrique Ayala</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>33</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      a
+    </td>
+  </tr>
+   <tr>
+    <td colspan="2"><br>
+      <img src="#" alt="entrevista" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
 #### 5.3.3 Evaluaciones según heurísticas
+
+**SITE o APP A EVALUAR:**
+
+UniTalent Connect
+
+**TAREAS A EVALUAR**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. 
+2.
+3.
+4. 
+5.
+6.
+7.
+8.
+
+No están incluidas en esta version de la evaluación las siguientes tareas:
+
+1.
+2.
+3.
+4.
+5.
+
+**ESCALA DE SEVERIDAD**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Nivel</b></td>
+      <td><b>Descripción</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+    </tr>
+    <tr>
+      <td>3 </td>
+      <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>   
+  </tbody>
+</table>
+
+**TABLA RESUMEN**
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>#</b></td>
+      <td><b>Problema</b></td>
+      <td><b>Escala de severidad</b></td>
+      <td><b>Heurística/Principio violada(o)</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>  
+  </tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+Problema #1: a
+
+Severidad: 3 - a
+
+Problema: a
+
+<img src="#" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: a
+
+---
+
+Problema #2: a
+
+Severidad: 3 - a
+
+Problema: a
+
+<img src="#" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: a
+
+---
+
+Problema #3: a
+
+Severidad: 3 - a
+
+Problema: a
+
+<img src="#" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: a
+
+---
+
+Problema #4: a
+
+Severidad: 3 - a
+
+Problema: a
+
+<img src="#" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: a
+
+---
+
 
 ### 5.4 Video About-the-Product
 
