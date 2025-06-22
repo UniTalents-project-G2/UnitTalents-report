@@ -5465,12 +5465,12 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 <br>
 <p align="center">
-  <img src="/images/evidence-spr3/us10-1.png" alt="deployment-evidence-confirmation" width="1000">
+  <img src="images/evidence-spr3/us10-1.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br>
 
 <p align="center">
-  <img src="/images/evidence-spr3/us10-2.png" alt="deployment-evidence-confirmation" width="1000">
+  <img src="images/evidence-spr3/us10-2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br><br>
 
@@ -5478,7 +5478,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 <br>
 <p align="center">
-  <img src="/images/evidence-spr3/us12.png" alt="deployment-evidence-confirmation" width="1000">
+  <img src="images/evidence-spr3/us12.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br><br>
 
@@ -5486,7 +5486,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 <br>
 <p align="center">
-  <img src="/images/evidence-spr3/us14.png" alt="deployment-evidence-confirmation" width="1000">
+  <img src="images/evidence-spr3/us14.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br><br>
 
@@ -5494,7 +5494,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 <br>
 <p align="center">
-  <img src="/images/evidence-spr3/us28.png" alt="deployment-evidence-confirmation" width="1000">
+  <img src="images/evidence-spr3/us28.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br><br>
 
@@ -5502,7 +5502,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 <br>
 <p align="center">
-  <img src="/images/evidence-spr3/us29.png" alt="deployment-evidence-confirmation" width="1000">
+  <img src="images/evidence-spr3/us29.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br><br>
 
@@ -5510,7 +5510,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 <br>
 <p align="center">
-  <img src="/images/evidence-spr3/us30.png" alt="deployment-evidence-confirmation" width="1000">
+  <img src="images/evidence-spr3/us30.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br><br>
 
@@ -5518,7 +5518,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 <br>
 <p align="center">
-  <img src="" alt="deployment-evidence-confirmation" width="1000">
+  <img src="images/evidence-spr3/ts02.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br><br>
 
@@ -5526,7 +5526,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 <br>
 <p align="center">
-  <img src="" alt="deployment-evidence-confirmation" width="1000">
+  <img src="images/evidence-spr3/ts03.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br><br>
 
@@ -5543,21 +5543,38 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
       <th>Acción / Sintaxis</th>
       <th>Parámetros</th>
       <th>Ejemplo de Response</th>
-      <th>Descripción breve</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>/opportunities</td>
-      <td>Oportunidades</td>
-      <td><code>GET</code></td>
-      <td>/opportunities</td>
-      <td>—</td>
-      <td><code>[ { id, title, ... } ]</code></td>
-      <td>Lista todas las oportunidades</td>
-    </tr>
+    <tr><td>/api/v1/companies</td><td>Companies</td><td>GET</td><td>Obtener listado de compañías</td><td>Ninguno</td><td>[ { "id": 1, "companyName": "Example Co." }, ... ]</td></tr>
+    <tr><td>/api/v1/companies</td><td>Companies</td><td>POST</td><td>Crear una nueva compañía</td><td>Body: companyName, sector, etc.</td><td>{ "id": 1, "companyName": "Example Co." }</td></tr>
+    <tr><td>/api/v1/companies/{id}</td><td>Companies</td><td>GET</td><td>Obtener compañía por ID</td><td>id</td><td>{ "id": 1, "companyName": "Example Co." }</td></tr>
+    <tr><td>/api/v1/companies/{id}</td><td>Companies</td><td>PUT</td><td>Actualizar compañía</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "companyName": "Updated Co." }</td></tr>
+    <tr><td>/api/v1/companies/{id}</td><td>Companies</td><td>DELETE</td><td>Eliminar compañía</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/v1/companies/user/{userId}</td><td>Companies</td><td>GET</td><td>Obtener compañía por userId</td><td>userId</td><td>{ "id": 1, "companyName": "Example Co." }</td></tr>
+    <tr><td>/api/postulations</td><td>Postulations</td><td>GET</td><td>Obtener listado de postulaciones</td><td>Ninguno</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/postulations</td><td>Postulations</td><td>POST</td><td>Crear una nueva postulación</td><td>Body: studentId, projectId, status</td><td>{ "id": 1, "studentId": 2 }</td></tr>
+    <tr><td>/api/postulations/{id}</td><td>Postulations</td><td>GET</td><td>Obtener postulación por ID</td><td>id</td><td>{ "id": 1, "studentId": 2 }</td></tr>
+    <tr><td>/api/postulations/{id}</td><td>Postulations</td><td>PUT</td><td>Actualizar postulación</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "status": "accepted" }</td></tr>
+    <tr><td>/api/postulations/{id}</td><td>Postulations</td><td>DELETE</td><td>Eliminar postulación</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/postulations/student/{studentId}</td><td>Postulations</td><td>GET</td><td>Obtener postulaciones por estudiante</td><td>studentId</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/postulations/project/{projectId}</td><td>Postulations</td><td>GET</td><td>Obtener postulaciones por proyecto</td><td>projectId</td><td>[ { "id": 1, "projectId": 3 }, ... ]</td></tr>
+    <tr><td>/api/projects</td><td>Projects</td><td>GET</td><td>Obtener listado de proyectos</td><td>Ninguno</td><td>[ { "id": 1, "name": "Project A" }, ... ]</td></tr>
+    <tr><td>/api/projects</td><td>Projects</td><td>POST</td><td>Crear un nuevo proyecto</td><td>Body: name, description, etc.</td><td>{ "id": 1, "name": "Project A" }</td></tr>
+    <tr><td>/api/projects/{id}</td><td>Projects</td><td>GET</td><td>Obtener proyecto por ID</td><td>id</td><td>{ "id": 1, "name": "Project A" }</td></tr>
+    <tr><td>/api/projects/{id}</td><td>Projects</td><td>PUT</td><td>Actualizar proyecto</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "name": "Updated Project" }</td></tr>
+    <tr><td>/api/projects/{id}</td><td>Projects</td><td>DELETE</td><td>Eliminar proyecto</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/projects/company/{companyId}</td><td>Projects</td><td>GET</td><td>Obtener proyectos por companyId</td><td>companyId</td><td>[ { "id": 1, "companyId": 1 }, ... ]</td></tr>
+    <tr><td>/api/v1/students</td><td>Students</td><td>GET</td><td>Obtener listado de estudiantes</td><td>Ninguno</td><td>[ { "id": 1, "name": "Student A" }, ... ]</td></tr>
+    <tr><td>/api/v1/students</td><td>Students</td><td>POST</td><td>Crear un nuevo estudiante</td><td>Body: name, field, etc.</td><td>{ "id": 1, "name": "Student A" }</td></tr>
+    <tr><td>/api/v1/students/{id}</td><td>Students</td><td>GET</td><td>Obtener estudiante por ID</td><td>id</td><td>{ "id": 1, "name": "Student A" }</td></tr>
+    <tr><td>/api/v1/students/{id}</td><td>Students</td><td>PUT</td><td>Actualizar estudiante</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "name": "Updated Student" }</td></tr>
+    <tr><td>/api/v1/students/{id}</td><td>Students</td><td>DELETE</td><td>Eliminar estudiante</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/v1/students/by-user/{userId}</td><td>Students</td><td>GET</td><td>Obtener estudiante por userId</td><td>userId</td><td>{ "id": 1, "userId": 2 }</td></tr>
+    <tr><td>/api/v1/students/search</td><td>Students</td><td>GET</td><td>Buscar estudiantes (filtros)</td><td>query params: field, rating, etc.</td><td>[ { "id": 1, "field": "IT" }, ... ]</td></tr>
   </tbody>
 </table>
+
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -5613,7 +5630,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <br>
 
 <p align="center">
-  <img src="images/ins-spr3/in4.png" alt="deployment-evidence-confirmation" width="400">
+  <img src="images/ins-spr3/in2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br><br>
 
@@ -5621,17 +5638,17 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 ---
 
 <p align="center">
-  <img src="images/ins-spr3/infr1.png" alt="deployment-evidence-confirmation" width="400">
+  <img src="images/ins-spr3/infr1.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br>
 
 <p align="center">
-  <img src="images/ins-spr3/infr2.png" alt="deployment-evidence-confirmation" width="400">
+  <img src="images/ins-spr3/infr2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br>
 
 <p align="center">
-  <img src="images/ins-spr3/infr3.png" alt="deployment-evidence-confirmation" width="400">
+  <img src="images/ins-spr3/infr3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 <br>
 
@@ -5742,7 +5759,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="/images/abanto-interview.jpg" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+      <a href="" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
     </td>
   </tr>
   <tr>
@@ -5753,7 +5770,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
   </tr>
   <tr>
     <td colspan="2"><br>
-      <img src="#" alt="entrevista2" width="1000"><br>
+      <img src="images/abanto-interview.jpg" alt="entrevista2" width="1000"><br>
     </td>
   </tr>
 </table>
@@ -5786,7 +5803,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="/images/validation-interview-sandoval.png" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+      <a href="" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
     </td>
   </tr>
   <tr>
@@ -5797,7 +5814,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
   </tr>
   <tr>
     <td colspan="2"><br>
-      <img src="#" alt="entrevistado" width="1000"><br>
+      <img src="images/validation-interview-sandoval.png" alt="entrevistado" width="1000"><br>
     </td>
   </tr>
 </table>
