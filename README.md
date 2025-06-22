@@ -318,6 +318,23 @@
 </p>
 <br>
 
+*TB2*
+---
+<p align="center">
+  <img src="images/evidence-spr3/repIns1.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr3/repIns2.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr3/repIns3.png" alt="insights" width="1000">
+</p>
+<br>
+
 
 
 **TB1**
@@ -7042,7 +7059,7 @@ Recomendación: Incorporar una vista de comparación entre proyectos, con criter
 
 ---
 
-Problema #3: Las notificaciones automáticas son útiles solo para posiciones junior.
+Problema #3: Las notificaciones automáticas son útiles solo para posiciones senior.
 
 Severidad: 1
 
@@ -7244,9 +7261,29 @@ Comexperu
 
 ## Anexos  
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB1</a>
 
+<a href="https://github.com/UniTalents-project-G2/UniTalents-LandingPage" target="_blank">Repositorio LandingPage</a>
+<br>
+
+<a href="https://github.com/UniTalents-project-G2/unitalents-connect-front-end" target="_blank">Repositorio FrontEnd</a>
+<br>
+
+<a href="https://github.com/UniTalents-project-G2/unitalents-backend" target="_blank">Repositorio BackEnd</a>
+<br>
+
+<a href="https://unitalents-project-g2.github.io/UniTalents-LandingPage/" target="_blank">Deploy LandingPage</a>
+<br>
+
+<a href="https://purple-beach-0c0218c10.2.azurestaticapps.net" target="_blank">Deploy FrontEnd</a>
+<br>
+
+<a href="unitalents-backend-app-hrd8bzadb4ezdebk.centralus-01.azurewebsites.net/swagger" target="_blank">Deploy BackEnd</a>
+<br>
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB1</a>
+<br>
 
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EbQa5oMyhqlGhFWLufOxCUcBRfAW0x9uH6Ojs9s8pKrY0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MCc4XL" target="_blank">Video TP1</a>
+<br>
 
 fin
