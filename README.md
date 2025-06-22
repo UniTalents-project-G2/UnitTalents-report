@@ -5347,7 +5347,7 @@ link al trello:
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen: <br>
-      a
+      Nuestro entrevistado Alvaro Abanto utilizó la aplicación usando el dashboard de estudiantes, él opina que la manera en como se postula a los proyectos le parece fácil e intuitiva, tambien le agrada que cuente con un portafolio donde se muestran sus proyectos compeltados, ya que los gerentes podran ver fácilmente su experiencia. Opina que los colores y el diseño en general le parece profesional pero al mismo tiempo amigable.
     </td>
   </tr>
   <tr>
