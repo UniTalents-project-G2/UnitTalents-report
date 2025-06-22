@@ -5578,6 +5578,79 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Durante el presente Sprint se realizó el despliegue del backend del sistema UniTalents mediante un Azure App Service, lo que permitió contar con una API funcional, estable y accesible en un entorno de producción gestionado, garantizando escalabilidad y alta disponibilidad para el servicio. Este despliegue se integró con el repositorio de GitHub del proyecto, permitiendo la publicación automatizada de nuevas versiones a partir de la rama principal (main).
+
+Asimismo, se configuró y desplegó una instancia de Azure Database for MySQL, la cual provee el servicio de base de datos relacional seguro y administrado para la plataforma. La base de datos fue aprovisionada con las credenciales necesarias y los esquemas definidos para el correcto funcionamiento de los módulos implementados, asegurando la persistencia y consistencia de la información.
+
+Ambos despliegues constituyen evidencias fundamentales del avance técnico alcanzado en este Sprint, permitiendo validar la integración entre el frontend, el backend y la base de datos, así como el correcto funcionamiento de los flujos de trabajo de la plataforma en un entorno en la nube.
+
+*Landing Page:*
+---
+
+  + Activación de GitHub Pages en el repositorio
+
+<p align="center">
+  <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación
+
+<p align="center">
+  <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa del dominio temporal generado por GitHub Pages
+
+<p align="center">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+*Front End:*
+---
+
+  + Creación de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev0.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Configuración de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Vista de recursos de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+  + Confirmación de creación de la página desde GitHub
+
+<p align="center">
+  <img src="images/sprint2/ev3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa de la Static WebApp en azure
+
+<p align="center">
+  <img src="images/sprint2/ev4.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+*Back End:*
+---
+
+****
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 <br>
