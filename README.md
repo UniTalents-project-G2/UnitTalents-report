@@ -5224,12 +5224,236 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
     <td><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
     <td>main</td>
-    <td>38b3314</td>
+    <td>3e6e30f</td>
     <td>Initial commit</td>
     <td>Initial commit</td>
-    <td>09/05/25</td>
+    <td>08/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>e1abc01</td>
+    <td>feat: add auth components</td>
+    <td>feat: add auth components</td>
+    <td>08/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>8a27a67</td>
+    <td>feat: add section calls</td>
+    <td>feat: add section calls</td>
+    <td>10/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>96a2dd4</td>
+    <td>feat: calls fixed</td>
+    <td>feat: calls fixed</td>
+    <td>10/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>dc6cb0b</td>
+    <td>feat: added calls section</td>
+    <td>feat: added calls section</td>
+    <td>11/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>fe0309e</td>
+    <td>feat: section my-company</td>
+    <td>feat: section my-company</td>
+    <td>11/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>53e5fe5</td>
+    <td>feat: projects section</td>
+    <td>feat: projects section</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>676195e</td>
+    <td>feat: develop of projects section</td>
+    <td>feat: develop of projects section</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>a1f5665</td>
+    <td>feat: add first part of opportunities section</td>
+    <td>feat: add first part of opportunities section</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>6b076ac</td>
+    <td>feat: delete node_modules</td>
+    <td>feat: delete node_modules</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>db1c8fa</td>
+    <td>fix: fixed db.json</td>
+    <td>fix: fixed db.json</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>7c41e7e</td>
+    <td>feat: remove icon</td>
+    <td>feat: remove icon</td>
+    <td>13/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>16fba32</td>
+    <td>feat: add opportunities details and view company</td>
+    <td>feat: add opportunities details and view company</td>
+    <td>13/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>0c97dc5</td>
+    <td>feat: add student-postulation</td>
+    <td>feat: add student-postulation</td>
+    <td>15/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>cfd347f</td>
+    <td>feat: fixed postulations router</td>
+    <td>feat: fixed postulations router</td>
+    <td>16/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>af4c2b5</td>
+    <td>feat: creación de la interfaz del perfil del usuario</td>
+    <td>feat: creación de la interfaz del perfil del usuario</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>4f1510c</td>
+    <td>fix: añadí la opción de editar los datos del perfil</td>
+    <td>fix: añadí la opción de editar los datos del perfil</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>c413537</td>
+    <td>fix: fix edit manager and student</td>
+    <td>fix: fix edit manager and student</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>b65a114</td>
+    <td>fix: fixed edit profile</td>
+    <td>fix: fixed edit profile</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>53e7c54</td>
+    <td>feat: Student portfolio manager</td>
+    <td>feat: Student portfolio manager</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>596a03f</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>f6807ef</td>
+    <td>feat: module shared</td>
+    <td>feat: module shared</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>99bd8e0</td>
+    <td>feat: add student module</td>
+    <td>feat: add student module</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>c0589a5</td>
+    <td>feat: companies module</td>
+    <td>feat: companies module</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>7858d64</td>
+    <td>feat: add projects bounded context</td>
+    <td>feat: add projects bounded context</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>edc4ebc</td>
+    <td>feat: postulation module</td>
+    <td>feat: postulation module</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>cebfccf</td>
+    <td>fix: modified connections between databases</td>
+    <td>fix: modified connections between databases</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>3f70c4e</td>
+    <td>feat: Add postulations module</td>
+    <td>feat: Add postulations module</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>bbbe47c</td>
+    <td>update</td>
+    <td>update</td>
+    <td>21/06/25</td>
   </tr>
 </table>
 
@@ -5237,9 +5461,77 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
++ US10
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us10-1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr3/us10-2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
++ US12
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us12.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
++ US14
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us14.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
++ US28
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us28.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
++ US29
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us29.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
++ US30
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us30.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
++ TS02
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/ts02.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
++ TS03
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/ts03.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
-
-
 <h3>📌 Endpoints implementados</h3>
 
 <table>
@@ -5251,23 +5543,113 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
       <th>Acción / Sintaxis</th>
       <th>Parámetros</th>
       <th>Ejemplo de Response</th>
-      <th>Descripción breve</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>/opportunities</td>
-      <td>Oportunidades</td>
-      <td><code>GET</code></td>
-      <td>/opportunities</td>
-      <td>—</td>
-      <td><code>[ { id, title, ... } ]</code></td>
-      <td>Lista todas las oportunidades</td>
-    </tr>
+    <tr><td>/api/v1/companies</td><td>Companies</td><td>GET</td><td>Obtener listado de compañías</td><td>Ninguno</td><td>[ { "id": 1, "companyName": "Example Co." }, ... ]</td></tr>
+    <tr><td>/api/v1/companies</td><td>Companies</td><td>POST</td><td>Crear una nueva compañía</td><td>Body: companyName, sector, etc.</td><td>{ "id": 1, "companyName": "Example Co." }</td></tr>
+    <tr><td>/api/v1/companies/{id}</td><td>Companies</td><td>GET</td><td>Obtener compañía por ID</td><td>id</td><td>{ "id": 1, "companyName": "Example Co." }</td></tr>
+    <tr><td>/api/v1/companies/{id}</td><td>Companies</td><td>PUT</td><td>Actualizar compañía</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "companyName": "Updated Co." }</td></tr>
+    <tr><td>/api/v1/companies/{id}</td><td>Companies</td><td>DELETE</td><td>Eliminar compañía</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/v1/companies/user/{userId}</td><td>Companies</td><td>GET</td><td>Obtener compañía por userId</td><td>userId</td><td>{ "id": 1, "companyName": "Example Co." }</td></tr>
+    <tr><td>/api/postulations</td><td>Postulations</td><td>GET</td><td>Obtener listado de postulaciones</td><td>Ninguno</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/postulations</td><td>Postulations</td><td>POST</td><td>Crear una nueva postulación</td><td>Body: studentId, projectId, status</td><td>{ "id": 1, "studentId": 2 }</td></tr>
+    <tr><td>/api/postulations/{id}</td><td>Postulations</td><td>GET</td><td>Obtener postulación por ID</td><td>id</td><td>{ "id": 1, "studentId": 2 }</td></tr>
+    <tr><td>/api/postulations/{id}</td><td>Postulations</td><td>PUT</td><td>Actualizar postulación</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "status": "accepted" }</td></tr>
+    <tr><td>/api/postulations/{id}</td><td>Postulations</td><td>DELETE</td><td>Eliminar postulación</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/postulations/student/{studentId}</td><td>Postulations</td><td>GET</td><td>Obtener postulaciones por estudiante</td><td>studentId</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/postulations/project/{projectId}</td><td>Postulations</td><td>GET</td><td>Obtener postulaciones por proyecto</td><td>projectId</td><td>[ { "id": 1, "projectId": 3 }, ... ]</td></tr>
+    <tr><td>/api/projects</td><td>Projects</td><td>GET</td><td>Obtener listado de proyectos</td><td>Ninguno</td><td>[ { "id": 1, "name": "Project A" }, ... ]</td></tr>
+    <tr><td>/api/projects</td><td>Projects</td><td>POST</td><td>Crear un nuevo proyecto</td><td>Body: name, description, etc.</td><td>{ "id": 1, "name": "Project A" }</td></tr>
+    <tr><td>/api/projects/{id}</td><td>Projects</td><td>GET</td><td>Obtener proyecto por ID</td><td>id</td><td>{ "id": 1, "name": "Project A" }</td></tr>
+    <tr><td>/api/projects/{id}</td><td>Projects</td><td>PUT</td><td>Actualizar proyecto</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "name": "Updated Project" }</td></tr>
+    <tr><td>/api/projects/{id}</td><td>Projects</td><td>DELETE</td><td>Eliminar proyecto</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/projects/company/{companyId}</td><td>Projects</td><td>GET</td><td>Obtener proyectos por companyId</td><td>companyId</td><td>[ { "id": 1, "companyId": 1 }, ... ]</td></tr>
+    <tr><td>/api/v1/students</td><td>Students</td><td>GET</td><td>Obtener listado de estudiantes</td><td>Ninguno</td><td>[ { "id": 1, "name": "Student A" }, ... ]</td></tr>
+    <tr><td>/api/v1/students</td><td>Students</td><td>POST</td><td>Crear un nuevo estudiante</td><td>Body: name, field, etc.</td><td>{ "id": 1, "name": "Student A" }</td></tr>
+    <tr><td>/api/v1/students/{id}</td><td>Students</td><td>GET</td><td>Obtener estudiante por ID</td><td>id</td><td>{ "id": 1, "name": "Student A" }</td></tr>
+    <tr><td>/api/v1/students/{id}</td><td>Students</td><td>PUT</td><td>Actualizar estudiante</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "name": "Updated Student" }</td></tr>
+    <tr><td>/api/v1/students/{id}</td><td>Students</td><td>DELETE</td><td>Eliminar estudiante</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/v1/students/by-user/{userId}</td><td>Students</td><td>GET</td><td>Obtener estudiante por userId</td><td>userId</td><td>{ "id": 1, "userId": 2 }</td></tr>
+    <tr><td>/api/v1/students/search</td><td>Students</td><td>GET</td><td>Buscar estudiantes (filtros)</td><td>query params: field, rating, etc.</td><td>[ { "id": 1, "field": "IT" }, ... ]</td></tr>
   </tbody>
 </table>
 
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante el presente Sprint se realizó el despliegue del backend del sistema UniTalents mediante un Azure App Service, lo que permitió contar con una API funcional, estable y accesible en un entorno de producción gestionado, garantizando escalabilidad y alta disponibilidad para el servicio. Este despliegue se integró con el repositorio de GitHub del proyecto, permitiendo la publicación automatizada de nuevas versiones a partir de la rama principal (main).
+
+Asimismo, se configuró y desplegó una instancia de Azure Database for MySQL, la cual provee el servicio de base de datos relacional seguro y administrado para la plataforma. La base de datos fue aprovisionada con las credenciales necesarias y los esquemas definidos para el correcto funcionamiento de los módulos implementados, asegurando la persistencia y consistencia de la información.
+
+Ambos despliegues constituyen evidencias fundamentales del avance técnico alcanzado en este Sprint, permitiendo validar la integración entre el frontend, el backend y la base de datos, así como el correcto funcionamiento de los flujos de trabajo de la plataforma en un entorno en la nube.
+
+*Landing Page:*
+---
+
+  + Activación de GitHub Pages en el repositorio
+
+<p align="center">
+  <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación
+
+<p align="center">
+  <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa del dominio temporal generado por GitHub Pages
+
+<p align="center">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+*Front End:*
+---
+
+  + Creación de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev0.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Configuración de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Vista de recursos de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+  + Confirmación de creación de la página desde GitHub
+
+<p align="center">
+  <img src="images/sprint2/ev3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización activa de la Static WebApp en azure
+
+<p align="center">
+  <img src="images/sprint2/ev4.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+*Back End:*
+---
+
+****
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -5282,25 +5664,66 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
   <tr>
     <td>Gonzales Alvarado, Javier Sebastian</td>
     <td>WoodsDos</td>
-    <td>a</td>
+    <td>Módulo de Shared y creación del proyecto</td>
   </tr>
   <tr>
     <td>Palomino Fiestas, Erik Leonardo</td>
     <td>ErickLeo13</td>
-    <td>a</td>
+    <td>Módulo de Estudiantes</td>
   </tr>
   <tr>
     <td>Rivera Ratachi, Renzo Sebastian</td>
     <td>renzor11</td>
-    <td>a</td>
+    <td>Módulo de Proyectos</td>
   </tr>
   <tr>
     <td>Coca Lavado, Carlos Andres</td>
     <td>MrAndres08DV</td>
-    <td>a</td>
+    <td>Módulo de Compañias</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>Módulo de Postulaciones</td>
   </tr>
 </table>
 <br><br>
+
+*FrontEnd*
+---
+
+<p align="center">
+  <img src="images/ins-spr3/in1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/ins-spr3/in3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/ins-spr3/in2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br><br>
+
+*BackEnd*
+---
+
+<p align="center">
+  <img src="images/ins-spr3/infr1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/ins-spr3/infr2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/ins-spr3/infr3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+<br>
 
 ---
 
@@ -5409,7 +5832,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+      <a href="" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
     </td>
   </tr>
   <tr>
@@ -5420,48 +5843,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
   </tr>
   <tr>
     <td colspan="2"><br>
-      <img src="#" alt="entrevista2" width="1000"><br>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<table align="center">
-  <tr>
-    <th colspan="2" style="text-align:center">Entrevista 3</th>
-  </tr>
-  <tr>
-    <td><strong>Entrevistado</strong></td>
-    <td>Ian Curo</td>
-  </tr>
-  <tr>
-    <td><strong>Edad</strong></td>
-    <td>19</td>
-  </tr>
-  <tr>
-    <td><strong>Distrito</strong></td>
-    <td>San Miguel</td>
-  </tr>
-  <tr>
-    <td><strong>Timing</strong></td>
-    <td>a</td>
-  </tr>
-  <tr>
-    <td><strong>URL</strong></td>
-    <td>
-      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:justify">
-      Resumen: <br>
-      a
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><br>
-      <img src="#" alt="entrevista3" width="1000"><br>
+      <img src="images/abanto-interview.jpg" alt="entrevista2" width="1000"><br>
     </td>
   </tr>
 </table>
@@ -5494,18 +5876,18 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+      <a href="" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen: <br>
-      a  
+      Javier Sandoval, gerente de una empresa enfocada en el sector informático, participó en la prueba de la aplicación UniTalents. Durante su experiencia, la navegación en general fue fluida y no presentó inconvenientes al crear proyectos, visualizar convocatorias o editar el perfil. Destacó que el proceso para crear proyectos le resultó muy sencillo y valoró positivamente la claridad y simplicidad de la interfaz, la cual consideró profesional y generadora de confianza. Señaló que la función de filtrado de candidatos es útil, pero recomendó que el sistema permita seleccionar múltiples criterios en el ámbito de habilidades y que se añada un campo adicional para indicar la experiencia del candidato (en años o proyectos finalizados dentro de la app). Además, sugirió enriquecer el diseño con más detalles de estilo y en la sección “Mi empresa” incluir un campo para la página web de la compañía, a fin de completar mejor la información empresarial. 
     </td>
   </tr>
   <tr>
     <td colspan="2"><br>
-      <img src="#" alt="entrevistado" width="1000"><br>
+      <img src="images/validation-interview-sandoval.png" alt="entrevistado" width="1000"><br>
     </td>
   </tr>
 </table>
@@ -5644,12 +6026,18 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
       <td>2</td>
       <td>Visibilidad del estado del sistema</td>
     </tr>
-        <tr>
+    <tr>
       <td>5</td>
       <td>Filtros poco flexibles para diferentes niveles de candidatos</td>
       <td>2</td>
       <td>Flexibilidad y eficiencia de uso</td>
     </tr>  
+    <tr>
+      <td>6</td>
+      <td>Falta el campo para la página web en la sección “Mi empresa”</td>
+      <td>2</td>
+      <td>Correspondencia entre el sistema y el mundo real / Visibilidad del estado del sistema.</td>
+    </tr> 
   </tbody>
 </table>
 
@@ -5722,6 +6110,20 @@ Problema: Aunque se puede filtrar por carrera, no es posible filtrar por experie
 <img src="images/HeuristicaProblema5.png" alt="screenshot heuristica 1" width="1000">
 
 Recomendación: Ampliar las opciones de filtrado incluyendo campos como años de experiencia, tecnologías dominadas, idiomas, disponibilidad o tipo de puesto (prácticas, freelance, planta, etc.).
+
+---
+
+Problema #6: Falta el campo para la página web en la sección “Mi empresa”.
+
+Severidad: 2
+
+Principio violado: Correspondencia entre el sistema y el mundo real / Visibilidad del estado del sistema
+
+Problema: La ausencia de un campo para el sitio web de la empresa impide mostrar un dato clave que contribuye a la profesionalidad y credibilidad del perfil empresarial.
+
+<img src="images/ut-heuristica6.png" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: Incluir un campo opcional para la URL del sitio web de la empresa en el perfil corporativo.
 
 ---
 
