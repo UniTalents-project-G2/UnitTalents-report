@@ -4733,7 +4733,8 @@ diferentes secciones donde el usuario podra acceder tanto en ingles como en espa
 
 - US16
 
-<img src="images/sprint2-evidence/Register.png" alt="wireflows" width="1000">
+<img src="images/sprint2-evidence/register.png" alt="wireflows" width="1000">
+
 
 - US17
 
