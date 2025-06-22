@@ -6303,7 +6303,7 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
-<h3>📌 Endpoints implementados</h3>
+<h3>Endpoints implementados</h3>
 
 <table>
   <thead>
@@ -6460,7 +6460,74 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 *Back End:*
 ---
 
-****
+  + Creación de la database en azure usando MySql
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp1.jpg" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Creación de la database en azure usando MySql  - Elaboración propia
+</p>
+<br><br>
+
+  + Configuramos nuestro proyecto con docker
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp2.png" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Configuramos nuestro proyecto con docker - Elaboración propia
+</p>
+<br><br>
+
+ + Compilamos nuestro proyecto con docker
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp3.png" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Compilamos nuestro proyecto con docker  - Elaboración propia
+</p>
+<br><br>
+
+ + Creamos la app service
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp4.png" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Creamos la app service  - Elaboración propia
+</p>
+<br><br>
+
+ + Accedemos al link proporcionado por azure
+
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3//sp5.png" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Accedemos al link proporcionado por azure  - Elaboración propia
+</p>
+<br><br>
+
+ + Deploy del back end
+
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp6.jpg" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Deploy del back end  - Elaboración propia
+</p>
+<br><br>
+
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -7026,22 +7093,41 @@ Duración: 1:57 minutos
 ## Conclusiones
 
 ### Conclusiones y recomendaciones  
-1. Una gran parte de los estudiantes no pueden conectar con el mercado laboral debido a la falta de plataformas adecuadas.
 
-2. Creemos que nuestros clientes valoran la experiencia real y estan dispuestos a aprovechar plataformas para mejorar su perfil laboral.
+*TB1*
+---
 
-3. Esperamos que al menos el 60% de los proyectos publicados en la plataforma se completen exitosamente, de forma que se beneficien ambos segmentos objetivos.
++ Una proporción significativa de los estudiantes no logra conectar con el mercado laboral debido a la ausencia de plataformas que faciliten este vínculo de manera efectiva.
 
-4. Consideraremos que la aplicación fue un exito cuando los estudiantes generen ingresos adicionales sin comprometer horarios académicos y los gerentes puedan acceder a talento joven y asequible. 
++ Detectamos que los potenciales usuarios valoran las experiencias laborales reales y están dispuestos a utilizar una plataforma que les permita fortalecer su perfil profesional y mejorar su empleabilidad.
 
-5. Es fundamental establecer una base sólida de diseño antes de iniciar la programación, siendo clave la elaboración de un diagrama de clases que permita representar visualmente cómo se relacionan las entidades del sistema.
++ El éxito de la aplicación se medirá en función de que los estudiantes logren generar ingresos complementarios sin que se vean afectados sus horarios académicos, y de que los gerentes accedan a talento joven, calificado y con tarifas asequibles.
 
-6. Construir un frontend funcional con datos simulados permite observar cómo opera la aplicación y evaluar su comportamiento antes de integrar datos reales.
++ Se espera que al menos el 60% de los proyectos publicados en la plataforma se completen exitosamente, generando beneficios tangibles tanto para estudiantes como para empleadores.
 
-7. Es recomendable asignar tiempo extra en cada sprint para abordar historias de usuario pendientes o no planificadas, ya que en el segundo sprint el desarrollo se vio afectado por este tipo de contratiempos.
+*TP*
+---
 
-8. El siguiente paso será desarrollar el backend con el fin de contar con una aplicación completamente funcional y completar otras funcionalidades restantes.
++ Es fundamental contar con una base sólida de diseño antes de iniciar la programación, siendo clave la elaboración de un diagrama de clases que permita representar visualmente las entidades y sus relaciones dentro del sistema.
 
++ La construcción de un frontend funcional con datos simulados es una práctica recomendada, ya que permite evaluar el flujo y comportamiento de la aplicación antes de conectar con datos reales.
+
++ Se recomienda asignar tiempo adicional en cada sprint para abordar historias de usuario pendientes o no planificadas, dado que en el segundo sprint el avance se vio limitado por contratiempos de este tipo.
+
++ El siguiente paso prioritario es desarrollar el backend para disponer de una aplicación completa y operativa, así como finalizar las funcionalidades restantes para cerrar el ciclo de desarrollo.
+
+*TB2*
+---
+
++ El desarrollo del backend permitió consolidar la arquitectura de la aplicación, integrando las entidades principales y asegurando una base sólida para el manejo de datos reales.
+
++ La implementación de un modelo de datos consistente, mediante el uso de repositorios y servicios, favoreció la separación de responsabilidades y facilitó el mantenimiento del código.
+
++ El despliegue del backend en un entorno cloud (Azure App Service y MySQL Database) demostró la viabilidad de la solución y su potencial para escalar y operar en un contexto productivo.
+
++ El trabajo en equipo y la coordinación entre los integrantes fue clave para superar los retos técnicos relacionados con la integración de la base de datos y el ajuste de la configuración del entorno.
+
++ Se identificó la necesidad de fortalecer la validación y el control de errores en los endpoints expuestos, para garantizar la integridad de la información y una mejor experiencia de usuario.
 
 
 # Video About the Team
