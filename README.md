@@ -209,7 +209,7 @@
     <td>Redacción del Sprint 2.</td>
   </tr>
   </tr>
-    <tr>
+  <tr>
     <td>2.06</td>
     <td>16/05/25</td>
     <td>
@@ -219,6 +219,51 @@
     Linares, Coca
     </td>
     <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome.</td>
+  </tr>
+  <tr>
+    <td>3.01</td>
+    <td>11/06/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Correciones del Front End y commits por todo el equipo</td>
+  </tr>
+  <tr>
+    <td>3.02</td>
+    <td>15/06/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Mejora continua, mejoramos los gráficos</td>
+  </tr>
+    <tr>
+    <td>3.02</td>
+    <td>21/06/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción del Sprint 3</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>3.02</td>
+    <td>21/06/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome para el TB2</td>
   </tr>
 </table>
 
@@ -374,104 +419,193 @@
   </tr>
 </table>
 
+**TB2**
+---
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      Configuración del módulo shared, Student Outcome, Registro de versiones, Github Collaborations Insights, Implementacion del la Base de Datos y Deploy del backend.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      Feature del módulo de Projects, Sprint Planning, correciones del anterior sprint.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      Feature del módulo de Students, Aspect Leaders and Collaborators, Execution Evidence for Sprint Review y correciones del anterior sprint
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Andres Coca
+    </td>
+    <td>
+      Feature del módulo de Companies, Sprint Backlog 3, Development Evidence for Sprint Review y correciones del anterior sprint
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Cesar Linares
+    </td>
+    <td>
+      Feature del módulo de Postulations y correciones del anterior sprint.
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Contenido
 
-- [Student Outcome](#student-outcome)  
-- [Capítulo I: Introducción](#capítulo-i-introducción)  
-  - [1.1. Startup Profile](#11-startup-profile)  
-    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)  
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)  
-  - [1.2. Solution Profile](#12-solution-profile)  
-    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)  
-    - [1.2.2. Lean UX Process](#122-lean-ux-process)  
-      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)  
-      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)  
-      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)  
-      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)  
-  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)  
-
-- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)  
-  - [2.1. Competidores](#21-competidores)  
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)  
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)  
-  - [2.2. Entrevistas](#22-entrevistas)  
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)  
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)  
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)  
-  - [2.3. Needfinding](#23-needfinding)  
-    - [2.3.1. User Personas](#231-user-personas)  
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)  
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)  
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)  
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)  
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)  
-
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)  
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)  
-  - [3.2. User Stories](#32-user-stories)  
-  - [3.3. Impact Mapping](#33-impact-mapping)  
-  - [3.4. Product Backlog](#34-product-backlog)  
-
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)  
-  - [4.1. Style Guidelines](#41-style-guidelines)  
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)  
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)  
-  - [4.2. Information Architecture](#42-information-architecture)  
-    - [4.2.1. Organization Systems](#421-organization-systems)  
-    - [4.2.2. Labeling Systems](#422-labeling-systems)  
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)  
-    - [4.2.4. Searching Systems](#424-searching-systems)  
-    - [4.2.5. Navigation Systems](#425-navigation-systems)  
-  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)  
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)  
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)  
-  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)  
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)  
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)  
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)  
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)  
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)  
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)  
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)  
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)  
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)  
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)  
-    - [4.7.1. Class Diagrams](#471-class-diagrams)  
-    - [4.7.2. Class Dictionary](#472-class-dictionary)  
-  - [4.8. Database Design](#48-database-design)  
-    - [4.8.1. Database Diagram](#481-database-diagram)  
-
-- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)  
-  - [5.1. Software Configuration Management](#51-software-configuration-management)  
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)  
-    - [5.1.2. Source Code Management](#512-source-code-management)  
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)  
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)  
-  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
-    - [5.2.1. Sprint 1](#521-sprint-1)  
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
-      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)  
-      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)  
-      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)  
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)  
-    - [5.2.2. Sprint 2](#522-sprint-2)  
-      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
-      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)  
-      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)  
-      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)  
-      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
-
-- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)  
-- [Bibliografía](#bibliografía)  
-
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [**TB1**](#tb1)
+- [**TF**](#tf)
+- [**TB2**](#tb2)
+- [Contenido](#contenido)
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+      - [What (Qué)](#what-qué)
+        - [¿Cuál es el problema?](#cuál-es-el-problema)
+      - [When (Cuando)](#when-cuando)
+        - [¿Cuándo sucede el problema?](#cuándo-sucede-el-problema)
+      - [Where (Dónde)](#where-dónde)
+        - [¿Dónde surge el problema?](#dónde-surge-el-problema)
+      - [Who (Quién)](#who-quién)
+        - [¿Quiénes son los afectados?](#quiénes-son-los-afectados)
+      - [Why (Por qué)](#why-por-qué)
+        - [¿Cuál es la causa del problema?](#cuál-es-la-causa-del-problema)
+      - [How (Cómo)](#how-cómo)
+        - [¿Cómo se utilizará el producto?](#cómo-se-utilizará-el-producto)
+      - [How Much (Cuánto)](#how-much-cuánto)
+        - [¿Cuánto costará implementar la solución?](#cuánto-costará-implementar-la-solución)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+        - [Business Assumptions](#business-assumptions)
+        - [User Assumptions](#user-assumptions)
+        - [Feature Assumptions](#feature-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements  ](#1223-lean-ux-hypothesis-statements--)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas  ](#221-diseño-de-entrevistas--)
+- [*Preguntas dirigidas al segmento 1*](#preguntas-dirigidas-al-segmento-1)
+- [*Preguntas dirigidas al segmento 2*](#preguntas-dirigidas-al-segmento-2)
+    - [2.2.2. Registro de entrevistas  ](#222-registro-de-entrevistas--)
+- [*Entrevistas a segmento 1*](#entrevistas-a-segmento-1)
+- [*Entrevistas a segmento 2*](#entrevistas-a-segmento-2)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+- [*Análisis de Entrevistas – Segmento 1 (Estudiantes)*](#análisis-de-entrevistas--segmento-1-estudiantes)
+- [*Análisis de Entrevistas – Segmento 2 (Gerentes / Empresarios)*](#análisis-de-entrevistas--segmento-2-gerentes--empresarios)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping ](#33-impact-mapping-)
+  - [3.4. Product Backlog  ](#34-product-backlog--)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems ](#421-organization-systems-)
+    - [4.2.2. Labeling Systems  ](#422-labeling-systems--)
+    - [4.2.3. SEO Tags and Meta Tags  ](#423-seo-tags-and-meta-tags--)
+    - [4.2.4. Searching Systems ](#424-searching-systems-)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+- [*Landing Page:*](#landing-page)
+- [*Front End:*](#front-end)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.3 Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3 Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+  - [5.4 Video About-the-Product](#54-video-about-the-product)
+- [Conclusiones](#conclusiones)
+  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 ---
 
@@ -489,29 +623,45 @@
     </td>
     <td>
       <strong>Javier Gonzales:</strong><br>
-      TB1 - Coordinación general del proyecto, elaboración del Startup Profile, definición de problemáticas, arquitectura de la información, desarrollo del Lean UX process y gestión del diseño de entrevistas.<br><br>
+      TB1 - Coordinación general del proyecto, elaboración del Startup Profile, definición de problemáticas, arquitectura de la información, desarrollo del Lean UX process y gestión del diseño de entrevistas.
+      <br><br>
       TP1 – Coordinación del equipo durante el Sprint 2, liderazgo en la implementación de gestión de postulaciones para gerentes y perfil de empresa. Revisión de user task matrix y tablas de competidores.
       <br><br>
+      TB2 - Coordinación del módulo shared, registro de versiones y monitoreo de colaboraciones en GitHub mediante Insights.
+      <br><br>
       <strong>Erick Palomino:</strong><br>
-      TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.<br><br>
+      TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.
+      <br><br>
       TP1 – Participación activa en reuniones de planificación. Desarrollo de búsqueda de oportunidades y postulaciones.
       <br><br>
+      TB2 - Participación activa en la planificación del sprint y desarrollo de nuevas funcionalidades del módulo Projects.
+      <br><br>
       <strong>Renzo Rivera:</strong><br>
-      TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional<br><br>
+      TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional
+      <br><br>
       TP1 – Encargado del login/register y configuración de perfiles. Participación constante en decisiones técnicas.
       <br><br>
+      TB2 - Apoyo en el liderazgo de subcomponentes del módulo Students, coordinación con colaboradores y corrección de entregables anteriores.<br><br>
       <strong>Andres Coca:</strong><br>
-      TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.<br><br>
+      TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.
+      <br><br>
       TP1 – Desarrollo de creación, edición y eliminación de proyectos. Aportó en revisión de sprint backlog 1.
       <br><br>
+      TB2 - Participación en el Sprint Backlog 3, gestión de evidencia de desarrollo y solución de observaciones anteriores.
+      <br><br>
       <strong>Cesar Linares</strong><br>
-      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams<br><br>
+      TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams
+      <br><br>
       TP1 – Desarrollo del perfil del estudiante y corrección del product backlog.
+      <br><br>
+      TB2 - Coordinación en la revisión del módulo Postulations y mejoras con base en retroalimentación.
     </td>
     <td>
       TB1 - El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
       <br><br>
       TP1 - El grupo ha demostrado un liderazgo compartido durante la planificación y ejecución del Sprint 2, asignando roles según fortalezas técnicas. Se lograron avances significativos en las funcionalidades principales gracias a la coordinación continua y compromiso de cada integrante. Las decisiones se tomaron en conjunto, fortaleciendo el sentido de equipo.
+      <br><br>
+      TB2 - El grupo mostró una sólida capacidad de liderazgo compartido, gestionando eficientemente las responsabilidades de cada módulo. Se evidenció una comunicación activa para resolver pendientes del sprint anterior y mantener el avance planificado.
     </td>
   </tr>
   <tr>
@@ -523,26 +673,40 @@
       TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.<br><br>
       TP1 – Coordinación del equipo en Discord, definición de metas de sprint, liderazgo en tareas críticas y soporte técnico.
       <br><br>
+      TB2 - Apoyo en la planificación del sprint, seguimiento de tareas e integración de la base de datos con los demás módulos.
+      <br><br>
       <strong>Erick Palomino:</strong><br>
-      TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.<br><br>
+      TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.
+      <br><br>
       TP1 – Apoyo continuo al equipo, cumplimiento de tareas asignadas en tiempo y forma, proactividad para levantar issues y dar seguimiento.
+      <br><br>
+      TB2 - Colaboración efectiva en la ejecución del módulo Projects, trabajando en conjunto con el equipo para cumplir los objetivos.
       <br><br>
       <strong>Renzo Rivera:</strong><br>
       TB1 – Colaboración en planificación funcional de interfaz, distribución de tareas de prototipado y verificación del cumplimiento de tiempos.<br><br>
       TP1 – Gestión de interfaz de autenticación, organización de estructuras de carpetas y soporte en configuración de perfiles.
       <br><br>
+      TB2 - Cumplimiento de tareas asignadas, contribución en el desarrollo y validación del módulo Students.
+      <br><br>
       <strong>Andres Coca:</strong><br>
-      TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.<br><br>
+      TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.
+      <br><br>
       TP1 – Organización de los módulos de proyectos, planificación de tareas en GitHub y revisión del backlog anterior.
+      <br><br>
+      TB2 - Participación activa en la planificación técnica del sprint, gestión de entregables y soporte a compañeros.
       <br><br>
       <strong>Cesar Linares:</strong><br>
       TB1 – Apoyo en la definición de objetivos y metas del producto, priorización de funcionalidades clave y control del avance del backlog.<br><br>
       TP1 – Coordinación del trabajo en perfil del estudiante, seguimiento del progreso del equipo y apoyo en ajustes del product backlog.
+      <br><br>
+      TB2 - Colaboración con el equipo para cerrar observaciones y asegurar el cumplimiento de funcionalidades en Postulations.
     </td>
     <td>
       TB1 - El grupo logró establecer un entorno colaborativo donde se respetaron los roles, tiempos y responsabilidades de cada integrante. Se definieron metas alcanzables, se mantuvo una comunicación efectiva y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y solidario.
       <br><br>
       TP1 - El equipo logró establecer un entorno colaborativo eficaz, distribuyendo tareas de manera equitativa y planificada. El uso de herramientas como Discord, Trello y GitHub permitió cumplir con los objetivos del sprint. El compromiso de cada miembro garantizó avances sostenibles y alineados con las metas del proyecto.
+      <br><br>
+      TB2 - Durante el TB2, el equipo demostró un entorno de trabajo inclusivo y cooperativo. Se cumplieron las metas propuestas gracias a una planificación estructurada y a la corresponsabilidad en el cumplimiento de tareas por parte de todos los integrantes.
     </td>
   </tr>
 </table>
@@ -829,6 +993,10 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
 
 <p align="center">
   <img src="images/LeanUXCanva.png" alt="UPC logo" width="1000">
+</p>
+
+<p align="center">
+  Lean UX Canvas - Elaboración propia
 </p>
 
 
@@ -1223,7 +1391,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 #### 2.2.2. Registro de entrevistas  <br><br>
 
-*Entrevistas a segmento 1*
+*Entrevistas a Estudiantes*
 ---
 <table align="center">
   <tr>
@@ -1348,7 +1516,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
 
 <br><br>
 
-*Entrevistas a segmento 2*
+*Entrevistas a Managers*
 ---
 
 <table align="center">
@@ -1496,11 +1664,17 @@ En esta sección se elaborarán las User Personas, las cuales se construirán a 
 
 ![img userpersona1](https://i.postimg.cc/BQtZ2jKR/Jair-Quijada-2.png)
 
+<p align="center">
+  User Persona Estudiante Universitario - Elaboración propia
+</p>
+
 - #### User Persona Gerente de empresa
 
 ![img userpersona2](https://i.postimg.cc/YqVrRtN0/Alexander-Davila-1.png)
 
-
+<p align="center">
+  User Persona Gerente de empresa - Elaboración propia
+</p>
 
 #### 2.3.2. User Task Matrix  
 
@@ -1642,7 +1816,9 @@ Este Journey Map describe el proceso de busqueda y postulacion de un trabajo de 
 
 ![userjourneymap1](https://i.postimg.cc/FK9Lxsqf/Customer-Journey-Map-Jair-Quijada.png)
 
-
+<p align="center">
+  User Journey Map Jair Quijada - Elaboración propia
+</p>
 
 - #### User Journey Map Alexander Dávila:
 
@@ -1652,7 +1828,9 @@ Este Journey Map describe el proceso de Alexander Dávila en su busqueda de post
 
 ![userjourneymap2](https://i.postimg.cc/fTS47yHB/User-journey-map-2.png)
 
-
+<p align="center">
+  User Journey Map Alexander Dávila - Elaboración propia
+</p>
 
 #### 2.3.4. Empathy Mapping  
 
@@ -1660,10 +1838,21 @@ Este Journey Map describe el proceso de Alexander Dávila en su busqueda de post
   <img src="images/Jair-EmpathyMap.png" alt="EmpathyMap" width="1000">
 </p>
 
+<p align="center">
+  Empathy Mapping  Jair Quijada - Elaboración propia
+</p>
+
+<br>
 
 <p align="center">
   <img src="images/Alexander-EmpathyMap.png" alt="EmpathyMap2" width="1000">
 </p>
+
+<p align="center">
+  Empathy Mapping  Alexander Dávila - Elaboración propia
+</p>
+
+<br>
 
 #### 2.3.5. As-is Scenario Mapping  
 
@@ -1672,8 +1861,20 @@ Este Journey Map describe el proceso de Alexander Dávila en su busqueda de post
 </p>
 
 <p align="center">
+  As-is Scenario Mapping  1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/As-Is Escenario2.png" alt="As-Is Scenario2" width="1000">
 </p>
+
+<p align="center">
+  As-is Scenario Mapping  2 - Elaboración propia
+</p>
+
+<br>
 
 ### 2.4. Ubiquitous Language  
 
@@ -1684,12 +1885,21 @@ El lenguaje a utilizar para este proyecto es:
   <img src="images/Language.png" alt="UbiquitousLanguage1" width="1000">
 </p>
 
+<p align="center">
+   Ubiquitous Language 1 - Elaboración propia
+</p>
+
+<br>
 
 <p align="center">
   <img src="images/Language2.png" alt="UbiquitousLanguage2" width="1000">
 </p>
 
+<p align="center">
+  Ubiquitous Language 2 - Elaboración propia
+</p>
 
+<br>
 
 ---
 
@@ -1701,10 +1911,19 @@ El lenguaje a utilizar para este proyecto es:
   <img src="images/estudiante_to_be.png" alt="estudiante to be" width="80%">
 </p>
 
+<p align="center">
+  To-be Scenario Mapping estudiante - Elaboración propia
+</p>
+
+
 <br>
 
 <p align="center">
   <img src="images/gerente_to_be.png" alt="gerente to be" width="80%">
+</p>
+
+<p align="center">
+  To-be Scenario Mapping gerente - Elaboración propia
 </p>
 
 <br>
@@ -2354,28 +2573,70 @@ El lenguaje a utilizar para este proyecto es:
 </p>
 
 <p align="center">
+  Impact Mapping 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/impactMapping/parte2.png" alt="impact mapping" width="80%">
 </p>
+
+<p align="center">
+  Impact Mapping 2 - Elaboración propia
+</p>
+
+<br>
 
 <p align="center">
   <img src="images/impactMapping/parte3.png" alt="impact mapping" width="80%">
 </p>
 
 <p align="center">
+  Impact Mapping 3 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/impactMapping/parte4.png" alt="impact mapping" width="80%">
 </p>
+
+<p align="center">
+  Impact Mapping 4 - Elaboración propia
+</p>
+
+<br>
 
 <p align="center">
   <img src="images/impactMapping/parte5.png" alt="impact mapping" width="80%">
 </p>
 
 <p align="center">
+  Impact Mapping 5 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/impactMapping/parte6.png" alt="impact mapping" width="80%">
 </p>
 
 <p align="center">
+  Impact Mapping 6 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/impactMapping/parte7.png" alt="impact mapping" width="80%">
 </p>
+
+<p align="center">
+  Impact Mapping 7 - Elaboración propia
+</p>
+
+<br>
 
 ### 3.4. Product Backlog  <br><br>
 
@@ -2634,6 +2895,11 @@ El lenguaje a utilizar para este proyecto es:
   <img src="images/product_backlog.png" alt="product backlog" width="80%">
 </p>
 
+<p align="center">
+  Product Backlog - Elaboración propia
+</p>
+
+<br>
 
 https://trello.com/b/sMeOQ8TS/product-backlog-unittalents 
 
@@ -2659,6 +2925,12 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
   <p align="center">
     <img src="images/LogoUniTalents-Connect.png"/ width=70%>
   </p>
+
+  <p align="center">
+    Logo UniTalent Conncect - Elaboración propia
+  </p>
+
+  <br>
 
 - _Typography:_
     - La tipografía utilizada en el logotipo es una fuente sans-serif geométrica, amigable y legible. Para mantener coherencia, se adoptará un sistema tipográfico similar en toda la aplicación.
@@ -2696,6 +2968,12 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
 <p align="center">
     <img src="images/system-colors.png"/ width=70%>
 </p>
+
+<p align="center">
+    System Colors UniTalent Connect - Elaboración propia
+</p>
+
+<br>
 
 - _Spacing:_
     - La coherencia en el espaciado es clave para una interfaz limpia y clara.
@@ -2828,6 +3106,11 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 <p align="center">
   <img src="images/labelingSystem.jpg" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Labeling System - Elaboración propia
+</p>
+
 
 <br><br>
 
@@ -2986,21 +3269,41 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 <p align="center">
   <img src="images/landingPage/wfLP1.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframes 1 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/wfLP2.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframes 2 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/wfLP3.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframes 3 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/wfLP4.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframes 4 - Elaboración propia
+</p>
+
 <br><br>
 
 #### 4.3.2. Landing Page Mock-up  
@@ -3008,21 +3311,41 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 <p align="center">
   <img src="images/landingPage/lp1.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Mock-up 1 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/lp2.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Mock-up 2 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/lp3.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Mock-up 3 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/lp4.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Mock-up 4 - Elaboración propia
+</p>
+
 <br><br>
 
 ### 4.4. Web Applications UX/UI Design
@@ -3041,16 +3364,31 @@ Permite a nuevos usuarios crear una cuenta como estudiante o gerente, y a usuari
 <p align="center">
   <img src="images/wireframes/Sign In.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Sing In - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/wireframes/Manager Register.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Manager Register - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/wireframes/Student Register.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student Register - Elaboración propia
+</p>
+
 <br><br>
 
 + Dashboard del Estudiante:
@@ -3060,6 +3398,11 @@ Muestra un resumen del estado de las postulaciones, proyectos sugeridos, y acces
 <p align="center">
   <img src="images/wireframes/Estudiante 01 -Homepage.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student Homepage - Elaboración propia
+</p>
+
 <br><br>
 
 + Agregar Proyecto al Portafolio:
@@ -3069,6 +3412,11 @@ Formulario para registrar un nuevo proyecto, con campos como título, descripci�
 <p align="center">
   <img src="images/wireframes/Estudiante 07 - Portafolio - Add project.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student Add project - Elaboración propia
+</p>
+
 <br><br>
 
 + Vista del Portafolio del Estudiante:
@@ -3078,6 +3426,11 @@ Muestra todos los proyectos subidos con opción de editar o eliminar.
 <p align="center">
   <img src="images/wireframes/Estudiante 06 - Portafolio.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student portafolio - Elaboración propia
+</p>
+
 <br><br>
 
 + Mis Postulaciones:
@@ -3087,6 +3440,11 @@ Muestra el estado actual de todas las postulaciones enviadas (en revisión, acep
 <p align="center">
   <img src="images/wireframes/Estudiante 15 - Mis Postulaciones.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student Mis postulaciones - Elaboración propia
+</p>
+
 <br><br>
 
 + Dashboard del Gerente:
@@ -3096,6 +3454,11 @@ Muestra resumen de proyectos activos, buscar talento, mis evaluaciones y mi empr
 <p align="center">
   <img src="images/wireframes/Gerente 01 - Homepage.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Gerente Homepage - Elaboración propia
+</p>
+
 <br><br>
 
 + Vista del Proyecto:
@@ -3105,6 +3468,11 @@ Presenta los detalles del proyecto ya concluido, historial del proceso, entregab
 <p align="center">
   <img src="images/wireframes/Gerente 03 - ver info proyecto.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Gerente Ver información proyecto - Elaboración propia
+</p>
+
 <br><br>
 
 + Buscar Talento:
@@ -3114,6 +3482,11 @@ Permite buscar estudiantes por filtros, acceder a perfiles, portafolios y evalua
 <p align="center">
   <img src="images/wireframes/Gerente 08 - Buscar Talento.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Gerente Buscar Talento - Elaboración propia
+</p>
+
 <br><br>
 
 + Evaluaciones:
@@ -3123,6 +3496,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/wireframes/Gerente 15 - Evaluaciones.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Gerente Evaluaciones - Elaboración propia
+</p>
+
 <br><br>
 
 
@@ -3145,6 +3523,11 @@ https://overflow.io/s/TQAWUZY8
 <p align="center">
   <img src="images/wireflows/wf1.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Login y Register - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 2: Postular a un proyecto**
@@ -3158,6 +3541,11 @@ https://overflow.io/s/TQAWUZY8
 <p align="center">
   <img src="images/wireflows/wf2.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Postular a un proyecto - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 3: Gestionar portafolio**
@@ -3171,6 +3559,11 @@ https://overflow.io/s/TQAWUZY8
 <p align="center">
   <img src="images/wireflows/wf3.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Gestionar portafolio - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 4: Calificar empresa**
@@ -3184,6 +3577,11 @@ https://overflow.io/s/TQAWUZY8
 <p align="center">
   <img src="images/wireflows/wf4.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Calificar empresa - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 5: Crear proyecto**
@@ -3197,6 +3595,11 @@ https://overflow.io/s/TQAWUZY8
 <p align="center">
   <img src="images/wireflows/wf5.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Crear Proyecto - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 6: Calificar postulante**
@@ -3210,6 +3613,11 @@ https://overflow.io/s/TQAWUZY8
 <p align="center">
   <img src="images/wireflows/wf6.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Calificar Postulante - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 7: Contratar estudiante**
@@ -3223,6 +3631,11 @@ https://overflow.io/s/TQAWUZY8
 <p align="center">
   <img src="images/wireflows/wf7.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Contratar estudiante - Elaboración propia
+</p>
+
 <br><br>
 
 #### 4.4.3. Web Applications Mock-ups  
@@ -3239,16 +3652,31 @@ Permite a nuevos usuarios crear una cuenta como estudiante o gerente, y a usuari
 <p align="center">
   <img src="images/mockups/Sign In.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Login - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/mockups/Manager Register.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Register Manager - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/mockups/Student Register.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Register Student - Elaboración propia
+</p>
+
 <br><br>
 
 + Dashboard del Estudiante:
@@ -3258,6 +3686,11 @@ Muestra un resumen del estado de las postulaciones, proyectos sugeridos, y acces
 <p align="center">
   <img src="images/mockups/HomePage(Estudiante).png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Homepage Estudiante - Elaboración propia
+</p>
+
 <br><br>
 
 + Agregar Proyecto al Portafolio:
@@ -3267,6 +3700,11 @@ Formulario para registrar un nuevo proyecto, con campos como título, descripci�
 <p align="center">
   <img src="images/mockups/Estudiante - Portafolio - Add project.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Agregar Proyecto al Portafolio - Elaboración propia
+</p>
+
 <br><br>
 
 + Vista del Portafolio del Estudiante:
@@ -3276,6 +3714,11 @@ Muestra todos los proyectos subidos con opción de editar o eliminar.
 <p align="center">
   <img src="images/mockups/Estudiante - Portafolio.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Vista del Portafolio - Elaboración propia
+</p>
+
 <br><br>
 
 + Mis Postulaciones:
@@ -3285,6 +3728,11 @@ Muestra el estado actual de todas las postulaciones enviadas (en revisión, acep
 <p align="center">
   <img src="images/mockups/Estudiante - Mis Postulaciones.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Mis Postulaciones - Elaboración propia
+</p>
+
 <br><br>
 
 + Dashboard del Gerente:
@@ -3294,6 +3742,11 @@ Muestra resumen de proyectos activos, buscar talento, mis evaluaciones y mi empr
 <p align="center">
   <img src="images/mockups/HomePage(Gerente).png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Dashboard Gerente - Elaboración propia
+</p>
+
 <br><br>
 
 + Vista del Proyecto:
@@ -3303,6 +3756,11 @@ Presenta los detalles del proyecto ya concluido, historial del proceso, entregab
 <p align="center">
   <img src="images/mockups/View Project Info.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Vista de Proyecto - Elaboración propia
+</p>
+
 <br><br>
 
 + Buscar Talento:
@@ -3312,6 +3770,11 @@ Permite buscar estudiantes por filtros, acceder a perfiles, portafolios y evalua
 <p align="center">
   <img src="images/mockups/Gerente - Buscar Talento.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Buscar Talento - Elaboración propia
+</p>
+
 <br><br>
 
 + Evaluaciones:
@@ -3321,6 +3784,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/mockups/Gerente - Evaluaciones.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Evaluaciones - Elaboración propia
+</p>
+
 <br><br>
 
 
@@ -3344,6 +3812,11 @@ https://overflow.io/s/QHU9N2IZ
 <p align="center">
   <img src="images/userflows/login.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Login- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 2: Postular a un proyecto**
@@ -3357,6 +3830,11 @@ https://overflow.io/s/QHU9N2IZ
 <p align="center">
   <img src="images/userflows/postular.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Postular Proyecto- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 3: Gestionar portafolio**
@@ -3370,6 +3848,11 @@ https://overflow.io/s/QHU9N2IZ
 <p align="center">
   <img src="images/userflows/gestionarportafolio.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Gestionar Portafolio- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 4: Calificar empresa**
@@ -3383,6 +3866,11 @@ https://overflow.io/s/QHU9N2IZ
 <p align="center">
   <img src="images/userflows/calificar empresa.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Calificar empresa- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 5: Crear proyecto**
@@ -3396,6 +3884,11 @@ https://overflow.io/s/QHU9N2IZ
 <p align="center">
   <img src="images/userflows/crearproyecto.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Crear Proyecto- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 6: Calificar postulante**
@@ -3409,6 +3902,11 @@ https://overflow.io/s/QHU9N2IZ
 <p align="center">
   <img src="images/userflows/calificarestudainte.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Calificar postulante- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 7: Contratar estudiante**
@@ -3422,6 +3920,11 @@ https://overflow.io/s/QHU9N2IZ
 <p align="center">
   <img src="images/userflows/contratarestudiante.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Contratar estudiante- Elaboración propia
+</p>
+
 <br><br>
 
 
@@ -3442,6 +3945,12 @@ El diagrama de contexto ofrece una visión general de alto nivel que representa 
   <img src="images/diagramaC4/c4-context.png" alt="" width="800">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Context- Elaboración propia
+</p>
+
+<br>
+
 #### 4.6.2. Software Architecture Container Diagrams  
 
 El diagrama de contenedores proporciona una vista general de alto nivel sobre el software UniTalent Connect.
@@ -3449,6 +3958,12 @@ El diagrama de contenedores proporciona una vista general de alto nivel sobre el
 <p align="center">
   <img src="images/diagramaC4/c4-container.png" alt="" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Container- Elaboración propia
+</p>
+
+<br>
 
 #### 4.6.3. Software Architecture Components Diagrams  
 
@@ -3459,53 +3974,126 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
   <img src="images/diagramaC4/c4-registro-usuarios.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Registro de Usuarios- Elaboración propia
+</p>
+
+<br>
+
 **Autenticación y Autorización**
 <p align="center">
   <img src="images/diagramaC4/c4-autenticacion-autorizacion.png" alt="" width="500">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Components Autenticación de Autorización- Elaboración propia
+</p>
+
+<br>
 
 **Gestión de Proyectos**
 <p align="center">
   <img src="images/diagramaC4/c4-gestion-proyectos.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Gestion de Proyectos- Elaboración propia
+</p>
+
+<br>
+
 **Gestión de Pagos y Suscripciones**
 <p align="center">
   <img src="images/diagramaC4/c4-gestion-pagos-suscripciones.png" alt="" width="500">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Components Gestion de Pagos de Suscripciones- Elaboración propia
+</p>
+
+<br>
 
 **Notificaciones**
 <p align="center">
   <img src="images/diagramaC4/c4-notificaciones.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Notificaciones- Elaboración propia
+</p>
+
+<br>
+
 **Gestión de Perfiles y Portafolios**
 <p align="center">
   <img src="images/diagramaC4/c4-gestion-perfiles-portafolios.png" alt="" width="500">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Components Gestion de Perfil y Portafolio- Elaboración propia
+</p>
+
+<br>
 
 **Sistema de Evaluaciones**
 <p align="center">
   <img src="images/diagramaC4/c4-sistema-evaluaciones.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Sistema de Evaluación- Elaboración propia
+</p>
+
+<br>
+
 **Modulo de Búsqueda**
 <p align="center">
   <img src="images/diagramaC4/c4-modulo-busqueda.png" alt="" width="500">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Components Modulo de Busqueda- Elaboración propia
+</p>
+
+<br>
 
 **Panel Administración**
 <p align="center">
   <img src="images/diagramaC4/c4-panel-administrativo.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Panel Administración- Elaboración propia
+</p>
+
+<br>
+
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams  
 
+
+Link: https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?viewport_loc=-1980%2C-440%2C4658%2C2280%2C0_0&invitationId=inv_8dc70efe-cc45-4fe9-9d62-a84601b32109
+
 <p align="center">
   <img src="images/UniTalents_UML.png" alt="class diagram" width="80%">
 </p>
+
+<p align="center">
+    Class Diagram- Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/class_diagram.jpg" alt = "updated class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama del Frontend- Elaboración propia
+</p>
+
+<br>
 
 #### 4.7.2. Class Dictionary  
 
@@ -3527,8 +4115,14 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 #### 4.8.1. Database Diagram  
 
 <p align="center">
-  <img src="images/database-diagram.png" alt="database diagram" width="80%">
+  <img src="images/database1.jpg" alt="database diagram" width="80%">
 </p>
+
+<p align="center">
+    Database Diagram- Elaboración propia
+</p>
+
+<br>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
@@ -3617,6 +4211,12 @@ GitFlow se implementará como el flujo de trabajo para gestionar las ramas del p
 <p align="center">
   <img src="images/flujo-gitflow.png" alt="wireflows" width="500">
 </p>
+
+<p align="center">
+  Modelo de GitFlow- Elaboración propia
+</p>
+
+<br>
 
 Ramas principales:
 
@@ -3715,17 +4315,34 @@ Para el despliegue de nuestra Landing Page se utilizó Github Pages por la facil
   <img src="images/deployment-1.png" alt="deployment-evidence" width="1000">
 </p>
 
+<p align="center">
+  Landing Page Deployment 1 - Elaboración propia
+</p>
+
+<br>
+
 Se nos muestra el enlace que se usó para compartir la vista de nuestra Landing Page estática.
 
 <p align="center">
   <img src="images/deployment-2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 
+<p align="center">
+  Landing Page Deployment 2 - Elaboración propia
+</p>
+
+<br>
+
 Se muestra nuestra landing page en GitHub Pages.
 
 <p align="center">
   <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Landing Page Deployment 3 - Elaboración propia
+</p>
+
 <br>
 
 https://unitalents-project-g2.github.io/UniTalents-LandingPage/
@@ -3850,6 +4467,12 @@ en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun
 construir en su totalidad la landing page, logrando que sea atractiva y funcional.
 
 <img src="images/SprintBacklogTrello.png" alt="wireflows" width="1000">
+
+<p align="center">
+  Sprint Backlog 1 Trello - Elaboración propia
+</p>
+
+<br>
 
 link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
 
@@ -4058,6 +4681,11 @@ Barra superior fija con el logo de UniTalents Connect, menú de navegación por 
 <p align="center">
   <img src="images/landingPage/header.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Header Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 2. Sección principal:
@@ -4067,6 +4695,11 @@ Bloque visual destacado con mensaje central claro, acompañado de una imagen o i
 <p align="center">
   <img src="images/landingPage/hero.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Seccion principal Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 3. Sección How it works:
@@ -4076,6 +4709,11 @@ Explicación sencilla y visual del funcionamiento de la plataforma en 4 pasos. I
 <p align="center">
   <img src="images/landingPage/how-it-works.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sección How it works Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 4. Sección casos de éxito:
@@ -4085,6 +4723,11 @@ Testimonios reales y breves de estudiantes y gerentes que utilizaron UniTalents 
 <p align="center">
   <img src="images/landingPage/casos.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sección casos de éxito Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 5. FAQs:
@@ -4094,6 +4737,11 @@ Sección de preguntas frecuentes organizada en formato acordeón, diseñada para
 <p align="center">
   <img src="images/landingPage/FAQs.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  FAQs Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 6. Footer:
@@ -4103,6 +4751,11 @@ Pie de página con enlaces a contacto.
 <p align="center">
   <img src="images/landingPage/footer.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Footer Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 7. Formulario de registro:
@@ -4112,6 +4765,11 @@ Nueva página donde los usuarios pueden crear una cuenta seleccionando su perfil
 <p align="center">
   <img src="images/landingPage/register.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Formulario de registro Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -4135,6 +4793,11 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 <p align="center">
   <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Activación de GitHub Pages - Elaboración propia
+</p>
+
 <br><br>
 
   + Confirmación del enlace del repositorio con entorno de publicación
@@ -4142,6 +4805,11 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 <p align="center">
   <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Confirmación del repositorio - Elaboración propia
+</p>
+
 <br><br>
 
   + Visualización activa del dominio temporal generado por GitHub Pages
@@ -4149,6 +4817,11 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 <p align="center">
   <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Visualización activa del dominio - Elaboración propia
+</p>
+
 <br>
 
 https://unitalents-project-g2.github.io/UniTalents-LandingPage/
@@ -4193,11 +4866,21 @@ https://unitalents-project-g2.github.io/UniTalents-LandingPage/
 <p align="center">
   <img src="images/insights-spr1/insight-spr1-1.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Insight 1 Sprint 1 - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/insights-spr1/insight-spr1-2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Insight 2 Sprint 1 - Elaboración propia
+</p>
+
 <br>
 
 *Nota:*
@@ -4206,6 +4889,11 @@ Nuestro compañero César Linares utilizó una plataforma externa a GitHub para 
 <p align="center">
   <img src="images/insights-spr1/insight-spr1-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Insight 3 Sprint 1 - Elaboración propia
+</p>
+
 <br>
 
 ---
@@ -4326,6 +5014,12 @@ construir en su totalidad la landing page, logrando que sea atractiva y funciona
 
 <img src="images/Sprint2BacklogTrello.png" alt="trello2" width="1000">
 
+<p align="center">
+  Sprint Backlog 2 - Elaboración propia
+</p>
+
+<br>
+
 link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
 
 <table border="1" cellspacing="0" cellpadding="5">
@@ -4438,26 +5132,6 @@ link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
             <td>Como gerente, quiero ver el historial de evaluación de un estudiante, para decidir si confiarle un nuevo proyecto.</td>
             <td>5</td>
             <td>Javier Gonzales</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TS02</td>
-            <td>Endpoint para creación de proyectos</td>
-            <td>T10</td>
-            <td>Creacion de endpoint para proyectos</td>
-            <td>Como developer, quiero crear un endpoint para que los gerentes puedan publicar nuevos proyectos, para que los estudiantes puedan visualizar y postular.</td>
-            <td>3</td>
-            <td>Andres Coca</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TS03</td>
-            <td>Endpoint para postulación a proyectos</td>
-            <td>T11</td>
-            <td>Creacion de endpoint para postulantes a proyectos</td>
-            <td>Como developer, quiero desarrollar un endpoint para que los estudiantes puedan postular a proyectos, para registrar su interés formal en una oportunidad.</td>
-            <td>3</td>
-            <td>Erick Palomino</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -4628,79 +5302,186 @@ diferentes secciones donde el usuario podra acceder tanto en ingles como en espa
 
 <img src="images/sprint2-evidence/signIN.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Login - Elaboración propia
+</p>
+
+<br>
 
 - US16
 
 <img src="images/sprint2-evidence/register.png" alt="wireflows" width="1000">
 
+
+<p align="center">
+  Sprint 2 Register - Elaboración propia
+</p>
+
+<br>
+
+
 - US17
 
 <img src="images/sprint2-evidence/managerNewProject.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Nuevo Proyecto - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/managerProyectos.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Proyectos - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/managerProyectosInfo.png" alt="wireflows" width="1000">
+
+<p align="center">
+  Sprint 2 Información de Proyectos - Elaboración propia
+</p>
+
+<br>
 
 - US18
 
 
 <img src="images/sprint2-evidence/managerEditPRoject.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Editar Proyectos - Elaboración propia
+</p>
+
+<br>
+
 - US19
 
 
 <img src="images/sprint2-evidence/managerDeletePRoject.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Borrar Proyecto - Elaboración propia
+</p>
+
+<br>
 
 - US30
 
 <img src="images/sprint2-evidence/managerPostulations.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Postulaciones - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/managerPostulationsList.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Lista de Postulaciones - Elaboración propia
+</p>
+
+<br>
 
 - US08
 
 <img src="images/sprint2-evidence/managerViewStudentReputation.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Reputación de Estudiante - Elaboración propia
+</p>
+
+<br>
+
 - US06
 <img src="images/sprint2-evidence/managerPortfolio.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Boton de Portafolio de Estudiante - Elaboración propia
+</p>
+
+<br>
 
 - US10
 
 <img src="images/sprint2-evidence/managerEditProfile.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Editar Perfil Manager - Elaboración propia
+</p>
+
+<br>
+
 - US07
 <img src="images/sprint2-evidence/postulaciones.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Postulaciones - Elaboración propia
+</p>
+
+<br>
 
 <img src="images/sprint2-evidence/postulaciones2.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver Postulacion 1 - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/postulaciones3.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver Postulacion 2 - Elaboración propia
+</p>
 
-
-
+<br>
 
 - US28
 <img src="images/sprint2-evidence/oportunidades.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Oportunidades - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/mostrarproyectodetalle.png" alt="wireflows" width="1000">
+
+<p align="center">
+  Sprint 2 Ver proyecto Oportunidades - Elaboración propia
+</p>
+
+<br>
 
 <img src="images/sprint2-evidence/verEmpresa.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver empresa Oportunidades - Elaboración propia
+</p>
 
+<br>
 
 - US29
 
 <img src="images/sprint2-evidence/portafolioviewall.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver Portafolio Estudiante - Elaboración propia
+</p>
 
+<br>
 
 <img src="images/sprint2-evidence/portafolio.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver Proyecto Portafolio Estudiante - Elaboración propia
+</p>
 
+<br>
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -4798,6 +5579,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Activación de GitHub Pages - Elaboración propia
+</p>
+
 <br><br>
 
   + Confirmación del enlace del repositorio con entorno de publicación
@@ -4805,6 +5591,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Confirmación del repositorio - Elaboración propia
+</p>
+
 <br><br>
 
   + Visualización activa del dominio temporal generado por GitHub Pages
@@ -4812,6 +5603,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Visualización activa del dominio - Elaboración propia
+</p>
+
 <br><br>
 
 *Front End:*
@@ -4822,6 +5618,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev0.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Creación de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
   + Configuración de la Static WebApp
@@ -4829,6 +5630,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev1.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Configuración de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
   + Vista de recursos de la Static WebApp
@@ -4836,6 +5642,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Vista de recursos de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
   + Confirmación de creación de la página desde GitHub
@@ -4843,6 +5654,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev3.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Confirmación de creación - Elaboración propia
+</p>
+
 <br><br>
 
   + Visualización activa de la Static WebApp en azure
@@ -4850,6 +5666,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev4.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Visualización activa de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
 
@@ -4889,43 +5710,1517 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ins1.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Insight evidence 1 - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/sprint2/ins2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Insight evidence 2 - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/sprint2/ins3.png" alt="deployment-evidence-confirmation" width="400">
 </p>
+
+<p align="center">
+  Sprint 2 Insight evidence 3 - Elaboración propia
+</p>
+
 <br>
+
 <p align="center">
   <img src="images/sprint2/ins4.png" alt="deployment-evidence-confirmation" width="400">
 </p>
+
+<p align="center">
+  Sprint 2 Insight evidence 4 - Elaboración propia
+</p>
+
+<br>
+
+---
+
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 09 - 06</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>6:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Javier Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Erik Palomino, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Review Summary</strong></td>
+    <td>	Durante el Sprint 2 se completó los apartados del frontend de la aplicación web, los cuales fueron los dos dashboards de nuestros dos segmentos, estudiantes universitarios y managers de empresas, tales como ver oportunidades, portafolio, mis postulaciones para estudiantes y para manager, mis proyectos, postulaciones y mi empresa</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Retorspective Summary</strong></td>
+    <td>El equipo resaltó una buena coordinación, cumplimiento de tareas planificadas y propuso como mejora la distribución más equilibrada de tareas técnicas entre los miembros.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Goal</strong></td>
+    <td>	Desarrollar el backend funcional para todas las funcionalidades vistas en el frontend.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Velocity</strong></td>
+    <td>34</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Desarrollo del módulo Shared</strong></td>
+    <td><strong>Desarrollo del módulo Students</strong></td>
+    <td><strong>Desarrollo del módulo Companies</strong></td>
+    <td><strong>Desarrollo del módulo Projects</strong></td>
+    <td><strong>Desarrollo del módulo Postulations</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Cesar Alejandro Linares Bernable</td>
+    <td>Cesar-Linares</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
 <br>
 
 
+##### 5.2.3.3. Sprint Backlog 3
+
+Durante el tercer sprint backlog, el equipo tuvo la tarea de realizar y completar el backedn de la aplicación. La herramienta empleada para la organización y gestión a los miembros del equipo fue Trello. Ya que esta herramienta permitió que se pueda dividir todas las user stories
+en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades.
+
+<img src="images/SprintBackLog3-Trello.png" alt="trello3" width="1000">
+
+<p align="center">
+  Sprint Backlog 3 Trello- Elaboración propia
+</p>
+
+<br>
+
+link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d652195d9919855cda5c8463e15e78E98523/sprint-3-backlog-apps-web
+
+<br>
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 3</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US10</td>
+            <td>Modificación de perfil de usuario</td>
+            <td>T01</td>
+            <td>Endpoint y lógica de edición de perfil</td>
+            <td>Como usuario, quiero modificar mi información de perfil, para mantener mis datos actualizados</td>
+            <td>4</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US12</td>
+            <td>Actualizar URL del portafolio</td>
+            <td>T02</td>
+            <td>Gestión y validación de URL de portafolio</td>
+            <td>Como usuario, quiero actualizar el enlace a mi portafolio, para mostrar mi trabajo en la plataforma.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Búsqueda de postulante</td>
+            <td>T03</td>
+            <td>Filtro y motor de búsqueda de postulantes</td>
+            <td>Como gerente, quiero buscar postulantes por criterios, para encontrar candidatos ideales para mi proyecto.</td>
+            <td>6</td>
+            <td>Renzo Rivera</td>
+            <td>In procces</td>
+        </tr>
+        <tr>
+            <td>US28</td>
+            <td>Visualizar oportunidades para estudiante</td>
+            <td>T04</td>
+            <td>Vista de oportunidades disponibles</td>
+            <td>Como estudiante, quiero ver oportunidades activas, para postular a prácticas o empleos de mi interés.</td>
+            <td>4</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US29</td>
+            <td>Visualizar portafolio para estudiante</td>
+            <td>T05</td>
+            <td>Interfaz de visualización de portafolios</td>
+            <td>Como gerente, quiero ver el portafolio de un estudiante, para evaluar su experiencia y habilidades.</td>
+            <td>5</td>
+            <td>Cesar Linares</td>
+            <td>In process</td>
+        </tr>
+        <tr>
+            <td>US30</td>
+            <td>Visualizar postulaciones para gerentes</td>
+            <td>T06</td>
+            <td>Módulo de gestión de postulaciones</td>
+            <td>Como gerente, quiero ver quiénes se postularon, para analizar sus perfiles antes de contactar.</td>
+            <td>5</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS02</td>
+            <td>Endpoint para creación de proyectos</td>
+            <td>T07</td>
+            <td>Creacion de endpoint para proyectos</td>
+            <td>Como developer, quiero crear un endpoint para que los gerentes puedan publicar nuevos proyectos, para que los estudiantes puedan visualizar y postular.</td>
+            <td>3</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS03</td>
+            <td>Endpoint para postulación a proyectos</td>
+            <td>T08</td>
+            <td>Creacion de endpoint para postulantes a proyectos</td>
+            <td>Como developer, quiero desarrollar un endpoint para que los estudiantes puedan postular a proyectos, para registrar su interés formal en una oportunidad.</td>
+            <td>3</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+##### 5.2.3.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>3e6e30f</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>08/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>e1abc01</td>
+    <td>feat: add auth components</td>
+    <td>feat: add auth components</td>
+    <td>08/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>8a27a67</td>
+    <td>feat: add section calls</td>
+    <td>feat: add section calls</td>
+    <td>10/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>96a2dd4</td>
+    <td>feat: calls fixed</td>
+    <td>feat: calls fixed</td>
+    <td>10/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>dc6cb0b</td>
+    <td>feat: added calls section</td>
+    <td>feat: added calls section</td>
+    <td>11/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>fe0309e</td>
+    <td>feat: section my-company</td>
+    <td>feat: section my-company</td>
+    <td>11/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>53e5fe5</td>
+    <td>feat: projects section</td>
+    <td>feat: projects section</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>676195e</td>
+    <td>feat: develop of projects section</td>
+    <td>feat: develop of projects section</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>a1f5665</td>
+    <td>feat: add first part of opportunities section</td>
+    <td>feat: add first part of opportunities section</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>6b076ac</td>
+    <td>feat: delete node_modules</td>
+    <td>feat: delete node_modules</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>db1c8fa</td>
+    <td>fix: fixed db.json</td>
+    <td>fix: fixed db.json</td>
+    <td>12/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>7c41e7e</td>
+    <td>feat: remove icon</td>
+    <td>feat: remove icon</td>
+    <td>13/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>16fba32</td>
+    <td>feat: add opportunities details and view company</td>
+    <td>feat: add opportunities details and view company</td>
+    <td>13/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>0c97dc5</td>
+    <td>feat: add student-postulation</td>
+    <td>feat: add student-postulation</td>
+    <td>15/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>cfd347f</td>
+    <td>feat: fixed postulations router</td>
+    <td>feat: fixed postulations router</td>
+    <td>16/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>af4c2b5</td>
+    <td>feat: creación de la interfaz del perfil del usuario</td>
+    <td>feat: creación de la interfaz del perfil del usuario</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>4f1510c</td>
+    <td>fix: añadí la opción de editar los datos del perfil</td>
+    <td>fix: añadí la opción de editar los datos del perfil</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>c413537</td>
+    <td>fix: fix edit manager and student</td>
+    <td>fix: fix edit manager and student</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>b65a114</td>
+    <td>fix: fixed edit profile</td>
+    <td>fix: fixed edit profile</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>main</td>
+    <td>53e7c54</td>
+    <td>feat: Student portfolio manager</td>
+    <td>feat: Student portfolio manager</td>
+    <td>17/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>596a03f</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>f6807ef</td>
+    <td>feat: module shared</td>
+    <td>feat: module shared</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>99bd8e0</td>
+    <td>feat: add student module</td>
+    <td>feat: add student module</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>c0589a5</td>
+    <td>feat: companies module</td>
+    <td>feat: companies module</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>7858d64</td>
+    <td>feat: add projects bounded context</td>
+    <td>feat: add projects bounded context</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>edc4ebc</td>
+    <td>feat: postulation module</td>
+    <td>feat: postulation module</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>cebfccf</td>
+    <td>fix: modified connections between databases</td>
+    <td>fix: modified connections between databases</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>3f70c4e</td>
+    <td>feat: Add postulations module</td>
+    <td>feat: Add postulations module</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-backend</td>
+    <td>main</td>
+    <td>bbbe47c</td>
+    <td>update</td>
+    <td>update</td>
+    <td>21/06/25</td>
+  </tr>
+</table>
+
+<br>
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
++ US10
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us10-1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Perfil Estudiante- Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr3/us10-2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Editar Perfil Estudiante- Elaboración propia
+</p>
+
+<br><br>
+
++ US12
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us12.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Enlace Portafolio Estudiante- Elaboración propia
+</p>
+
+<br><br>
+
++ US14
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us14.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Filtrar Estudiantes- Elaboración propia
+</p>
+
+<br><br>
+
++ US28
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us28.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Oportunidades - Elaboración propia
+</p>
+
+<br><br>
+
++ US29
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us29.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Portafolio - Elaboración propia
+</p>
+
+<br><br>
+
++ US30
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/us30.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Ver Convocatorias - Elaboración propia
+</p>
+
+<br><br>
+
++ TS02
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/ts02.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Projects - Elaboración propia
+</p>
+
+<br><br>
+
++ TS03
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr3/ts03.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Postulations - Elaboración propia
+</p>
+
+<br><br>
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+<h3>Endpoints implementados</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint URL (local)</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>/api/v1/companies</td><td>Companies</td><td>GET</td><td>Obtener listado de compañías</td><td>Ninguno</td><td>[ { "id": 1, "companyName": "Example Co." }, ... ]</td></tr>
+    <tr><td>/api/v1/companies</td><td>Companies</td><td>POST</td><td>Crear una nueva compañía</td><td>Body: companyName, sector, etc.</td><td>{ "id": 1, "companyName": "Example Co." }</td></tr>
+    <tr><td>/api/v1/companies/{id}</td><td>Companies</td><td>GET</td><td>Obtener compañía por ID</td><td>id</td><td>{ "id": 1, "companyName": "Example Co." }</td></tr>
+    <tr><td>/api/v1/companies/{id}</td><td>Companies</td><td>PUT</td><td>Actualizar compañía</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "companyName": "Updated Co." }</td></tr>
+    <tr><td>/api/v1/companies/{id}</td><td>Companies</td><td>DELETE</td><td>Eliminar compañía</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/v1/companies/user/{userId}</td><td>Companies</td><td>GET</td><td>Obtener compañía por userId</td><td>userId</td><td>{ "id": 1, "companyName": "Example Co." }</td></tr>
+    <tr><td>/api/postulations</td><td>Postulations</td><td>GET</td><td>Obtener listado de postulaciones</td><td>Ninguno</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/postulations</td><td>Postulations</td><td>POST</td><td>Crear una nueva postulación</td><td>Body: studentId, projectId, status</td><td>{ "id": 1, "studentId": 2 }</td></tr>
+    <tr><td>/api/postulations/{id}</td><td>Postulations</td><td>GET</td><td>Obtener postulación por ID</td><td>id</td><td>{ "id": 1, "studentId": 2 }</td></tr>
+    <tr><td>/api/postulations/{id}</td><td>Postulations</td><td>PUT</td><td>Actualizar postulación</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "status": "accepted" }</td></tr>
+    <tr><td>/api/postulations/{id}</td><td>Postulations</td><td>DELETE</td><td>Eliminar postulación</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/postulations/student/{studentId}</td><td>Postulations</td><td>GET</td><td>Obtener postulaciones por estudiante</td><td>studentId</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/postulations/project/{projectId}</td><td>Postulations</td><td>GET</td><td>Obtener postulaciones por proyecto</td><td>projectId</td><td>[ { "id": 1, "projectId": 3 }, ... ]</td></tr>
+    <tr><td>/api/projects</td><td>Projects</td><td>GET</td><td>Obtener listado de proyectos</td><td>Ninguno</td><td>[ { "id": 1, "name": "Project A" }, ... ]</td></tr>
+    <tr><td>/api/projects</td><td>Projects</td><td>POST</td><td>Crear un nuevo proyecto</td><td>Body: name, description, etc.</td><td>{ "id": 1, "name": "Project A" }</td></tr>
+    <tr><td>/api/projects/{id}</td><td>Projects</td><td>GET</td><td>Obtener proyecto por ID</td><td>id</td><td>{ "id": 1, "name": "Project A" }</td></tr>
+    <tr><td>/api/projects/{id}</td><td>Projects</td><td>PUT</td><td>Actualizar proyecto</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "name": "Updated Project" }</td></tr>
+    <tr><td>/api/projects/{id}</td><td>Projects</td><td>DELETE</td><td>Eliminar proyecto</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/projects/company/{companyId}</td><td>Projects</td><td>GET</td><td>Obtener proyectos por companyId</td><td>companyId</td><td>[ { "id": 1, "companyId": 1 }, ... ]</td></tr>
+    <tr><td>/api/v1/students</td><td>Students</td><td>GET</td><td>Obtener listado de estudiantes</td><td>Ninguno</td><td>[ { "id": 1, "name": "Student A" }, ... ]</td></tr>
+    <tr><td>/api/v1/students</td><td>Students</td><td>POST</td><td>Crear un nuevo estudiante</td><td>Body: name, field, etc.</td><td>{ "id": 1, "name": "Student A" }</td></tr>
+    <tr><td>/api/v1/students/{id}</td><td>Students</td><td>GET</td><td>Obtener estudiante por ID</td><td>id</td><td>{ "id": 1, "name": "Student A" }</td></tr>
+    <tr><td>/api/v1/students/{id}</td><td>Students</td><td>PUT</td><td>Actualizar estudiante</td><td>id + Body: fields a actualizar</td><td>{ "id": 1, "name": "Updated Student" }</td></tr>
+    <tr><td>/api/v1/students/{id}</td><td>Students</td><td>DELETE</td><td>Eliminar estudiante</td><td>id</td><td>{ "message": "Deleted successfully" }</td></tr>
+    <tr><td>/api/v1/students/by-user/{userId}</td><td>Students</td><td>GET</td><td>Obtener estudiante por userId</td><td>userId</td><td>{ "id": 1, "userId": 2 }</td></tr>
+    <tr><td>/api/v1/students/search</td><td>Students</td><td>GET</td><td>Buscar estudiantes (filtros)</td><td>query params: field, rating, etc.</td><td>[ { "id": 1, "field": "IT" }, ... ]</td></tr>
+  </tbody>
+</table>
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante el presente Sprint se realizó el despliegue del backend del sistema UniTalents mediante un Azure App Service, lo que permitió contar con una API funcional, estable y accesible en un entorno de producción gestionado, garantizando escalabilidad y alta disponibilidad para el servicio. Este despliegue se integró con el repositorio de GitHub del proyecto, permitiendo la publicación automatizada de nuevas versiones a partir de la rama principal (main).
+
+Asimismo, se configuró y desplegó una instancia de Azure Database for MySQL, la cual provee el servicio de base de datos relacional seguro y administrado para la plataforma. La base de datos fue aprovisionada con las credenciales necesarias y los esquemas definidos para el correcto funcionamiento de los módulos implementados, asegurando la persistencia y consistencia de la información.
+
+Ambos despliegues constituyen evidencias fundamentales del avance técnico alcanzado en este Sprint, permitiendo validar la integración entre el frontend, el backend y la base de datos, así como el correcto funcionamiento de los flujos de trabajo de la plataforma en un entorno en la nube.
+
+*Landing Page:*
+---
+
+  + Activación de GitHub Pages en el repositorio
+
+<p align="center">
+  <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Activación de GitHub Pages - Elaboración propia
+</p>
+
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación
+
+<p align="center">
+  <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Confirmación del repositorio - Elaboración propia
+</p>
+
+<br><br>
+
+  + Visualización activa del dominio temporal generado por GitHub Pages
+
+<p align="center">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Visualización activa del dominio - Elaboración propia
+</p>
+
+<br><br>
+
+*Front End:*
+---
+
+  + Creación de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev0.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Creación de la Static WebApp - Elaboración propia
+</p>
+
+<br><br>
+
+  + Configuración de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev1.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Configuración de la Static WebApp - Elaboración propia
+</p>
+
+<br><br>
+
+  + Vista de recursos de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Vista de recursos de la Static WebApp- Elaboración propia
+</p>
+
+<br><br>
+
+  + Confirmación de creación de la página desde GitHub
+
+<p align="center">
+  <img src="images/sprint2/ev3.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Confirmación de creación de la página - Elaboración propia
+</p>
+
+<br><br>
+
+  + Visualización activa de la Static WebApp en azure
+
+<p align="center">
+  <img src="images/sprint2/ev4.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Visualización activa de la Static WebApp  - Elaboración propia
+</p>
+
+<br><br>
+
+*Back End:*
+---
+
+  + Creación de la database en azure usando MySql
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp1.jpg" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Creación de la database en azure usando MySql  - Elaboración propia
+</p>
+<br><br>
+
+  + Configuramos nuestro proyecto con docker
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp2.png" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Configuramos nuestro proyecto con docker - Elaboración propia
+</p>
+<br><br>
+
+ + Compilamos nuestro proyecto con docker
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp3.png" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Compilamos nuestro proyecto con docker  - Elaboración propia
+</p>
+<br><br>
+
+ + Creamos la app service
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp4.png" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Creamos la app service  - Elaboración propia
+</p>
+<br><br>
+
+ + Accedemos al link proporcionado por azure
+
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3//sp5.png" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Accedemos al link proporcionado por azure  - Elaboración propia
+</p>
+<br><br>
+
+ + Deploy del back end
+
+<br>
+<p align="center">
+  <img src="images/sprintDeploy3/sp6.jpg" alt="deployment-evidence" width="1000">
+</p>
+<br>
+<p align="center">
+  Sprint 3 Deploy del back end  - Elaboración propia
+</p>
+<br><br>
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Módulo de Shared y creación del proyecto</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Módulo de Estudiantes</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Módulo de Proyectos</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>Módulo de Compañias</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>Módulo de Postulaciones</td>
+  </tr>
+</table>
+<br><br>
+
+*FrontEnd*
+---
+
+<p align="center">
+  <img src="images/ins-spr3/in1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 1 Frontend - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/ins-spr3/in3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 2 Frontend - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/ins-spr3/in2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 3 Frontend - Elaboración propia
+</p>
+
+<br><br>
+
+*BackEnd*
+---
+
+<p align="center">
+  <img src="images/ins-spr3/infr1.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 1 Backend - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/ins-spr3/infr2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 2 Backend - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/ins-spr3/infr3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 3 Backend - Elaboración propia
+</p>
+
+<br>
 
 ---
+
+### 5.3 Validation Interviews
+
+#### 5.3.1 Diseño de Entrevistas
+
+*Entrevistas a Estudiantes*
+---
+
+1. ¿La pantalla principal (dashboard) te ayudó a encontrar rápidamente las oportunidades o secciones que te interesaban?
+
+2. ¿Qué te pareció el proceso de revisar proyectos disponibles? ¿La información que se muestra es suficiente para decidir postular?
+
+3. ¿Que te pareció la forma en la que se postula a un proyecto? 
+
+4. ¿La sección de postulaciones te permitió entender claramente en qué estado está cada postulación tuya?
+
+5. ¿Te pareció útil contar con una sección de portafolio donde se guarden los proyectos completados?
+
+6. ¿Qué parte de la app te pareció más útil como estudiante que busca ganar experiencia? ¿Por qué?
+
+7. ¿Qué opinas del estilo visual y la presentación general?
+
+*Entrevistas a Managers*
+---
+
+1. ¿Le resulta sencillo publicar una oferta laboral o una práctica profesional en la plataforma?
+
+2. ¿Ha podido filtrar candidatos de manera efectiva según habilidades, formación, experiencia u otros criterios relevantes para su equipo?
+
+3. ¿Recibe notificaciones útiles cuando aparecen perfiles que se ajustan a sus necesidades?
+
+4. ¿Ha notado si los jóvenes pueden mostrar claramente sus proyectos, logros o experiencias dentro de su perfil?
+
+5. ¿La interfaz le ha parecido clara y fácil de navegar, incluso si no tiene mucha experiencia en herramientas digitales?
+
+6. ¿Considera que el diseño visual de la plataforma (colores, tipografía, organización) transmite profesionalismo y confianza?
+
+
+#### 5.3.2 Registro de Entrevistas
+
+*Entrevistas a Estudiantes*
+---
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Estafano Solis</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Pueblo Libre</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>00:00 - 10:04</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: Estefano Solis considera que la pantalla principal de la app es clara y bien organizada, aunque sugiere mejorar la visibilidad de los filtros. Destaca que revisar y postular a proyectos es un proceso sencillo, directo y satisfactorio, sin necesidad de llenar formularios extensos. Señala que la información de los proyectos es suficiente, aunque en algunos casos se podría ampliar la descripción. La sección de postulaciones le resulta clara y le brinda tranquilidad al mostrar el estado de cada proceso. Valora mucho la función del portafolio, ya que facilita mostrar la experiencia adquirida. Para él, la posibilidad de encontrar y postular a proyectos es lo más útil, ya que permite a los estudiantes acceder a experiencia real. Además, opina que el diseño visual de la app es limpio, moderno e intuitivo.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/entrevista1estefano.jpg" alt="entrevista1" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alvaro Abanto</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>10:04 - 18:14</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo2MDQsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=7QUeDD" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      Nuestro entrevistado Alvaro Abanto utilizó la aplicación usando el dashboard de estudiantes, él opina que la manera en como se postula a los proyectos le parece fácil e intuitiva, tambien le agrada que cuente con un portafolio donde se muestran sus proyectos compeltados, ya que los gerentes podran ver fácilmente su experiencia. Opina que los colores y el diseño en general le parece profesional pero al mismo tiempo amigable.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/abanto-interview.jpg" alt="entrevista2" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+*Entrevistas a Managers*
+---
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Javier Sandoval</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>18:14 - 25:19</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDk0LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=fd5oBv" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: <br>
+      Javier Sandoval, gerente de una empresa enfocada en el sector informático, participó en la prueba de la aplicación UniTalents. Durante su experiencia, la navegación en general fue fluida y no presentó inconvenientes al crear proyectos, visualizar convocatorias o editar el perfil. Destacó que el proceso para crear proyectos le resultó muy sencillo y valoró positivamente la claridad y simplicidad de la interfaz, la cual consideró profesional y generadora de confianza. Señaló que la función de filtrado de candidatos es útil, pero recomendó que el sistema permita seleccionar múltiples criterios en el ámbito de habilidades y que se añada un campo adicional para indicar la experiencia del candidato (en años o proyectos finalizados dentro de la app). Además, sugirió enriquecer el diseño con más detalles de estilo y en la sección “Mi empresa” incluir un campo para la página web de la compañía, a fin de completar mejor la información empresarial. 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+      <img src="images/validation-interview-sandoval.png" alt="entrevistado" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Luis Enrique Ayala</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>33</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>25:19 - 30:25</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTE5LjQzMiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=JWL127" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      el Sr. Luis Enrique Ayala, gerente que entrevistamos en otra oportunidad, quien pudo probar nuestra solución: Unitalent Connect. El Sr. Ayala exploró las funcionalidades clave, como la creación y edición de proyectos, el seguimiento de su estado, la filtración de candidatos por carrera y la visualización de perfiles. Sus comentarios resaltan la facilidad de uso, la claridad de la interfaz y la utilidad de la plataforma para reclutar talento joven, aunque sugiere mejoras en la comparación de proyectos y la adaptabilidad a dispositivos móviles para una mayor flexibilidad y alcance.
+    </td>
+  </tr>
+   <tr>
+    <td colspan="2"><br>
+      <img src="images/Entrevista de Validación - Andrés.png" alt="entrevista" width="1000"><br>
+    </td>
+  </tr>
+</table>
+
+#### 5.3.3 Evaluaciones según heurísticas
+
+**SITE o APP A EVALUAR:**
+
+UniTalent Connect
+
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web UniTalentConnect.
+
+**TAREAS A EVALUAR**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+**Web Application:**
+
+1. Indicadores claros de progreso o estado del proceso
+2. Iconografía comprensible y consistente con el mundo real
+3. Evaluar existencia de patrones de diseño o navegación
+4. Elementos de la interfaz de usuario consistentes
+5. Botones interactivos y de uso intuitivo
+6. Navegación y orientación dentro de la aplicación
+7. Visualización de perfil de usuario
+8. Estética general de la interfaz atractiva y agradable visualmente
+
+No están incluidas en esta version de la evaluación las siguientes tareas:
+
+**Web Application**
+
+1. Diseño responsive / flexibilidad de uso
+2. Política de privacidad y condiciones de uso
+
+**ESCALA DE SEVERIDAD**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Nivel</b></td>
+      <td><b>Descripción</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+    </tr>
+    <tr>
+      <td>3 </td>
+      <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>   
+  </tbody>
+</table>
+
+**TABLA RESUMEN**
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>#</b></td>
+      <td><b>Problema</b></td>
+      <td><b>Escala de severidad</b></td>
+      <td><b>Heurística/Principio violada(o)</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Falta de diseño responsive</td>
+      <td>3</td>
+      <td>Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Ausencia de comparación entre proyectos</td>
+      <td>2</td>
+      <td>Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Notificaciones poco útiles para posiciones senior</td>
+      <td>1</td>
+      <td>Control y libertad del usuario</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Limitada ponderación objetiva de criterios en proyectos</td>
+      <td>2</td>
+      <td>Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Filtros poco flexibles para diferentes niveles de candidatos</td>
+      <td>2</td>
+      <td>Flexibilidad y eficiencia de uso</td>
+    </tr>  
+    <tr>
+      <td>6</td>
+      <td>Falta el campo para la página web en la sección “Mi empresa”</td>
+      <td>2</td>
+      <td>Correspondencia entre el sistema y el mundo real / Visibilidad del estado del sistema.</td>
+    </tr> 
+  </tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+Problema #1: Falta de diseño responsive.
+
+Severidad: 3 
+
+Principio violado: Flexibilidad y eficiencia de uso
+
+Problema: La falta de diseño responsive es limitada. Esto afecta negativamente a los usuarios que desean revisar o gestionar convocatorias y proyectos fuera de una computadora de escritorio. Al no haber una interfaz responsive, la plataforma pierde accesibilidad y eficiencia, especialmente para gerentes que requieren movilidad.
+
+<img src="images/HeuristicaProblema1.png" alt="screenshot heuristica 1" width="1000">
+
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
+Recomendación: Implementar un diseño responsive que se adapte correctamente a distintos tamaños de pantalla (celulares, tablets y laptops), mejorando la portabilidad y el alcance de la plataforma.
+
+---
+
+Problema #2: Ausencia de comparación entre proyectos.
+
+Severidad: 2
+
+Principio violado: Flexibilidad y eficiencia de uso
+
+Problema: La falta de una funcionalidad que permita comparar proyectos entre sí. Actualmente, no existe un mecanismo en la interfaz que permita al gerente visualizar lado a lado los logros, habilidades u otros criterios de los candidatos, lo cual complica el proceso de evaluación objetiva.
+
+<img src="images/HeuristicaProblema2.png" alt="screenshot heuristica 1" width="1000">
+
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
+
+Recomendación: Incorporar una vista de comparación entre proyectos, con criterios personalizables por el reclutador (por ejemplo, habilidades, impacto, tecnologías utilizadas), que facilite la toma de decisiones.
+
+---
+
+Problema #3: Las notificaciones automáticas son útiles solo para posiciones junior.
+
+Severidad: 1
+
+Principio violado: Control y libertad del usuario
+
+Problema: las notificaciones de coincidencias de perfil funcionan para vacantes de nivel inicial, pero no son útiles para puestos senior. Esta automatización sin distinción puede resultar irrelevante o incluso molesta para usuarios que prefieren realizar búsquedas específicas mediante headhunters.
+
+<img src="images/HeuristicaProblema3.png" alt="screenshot heuristica 1" width="1000">
+
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
+Recomendación: Permitir a los usuarios personalizar las notificaciones según el tipo de vacante (entry-level, mid, senior), otorgando mayor control sobre la información que desean recibir.
+
+---
+
+Problema #4: No se puede ponderar ni evaluar objetivamente los proyectos.
+
+Severidad: 2
+
+Principio violado: Visibilidad del estado del sistema
+
+Problema: Aunque se pueden subir proyectos, el sistema no permite ponderar criterios importantes como innovación, impacto, complejidad o adecuación al perfil requerido. Esto impide al usuario identificar claramente cuál proyecto se ajusta mejor a sus necesidades.
+
+<img src="images/HeuristicaProblema4.png" alt="screenshot heuristica 1" width="1000">
+
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
+Recomendación: Añadir herramientas que permitan asignar peso a diferentes atributos o criterios de evaluación, mostrando gráficamente o mediante puntuaciones qué tan bien se ajusta cada proyecto a lo requerido.
+
+---
+
+Problema #5: Los filtros no son lo suficientemente flexibles para diferentes niveles o tipos de candidatos.
+
+Severidad: 2
+
+Principio violado: Flexibilidad y eficiencia de uso
+
+Problema: Aunque se puede filtrar por carrera, no es posible filtrar por experiencia, tipo de contrato o habilidades específicas. Esto limita la capacidad del gerente para refinar su búsqueda y encontrar perfiles altamente compatibles.
+
+<img src="images/HeuristicaProblema5.png" alt="screenshot heuristica 1" width="1000">
+
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
+Recomendación: Ampliar las opciones de filtrado incluyendo campos como años de experiencia, tecnologías dominadas, idiomas, disponibilidad o tipo de puesto (prácticas, freelance, planta, etc.).
+
+---
+
+Problema #6: Falta el campo para la página web en la sección “Mi empresa”.
+
+Severidad: 2
+
+Principio violado: Correspondencia entre el sistema y el mundo real / Visibilidad del estado del sistema
+
+Problema: La ausencia de un campo para el sitio web de la empresa impide mostrar un dato clave que contribuye a la profesionalidad y credibilidad del perfil empresarial.
+
+<img src="images/ut-heuristica6.png" alt="screenshot heuristica 1" width="1000">
+
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
+Recomendación: Incluir un campo opcional para la URL del sitio web de la empresa en el perfil corporativo.
+
+---
+
+
+### 5.4 Video About-the-Product
+
+<img src="images/aboutTheTeam.png" alt="screenshot AboutTheProduct" width="1000">
+
+<p align="center">
+  Video About-the-Product- Elaboración propia
+</p>
+
+<br>
+
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">About the Product</a>
+
+<a href="https://youtu.be/inUoi29e_hE" target="_blank">About the Product - Youtube</a>
+
+Duración: 1:57 minutos
+
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones  
-1. Una gran parte de los estudiantes no pueden conectar con el mercado laboral debido a la falta de plataformas adecuadas.
 
-2. Creemos que nuestros clientes valoran la experiencia real y estan dispuestos a aprovechar plataformas para mejorar su perfil laboral.
+*TB1*
+---
 
-3. Esperamos que al menos el 60% de los proyectos publicados en la plataforma se completen exitosamente, de forma que se beneficien ambos segmentos objetivos.
++ Una proporción significativa de los estudiantes no logra conectar con el mercado laboral debido a la ausencia de plataformas que faciliten este vínculo de manera efectiva.
 
-4. Consideraremos que la aplicación fue un exito cuando los estudiantes generen ingresos adicionales sin comprometer horarios académicos y los gerentes puedan acceder a talento joven y asequible. 
++ Detectamos que los potenciales usuarios valoran las experiencias laborales reales y están dispuestos a utilizar una plataforma que les permita fortalecer su perfil profesional y mejorar su empleabilidad.
 
-5. Es fundamental establecer una base sólida de diseño antes de iniciar la programación, siendo clave la elaboración de un diagrama de clases que permita representar visualmente cómo se relacionan las entidades del sistema.
++ El éxito de la aplicación se medirá en función de que los estudiantes logren generar ingresos complementarios sin que se vean afectados sus horarios académicos, y de que los gerentes accedan a talento joven, calificado y con tarifas asequibles.
 
-6. Construir un frontend funcional con datos simulados permite observar cómo opera la aplicación y evaluar su comportamiento antes de integrar datos reales.
++ Se espera que al menos el 60% de los proyectos publicados en la plataforma se completen exitosamente, generando beneficios tangibles tanto para estudiantes como para empleadores.
 
-7. Es recomendable asignar tiempo extra en cada sprint para abordar historias de usuario pendientes o no planificadas, ya que en el segundo sprint el desarrollo se vio afectado por este tipo de contratiempos.
+*TP*
+---
 
-8. El siguiente paso será desarrollar el backend con el fin de contar con una aplicación completamente funcional y completar otras funcionalidades restantes.
++ Es fundamental contar con una base sólida de diseño antes de iniciar la programación, siendo clave la elaboración de un diagrama de clases que permita representar visualmente las entidades y sus relaciones dentro del sistema.
+
++ La construcción de un frontend funcional con datos simulados es una práctica recomendada, ya que permite evaluar el flujo y comportamiento de la aplicación antes de conectar con datos reales.
+
++ Se recomienda asignar tiempo adicional en cada sprint para abordar historias de usuario pendientes o no planificadas, dado que en el segundo sprint el avance se vio limitado por contratiempos de este tipo.
+
++ El siguiente paso prioritario es desarrollar el backend para disponer de una aplicación completa y operativa, así como finalizar las funcionalidades restantes para cerrar el ciclo de desarrollo.
+
+*TB2*
+---
+
++ El desarrollo del backend permitió consolidar la arquitectura de la aplicación, integrando las entidades principales y asegurando una base sólida para el manejo de datos reales.
+
++ La implementación de un modelo de datos consistente, mediante el uso de repositorios y servicios, favoreció la separación de responsabilidades y facilitó el mantenimiento del código.
+
++ El despliegue del backend en un entorno cloud (Azure App Service y MySQL Database) demostró la viabilidad de la solución y su potencial para escalar y operar en un contexto productivo.
+
++ El trabajo en equipo y la coordinación entre los integrantes fue clave para superar los retos técnicos relacionados con la integración de la base de datos y el ajuste de la configuración del entorno.
+
++ Se identificó la necesidad de fortalecer la validación y el control de errores en los endpoints expuestos, para garantizar la integridad de la información y una mejor experiencia de usuario.
+
+
+# Video About the Team
+
+El video presenta un resumen del trabajo desarrollado por el equipo, donde cada integrante describe las tareas que llevó a cabo para cumplir con los objetivos del curso. Además, se resalta la importancia de la comunicación oral y escrita como una herramienta clave para expresar ideas y reportar el progreso del proyecto.
+
+<table align="center">
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>10:13 min</td>
+  </tr>
+  <tr>
+    <td><strong>URL Microsoft</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-aboutthe-team-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td><strong>URL Youtube</strong></td>
+    <td><a href="https://youtu.be/aTyXnZuJ6rc" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-aboutthe-team-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td><strong>Timings</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">00:00 - 04:22: Resumen de lo trabajado </a>
+      <br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTgsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=OkWwIM">04:22: Javier Sebastian Gonzales Alvarado</a>
+      <br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=RSqvX1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzM3LjM3fX0%3D">05:37: Erick Leonardo Palomino Fiestas</a>
+      <br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=bKdZwb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mzk1LjEyfX0%3D">06:35: Carlos Andres Coca Lavado</a>
+      <br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=fIYzwf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDYxLjg1fX0%3D">07:41: Cesar Alejandro Linares Bernable</a>
+      <br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=hCzKht&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTQxLjc2fX0%3D">09:01: Renzo Sebastian Rivera Ratachi</a>
+      <br>
+    </td>
+  </tr>
+  <tr>
+<td colspan="2">
+  <img src="images/aboutTeam.png" alt="screenshot about the team" width="1000">
+    </td>
+  </tr>
+</table>
 
 
 ---
