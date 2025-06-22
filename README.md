@@ -947,6 +947,10 @@ Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y
   <img src="images/LeanUXCanva.png" alt="UPC logo" width="1000">
 </p>
 
+<p align="center">
+  Lean UX Canvas - Elaboración propia
+</p>
+
 
 ### 1.3. Segmentos Objetivo  
 
@@ -1612,11 +1616,17 @@ En esta sección se elaborarán las User Personas, las cuales se construirán a 
 
 ![img userpersona1](https://i.postimg.cc/BQtZ2jKR/Jair-Quijada-2.png)
 
+<p align="center">
+  User Persona Estudiante Universitario - Elaboración propia
+</p>
+
 - #### User Persona Gerente de empresa
 
 ![img userpersona2](https://i.postimg.cc/YqVrRtN0/Alexander-Davila-1.png)
 
-
+<p align="center">
+  User Persona Gerente de empresa - Elaboración propia
+</p>
 
 #### 2.3.2. User Task Matrix  
 
@@ -1758,7 +1768,9 @@ Este Journey Map describe el proceso de busqueda y postulacion de un trabajo de 
 
 ![userjourneymap1](https://i.postimg.cc/FK9Lxsqf/Customer-Journey-Map-Jair-Quijada.png)
 
-
+<p align="center">
+  User Journey Map Jair Quijada - Elaboración propia
+</p>
 
 - #### User Journey Map Alexander Dávila:
 
@@ -1768,7 +1780,9 @@ Este Journey Map describe el proceso de Alexander Dávila en su busqueda de post
 
 ![userjourneymap2](https://i.postimg.cc/fTS47yHB/User-journey-map-2.png)
 
-
+<p align="center">
+  User Journey Map Alexander Dávila - Elaboración propia
+</p>
 
 #### 2.3.4. Empathy Mapping  
 
@@ -1776,10 +1790,21 @@ Este Journey Map describe el proceso de Alexander Dávila en su busqueda de post
   <img src="images/Jair-EmpathyMap.png" alt="EmpathyMap" width="1000">
 </p>
 
+<p align="center">
+  Empathy Mapping  Jair Quijada - Elaboración propia
+</p>
+
+<br>
 
 <p align="center">
   <img src="images/Alexander-EmpathyMap.png" alt="EmpathyMap2" width="1000">
 </p>
+
+<p align="center">
+  Empathy Mapping  Alexander Dávila - Elaboración propia
+</p>
+
+<br>
 
 #### 2.3.5. As-is Scenario Mapping  
 
@@ -1788,8 +1813,20 @@ Este Journey Map describe el proceso de Alexander Dávila en su busqueda de post
 </p>
 
 <p align="center">
+  As-is Scenario Mapping  1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/As-Is Escenario2.png" alt="As-Is Scenario2" width="1000">
 </p>
+
+<p align="center">
+  As-is Scenario Mapping  2 - Elaboración propia
+</p>
+
+<br>
 
 ### 2.4. Ubiquitous Language  
 
@@ -1800,12 +1837,21 @@ El lenguaje a utilizar para este proyecto es:
   <img src="images/Language.png" alt="UbiquitousLanguage1" width="1000">
 </p>
 
+<p align="center">
+   Ubiquitous Language 1 - Elaboración propia
+</p>
+
+<br>
 
 <p align="center">
   <img src="images/Language2.png" alt="UbiquitousLanguage2" width="1000">
 </p>
 
+<p align="center">
+  Ubiquitous Language 2 - Elaboración propia
+</p>
 
+<br>
 
 ---
 
@@ -1817,10 +1863,19 @@ El lenguaje a utilizar para este proyecto es:
   <img src="images/estudiante_to_be.png" alt="estudiante to be" width="80%">
 </p>
 
+<p align="center">
+  To-be Scenario Mapping estudiante - Elaboración propia
+</p>
+
+
 <br>
 
 <p align="center">
   <img src="images/gerente_to_be.png" alt="gerente to be" width="80%">
+</p>
+
+<p align="center">
+  To-be Scenario Mapping gerente - Elaboración propia
 </p>
 
 <br>
@@ -2470,28 +2525,70 @@ El lenguaje a utilizar para este proyecto es:
 </p>
 
 <p align="center">
+  Impact Mapping 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/impactMapping/parte2.png" alt="impact mapping" width="80%">
 </p>
+
+<p align="center">
+  Impact Mapping 2 - Elaboración propia
+</p>
+
+<br>
 
 <p align="center">
   <img src="images/impactMapping/parte3.png" alt="impact mapping" width="80%">
 </p>
 
 <p align="center">
+  Impact Mapping 3 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/impactMapping/parte4.png" alt="impact mapping" width="80%">
 </p>
+
+<p align="center">
+  Impact Mapping 4 - Elaboración propia
+</p>
+
+<br>
 
 <p align="center">
   <img src="images/impactMapping/parte5.png" alt="impact mapping" width="80%">
 </p>
 
 <p align="center">
+  Impact Mapping 5 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/impactMapping/parte6.png" alt="impact mapping" width="80%">
 </p>
 
 <p align="center">
+  Impact Mapping 6 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/impactMapping/parte7.png" alt="impact mapping" width="80%">
 </p>
+
+<p align="center">
+  Impact Mapping 7 - Elaboración propia
+</p>
+
+<br>
 
 ### 3.4. Product Backlog  <br><br>
 
@@ -2750,6 +2847,11 @@ El lenguaje a utilizar para este proyecto es:
   <img src="images/product_backlog.png" alt="product backlog" width="80%">
 </p>
 
+<p align="center">
+  Product Backlog - Elaboración propia
+</p>
+
+<br>
 
 https://trello.com/b/sMeOQ8TS/product-backlog-unittalents 
 
@@ -2775,6 +2877,12 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
   <p align="center">
     <img src="images/LogoUniTalents-Connect.png"/ width=70%>
   </p>
+
+  <p align="center">
+    Logo UniTalent Conncect - Elaboración propia
+  </p>
+
+  <br>
 
 - _Typography:_
     - La tipografía utilizada en el logotipo es una fuente sans-serif geométrica, amigable y legible. Para mantener coherencia, se adoptará un sistema tipográfico similar en toda la aplicación.
@@ -2812,6 +2920,12 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
 <p align="center">
     <img src="images/system-colors.png"/ width=70%>
 </p>
+
+<p align="center">
+    System Colors UniTalent Connect - Elaboración propia
+</p>
+
+<br>
 
 - _Spacing:_
     - La coherencia en el espaciado es clave para una interfaz limpia y clara.
@@ -2944,6 +3058,11 @@ El sistema de etiquetado ha sido diseñado para ser intuitivo, minimalista y con
 <p align="center">
   <img src="images/labelingSystem.jpg" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Labeling System - Elaboración propia
+</p>
+
 
 <br><br>
 
@@ -3102,21 +3221,41 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 <p align="center">
   <img src="images/landingPage/wfLP1.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframes 1 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/wfLP2.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframes 2 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/wfLP3.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframes 3 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/wfLP4.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframes 4 - Elaboración propia
+</p>
+
 <br><br>
 
 #### 4.3.2. Landing Page Mock-up  
@@ -3124,21 +3263,41 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 <p align="center">
   <img src="images/landingPage/lp1.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Mock-up 1 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/lp2.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Mock-up 2 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/lp3.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Mock-up 3 - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/landingPage/lp4.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Mock-up 4 - Elaboración propia
+</p>
+
 <br><br>
 
 ### 4.4. Web Applications UX/UI Design
@@ -3157,16 +3316,31 @@ Permite a nuevos usuarios crear una cuenta como estudiante o gerente, y a usuari
 <p align="center">
   <img src="images/wireframes/Sign In.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Sing In - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/wireframes/Manager Register.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Manager Register - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/wireframes/Student Register.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student Register - Elaboración propia
+</p>
+
 <br><br>
 
 + Dashboard del Estudiante:
@@ -3176,6 +3350,11 @@ Muestra un resumen del estado de las postulaciones, proyectos sugeridos, y acces
 <p align="center">
   <img src="images/wireframes/Estudiante 01 -Homepage.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student Homepage - Elaboración propia
+</p>
+
 <br><br>
 
 + Agregar Proyecto al Portafolio:
@@ -3185,6 +3364,11 @@ Formulario para registrar un nuevo proyecto, con campos como título, descripci�
 <p align="center">
   <img src="images/wireframes/Estudiante 07 - Portafolio - Add project.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student Add project - Elaboración propia
+</p>
+
 <br><br>
 
 + Vista del Portafolio del Estudiante:
@@ -3194,6 +3378,11 @@ Muestra todos los proyectos subidos con opción de editar o eliminar.
 <p align="center">
   <img src="images/wireframes/Estudiante 06 - Portafolio.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student portafolio - Elaboración propia
+</p>
+
 <br><br>
 
 + Mis Postulaciones:
@@ -3203,6 +3392,11 @@ Muestra el estado actual de todas las postulaciones enviadas (en revisión, acep
 <p align="center">
   <img src="images/wireframes/Estudiante 15 - Mis Postulaciones.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Student Mis postulaciones - Elaboración propia
+</p>
+
 <br><br>
 
 + Dashboard del Gerente:
@@ -3212,6 +3406,11 @@ Muestra resumen de proyectos activos, buscar talento, mis evaluaciones y mi empr
 <p align="center">
   <img src="images/wireframes/Gerente 01 - Homepage.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Gerente Homepage - Elaboración propia
+</p>
+
 <br><br>
 
 + Vista del Proyecto:
@@ -3221,6 +3420,11 @@ Presenta los detalles del proyecto ya concluido, historial del proceso, entregab
 <p align="center">
   <img src="images/wireframes/Gerente 03 - ver info proyecto.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Gerente Ver información proyecto - Elaboración propia
+</p>
+
 <br><br>
 
 + Buscar Talento:
@@ -3230,6 +3434,11 @@ Permite buscar estudiantes por filtros, acceder a perfiles, portafolios y evalua
 <p align="center">
   <img src="images/wireframes/Gerente 08 - Buscar Talento.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Gerente Buscar Talento - Elaboración propia
+</p>
+
 <br><br>
 
 + Evaluaciones:
@@ -3239,6 +3448,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/wireframes/Gerente 15 - Evaluaciones.png" alt="wireframe" width="1000">
 </p>
+
+<p align="center">
+    Wireframe Gerente Evaluaciones - Elaboración propia
+</p>
+
 <br><br>
 
 
@@ -3260,6 +3474,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/wireflows/wf1.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Login y Register - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 2: Postular a un proyecto**
@@ -3273,6 +3492,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/wireflows/wf2.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Postular a un proyecto - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 3: Gestionar portafolio**
@@ -3286,6 +3510,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/wireflows/wf3.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Gestionar portafolio - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 4: Calificar empresa**
@@ -3299,6 +3528,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/wireflows/wf4.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Calificar empresa - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 5: Crear proyecto**
@@ -3312,6 +3546,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/wireflows/wf5.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Crear Proyecto - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 6: Calificar postulante**
@@ -3325,6 +3564,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/wireflows/wf6.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Calificar Postulante - Elaboración propia
+</p>
+
 <br><br>
 
 + **Wireflow 7: Contratar estudiante**
@@ -3338,6 +3582,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/wireflows/wf7.png" alt="wireflows" width="1000">
 </p>
+
+<p align="center">
+    Wireflow Contratar estudiante - Elaboración propia
+</p>
+
 <br><br>
 
 #### 4.4.3. Web Applications Mock-ups  
@@ -5820,23 +6069,22 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>a</td>
+    <td>00:00 - 10:04</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
-      Resumen: <br>
-      a
+      Resumen: Estefano Solis considera que la pantalla principal de la app es clara y bien organizada, aunque sugiere mejorar la visibilidad de los filtros. Destaca que revisar y postular a proyectos es un proceso sencillo, directo y satisfactorio, sin necesidad de llenar formularios extensos. Señala que la información de los proyectos es suficiente, aunque en algunos casos se podría ampliar la descripción. La sección de postulaciones le resulta clara y le brinda tranquilidad al mostrar el estado de cada proceso. Valora mucho la función del portafolio, ya que facilita mostrar la experiencia adquirida. Para él, la posibilidad de encontrar y postular a proyectos es lo más útil, ya que permite a los estudiantes acceder a experiencia real. Además, opina que el diseño visual de la app es limpio, moderno e intuitivo.
     </td>
   </tr>
   <tr>
     <td colspan="2"><br>
-      <img src="#" alt="entrevista1" width="1000"><br>
+      <img src="images/entrevista1estefano.jpg" alt="entrevista1" width="1000"><br>
     </td>
   </tr>
 </table>
@@ -5861,12 +6109,12 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>a</td>
+    <td>10:04 - 18:14</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo2MDQsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=7QUeDD" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
     </td>
   </tr>
   <tr>
@@ -5905,12 +6153,12 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>a</td>
+    <td>18:14 - 25:19</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDk0LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=fd5oBv" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
     </td>
   </tr>
   <tr>
@@ -5946,12 +6194,12 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>a</td>
+    <td>25:19 - 30:25</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTE5LjQzMiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=JWL127" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
     </td>
   </tr>
   <tr>
