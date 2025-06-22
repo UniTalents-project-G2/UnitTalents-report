@@ -4530,26 +4530,6 @@ link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
             <td>Done</td>
         </tr>
         <tr>
-            <td>TS02</td>
-            <td>Endpoint para creación de proyectos</td>
-            <td>T10</td>
-            <td>Creacion de endpoint para proyectos</td>
-            <td>Como developer, quiero crear un endpoint para que los gerentes puedan publicar nuevos proyectos, para que los estudiantes puedan visualizar y postular.</td>
-            <td>3</td>
-            <td>Andres Coca</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TS03</td>
-            <td>Endpoint para postulación a proyectos</td>
-            <td>T11</td>
-            <td>Creacion de endpoint para postulantes a proyectos</td>
-            <td>Como developer, quiero desarrollar un endpoint para que los estudiantes puedan postular a proyectos, para registrar su interés formal en una oportunidad.</td>
-            <td>3</td>
-            <td>Erick Palomino</td>
-            <td>Done</td>
-        </tr>
-        <tr>
             <td>TS04</td>
             <td>Endpoint para calificación de desempeño</td>
             <td>T12</td>
@@ -5045,7 +5025,7 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
   </tr>
   <tr>
     <td><strong>Sprint 3 Velocity</strong></td>
-    <td>11111</td>
+    <td>34</td>
   </tr>
 </table>
 <br>
@@ -5056,20 +5036,20 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <table align="center">
   <tr>
     <td><strong>Team Member</strong></td>
-    <td><strong>a</strong></td>
-    <td><strong>a</strong></td>
-    <td><strong>a</strong></td>
-    <td><strong>a</strong></td>
-    <td><strong>a</strong></td>
-    <td><strong>a</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Desarrollo del módulo Shared</strong></td>
+    <td><strong>Desarrollo del módulo Students</strong></td>
+    <td><strong>Desarrollo del módulo Companies</strong></td>
+    <td><strong>Desarrollo del módulo Projects</strong></td>
+    <td><strong>Desarrollo del módulo Postulations</strong></td>
   </tr>
   <tr>
     <td>Gonzales Alvarado, Javier Sebastian</td>
     <td>WoodsDos</td>
+    <td>L</td>
     <td>C</td>
     <td>C</td>
-    <td>L</td>
-    <td>L</td>
+    <td>C</td>
     <td>C</td>
   </tr>
   <tr>
@@ -5077,9 +5057,9 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
     <td>MrAndres08DV</td>
     <td>C</td>
     <td>C</td>
-    <td>C</td>
-    <td>C</td>
     <td>L</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Palomino Fiestas, Erick Leonardo</td>
@@ -5093,11 +5073,20 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
   <tr>
     <td>Rivera Ratachi, Renzo Sebastian</td>
     <td>renzor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
     <td>L</td>
     <td>C</td>
+  </tr>
+  <tr>
+    <td>Cesar Alejandro Linares Bernable</td>
+    <td>Cesar-Linares</td>
     <td>C</td>
     <td>C</td>
     <td>C</td>
+    <td>C</td>
+    <td>L</td>
   </tr>
 </table>
 <br>
@@ -5108,9 +5097,13 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 Durante el tercer sprint backlog, el equipo tuvo la tarea de realizar y completar el backedn de la aplicación. La herramienta empleada para la organización y gestión a los miembros del equipo fue Trello. Ya que esta herramienta permitió que se pueda dividir todas las user stories
 en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades.
 
-<img src="#" alt="trello3" width="1000">
+<img src="images/SprintBackLog3-Trello.png" alt="trello3" width="1000">
 
-link al trello:
+<br>
+
+link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d652195d9919855cda5c8463e15e78E98523/sprint-3-backlog-apps-web
+
+<br>
 
 <table border="1" cellspacing="0" cellpadding="5">
     <thead>
@@ -5135,13 +5128,83 @@ link al trello:
     </thead>
     <tbody>
         <tr>
-            <td>US15</td>
-            <td>Registrarse como usuario</td>
+            <td>US10</td>
+            <td>Modificación de perfil de usuario</td>
             <td>T01</td>
-            <td>Formulario de registro</td>
-            <td>Como usuario nuevo, quiero crear una cuenta, para utilizar la aplicación.</td>
+            <td>Endpoint y lógica de edición de perfil</td>
+            <td>Como usuario, quiero modificar mi información de perfil, para mantener mis datos actualizados</td>
+            <td>4</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US12</td>
+            <td>Actualizar URL del portafolio</td>
+            <td>T02</td>
+            <td>Gestión y validación de URL de portafolio</td>
+            <td>Como usuario, quiero actualizar el enlace a mi portafolio, para mostrar mi trabajo en la plataforma.</td>
             <td>4</td>
             <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Búsqueda de postulante</td>
+            <td>T03</td>
+            <td>Filtro y motor de búsqueda de postulantes</td>
+            <td>Como gerente, quiero buscar postulantes por criterios, para encontrar candidatos ideales para mi proyecto.</td>
+            <td>6</td>
+            <td>Renzo Rivera</td>
+            <td>In procces</td>
+        </tr>
+        <tr>
+            <td>US28</td>
+            <td>Visualizar oportunidades para estudiante</td>
+            <td>T04</td>
+            <td>Vista de oportunidades disponibles</td>
+            <td>Como estudiante, quiero ver oportunidades activas, para postular a prácticas o empleos de mi interés.</td>
+            <td>4</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US29</td>
+            <td>Visualizar portafolio para estudiante</td>
+            <td>T05</td>
+            <td>Interfaz de visualización de portafolios</td>
+            <td>Como gerente, quiero ver el portafolio de un estudiante, para evaluar su experiencia y habilidades.</td>
+            <td>5</td>
+            <td>Cesar Linares</td>
+            <td>In process</td>
+        </tr>
+        <tr>
+            <td>US30</td>
+            <td>Visualizar postulaciones para gerentes</td>
+            <td>T06</td>
+            <td>Módulo de gestión de postulaciones</td>
+            <td>Como gerente, quiero ver quiénes se postularon, para analizar sus perfiles antes de contactar.</td>
+            <td>5</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS02</td>
+            <td>Endpoint para creación de proyectos</td>
+            <td>T07</td>
+            <td>Creacion de endpoint para proyectos</td>
+            <td>Como developer, quiero crear un endpoint para que los gerentes puedan publicar nuevos proyectos, para que los estudiantes puedan visualizar y postular.</td>
+            <td>3</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS03</td>
+            <td>Endpoint para postulación a proyectos</td>
+            <td>T08</td>
+            <td>Creacion de endpoint para postulantes a proyectos</td>
+            <td>Como developer, quiero desarrollar un endpoint para que los estudiantes puedan postular a proyectos, para registrar su interés formal en una oportunidad.</td>
+            <td>3</td>
+            <td>Leonardo Palomino</td>
             <td>Done</td>
         </tr>
     </tbody>
@@ -5265,13 +5328,18 @@ link al trello:
 *Entrevistas a Managers*
 ---
 
-1.
-3.
-4.
-5.
-6.
-7.
-7.
+1. ¿Le resulta sencillo publicar una oferta laboral o una práctica profesional en la plataforma?
+
+2. ¿Ha podido filtrar candidatos de manera efectiva según habilidades, formación, experiencia u otros criterios relevantes para su equipo?
+
+3. ¿Recibe notificaciones útiles cuando aparecen perfiles que se ajustan a sus necesidades?
+
+4. ¿Ha notado si los jóvenes pueden mostrar claramente sus proyectos, logros o experiencias dentro de su perfil?
+
+5. ¿La interfaz le ha parecido clara y fácil de navegar, incluso si no tiene mucha experiencia en herramientas digitales?
+
+6. ¿Considera que el diseño visual de la plataforma (colores, tipografía, organización) transmite profesionalismo y confianza?
+
 
 #### 5.3.2 Registro de Entrevistas
 
@@ -5449,47 +5517,6 @@ link al trello:
     <th colspan="2" style="text-align:center">Entrevista 2</th>
   </tr>
   <tr>
-    <td><strong>Entrevistada</strong></td>
-    <td>Jackeline Garcia</td>
-  </tr>
-  <tr>
-    <td><strong>Edad</strong></td>
-    <td>39</td>
-  </tr>
-  <tr>
-    <td><strong>Distrito</strong></td>
-    <td>San Miguel</td>
-  </tr>
-  <tr>
-    <td><strong>Timing</strong></td>
-    <td>a</td>
-  </tr>
-  <tr>
-    <td><strong>URL</strong></td>
-    <td>
-      <a href="#" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:justify">
-      Resumen:<br>
-      a
-    </td>
-  </tr>
-   <tr>
-    <td colspan="2"><br>
-      <img src="#" alt="entrevistada" width="1000"><br>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<table align="center">
-  <tr>
-    <th colspan="2" style="text-align:center">Entrevista 3</th>
-  </tr>
-  <tr>
     <td><strong>Entrevistado</strong></td>
     <td>Luis Enrique Ayala</td>
   </tr>
@@ -5514,12 +5541,12 @@ link al trello:
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen:<br>
-      a
+      el Sr. Luis Enrique Ayala, gerente que entrevistamos en otra oportunidad, quien pudo probar nuestra solución: Unitalent Connect. El Sr. Ayala exploró las funcionalidades clave, como la creación y edición de proyectos, el seguimiento de su estado, la filtración de candidatos por carrera y la visualización de perfiles. Sus comentarios resaltan la facilidad de uso, la claridad de la interfaz y la utilidad de la plataforma para reclutar talento joven, aunque sugiere mejoras en la comparación de proyectos y la adaptabilidad a dispositivos móviles para una mayor flexibilidad y alcance.
     </td>
   </tr>
    <tr>
     <td colspan="2"><br>
-      <img src="#" alt="entrevista" width="1000"><br>
+      <img src="images/Entrevista de Validación - Andrés.png" alt="entrevista" width="1000"><br>
     </td>
   </tr>
 </table>
@@ -5530,26 +5557,29 @@ link al trello:
 
 UniTalent Connect
 
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web UniTalentConnect.
+
 **TAREAS A EVALUAR**
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. 
-2.
-3.
-4. 
-5.
-6.
-7.
-8.
+**Web Application:**
+
+1. Indicadores claros de progreso o estado del proceso
+2. Iconografía comprensible y consistente con el mundo real
+3. Evaluar existencia de patrones de diseño o navegación
+4. Elementos de la interfaz de usuario consistentes
+5. Botones interactivos y de uso intuitivo
+6. Navegación y orientación dentro de la aplicación
+7. Visualización de perfil de usuario
+8. Estética general de la interfaz atractiva y agradable visualmente
 
 No están incluidas en esta version de la evaluación las siguientes tareas:
 
-1.
-2.
-3.
-4.
-5.
+**Web Application**
+
+1. Diseño responsive / flexibilidad de uso
+2. Política de privacidad y condiciones de uso
 
 **ESCALA DE SEVERIDAD**
 
@@ -5592,96 +5622,106 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
     </tr>
     <tr>
       <td>1</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Falta de diseño responsive</td>
+      <td>3</td>
+      <td>Flexibilidad y eficiencia de uso</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Ausencia de comparación entre proyectos</td>
+      <td>2</td>
+      <td>Flexibilidad y eficiencia de uso</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Notificaciones poco útiles para posiciones senior</td>
+      <td>1</td>
+      <td>Control y libertad del usuario</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Limitada ponderación objetiva de criterios en proyectos</td>
+      <td>2</td>
+      <td>Visibilidad del estado del sistema</td>
     </tr>
         <tr>
       <td>5</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Filtros poco flexibles para diferentes niveles de candidatos</td>
+      <td>2</td>
+      <td>Flexibilidad y eficiencia de uso</td>
     </tr>  
   </tbody>
 </table>
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-Problema #1: a
+Problema #1: Falta de diseño responsive.
 
-Severidad: 3 - a
+Severidad: 3 
 
-Problema: a
+Principio violado: Flexibilidad y eficiencia de uso
 
-<img src="#" alt="screenshot heuristica 1" width="1000">
+Problema: La falta de diseño responsive es limitada. Esto afecta negativamente a los usuarios que desean revisar o gestionar convocatorias y proyectos fuera de una computadora de escritorio. Al no haber una interfaz responsive, la plataforma pierde accesibilidad y eficiencia, especialmente para gerentes que requieren movilidad.
 
-Recomendación: a
+<img src="images/HeuristicaProblema1.png" alt="screenshot heuristica 1" width="1000">
 
----
-
-Problema #2: a
-
-Severidad: 3 - a
-
-Problema: a
-
-<img src="#" alt="screenshot heuristica 1" width="1000">
-
-Recomendación: a
+Recomendación: Implementar un diseño responsive que se adapte correctamente a distintos tamaños de pantalla (celulares, tablets y laptops), mejorando la portabilidad y el alcance de la plataforma.
 
 ---
 
-Problema #3: a
+Problema #2: Ausencia de comparación entre proyectos.
 
-Severidad: 3 - a
+Severidad: 2
 
-Problema: a
+Principio violado: Flexibilidad y eficiencia de uso
 
-<img src="#" alt="screenshot heuristica 1" width="1000">
+Problema: La falta de una funcionalidad que permita comparar proyectos entre sí. Actualmente, no existe un mecanismo en la interfaz que permita al gerente visualizar lado a lado los logros, habilidades u otros criterios de los candidatos, lo cual complica el proceso de evaluación objetiva.
 
-Recomendación: a
+<img src="images/HeuristicaProblema2.png" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: Incorporar una vista de comparación entre proyectos, con criterios personalizables por el reclutador (por ejemplo, habilidades, impacto, tecnologías utilizadas), que facilite la toma de decisiones.
 
 ---
 
-Problema #4: a
+Problema #3: Las notificaciones automáticas son útiles solo para posiciones junior.
 
-Severidad: 3 - a
+Severidad: 1
 
-Problema: a
+Principio violado: Control y libertad del usuario
 
-<img src="#" alt="screenshot heuristica 1" width="1000">
+Problema: las notificaciones de coincidencias de perfil funcionan para vacantes de nivel inicial, pero no son útiles para puestos senior. Esta automatización sin distinción puede resultar irrelevante o incluso molesta para usuarios que prefieren realizar búsquedas específicas mediante headhunters.
 
-Recomendación: a
+<img src="images/HeuristicaProblema3.png" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: Permitir a los usuarios personalizar las notificaciones según el tipo de vacante (entry-level, mid, senior), otorgando mayor control sobre la información que desean recibir.
+
+---
+
+Problema #4: No se puede ponderar ni evaluar objetivamente los proyectos.
+
+Severidad: 2
+
+Principio violado: Visibilidad del estado del sistema
+
+Problema: Aunque se pueden subir proyectos, el sistema no permite ponderar criterios importantes como innovación, impacto, complejidad o adecuación al perfil requerido. Esto impide al usuario identificar claramente cuál proyecto se ajusta mejor a sus necesidades.
+
+<img src="images/HeuristicaProblema4.png" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: Añadir herramientas que permitan asignar peso a diferentes atributos o criterios de evaluación, mostrando gráficamente o mediante puntuaciones qué tan bien se ajusta cada proyecto a lo requerido.
+
+---
+
+Problema #5: Los filtros no son lo suficientemente flexibles para diferentes niveles o tipos de candidatos.
+
+Severidad: 2
+
+Principio violado: Flexibilidad y eficiencia de uso
+
+Problema: Aunque se puede filtrar por carrera, no es posible filtrar por experiencia, tipo de contrato o habilidades específicas. Esto limita la capacidad del gerente para refinar su búsqueda y encontrar perfiles altamente compatibles.
+
+<img src="images/HeuristicaProblema5.png" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: Ampliar las opciones de filtrado incluyendo campos como años de experiencia, tecnologías dominadas, idiomas, disponibilidad o tipo de puesto (prácticas, freelance, planta, etc.).
 
 ---
 
