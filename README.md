@@ -3603,16 +3603,31 @@ Permite a nuevos usuarios crear una cuenta como estudiante o gerente, y a usuari
 <p align="center">
   <img src="images/mockups/Sign In.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Login - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/mockups/Manager Register.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Register Manager - Elaboración propia
+</p>
+
 <br><br>
 
 <p align="center">
   <img src="images/mockups/Student Register.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Register Student - Elaboración propia
+</p>
+
 <br><br>
 
 + Dashboard del Estudiante:
@@ -3622,6 +3637,11 @@ Muestra un resumen del estado de las postulaciones, proyectos sugeridos, y acces
 <p align="center">
   <img src="images/mockups/HomePage(Estudiante).png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Homepage Estudiante - Elaboración propia
+</p>
+
 <br><br>
 
 + Agregar Proyecto al Portafolio:
@@ -3631,6 +3651,11 @@ Formulario para registrar un nuevo proyecto, con campos como título, descripci�
 <p align="center">
   <img src="images/mockups/Estudiante - Portafolio - Add project.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Agregar Proyecto al Portafolio - Elaboración propia
+</p>
+
 <br><br>
 
 + Vista del Portafolio del Estudiante:
@@ -3640,6 +3665,11 @@ Muestra todos los proyectos subidos con opción de editar o eliminar.
 <p align="center">
   <img src="images/mockups/Estudiante - Portafolio.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Vista del Portafolio - Elaboración propia
+</p>
+
 <br><br>
 
 + Mis Postulaciones:
@@ -3649,6 +3679,11 @@ Muestra el estado actual de todas las postulaciones enviadas (en revisión, acep
 <p align="center">
   <img src="images/mockups/Estudiante - Mis Postulaciones.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Mis Postulaciones - Elaboración propia
+</p>
+
 <br><br>
 
 + Dashboard del Gerente:
@@ -3658,6 +3693,11 @@ Muestra resumen de proyectos activos, buscar talento, mis evaluaciones y mi empr
 <p align="center">
   <img src="images/mockups/HomePage(Gerente).png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Dashboard Gerente - Elaboración propia
+</p>
+
 <br><br>
 
 + Vista del Proyecto:
@@ -3667,6 +3707,11 @@ Presenta los detalles del proyecto ya concluido, historial del proceso, entregab
 <p align="center">
   <img src="images/mockups/View Project Info.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Vista de Proyecto - Elaboración propia
+</p>
+
 <br><br>
 
 + Buscar Talento:
@@ -3676,6 +3721,11 @@ Permite buscar estudiantes por filtros, acceder a perfiles, portafolios y evalua
 <p align="center">
   <img src="images/mockups/Gerente - Buscar Talento.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Buscar Talento - Elaboración propia
+</p>
+
 <br><br>
 
 + Evaluaciones:
@@ -3685,6 +3735,11 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 <p align="center">
   <img src="images/mockups/Gerente - Evaluaciones.png" alt="mockup" width="1000">
 </p>
+
+<p align="center">
+    Web Applications Mock-ups Evaluaciones - Elaboración propia
+</p>
+
 <br><br>
 
 
@@ -3708,6 +3763,11 @@ Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows pre
 <p align="center">
   <img src="images/userflows/login.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Login- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 2: Postular a un proyecto**
@@ -3721,6 +3781,11 @@ Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows pre
 <p align="center">
   <img src="images/userflows/postular.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Postular Proyecto- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 3: Gestionar portafolio**
@@ -3734,6 +3799,11 @@ Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows pre
 <p align="center">
   <img src="images/userflows/gestionarportafolio.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Gestionar Portafolio- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 4: Calificar empresa**
@@ -3747,6 +3817,11 @@ Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows pre
 <p align="center">
   <img src="images/userflows/calificar empresa.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Calificar empresa- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 5: Crear proyecto**
@@ -3760,6 +3835,11 @@ Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows pre
 <p align="center">
   <img src="images/userflows/crearproyecto.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Crear Proyecto- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 6: Calificar postulante**
@@ -3773,6 +3853,11 @@ Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows pre
 <p align="center">
   <img src="images/userflows/calificarestudainte.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Calificar postulante- Elaboración propia
+</p>
+
 <br><br>
 
 + **User Flow Diagram 7: Contratar estudiante**
@@ -3786,6 +3871,11 @@ Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows pre
 <p align="center">
   <img src="images/userflows/contratarestudiante.png" alt="userflows" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow Contratar estudiante- Elaboración propia
+</p>
+
 <br><br>
 
 
@@ -3806,6 +3896,12 @@ El diagrama de contexto ofrece una visión general de alto nivel que representa 
   <img src="images/diagramaC4/c4-context.png" alt="" width="800">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Context- Elaboración propia
+</p>
+
+<br>
+
 #### 4.6.2. Software Architecture Container Diagrams  
 
 El diagrama de contenedores proporciona una vista general de alto nivel sobre el software UniTalent Connect.
@@ -3813,6 +3909,12 @@ El diagrama de contenedores proporciona una vista general de alto nivel sobre el
 <p align="center">
   <img src="images/diagramaC4/c4-container.png" alt="" width="1000">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Container- Elaboración propia
+</p>
+
+<br>
 
 #### 4.6.3. Software Architecture Components Diagrams  
 
@@ -3823,45 +3925,99 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
   <img src="images/diagramaC4/c4-registro-usuarios.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Registro de Usuarios- Elaboración propia
+</p>
+
+<br>
+
 **Autenticación y Autorización**
 <p align="center">
   <img src="images/diagramaC4/c4-autenticacion-autorizacion.png" alt="" width="500">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Components Autenticación de Autorización- Elaboración propia
+</p>
+
+<br>
 
 **Gestión de Proyectos**
 <p align="center">
   <img src="images/diagramaC4/c4-gestion-proyectos.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Gestion de Proyectos- Elaboración propia
+</p>
+
+<br>
+
 **Gestión de Pagos y Suscripciones**
 <p align="center">
   <img src="images/diagramaC4/c4-gestion-pagos-suscripciones.png" alt="" width="500">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Components Gestion de Pagos de Suscripciones- Elaboración propia
+</p>
+
+<br>
 
 **Notificaciones**
 <p align="center">
   <img src="images/diagramaC4/c4-notificaciones.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Notificaciones- Elaboración propia
+</p>
+
+<br>
+
 **Gestión de Perfiles y Portafolios**
 <p align="center">
   <img src="images/diagramaC4/c4-gestion-perfiles-portafolios.png" alt="" width="500">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Components Gestion de Perfil y Portafolio- Elaboración propia
+</p>
+
+<br>
 
 **Sistema de Evaluaciones**
 <p align="center">
   <img src="images/diagramaC4/c4-sistema-evaluaciones.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Sistema de Evaluación- Elaboración propia
+</p>
+
+<br>
+
 **Modulo de Búsqueda**
 <p align="center">
   <img src="images/diagramaC4/c4-modulo-busqueda.png" alt="" width="500">
 </p>
 
+<p align="center">
+    Web Applications User Flow C4 Components Modulo de Busqueda- Elaboración propia
+</p>
+
+<br>
+
 **Panel Administración**
 <p align="center">
   <img src="images/diagramaC4/c4-panel-administrativo.png" alt="" width="500">
 </p>
+
+<p align="center">
+    Web Applications User Flow C4 Components Panel Administración- Elaboración propia
+</p>
+
+<br>
 
 ### 4.7. Software Object-Oriented Design
 
@@ -3875,8 +4031,20 @@ Link: https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?vie
 </p>
 
 <p align="center">
+    Class Diagram- Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
   <img src="images/class_diagram.jpg" alt = "updated class diagram" width="80%">
 </p>
+
+<p align="center">
+    Diagrama del Frontend- Elaboración propia
+</p>
+
+<br>
 
 #### 4.7.2. Class Dictionary  
 
@@ -3898,8 +4066,14 @@ Link: https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?vie
 #### 4.8.1. Database Diagram  
 
 <p align="center">
-  <img src="images/database-diagram.png" alt="database diagram" width="80%">
+  <img src="images/database1.jpg" alt="database diagram" width="80%">
 </p>
+
+<p align="center">
+    Database Diagram- Elaboración propia
+</p>
+
+<br>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
@@ -3988,6 +4162,12 @@ GitFlow se implementará como el flujo de trabajo para gestionar las ramas del p
 <p align="center">
   <img src="images/flujo-gitflow.png" alt="wireflows" width="500">
 </p>
+
+<p align="center">
+  Modelo de GitFlow- Elaboración propia
+</p>
+
+<br>
 
 Ramas principales:
 
@@ -4086,17 +4266,34 @@ Para el despliegue de nuestra Landing Page se utilizó Github Pages por la facil
   <img src="images/deployment-1.png" alt="deployment-evidence" width="1000">
 </p>
 
+<p align="center">
+  Landing Page Deployment 1 - Elaboración propia
+</p>
+
+<br>
+
 Se nos muestra el enlace que se usó para compartir la vista de nuestra Landing Page estática.
 
 <p align="center">
   <img src="images/deployment-2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
 
+<p align="center">
+  Landing Page Deployment 2 - Elaboración propia
+</p>
+
+<br>
+
 Se muestra nuestra landing page en GitHub Pages.
 
 <p align="center">
   <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Landing Page Deployment 3 - Elaboración propia
+</p>
+
 <br>
 
 [Enlace para acceder a la Landing Page](https://unitalents-project-g2.github.io/UniTalents-LandingPage/)
@@ -4221,6 +4418,12 @@ en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun
 construir en su totalidad la landing page, logrando que sea atractiva y funcional.
 
 <img src="images/SprintBacklogTrello.png" alt="wireflows" width="1000">
+
+<p align="center">
+  Sprint Backlog 1 Trello - Elaboración propia
+</p>
+
+<br>
 
 link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
 
@@ -4429,6 +4632,11 @@ Barra superior fija con el logo de UniTalents Connect, menú de navegación por 
 <p align="center">
   <img src="images/landingPage/header.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Header Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 2. Sección principal:
@@ -4438,6 +4646,11 @@ Bloque visual destacado con mensaje central claro, acompañado de una imagen o i
 <p align="center">
   <img src="images/landingPage/hero.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Seccion principal Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 3. Sección How it works:
@@ -4447,6 +4660,11 @@ Explicación sencilla y visual del funcionamiento de la plataforma en 4 pasos. I
 <p align="center">
   <img src="images/landingPage/how-it-works.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sección How it works Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 4. Sección casos de éxito:
@@ -4456,6 +4674,11 @@ Testimonios reales y breves de estudiantes y gerentes que utilizaron UniTalents 
 <p align="center">
   <img src="images/landingPage/casos.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sección casos de éxito Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 5. FAQs:
@@ -4465,6 +4688,11 @@ Sección de preguntas frecuentes organizada en formato acordeón, diseñada para
 <p align="center">
   <img src="images/landingPage/FAQs.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  FAQs Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 6. Footer:
@@ -4474,6 +4702,11 @@ Pie de página con enlaces a contacto.
 <p align="center">
   <img src="images/landingPage/footer.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Footer Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 7. Formulario de registro:
@@ -4483,6 +4716,11 @@ Nueva página donde los usuarios pueden crear una cuenta seleccionando su perfil
 <p align="center">
   <img src="images/landingPage/register.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Formulario de registro Landing page - Elaboración propia
+</p>
+
 <br><br>
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -4506,6 +4744,11 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 <p align="center">
   <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Activación de GitHub Pages - Elaboración propia
+</p>
+
 <br><br>
 
   + Confirmación del enlace del repositorio con entorno de publicación
@@ -4513,6 +4756,11 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 <p align="center">
   <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Confirmación del repositorio - Elaboración propia
+</p>
+
 <br><br>
 
   + Visualización activa del dominio temporal generado por GitHub Pages
@@ -4520,6 +4768,11 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 <p align="center">
   <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Visualización activa del dominio - Elaboración propia
+</p>
+
 <br>
 
 https://unitalents-project-g2.github.io/UniTalents-LandingPage/
@@ -4564,11 +4817,21 @@ https://unitalents-project-g2.github.io/UniTalents-LandingPage/
 <p align="center">
   <img src="images/insights-spr1/insight-spr1-1.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Insight 1 Sprint 1 - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/insights-spr1/insight-spr1-2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Insight 2 Sprint 1 - Elaboración propia
+</p>
+
 <br>
 
 *Nota:*
@@ -4577,6 +4840,11 @@ Nuestro compañero César Linares utilizó una plataforma externa a GitHub para 
 <p align="center">
   <img src="images/insights-spr1/insight-spr1-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Insight 3 Sprint 1 - Elaboración propia
+</p>
+
 <br>
 
 ---
@@ -4696,6 +4964,12 @@ en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun
 construir en su totalidad la landing page, logrando que sea atractiva y funcional.
 
 <img src="images/Sprint2BacklogTrello.png" alt="trello2" width="1000">
+
+<p align="center">
+  Sprint Backlog 2 - Elaboración propia
+</p>
+
+<br>
 
 link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
 
@@ -4979,80 +5253,184 @@ diferentes secciones donde el usuario podra acceder tanto en ingles como en espa
 
 <img src="images/sprint2-evidence/signIN.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Login - Elaboración propia
+</p>
+
+<br>
 
 - US16
 
 <img src="images/sprint2-evidence/register.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Register - Elaboración propia
+</p>
+
+<br>
 
 - US17
 
 <img src="images/sprint2-evidence/managerNewProject.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Nuevo Proyecto - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/managerProyectos.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Proyectos - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/managerProyectosInfo.png" alt="wireflows" width="1000">
+
+<p align="center">
+  Sprint 2 Información de Proyectos - Elaboración propia
+</p>
+
+<br>
 
 - US18
 
 
 <img src="images/sprint2-evidence/managerEditPRoject.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Editar Proyectos - Elaboración propia
+</p>
+
+<br>
+
 - US19
 
 
 <img src="images/sprint2-evidence/managerDeletePRoject.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Borrar Proyecto - Elaboración propia
+</p>
+
+<br>
 
 - US30
 
 <img src="images/sprint2-evidence/managerPostulations.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Postulaciones - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/managerPostulationsList.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Lista de Postulaciones - Elaboración propia
+</p>
+
+<br>
 
 - US08
 
 <img src="images/sprint2-evidence/managerViewStudentReputation.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Reputación de Estudiante - Elaboración propia
+</p>
+
+<br>
+
 - US06
 <img src="images/sprint2-evidence/managerPortfolio.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Boton de Portafolio de Estudiante - Elaboración propia
+</p>
+
+<br>
 
 - US10
 
 <img src="images/sprint2-evidence/managerEditProfile.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Editar Perfil Manager - Elaboración propia
+</p>
+
+<br>
+
 - US07
 <img src="images/sprint2-evidence/postulaciones.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Postulaciones - Elaboración propia
+</p>
+
+<br>
 
 <img src="images/sprint2-evidence/postulaciones2.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver Postulacion 1 - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/postulaciones3.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver Postulacion 2 - Elaboración propia
+</p>
 
-
-
+<br>
 
 - US28
 <img src="images/sprint2-evidence/oportunidades.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Oportunidades - Elaboración propia
+</p>
+
+<br>
+
 <img src="images/sprint2-evidence/mostrarproyectodetalle.png" alt="wireflows" width="1000">
+
+<p align="center">
+  Sprint 2 Ver proyecto Oportunidades - Elaboración propia
+</p>
+
+<br>
 
 <img src="images/sprint2-evidence/verEmpresa.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver empresa Oportunidades - Elaboración propia
+</p>
 
+<br>
 
 - US29
 
 <img src="images/sprint2-evidence/portafolioviewall.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver Portafolio Estudiante - Elaboración propia
+</p>
 
+<br>
 
 <img src="images/sprint2-evidence/portafolio.png" alt="wireflows" width="1000">
 
+<p align="center">
+  Sprint 2 Ver Proyecto Portafolio Estudiante - Elaboración propia
+</p>
 
+<br>
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -5150,6 +5528,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Activación de GitHub Pages - Elaboración propia
+</p>
+
 <br><br>
 
   + Confirmación del enlace del repositorio con entorno de publicación
@@ -5157,6 +5540,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Confirmación del repositorio - Elaboración propia
+</p>
+
 <br><br>
 
   + Visualización activa del dominio temporal generado por GitHub Pages
@@ -5164,6 +5552,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Visualización activa del dominio - Elaboración propia
+</p>
+
 <br><br>
 
 *Front End:*
@@ -5174,6 +5567,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev0.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Creación de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
   + Configuración de la Static WebApp
@@ -5181,6 +5579,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev1.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Configuración de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
   + Vista de recursos de la Static WebApp
@@ -5188,6 +5591,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Vista de recursos de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
   + Confirmación de creación de la página desde GitHub
@@ -5195,6 +5603,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev3.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Confirmación de creación - Elaboración propia
+</p>
+
 <br><br>
 
   + Visualización activa de la Static WebApp en azure
@@ -5202,6 +5615,11 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ev4.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Visualización activa de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
 
@@ -5241,20 +5659,41 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
 <p align="center">
   <img src="images/sprint2/ins1.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Insight evidence 1 - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/sprint2/ins2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 2 Insight evidence 2 - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/sprint2/ins3.png" alt="deployment-evidence-confirmation" width="400">
 </p>
+
+<p align="center">
+  Sprint 2 Insight evidence 3 - Elaboración propia
+</p>
+
 <br>
+
 <p align="center">
   <img src="images/sprint2/ins4.png" alt="deployment-evidence-confirmation" width="400">
 </p>
+
+<p align="center">
+  Sprint 2 Insight evidence 4 - Elaboración propia
+</p>
+
 <br>
 
 ---
@@ -5381,6 +5820,10 @@ Durante el tercer sprint backlog, el equipo tuvo la tarea de realizar y completa
 en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades.
 
 <img src="images/SprintBackLog3-Trello.png" alt="trello3" width="1000">
+
+<p align="center">
+  Sprint Backlog 3 Trello- Elaboración propia
+</p>
 
 <br>
 
@@ -5750,11 +6193,21 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <p align="center">
   <img src="images/evidence-spr3/us10-1.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Perfil Estudiante- Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/evidence-spr3/us10-2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Editar Perfil Estudiante- Elaboración propia
+</p>
+
 <br><br>
 
 + US12
@@ -5763,6 +6216,11 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <p align="center">
   <img src="images/evidence-spr3/us12.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Enlace Portafolio Estudiante- Elaboración propia
+</p>
+
 <br><br>
 
 + US14
@@ -5771,6 +6229,11 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <p align="center">
   <img src="images/evidence-spr3/us14.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Filtrar Estudiantes- Elaboración propia
+</p>
+
 <br><br>
 
 + US28
@@ -5779,6 +6242,11 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <p align="center">
   <img src="images/evidence-spr3/us28.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Oportunidades - Elaboración propia
+</p>
+
 <br><br>
 
 + US29
@@ -5787,6 +6255,11 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <p align="center">
   <img src="images/evidence-spr3/us29.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Portafolio - Elaboración propia
+</p>
+
 <br><br>
 
 + US30
@@ -5795,6 +6268,11 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <p align="center">
   <img src="images/evidence-spr3/us30.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Ver Convocatorias - Elaboración propia
+</p>
+
 <br><br>
 
 + TS02
@@ -5803,6 +6281,11 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <p align="center">
   <img src="images/evidence-spr3/ts02.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Projects - Elaboración propia
+</p>
+
 <br><br>
 
 + TS03
@@ -5811,6 +6294,11 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <p align="center">
   <img src="images/evidence-spr3/ts03.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Postulations - Elaboración propia
+</p>
+
 <br><br>
 
 
@@ -5875,6 +6363,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Activación de GitHub Pages - Elaboración propia
+</p>
+
 <br><br>
 
   + Confirmación del enlace del repositorio con entorno de publicación
@@ -5882,6 +6375,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Confirmación del repositorio - Elaboración propia
+</p>
+
 <br><br>
 
   + Visualización activa del dominio temporal generado por GitHub Pages
@@ -5889,6 +6387,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Visualización activa del dominio - Elaboración propia
+</p>
+
 <br><br>
 
 *Front End:*
@@ -5899,6 +6402,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/sprint2/ev0.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Creación de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
   + Configuración de la Static WebApp
@@ -5906,6 +6414,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/sprint2/ev1.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Configuración de la Static WebApp - Elaboración propia
+</p>
+
 <br><br>
 
   + Vista de recursos de la Static WebApp
@@ -5913,6 +6426,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/sprint2/ev2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Vista de recursos de la Static WebApp- Elaboración propia
+</p>
+
 <br><br>
 
   + Confirmación de creación de la página desde GitHub
@@ -5920,6 +6438,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/sprint2/ev3.png" alt="evidencia-sprint" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Confirmación de creación de la página - Elaboración propia
+</p>
+
 <br><br>
 
   + Visualización activa de la Static WebApp en azure
@@ -5927,6 +6450,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/sprint2/ev4.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Visualización activa de la Static WebApp  - Elaboración propia
+</p>
+
 <br><br>
 
 *Back End:*
@@ -5978,16 +6506,31 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/ins-spr3/in1.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 1 Frontend - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/ins-spr3/in3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 2 Frontend - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/ins-spr3/in2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 3 Frontend - Elaboración propia
+</p>
+
 <br><br>
 
 *BackEnd*
@@ -5996,16 +6539,31 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 <p align="center">
   <img src="images/ins-spr3/infr1.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 1 Backend - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/ins-spr3/infr2.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 2 Backend - Elaboración propia
+</p>
+
 <br>
 
 <p align="center">
   <img src="images/ins-spr3/infr3.png" alt="deployment-evidence-confirmation" width="1000">
 </p>
+
+<p align="center">
+  Sprint 3 Insight Evidence 3 Backend - Elaboración propia
+</p>
+
 <br>
 
 ---
@@ -6335,6 +6893,12 @@ Problema: La falta de diseño responsive es limitada. Esto afecta negativamente 
 
 <img src="images/HeuristicaProblema1.png" alt="screenshot heuristica 1" width="1000">
 
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
 Recomendación: Implementar un diseño responsive que se adapte correctamente a distintos tamaños de pantalla (celulares, tablets y laptops), mejorando la portabilidad y el alcance de la plataforma.
 
 ---
@@ -6348,6 +6912,13 @@ Principio violado: Flexibilidad y eficiencia de uso
 Problema: La falta de una funcionalidad que permita comparar proyectos entre sí. Actualmente, no existe un mecanismo en la interfaz que permita al gerente visualizar lado a lado los logros, habilidades u otros criterios de los candidatos, lo cual complica el proceso de evaluación objetiva.
 
 <img src="images/HeuristicaProblema2.png" alt="screenshot heuristica 1" width="1000">
+
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
 
 Recomendación: Incorporar una vista de comparación entre proyectos, con criterios personalizables por el reclutador (por ejemplo, habilidades, impacto, tecnologías utilizadas), que facilite la toma de decisiones.
 
@@ -6363,6 +6934,12 @@ Problema: las notificaciones de coincidencias de perfil funcionan para vacantes 
 
 <img src="images/HeuristicaProblema3.png" alt="screenshot heuristica 1" width="1000">
 
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
 Recomendación: Permitir a los usuarios personalizar las notificaciones según el tipo de vacante (entry-level, mid, senior), otorgando mayor control sobre la información que desean recibir.
 
 ---
@@ -6376,6 +6953,12 @@ Principio violado: Visibilidad del estado del sistema
 Problema: Aunque se pueden subir proyectos, el sistema no permite ponderar criterios importantes como innovación, impacto, complejidad o adecuación al perfil requerido. Esto impide al usuario identificar claramente cuál proyecto se ajusta mejor a sus necesidades.
 
 <img src="images/HeuristicaProblema4.png" alt="screenshot heuristica 1" width="1000">
+
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
 
 Recomendación: Añadir herramientas que permitan asignar peso a diferentes atributos o criterios de evaluación, mostrando gráficamente o mediante puntuaciones qué tan bien se ajusta cada proyecto a lo requerido.
 
@@ -6391,6 +6974,12 @@ Problema: Aunque se puede filtrar por carrera, no es posible filtrar por experie
 
 <img src="images/HeuristicaProblema5.png" alt="screenshot heuristica 1" width="1000">
 
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
 Recomendación: Ampliar las opciones de filtrado incluyendo campos como años de experiencia, tecnologías dominadas, idiomas, disponibilidad o tipo de puesto (prácticas, freelance, planta, etc.).
 
 ---
@@ -6405,6 +6994,12 @@ Problema: La ausencia de un campo para el sitio web de la empresa impide mostrar
 
 <img src="images/ut-heuristica6.png" alt="screenshot heuristica 1" width="1000">
 
+<p align="center">
+  Heuristica 1- Elaboración propia
+</p>
+
+<br>
+
 Recomendación: Incluir un campo opcional para la URL del sitio web de la empresa en el perfil corporativo.
 
 ---
@@ -6413,6 +7008,13 @@ Recomendación: Incluir un campo opcional para la URL del sitio web de la empres
 ### 5.4 Video About-the-Product
 
 <img src="images/aboutTheTeam.png" alt="screenshot AboutTheProduct" width="1000">
+
+<p align="center">
+  Video About-the-Product- Elaboración propia
+</p>
+
+<br>
+
 
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">About the Product</a>
 
@@ -6453,11 +7055,11 @@ El video presenta un resumen del trabajo desarrollado por el equipo, donde cada 
   </tr>
   <tr>
     <td><strong>URL Microsoft</strong></td>
-    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-aboutthe-team-sprint-3</a></td>
   </tr>
   <tr>
     <td><strong>URL Youtube</strong></td>
-    <td><a href="https://youtu.be/aTyXnZuJ6rc" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+    <td><a href="https://youtu.be/aTyXnZuJ6rc" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-aboutthe-team-sprint-3</a></td>
   </tr>
   <tr>
     <td><strong>Timings</strong></td>
