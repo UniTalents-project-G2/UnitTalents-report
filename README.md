@@ -6130,6 +6130,14 @@ Recomendación: Incluir un campo opcional para la URL del sitio web de la empres
 
 ### 5.4 Video About-the-Product
 
+<img src="images/aboutTheTeam.png" alt="screenshot AboutTheProduct" width="1000">
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">About the Product</a>
+
+<a href="https://youtu.be/inUoi29e_hE" target="_blank">About the Product - Youtube</a>
+
+Duración: 1:57 minutos
+
 
 ## Conclusiones
 
