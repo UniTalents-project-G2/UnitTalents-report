@@ -370,7 +370,7 @@
   </tr>
 </table>
 
-**TF**
+**TP1**
 ---
 <table align="center">
   <tr>
@@ -2901,7 +2901,7 @@ El lenguaje a utilizar para este proyecto es:
 
 <br>
 
-https://trello.com/b/sMeOQ8TS/product-backlog-unittalents 
+`https://trello.com/b/sMeOQ8TS/product-backlog-unittalents`
 
 ---
 
@@ -3354,7 +3354,7 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 
 Los wireframes de UniTalents Connect han sido desarrollados aplicando principios clave de diseño centrado en el usuario, priorizando la claridad visual, la jerarquía de información y la accesibilidad. Cada sección está estructurada con una navegación intuitiva y coherente entre el menú lateral, encabezado fijo y bloques de contenido, lo cual refleja una arquitectura de información jerárquica y secuencial bien definida. Se han utilizado elementos de diseño consistentes como tarjetas, iconos descriptivos, botones llamativos y formularios bien distribuidos, facilitando la interacción fluida en dispositivos de diferentes tamaños. Además, se ha incorporado un enfoque de diseño inclusivo al priorizar la legibilidad (uso de contrastes adecuados, tamaños de fuente amplios y campos de formulario claros), permitiendo que usuarios con distintos niveles de experiencia digital puedan navegar sin fricciones. Todo el diseño contribuye a lograr una experiencia coherente entre perfiles (estudiante y gerente), enfocada en guiar a los usuarios hacia sus metas (postular, contratar, calificar, publicar proyectos) de forma eficiente y accesible.
 
-https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1
+`https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1`
 <br><br>
 
 + Iniciar Sesión / Registrarse:
@@ -3508,7 +3508,7 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 #### 4.4.2. Web Applications Wireflow Diagrams 
 
-https://overflow.io/s/TQAWUZY8
+`https://overflow.io/s/TQAWUZY8`
 
 <br><br>
 
@@ -3642,7 +3642,7 @@ https://overflow.io/s/TQAWUZY8
 
 Los siguientes Mock-ups fueron elaborados en base a los wireframes previamente hechos. Representan fielmente la manera en la que nuestros usuarios podrán apreciar la aplicación web.
 
-https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=0-1&p=f&t=dIa0V1UemHWoieb7-0
+`https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=0-1&p=f&t=dIa0V1UemHWoieb7-0`
 <br><br>
 
 + Iniciar Sesión / Registrarse:
@@ -3797,7 +3797,7 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows previamente hechos y representan los pasos que seguirán nuestros usuarios a través de la aplicación.
 
 
-https://overflow.io/s/QHU9N2IZ
+`https://overflow.io/s/QHU9N2IZ`
 
 <br>
 
@@ -3935,7 +3935,7 @@ https://overflow.io/s/QHU9N2IZ
 El Domain Driven Design (DDD) permite alinear el desarrollo de UniTalent Connect con las necesidades reales del dominio freelance estudiantil. A través del uso de un lenguaje ubicuo y una estructura centrada en el negocio, se mejora la colaboración entre desarrolladores y expertos del dominio. DDD guía el diseño del sistema mediante patrones y diagramas que reflejan fielmente la lógica del dominio. 
 
 Este diagrama de arquitectura fue creado en **Structurizr**.
-https://structurizr.com/share/101676/c0e4ce4f-36d3-4065-b4e4-ae9dc8c4d388
+`https://structurizr.com/share/101676/c0e4ce4f-36d3-4065-b4e4-ae9dc8c4d388`
 
 #### 4.6.1. Software Architecture Context Diagram  
 
@@ -4073,7 +4073,7 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 #### 4.7.1. Class Diagrams  
 
 
-Link: https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?viewport_loc=-1980%2C-440%2C4658%2C2280%2C0_0&invitationId=inv_8dc70efe-cc45-4fe9-9d62-a84601b32109
+Link: `https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?viewport_loc=-1980%2C-440%2C4658%2C2280%2C0_0&invitationId=inv_8dc70efe-cc45-4fe9-9d62-a84601b32109`
 
 <p align="center">
   <img src="images/UniTalents_UML.png" alt="class diagram" width="80%">
@@ -4134,61 +4134,61 @@ Link: https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?vie
 
 GitHub Pages: Plataforma basada en la web para gestionar y alojar las páginas del proyecto. Facilita la colaboración en la documentación y permite desplegar contenidos en línea de forma fácil y accesible.
 
-Ruta de acceso: https://pages.github.com
+Ruta de acceso: `https://pages.github.com`
 
 **Gestión de Requisitos (Requirements Management)**
 
 Trello: Aplicación para organizar tareas, asignar responsabilidades y monitorear el avance de las actividades. Se utilizará para coordinar las tareas del equipo y gestionar el progreso de los sprints e historias de usuario.
 
-Ruta de acceso: https://trello.com/es
+Ruta de acceso: `https://trello.com/es`
 
 **Diseño de UX/UI del Producto (Product UX/UI Design)**
 
 Figma: Herramienta online para crear prototipos y diseños gráficos. Se empleará para desarrollar las interfaces de usuario de la aplicación en sus versiones Desktop y Mobile.
 
-Ruta de acceso: https://www.figma.com/login
+Ruta de acceso: `https://www.figma.com/login`
 
 Overflow: Plataforma para diseñar flujos de usuario y wireflows, útil para representar la experiencia del usuario dentro del sistema.
 
-Ruta de acceso: https://overflow.io
+Ruta de acceso: `https://overflow.io`
 
 **Desarrollo de Software (Software Development)**
 
 Visual Studio Code: Entorno de desarrollo integrado utilizado por el equipo para escribir y compilar código, gracias a su soporte extensivo de lenguajes y herramientas adicionales.
 
-Ruta de acceso: https://code.visualstudio.com
+Ruta de acceso: `https://code.visualstudio.com`
 
 IntelliJ IDEA: IDE avanzado para el desarrollo de aplicaciones en lenguajes como Java y Kotlin, siendo clave para la creación de los componentes del sistema.
 
-Ruta de acceso: https://www.jetbrains.com/idea
+Ruta de acceso: `https://www.jetbrains.com/idea`
 
 HTML5: Lenguaje de marcado para estructurar el contenido web de la aplicación.
 
-Ruta de acceso: https://developer.mozilla.org/en-US/docs/Web/HTML
+Ruta de acceso: `https://developer.mozilla.org/en-US/docs/Web/HTML`
 
 CSS: Lenguaje de estilos utilizado para diseñar y presentar las páginas web, garantizando una presentación adecuada del contenido.
 
-Ruta de acceso:  https://developer.mozilla.org/en-US/docs/Web/CSS
+Ruta de acceso:  `https://developer.mozilla.org/en-US/docs/Web/CSS`
 
 JavaScript: Lenguaje de programación que permite implementar funcionalidades interactivas en el navegador, esencial para la interacción con la interfaz de usuario.
 
-Ruta de acceso: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Ruta de acceso: `https://developer.mozilla.org/en-US/docs/Web/JavaScript`
 
 **Despliegue de Software (Software Deployment)**
 
 Git: Sistema de control de versiones que registra los cambios en el código fuente y facilita el trabajo colaborativo entre los miembros del equipo. Se usará para mantener el historial del proyecto y controlar las versiones del software.
 
-Ruta de acceso: https://git-scm.com
+Ruta de acceso: `https://git-scm.com`
 
 **Documentación del Software (Software Documentation)**
 
 Markdown: Lenguaje de marcado utilizado para crear documentación técnica, permitiendo una fácil redacción y lectura en plataformas como GitHub.
 
-Ruta de acceso: https://www.markdownguide.org
+Ruta de acceso: `https://www.markdownguide.org`
 
 GitHub Pages: Servicio en la web para alojar documentación del proyecto, accesible públicamente o de manera privada.
 
-Ruta de acceso: https://pages.github.com
+Ruta de acceso: `https://pages.github.com`
 
 #### 5.1.2. Source Code Management 
 
@@ -4196,9 +4196,9 @@ GitHub se utilizará como plataforma central de control de versiones para todo e
 
 URL de Repositorios:
 
-Documentacion Informe: https://github.com/UniTalents-project-G2/UnitTalents-report
+Documentacion Informe: `https://github.com/UniTalents-project-G2/UnitTalents-report`
 
-Landing Page: https://github.com/UniTalents-project-G2/UniTalents-LandingPage
+Landing Page: `https://github.com/UniTalents-project-G2/UniTalents-LandingPage`
 
 Cada repositorio incluirá todos los archivos del proyecto.
 
@@ -4345,7 +4345,7 @@ Se muestra nuestra landing page en GitHub Pages.
 
 <br>
 
-https://unitalents-project-g2.github.io/UniTalents-LandingPage/
+`https://unitalents-project-g2.github.io/UniTalents-LandingPage/`
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
@@ -4396,7 +4396,7 @@ Durante el Sprint 1 del proyecto UniTalents Connect, el equipo se enfocó en el 
   </tr>
   <tr>
     <td><strong>Sprint 1 Goal</strong></td>
-    <td>Desarrollar la landing page estática de nuestro proyecto UniTalents Connect</td>
+    <td>Entregar una landing page estática que comunique la propuesta de valor de UniTalents Connect, con el objetivo de generar engagement inicial de los usuarios y ofrecer claridad a los stakeholders. Se considerará logrado cuando la página esté publicada y los visitantes puedan entender el propósito de la plataforma.</td>
   </tr>
   <tr>
     <td><strong>Sprint 1 Velocity</strong></td>
@@ -4474,7 +4474,7 @@ construir en su totalidad la landing page, logrando que sea atractiva y funciona
 
 <br>
 
-link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
+link al trello: `https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents`
 
 <table border="1" cellspacing="0" cellpadding="5">
     <thead>
@@ -4824,7 +4824,7 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 
 <br>
 
-https://unitalents-project-g2.github.io/UniTalents-LandingPage/
+`https://unitalents-project-g2.github.io/UniTalents-LandingPage/`
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 <br>
@@ -4945,7 +4945,7 @@ Durante el Sprint 2 del proyecto UniTalents Connect, el equipo enfocó sus esfue
   </tr>
   <tr>
     <td><strong>Sprint 2 Goal</strong></td>
-    <td>	Desarrollar el frontend funcional para login, registro, perfil, oportunidades y gestión de proyectos según el rol del usuario.</td>
+    <td>	Implementar un frontend funcional que permita a los usuarios registrarse, iniciar sesión, gestionar su perfil e interactuar con oportunidades y proyectos según su rol. Se espera que esto brinde un punto de entrada claro y útil a la plataforma, facilitando el uso de funciones clave. Se considerará cumplido cuando los usuarios puedan navegar por la interfaz, acceder a su panel personalizado y utilizar funcionalidades según su perfil asignado.</td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Velocity</strong></td>
@@ -5020,7 +5020,7 @@ construir en su totalidad la landing page, logrando que sea atractiva y funciona
 
 <br>
 
-link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
+link al trello: `https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb`
 
 <table border="1" cellspacing="0" cellpadding="5">
     <thead>
@@ -5783,7 +5783,7 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
   </tr>
   <tr>
     <td><strong>Sprint 2 Review Summary</strong></td>
-    <td>	Durante el Sprint 2 se completó los apartados del frontend de la aplicación web, los cuales fueron los dos dashboards de nuestros dos segmentos, estudiantes universitarios y managers de empresas, tales como ver oportunidades, portafolio, mis postulaciones para estudiantes y para manager, mis proyectos, postulaciones y mi empresa</td>
+    <td>Durante el Sprint 2 se completó el frontend de la aplicación web, incluyendo los dashboards para los dos segmentos: estudiantes universitarios y managers de empresas. Las funcionalidades incluyen: ver oportunidades, portafolio, postulaciones, mis proyectos y el área "mi empresa".</td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Retorspective Summary</strong></td>
@@ -5794,7 +5794,7 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
   </tr>
   <tr>
     <td><strong>Sprint 3 Goal</strong></td>
-    <td>	Desarrollar el backend funcional para todas las funcionalidades vistas en el frontend.</td>
+    <td>Implementar un backend funcional que respalde las funcionalidades clave del frontend de los dashboards para estudiantes y managers, permitiendo a los usuarios autenticarse, gestionar su perfil, visualizar oportunidades, postularse y consultar datos de proyectos con persistencia real. Se considerará cumplido cuando dichas funciones se ejecuten correctamente con conexión al backend y se reflejen los cambios en la base de datos.</td>
   </tr>
   <tr>
     <td><strong>Sprint 3 Velocity</strong></td>
@@ -5878,7 +5878,7 @@ en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun
 
 <br>
 
-link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d652195d9919855cda5c8463e15e78E98523/sprint-3-backlog-apps-web
+link al trello: `https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d652195d9919855cda5c8463e15e78E98523/sprint-3-backlog-apps-web`
 
 <br>
 
@@ -7122,8 +7122,260 @@ Recomendación: Incluir un campo opcional para la URL del sitio web de la empres
 
 ---
 
+#### 5.4. Sprint 4
 
-### 5.4 Video About-the-Product
+##### 5.4.4.1. Sprint Planning 4
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 07 - 07</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>2:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Javier Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Erik Palomino, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>Durante el Sprint 3 se implementó el backend funcional que conecta con las principales funcionalidades del frontend. Se habilitaron el login, la gestión de perfiles, la visualización de oportunidades, las postulaciones y la persistencia de los datos. También se implementaron endpoints seguros y pruebas básicas de integración.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Retorspective Summary</strong></td>
+    <td>El equipo destacó una buena coordinación al dividir el trabajo del backend por módulos. Sin embargo, se identificaron cuellos de botella en testing y validación. Como mejora, se propuso priorizar pruebas automatizadas y mantener una comunicación constante durante la integración.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Goal</strong></td>
+    <td>	Integrar y validar completamente el backend con el frontend, asegurando que cada funcionalidad del sistema se ejecute correctamente desde la interfaz hasta la lógica de servidor. El objetivo es garantizar una experiencia fluida para los usuarios al interactuar con sus dashboards. Se considerará cumplido cuando puedan realizar acciones completas con respuestas correctas del sistema y sin errores funcionales visibles.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Velocity</strong></td>
+    <td>37</td>
+  </tr>
+</table>
+<br>
+
+##### 5.4.4.2. Aspect Leaders and Collaborators
+
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Módulo de Proyectos y Portafolio</strong></td>
+    <td><strong> Módulo de Notificaciones</strong></td>
+    <td><strong>Módulo de Calificaciones</strong></td>
+    <td><strong>Módulo de Gestión de Usuario</strong></td>
+    <td><strong>Módulo de Privacidad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Cesar Alejandro Linares Bernable</td>
+    <td>Cesar-Linares</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
+<br>
+
+
+##### 5.4.4.3. Sprint Backlog 4
+
+Durante el cuarto sprint backlog, el equipo tuvo la tarea de realizar mejoras respecto al frontend y backend, ademas, de implementar las funcionalidades en base a las User Stories trabajadas en este Sprint.
+
+<img src="images/SprintBacklog4-Trello.png" alt="trello3" width="1000">
+
+<p align="center">
+  Sprint Backlog 4 Trello- Elaboración propia
+</p>
+
+<br>
+
+link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7f1e9e3990046c17abff7f3d8d9226EC9DE/sprint-backlog-4-apps-web`
+
+<br>
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 4</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US05</td>
+            <td>Subir proyecto a mi portafolio</td>
+            <td>T01</td>
+            <td>Implementar subida de URL de proyecto</td>
+            <td>Como estudiante, quiero poder subir una URL que dirija a un proyecto de mi portafolio, para que los gerentes o empresas puedan visualizar mi trabajo y evaluar mejor mi experiencia.</td>
+            <td>4</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Recuperar contraseña</td>
+            <td>T02</td>
+            <td>Implementar recuperación de contraseña</td>
+            <td>Como usuario, quiero poder recuperar mi contraseña, para acceder a mi cuenta si la olvido.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US11</td>
+            <td>Calificación de estudiante freelance</td>
+            <td>T03</td>
+            <td>Implementar calificación de estudiante</td>
+            <td>Como empresario, quiero calificar a un estudiante luego de un proyecto para reflejar su desempeño en la plataforma.</td>
+            <td>6</td>
+            <td>Renzo Rivera</td>
+            <td>In procces</td>
+        </tr>
+        <tr>
+            <td>US13</td>
+            <td>Calificación del contratador</td>
+            <td>T04</td>
+            <td>Implementar calificación de empresario</td>
+            <td>Como estudiante, quiero calificar al empresario luego del proyecto para compartir mi experiencia con futuros postulantes.</td>
+            <td>4</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US20</td>
+            <td>Cerrar sesión</td>
+            <td>T05</td>
+            <td>Implementar cierre de sesión</td>
+            <td>Como usuario, quiero poder cerrar sesión en cualquier momento, para asegurar la privacidad de mi cuenta.</td>
+            <td>5</td>
+            <td>Cesar Linares</td>
+            <td>In process</td>
+        </tr>
+        <tr>
+            <td>US21</td>
+            <td>Marcar proyecto como favorito</td>
+            <td>T06</td>
+            <td>Implementar favorito de proyecto</td>
+            <td>Como estudiante, quiero marcar proyectos como favoritos, para revisarlos después con facilidad.</td>
+            <td>5</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US22</td>
+            <td>Notificación de proyecto nuevo</td>
+            <td>T07</td>
+            <td>Implementar notificación de nuevos proyectos</td>
+            <td>Como estudiante, quiero recibir una notificación cuando se publique un proyecto compatible con mis habilidades, para no perder oportunidades.</td>
+            <td>3</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Eliminar cuenta</td>
+            <td>T08</td>
+            <td>Implementar eliminación de cuenta</td>
+            <td>Como estudiante, quiero poder eliminar mi cuenta permanentemente, para asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.</td>
+            <td>3</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS01</td>
+            <td>Endpoint para registro de usuarioss</td>
+            <td>T09</td>
+            <td>Crear endpoint para registro de usuarios</td>
+            <td>Como developer, quiero crear un endpoint para registrar nuevos usuarios diferenciando su rol (estudiante o gerente), para permitir su autenticación y posterior personalización de la plataforma.</td>
+            <td>3</td>
+            <td>Leonardo Palomino</td>
+            <td>In process</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+##### 5.4.4.4. Development Evidence for Sprint Review
+
+
+
+### 5.5 Video About-the-Product
 
 <img src="images/aboutTheTeam.png" alt="screenshot AboutTheProduct" width="1000">
 
@@ -7156,7 +7408,7 @@ Duración: 1:57 minutos
 
 + Se espera que al menos el 60% de los proyectos publicados en la plataforma se completen exitosamente, generando beneficios tangibles tanto para estudiantes como para empleadores.
 
-*TP*
+*TP1*
 ---
 
 + Es fundamental contar con una base sólida de diseño antes de iniciar la programación, siendo clave la elaboración de un diagrama de clases que permita representar visualmente las entidades y sus relaciones dentro del sistema.
