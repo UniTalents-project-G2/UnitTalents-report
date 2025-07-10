@@ -4076,21 +4076,91 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 Link: `https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?viewport_loc=-1980%2C-440%2C4658%2C2280%2C0_0&invitationId=inv_8dc70efe-cc45-4fe9-9d62-a84601b32109`
 
 <p align="center">
-  <img src="images/UniTalents_UML.png" alt="class diagram" width="80%">
+  <img src="images/UniTalentsUML-FrontEnd-auth.png" alt="class diagram" width="80%">
 </p>
 
 <p align="center">
-    Class Diagram- Elaboración propia
+    Diagrama de Frontend-auth - Elaboración propia
 </p>
 
 <br>
 
 <p align="center">
-  <img src="images/class_diagram.jpg" alt = "updated class diagram" width="80%">
+  <img src="images/UniTalentsUML-FrontEnd-companies.png" alt="class diagram" width="80%">
 </p>
 
 <p align="center">
-    Diagrama del Frontend- Elaboración propia
+    Diagrama de Frontend-companies - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/UniTalentsUML-FrontEnd-projects.png" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend-projects - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/UniTalentsUML-FrontEnd-reputations.png" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend-reputations - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/UniTalentsUML-FrontEnd-shared.png" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend-shared - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/UniTalentsUML-FrontEnd-student-postulations.png" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend-student-postulations - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/UniTalentsUML-FrontEnd-student.png" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend-student - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/UniTalentsUML-FrontEnd-users.png" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend-users - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/Diagrama UML Apps Web.png" alt = "updated class diagram" width="80%">
+</p>
+
+<p align="center">
+    Class Diagram - Elaboración propia
 </p>
 
 <br>
@@ -4099,16 +4169,12 @@ Link: `https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?vi
 
 | Clase | Descripción | Atributos | Metodos |
 |:-----:|--------------|--------|-------------|
-|User (abstracta)|Representa a cualquier usuario del sistema. Base para Manager y Student.|id: string, name: string, email: string, password: string, role: string|login(), logout()|
-|Student|Usuario que ofrece servicios freelance. Hereda de User.|university: string, degree: string, semester: int, portfolio: Portfolio, availableTimeSlots: vector<string>|applyToProject(Project), viewApplications()|
-|Manager|Usuario que publica proyectos. Hereda de User.|companyName: string, position: string, postedProjects: vector<Project>|postProject(Project), reviewApplications()|
-|Project|Proyecto freelance publicado por un Manager|projectId: string, title: string, description: string, budget: float, deadline: string, skillsRequired: vector<string>, isOpen: bool, postedBy: Manager, applicants: vector<Student>|closeProject(), addApplicant(Student)|
-|Briefcase|Portafolio del estudiante con habilidades y logros.|briefcaseId: string, studentId: string, bio: string, skills: vector<Skill>, projectsCompleted: vector<Project>, certifications: vector<string>|addSkill(Skill), addProject(Project)|
-|Skill|Habilidad técnica o blanda.|skillName: string, proficiencyLevel: string|No presenta metodos|
-|Application|Postulación de un estudiante a un proyecto.|applicationId: string, student: Student, project: Project, status: string, submissionDate: string|updateStatus(string)|
-|Review|Calificación entre usuarios.|reviewId: string, rating: float, comment: string, fromUser: User, toUser: User, date: string|No presenta metodos|
-|Chat|Conversación entre usuarios.|chatId: string, participants: vector<User>, messages: vector<Message>|sendMessage(Message)|
-|Message|Mensaje dentro del chat.|messageId: string, sender: User, content: string, timestamp: string|No presenta metodos|
+|User|Representa a cualquier usuario del sistema. Base para Manager y Student.|id: int, name: string, email: string, password: string, role: string|isStudent(), isManager()|
+|Student|	Usuario que ofrece sus servicios freelance dentro de la plataforma.|id: int, userId: int, birthdate: Date, city: string, country: string, field: string, phoneNumber: string, portfolioLink: string, aboutMe: string, rating: float, specializations: vector<string>, logo: string, endedProjects: vector<Project>|No presenta métodos|
+|Company|Representa a una empresa que publica proyectos.|id: int, userId: int, companyName: string, sector: string, location: string, email: string, phone: string, rating: int, specializations: vector<string>, logo: string, description: string|No presenta métodos|
+|Project|Proyecto freelance publicado por una empresa.|id: long, title: string, description: string, companyId: int, studentSelected: int, isFinished: bool, postulants: vector<int>, field: string, budget: float, createdAt: Date, skills: vector<string>, status: string|calculateStatus()|
+|StudentPostulation|Representa una postulación de un estudiante a un proyecto.|id: int, studentId: int, projectId: int, status: string, date: Date|No presenta métodos|
+|Reputation|Calificación y comentario que recibe un estudiante tras finalizar un proyecto.|id: int, studentId: int, projectId: int, rating: float, comment: string|No presenta metodos|
 
 ### 4.8. Database Design
 
@@ -6686,6 +6752,319 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 
 ---
 
+#### 5.2.4 Sprint 4
+
+##### 5.2.4.1. Sprint Planning 4
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 07 - 07</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>2:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Javier Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Erik Palomino, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>Durante el Sprint 3 se implementó el backend funcional que conecta con las principales funcionalidades del frontend. Se habilitaron el login, la gestión de perfiles, la visualización de oportunidades, las postulaciones y la persistencia de los datos. También se implementaron endpoints seguros y pruebas básicas de integración.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Retorspective Summary</strong></td>
+    <td>El equipo destacó una buena coordinación al dividir el trabajo del backend por módulos. Sin embargo, se identificaron cuellos de botella en testing y validación. Como mejora, se propuso priorizar pruebas automatizadas y mantener una comunicación constante durante la integración.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Goal</strong></td>
+    <td>	Integrar y validar completamente el backend con el frontend, asegurando que cada funcionalidad del sistema se ejecute correctamente desde la interfaz hasta la lógica de servidor. El objetivo es garantizar una experiencia fluida para los usuarios al interactuar con sus dashboards. Se considerará cumplido cuando puedan realizar acciones completas con respuestas correctas del sistema y sin errores funcionales visibles.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Velocity</strong></td>
+    <td>37</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Módulo de Proyectos y Portafolio</strong></td>
+    <td><strong> Módulo de Notificaciones</strong></td>
+    <td><strong>Módulo de Calificaciones</strong></td>
+    <td><strong>Módulo de Gestión de Usuario</strong></td>
+    <td><strong>Módulo de Privacidad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Cesar Alejandro Linares Bernable</td>
+    <td>Cesar-Linares</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
+<br>
+
+
+##### 5.2.4.3. Sprint Backlog 4
+
+Durante el cuarto sprint backlog, el equipo tuvo la tarea de realizar mejoras respecto al frontend y backend, ademas, de implementar las funcionalidades en base a las User Stories trabajadas en este Sprint.
+
+<img src="images/SprintBacklog4-Trello.png" alt="trello3" width="1000">
+
+<p align="center">
+  Sprint Backlog 4 Trello- Elaboración propia
+</p>
+
+<br>
+
+link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7f1e9e3990046c17abff7f3d8d9226EC9DE/sprint-backlog-4-apps-web`
+
+<br>
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 4</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US05</td>
+            <td>Subir proyecto a mi portafolio</td>
+            <td>T01</td>
+            <td>Implementar subida de URL de proyecto</td>
+            <td>Como estudiante, quiero poder subir una URL que dirija a un proyecto de mi portafolio, para que los gerentes o empresas puedan visualizar mi trabajo y evaluar mejor mi experiencia.</td>
+            <td>4</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Recuperar contraseña</td>
+            <td>T02</td>
+            <td>Implementar recuperación de contraseña</td>
+            <td>Como usuario, quiero poder recuperar mi contraseña, para acceder a mi cuenta si la olvido.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US11</td>
+            <td>Calificación de estudiante freelance</td>
+            <td>T03</td>
+            <td>Implementar calificación de estudiante</td>
+            <td>Como empresario, quiero calificar a un estudiante luego de un proyecto para reflejar su desempeño en la plataforma.</td>
+            <td>6</td>
+            <td>Renzo Rivera</td>
+            <td>In procces</td>
+        </tr>
+        <tr>
+            <td>US13</td>
+            <td>Calificación del contratador</td>
+            <td>T04</td>
+            <td>Implementar calificación de empresario</td>
+            <td>Como estudiante, quiero calificar al empresario luego del proyecto para compartir mi experiencia con futuros postulantes.</td>
+            <td>4</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US20</td>
+            <td>Cerrar sesión</td>
+            <td>T05</td>
+            <td>Implementar cierre de sesión</td>
+            <td>Como usuario, quiero poder cerrar sesión en cualquier momento, para asegurar la privacidad de mi cuenta.</td>
+            <td>5</td>
+            <td>Cesar Linares</td>
+            <td>In process</td>
+        </tr>
+        <tr>
+            <td>US21</td>
+            <td>Marcar proyecto como favorito</td>
+            <td>T06</td>
+            <td>Implementar favorito de proyecto</td>
+            <td>Como estudiante, quiero marcar proyectos como favoritos, para revisarlos después con facilidad.</td>
+            <td>5</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US22</td>
+            <td>Notificación de proyecto nuevo</td>
+            <td>T07</td>
+            <td>Implementar notificación de nuevos proyectos</td>
+            <td>Como estudiante, quiero recibir una notificación cuando se publique un proyecto compatible con mis habilidades, para no perder oportunidades.</td>
+            <td>3</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Eliminar cuenta</td>
+            <td>T08</td>
+            <td>Implementar eliminación de cuenta</td>
+            <td>Como estudiante, quiero poder eliminar mi cuenta permanentemente, para asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.</td>
+            <td>3</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS01</td>
+            <td>Endpoint para registro de usuarioss</td>
+            <td>T09</td>
+            <td>Crear endpoint para registro de usuarios</td>
+            <td>Como developer, quiero crear un endpoint para registrar nuevos usuarios diferenciando su rol (estudiante o gerente), para permitir su autenticación y posterior personalización de la plataforma.</td>
+            <td>3</td>
+            <td>Leonardo Palomino</td>
+            <td>In process</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+##### 5.2.4.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>a5085c1</td>
+    <td>feat: added Responsive Style to Projects Bounded Context</td>
+    <td>feat: added Responsive Style to Projects Bounded Context</td>
+    <td>07/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>0aa3e61</td>
+    <td>Update .gitignore</td>
+    <td>Update .gitignore</td>
+    <td>08/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>2707724</td>
+    <td>fix: first part</td>
+    <td>fix: first part</td>
+    <td>09/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>c318fe9</td>
+    <td>features ended</td>
+    <td>features ended</td>
+    <td>09/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>bb8c563</td>
+    <td>fix: fixed the responsive</td>
+    <td>fix all the webapp</td>
+    <td>09/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>262eb38</td>
+    <td>update</td>
+    <td>update</td>
+    <td>09/07/25</td>
+  </tr>
+</table>
+
+<br>
+
+
 ### 5.3 Validation Interviews
 
 #### 5.3.1 Diseño de Entrevistas
@@ -7121,258 +7500,6 @@ Problema: La ausencia de un campo para el sitio web de la empresa impide mostrar
 Recomendación: Incluir un campo opcional para la URL del sitio web de la empresa en el perfil corporativo.
 
 ---
-
-#### 5.4. Sprint 4
-
-##### 5.4.4.1. Sprint Planning 4
-
-<table align="center">
-  <tr>
-    <td><strong>Sprint #</strong></td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Date</strong></td>
-    <td>2025 - 07 - 07</td>
-  </tr>
-  <tr>
-    <td><strong>Time</strong></td>
-    <td>2:00 pm</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Virtual meet in our discord server</td>
-  </tr>
-  <tr>
-    <td><strong>Prepared by</strong></td>
-    <td>Javier Gonzales</td>
-  </tr>
-  <tr>
-    <td><strong>Attendes (to planning meeting)</strong></td>
-    <td>Erik Palomino, Renzo Rivera, Carlos Coca, Cesar Linares</td>
-  </tr>
-  <tr>
-    <td><strong>Sprint 3 Review Summary</strong></td>
-    <td>Durante el Sprint 3 se implementó el backend funcional que conecta con las principales funcionalidades del frontend. Se habilitaron el login, la gestión de perfiles, la visualización de oportunidades, las postulaciones y la persistencia de los datos. También se implementaron endpoints seguros y pruebas básicas de integración.</td>
-  </tr>
-  <tr>
-    <td><strong>Sprint 3 Retorspective Summary</strong></td>
-    <td>El equipo destacó una buena coordinación al dividir el trabajo del backend por módulos. Sin embargo, se identificaron cuellos de botella en testing y validación. Como mejora, se propuso priorizar pruebas automatizadas y mantener una comunicación constante durante la integración.</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Sprint 4 Goal</strong></td>
-    <td>	Integrar y validar completamente el backend con el frontend, asegurando que cada funcionalidad del sistema se ejecute correctamente desde la interfaz hasta la lógica de servidor. El objetivo es garantizar una experiencia fluida para los usuarios al interactuar con sus dashboards. Se considerará cumplido cuando puedan realizar acciones completas con respuestas correctas del sistema y sin errores funcionales visibles.</td>
-  </tr>
-  <tr>
-    <td><strong>Sprint 4 Velocity</strong></td>
-    <td>37</td>
-  </tr>
-</table>
-<br>
-
-##### 5.4.4.2. Aspect Leaders and Collaborators
-
-
-<table align="center">
-  <tr>
-    <td><strong>Team Member</strong></td>
-    <td><strong>GitHub Username</strong></td>
-    <td><strong>Módulo de Proyectos y Portafolio</strong></td>
-    <td><strong> Módulo de Notificaciones</strong></td>
-    <td><strong>Módulo de Calificaciones</strong></td>
-    <td><strong>Módulo de Gestión de Usuario</strong></td>
-    <td><strong>Módulo de Privacidad</strong></td>
-  </tr>
-  <tr>
-    <td>Gonzales Alvarado, Javier Sebastian</td>
-    <td>WoodsDos</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Coca Lavado, Carlos Andres</td>
-    <td>MrAndres08DV</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Palomino Fiestas, Erick Leonardo</td>
-    <td>ErickLeo13</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Rivera Ratachi, Renzo Sebastian</td>
-    <td>renzor11</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Cesar Alejandro Linares Bernable</td>
-    <td>Cesar-Linares</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-  </tr>
-</table>
-<br>
-
-
-##### 5.4.4.3. Sprint Backlog 4
-
-Durante el cuarto sprint backlog, el equipo tuvo la tarea de realizar mejoras respecto al frontend y backend, ademas, de implementar las funcionalidades en base a las User Stories trabajadas en este Sprint.
-
-<img src="images/SprintBacklog4-Trello.png" alt="trello3" width="1000">
-
-<p align="center">
-  Sprint Backlog 4 Trello- Elaboración propia
-</p>
-
-<br>
-
-link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7f1e9e3990046c17abff7f3d8d9226EC9DE/sprint-backlog-4-apps-web`
-
-<br>
-
-<table border="1" cellspacing="0" cellpadding="5">
-    <thead>
-        <tr>
-            <th>Sprint #</th>
-            <th colspan="8">Sprint 4</th>
-        </tr>
-        <tr>
-            <th colspan="2">User Story</th>
-            <th colspan="7">WorkItem-Task</th>
-        </tr>
-        <tr>
-            <th>US-ID</th>
-            <th>Title</th>
-            <th>ID</th>
-            <th>Title</th>
-            <th>Description</th>
-            <th>Estimation (Hours)</th>
-            <th>Assigned To</th>
-            <th>Status</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>US05</td>
-            <td>Subir proyecto a mi portafolio</td>
-            <td>T01</td>
-            <td>Implementar subida de URL de proyecto</td>
-            <td>Como estudiante, quiero poder subir una URL que dirija a un proyecto de mi portafolio, para que los gerentes o empresas puedan visualizar mi trabajo y evaluar mejor mi experiencia.</td>
-            <td>4</td>
-            <td>Javier Gonzales</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US09</td>
-            <td>Recuperar contraseña</td>
-            <td>T02</td>
-            <td>Implementar recuperación de contraseña</td>
-            <td>Como usuario, quiero poder recuperar mi contraseña, para acceder a mi cuenta si la olvido.</td>
-            <td>4</td>
-            <td>Renzo Rivera</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US11</td>
-            <td>Calificación de estudiante freelance</td>
-            <td>T03</td>
-            <td>Implementar calificación de estudiante</td>
-            <td>Como empresario, quiero calificar a un estudiante luego de un proyecto para reflejar su desempeño en la plataforma.</td>
-            <td>6</td>
-            <td>Renzo Rivera</td>
-            <td>In procces</td>
-        </tr>
-        <tr>
-            <td>US13</td>
-            <td>Calificación del contratador</td>
-            <td>T04</td>
-            <td>Implementar calificación de empresario</td>
-            <td>Como estudiante, quiero calificar al empresario luego del proyecto para compartir mi experiencia con futuros postulantes.</td>
-            <td>4</td>
-            <td>Leonardo Palomino</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US20</td>
-            <td>Cerrar sesión</td>
-            <td>T05</td>
-            <td>Implementar cierre de sesión</td>
-            <td>Como usuario, quiero poder cerrar sesión en cualquier momento, para asegurar la privacidad de mi cuenta.</td>
-            <td>5</td>
-            <td>Cesar Linares</td>
-            <td>In process</td>
-        </tr>
-        <tr>
-            <td>US21</td>
-            <td>Marcar proyecto como favorito</td>
-            <td>T06</td>
-            <td>Implementar favorito de proyecto</td>
-            <td>Como estudiante, quiero marcar proyectos como favoritos, para revisarlos después con facilidad.</td>
-            <td>5</td>
-            <td>Andres Coca</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US22</td>
-            <td>Notificación de proyecto nuevo</td>
-            <td>T07</td>
-            <td>Implementar notificación de nuevos proyectos</td>
-            <td>Como estudiante, quiero recibir una notificación cuando se publique un proyecto compatible con mis habilidades, para no perder oportunidades.</td>
-            <td>3</td>
-            <td>Andres Coca</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US23</td>
-            <td>Eliminar cuenta</td>
-            <td>T08</td>
-            <td>Implementar eliminación de cuenta</td>
-            <td>Como estudiante, quiero poder eliminar mi cuenta permanentemente, para asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.</td>
-            <td>3</td>
-            <td>Leonardo Palomino</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TS01</td>
-            <td>Endpoint para registro de usuarioss</td>
-            <td>T09</td>
-            <td>Crear endpoint para registro de usuarios</td>
-            <td>Como developer, quiero crear un endpoint para registrar nuevos usuarios diferenciando su rol (estudiante o gerente), para permitir su autenticación y posterior personalización de la plataforma.</td>
-            <td>3</td>
-            <td>Leonardo Palomino</td>
-            <td>In process</td>
-        </tr>
-    </tbody>
-</table>
-
-<br>
-
-##### 5.4.4.4. Development Evidence for Sprint Review
-
 
 
 ### 5.5 Video About-the-Product
