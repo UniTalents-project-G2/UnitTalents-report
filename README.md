@@ -7197,6 +7197,19 @@ Duración: 1:57 minutos
 
 + Se identificó la necesidad de fortalecer la validación y el control de errores en los endpoints expuestos, para garantizar la integridad de la información y una mejor experiencia de usuario.
 
+*TF*
+---
+
++ La plataforma desarrollada aborda efectivamente la desconexión entre estudiantes y el mercado laboral, ofreciendo un espacio donde los jóvenes pueden adquirir experiencia profesional y generar ingresos sin afectar sus estudios, mientras que las empresas acceden a talento joven y asequible.
+
++ La implementación de un diseño sólido (diagrama de clases, frontend con datos simulados) y un backend robusto (con repositorios, servicios y despliegue en Azure) demostró la viabilidad técnica del proyecto, asegurando escalabilidad y mantenibilidad.
+
++ La coordinación del equipo fue clave para superar desafíos técnicos (integración de la base de datos, configuración del entorno) y ajustar la planificación (tiempos adicionales en sprints para imprevistos).
+
++ Se identificaron áreas de mejora, como reforzar la validación de endpoints y el manejo de errores, para garantizar mayor confiabilidad y experiencia de usuario.
+
++ La plataforma tiene un alto potencial para expandirse, incorporando más funcionalidades (ej.: sistemas de recomendación, certificaciones) y llegando a un mayor número de usuarios e industrias.
+
 
 # Video About the Team
 
@@ -7238,7 +7251,6 @@ El video presenta un resumen del trabajo desarrollado por el equipo, donde cada 
     </td>
   </tr>
 </table>
-
 
 ---
 
