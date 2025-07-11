@@ -7,17 +7,17 @@
 ---
 **Universidad:** Universidad Peruana de Ciencias Aplicadas
 
-**Ciclo:**  2025 - 01
+**Ciclo:**  2025-10
 
 **Código del curso:**  1ASI0730-2510
 
 **Nombre del curso:**  Aplicaciones Web
 
-**Sección:**  4376
+**NRC:**  4376
 
 **Nombre del profesor:**  Hugo Allan Mori Paiva
 
-**Nombre del Startup:** UnitTalents
+**Nombre del Startup:** UniTalents
 
 **Nombre del Producto:**  UniTalents Connect
 
@@ -2410,50 +2410,56 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
     <tr>
       <td>US21</td>
-      <td>Marcar proyecto como favorito</td>
+      <td>Actualizar tecnologias en el perfil del estudiante</td>
       <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> marcar proyectos como favoritos, <strong>para</strong> revisarlos después con facilidad.
+        <strong>Como</strong> estudiante, <strong>quiero</strong> actualizar las tecnologías que domino, <strong>para</strong> que se muestren en mi perfil 
       </td>
       <td>
-        <strong>Escenario 1: Marcar proyecto</strong><br>
-        <strong>Dado</strong> que he iniciado sesión y veo un proyecto
-        <strong>Cuando</strong> hago clic en el ícono de estrella
-        <strong>Entonces</strong> el proyecto se guarda en mi lista de favoritos.
+        <strong>Escenario 1: Estudiante añade una tecnología a su perfil
+</strong><br>
+        <strong>Dado que </strong> el estudiante accede a su perfil y hace click en “Cambiar” junto a Tecnologías y Especializaciones
+        <strong>Cuando</strong> escribe el nombre de la tecnología Y hace click en Agregar
+        <strong>Entonces</strong>  la tecnología se añade al  perfil.
         <br><br>
-        <strong>Escenario 2: Ver lista de favoritos</strong><br>
-        <strong>Dado</strong> que tengo proyectos guardados como favoritos
-        <strong>Cuando</strong> accedo a “Mis favoritos”
-        <strong>Entonces</strong> puedo ver todos los proyectos que he marcado
+        <strong>Escenario 2: Estudiante elimina una tecnología de su perfil</strong><br>
+        <strong>Dado que</strong> el estudiante accede a la configuración y hace click en “Cambiar” junto a Tecnologías y Especializaciones 
+        <strong>Cuando</strong> elimina una de las tecnologías agregadas  
+        <strong>Entonces</strong>  la tecnología ya no se visualizará en su perfil.
+      </td>
+      <td>Epic 06</td>
+    </tr>
+    <tr>
+      <td>US22</td>
+      <td>Visualizar información de empresa</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> ver la información de la empresa a la que estoy postulando, <strong>para</strong> mantenerme más informado.
+      </td>
+      <td>
+        <strong>Escenario 1: Estudiante visualiza la información de empresa    </strong><br>
+        <strong>Dado que </strong> estoy viendo la información de una convocatoria
+        <strong>Cuando</strong>  el usuario hace click en “Ver Empresa”
+        <strong>Entonces</strong> se mostrará un apartado con información de la empresa como correo electrónico, número de contacto y calificación
       </td>
       <td>Epic 03</td>
     </tr>
     <tr>
-      <td>US22</td>
-      <td>Notificación de proyecto nuevo</td>
-      <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> recibir una notificación cuando se publique un proyecto compatible con mis habilidades, <strong>para</strong> no perder oportunidades.
-      </td>
-      <td>
-        <strong>Escenario 1: Nueva coincidencia</strong><br>
-        <strong>Dado</strong> que tengo habilidades seleccionadas en mi perfil
-        <strong>Cuando</strong> se publica un proyecto que coincide
-        <strong>Entonces</strong> recibo una notificación en la aplicación
-      </td>
-      <td>Epic 02</td>
-    </tr>
-    <tr>
       <td>US23</td>
-      <td>Eliminar cuenta</td>
+      <td>Actualizar tecnologías en el perfil de la empresa</td>
       <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> poder eliminar mi cuenta permanentemente, <strong>para</strong> asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.
+        <strong>Como</strong> gerente, <strong>quiero</strong> actualizar las tecnologías que se utilizan en mi empresa, <strong>para</strong> que se muestren en el perfil de la compañía. 
       </td>
       <td>
-        <strong>Escenario 1: Nueva coincidencia</strong><br>
-        <strong>Dado</strong> que he iniciado sesión y accedo a la configuración de la cuenta
-        <strong>Cuando</strong> presiono “Eliminar cuenta” y confirmo la acción
-        <strong>Entonces</strong> mi cuenta es eliminada y los datos personales son removidos del sistema.
+        <strong>Escenario 1: Gerente añade una tecnología a su perfil</strong><br>
+        <strong>Dado</strong> que el gerente accede a su perfil y hace click en “Cambiar” junto a Tecnologías y Especializaciones 
+        <strong>Cuando</strong> escribe el nombre de la tecnología Y hace click en Agregar
+        <strong>Entonces</strong> la tecnología se añade al  perfil de la compañía.
+            <br><br>
+        <strong>Escenario 2: Gerente elimina una tecnología de su perfil</strong><br>
+        <strong>Dado que</strong> el gerente accede a la configuración y hace click en “Cambiar” junto a Tecnologías y Especializaciones 
+        <strong>Cuando</strong> elimina una de las tecnologías agregadas  
+        <strong>Entonces</strong>  la tecnología ya no se visualizará en el perfil de la empresa
       </td>
-      <td>Epic 01</td>
+      <td>Epic 06</td>
     </tr>
     <tr>
       <td>US24</td>
@@ -2900,22 +2906,22 @@ El lenguaje a utilizar para este proyecto es:
     <tr>
       <td>24</td>
       <td>US21</td>
-      <td>Marcar proyecto como favorito</td>
-      <td>Como estudiante, quiero marcar proyectos como favoritos, para revisarlos después con facilidad.</td>
+      <td>Actualizar tecnologias en el perfil del estudiante</td>
+      <td>Como estudiante, quiero actualizar las tecnologías que domino, para que se muestren en mi perfil </td>
       <td>2</td>
     </tr>
     <tr>
       <td>25</td>
       <td>US22</td>
-      <td>Notificación de proyecto nuevo</td>
-      <td>Como estudiante, quiero recibir una notificación cuando se publique un proyecto compatible con mis habilidades, para no perder oportunidades.</td>
+      <td>Visualizar información de empresa</td>
+      <td>Como estudiante, quiero ver la información de la empresa a la que estoy postulando, para mantenerme más informado.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>26</td>
       <td>US23</td>
-      <td>Eliminar cuenta</td>
-      <td>Como estudiante, quiero poder eliminar mi cuenta permanentemente, para asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.</td>
+      <td>Actualizar tecnologías en el perfil de la empresa</td>
+      <td>Como gerente, quiero actualizar las tecnologías que se utilizan en mi empresa, para que se muestren en el perfil de la compañía. </td>
       <td>2</td>
     </tr>
     <tr>
@@ -7041,31 +7047,31 @@ link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7
         </tr>
         <tr>
             <td>US21</td>
-            <td>Marcar proyecto como favorito</td>
+            <td>Actualizar tecnologias en el perfil del estudiante</td>
             <td>T06</td>
-            <td>Implementar favorito de proyecto</td>
-            <td>Como estudiante, quiero marcar proyectos como favoritos, para revisarlos después con facilidad.</td>
+            <td>Implementar componente de edición de tecnologias</td>
+            <td>Como estudiante, quiero actualizar las tecnologias que domino, para que se muestren en mi perfil .</td>
             <td>5</td>
             <td>Andres Coca</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US22</td>
-            <td>Notificación de proyecto nuevo</td>
+            <td>Visualizar información de empresa</td>
             <td>T07</td>
-            <td>Implementar notificación de nuevos proyectos</td>
-            <td>Como estudiante, quiero recibir una notificación cuando se publique un proyecto compatible con mis habilidades, para no perder oportunidades.</td>
+            <td>Implementar apartado con información de empresa</td>
+            <td>Como estudiante, quiero ver la información de la empresa a la que estoy postulando, para mantenerme más informado.</td>
             <td>3</td>
             <td>Andres Coca</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US23</td>
-            <td>Eliminar cuenta</td>
+            <td>Actualizar tecnologías en el perfil de la empresa</td>
             <td>T08</td>
             <td>Implementar eliminación de cuenta</td>
-            <td>Como estudiante, quiero poder eliminar mi cuenta permanentemente, para asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.</td>
-            <td>3</td>
+            <td>Como gerente, quiero actualizar las tecnologías que se utilizan en mi empresa, para que se muestren en el perfil de la compañía. </td>
+            <td>5</td>
             <td>Leonardo Palomino</td>
             <td>Done</td>
         </tr>
