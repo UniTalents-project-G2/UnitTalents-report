@@ -300,8 +300,20 @@
   </tr>
   </tr>
     <tr>
-    <td>4.02</td>
-    <td>21/06/25</td>
+    <td>4.03</td>
+    <td>09/07/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Modificaciones en los endpoints del Backend</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>4.04</td>
+    <td>11/07/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -6899,15 +6911,17 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>Team Member</strong></td>
     <td><strong>GitHub Username</strong></td>
-    <td><strong>Módulo de Proyectos y Portafolio</strong></td>
-    <td><strong> Módulo de Notificaciones</strong></td>
-    <td><strong>Módulo de Calificaciones</strong></td>
-    <td><strong>Módulo de Gestión de Usuario</strong></td>
-    <td><strong>Módulo de Privacidad</strong></td>
+    <td><strong>Módulo de Reputations Module</strong></td>
+    <td><strong>Módulo de Postulations Module</strong></td>
+    <td><strong> Módulo de Projects</strong></td>
+    <td><strong>Módulo de Company</strong></td>
+    <td><strong>Módulo de Student</strong></td>
+    <td><strong>Módulo de Users</strong></td>
   </tr>
   <tr>
     <td>Gonzales Alvarado, Javier Sebastian</td>
     <td>WoodsDos</td>
+    <td>L</td>
     <td>L</td>
     <td>C</td>
     <td>C</td>
@@ -6919,26 +6933,29 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
     <td>MrAndres08DV</td>
     <td>C</td>
     <td>C</td>
-    <td>L</td>
     <td>C</td>
+    <td>C</td>
+    <td>L</td>
     <td>C</td>
   </tr>
   <tr>
     <td>Palomino Fiestas, Erick Leonardo</td>
     <td>ErickLeo13</td>
     <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
     <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
   </tr>
   <tr>
     <td>Rivera Ratachi, Renzo Sebastian</td>
     <td>renzor11</td>
     <td>C</td>
     <td>C</td>
-    <td>C</td>
     <td>L</td>
+    <td>C</td>
+    <td>C</td>
     <td>C</td>
   </tr>
   <tr>
@@ -6947,8 +6964,9 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
     <td>C</td>
     <td>C</td>
     <td>C</td>
-    <td>C</td>
     <td>L</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
 </table>
 <br>
@@ -7146,6 +7164,62 @@ link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7
     <td>update</td>
     <td>09/07/25</td>
   </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>43fca28</td>
+    <td>feat: addded reputations module</td>
+    <td>feat: addded reputations module</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>d0c9a4b</td>
+    <td>feat: added postulations module</td>
+    <td>feat: added postulations module</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>4f6673f</td>
+    <td>feat: added projects bounded context</td>
+    <td>Added projects bounded context</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>6085eda</td>
+    <td>feat: add company bounded context</td>
+    <td>feat: add company bounded context</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>51add9a</td>
+    <td>feat: Student Bounded Context</td>
+    <td>feat: Student Bounded Context</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>0919096</td>
+    <td>feat: add users</td>
+    <td>feat: add users</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>90a5608</td>
+    <td>feat: added module shared</td>
+    <td>feat: added module shared</td>
+    <td>11/07/25</td>
+  </tr>
 </table>
 
 <br>
@@ -7193,6 +7267,7 @@ link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7
 </p>
 
 <br>
+
 + US13
 
 <br>
@@ -7256,6 +7331,8 @@ link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7
 </p>
 
 <br>
+
+5.2.4.6. Services Documentation Evidence for Sprint Review
 
 ### 5.3 Validation Interviews
 
