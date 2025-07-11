@@ -318,6 +318,23 @@
 </p>
 <br>
 
+*TB2*
+---
+<p align="center">
+  <img src="images/evidence-spr3/repIns1.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr3/repIns2.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr3/repIns3.png" alt="insights" width="1000">
+</p>
+<br>
+
 
 
 **TB1**
@@ -7042,7 +7059,7 @@ Recomendación: Incorporar una vista de comparación entre proyectos, con criter
 
 ---
 
-Problema #3: Las notificaciones automáticas son útiles solo para posiciones junior.
+Problema #3: Las notificaciones automáticas son útiles solo para posiciones senior.
 
 Severidad: 1
 
@@ -7180,6 +7197,19 @@ Duración: 1:57 minutos
 
 + Se identificó la necesidad de fortalecer la validación y el control de errores en los endpoints expuestos, para garantizar la integridad de la información y una mejor experiencia de usuario.
 
+*TF*
+---
+
++ La plataforma desarrollada aborda efectivamente la desconexión entre estudiantes y el mercado laboral, ofreciendo un espacio donde los jóvenes pueden adquirir experiencia profesional y generar ingresos sin afectar sus estudios, mientras que las empresas acceden a talento joven y asequible.
+
++ La implementación de un diseño sólido (diagrama de clases, frontend con datos simulados) y un backend robusto (con repositorios, servicios y despliegue en Azure) demostró la viabilidad técnica del proyecto, asegurando escalabilidad y mantenibilidad.
+
++ La coordinación del equipo fue clave para superar desafíos técnicos (integración de la base de datos, configuración del entorno) y ajustar la planificación (tiempos adicionales en sprints para imprevistos).
+
++ Se identificaron áreas de mejora, como reforzar la validación de endpoints y el manejo de errores, para garantizar mayor confiabilidad y experiencia de usuario.
+
++ La plataforma tiene un alto potencial para expandirse, incorporando más funcionalidades (ej.: sistemas de recomendación, certificaciones) y llegando a un mayor número de usuarios e industrias.
+
 
 # Video About the Team
 
@@ -7222,7 +7252,6 @@ El video presenta un resumen del trabajo desarrollado por el equipo, donde cada 
   </tr>
 </table>
 
-
 ---
 
 ## Bibliografía  
@@ -7244,9 +7273,32 @@ Comexperu
 
 ## Anexos  
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB1</a>
 
+<a href="https://github.com/UniTalents-project-G2/UniTalents-LandingPage" target="_blank">Repositorio LandingPage</a>
+<br>
+
+<a href="https://github.com/UniTalents-project-G2/unitalents-connect-front-end" target="_blank">Repositorio FrontEnd</a>
+<br>
+
+<a href="https://github.com/UniTalents-project-G2/unitalents-backend" target="_blank">Repositorio BackEnd</a>
+<br>
+
+<a href="https://unitalents-project-g2.github.io/UniTalents-LandingPage/" target="_blank">Deploy LandingPage</a>
+<br>
+
+<a href="https://purple-beach-0c0218c10.2.azurestaticapps.net" target="_blank">Deploy FrontEnd</a>
+<br>
+
+<a href="unitalents-backend-app-hrd8bzadb4ezdebk.centralus-01.azurewebsites.net/swagger" target="_blank">Deploy BackEnd</a>
+<br>
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB1</a>
+<br>
 
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EbQa5oMyhqlGhFWLufOxCUcBRfAW0x9uH6Ojs9s8pKrY0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MCc4XL" target="_blank">Video TP1</a>
+<br>
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EWk1wxGODv9IoWUGUiS27AwBiNiLjIqclqh9fe5CB3mN_w?e=erv8c9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB2</a>
+<br>
 
 fin
