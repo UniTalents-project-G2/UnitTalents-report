@@ -750,6 +750,8 @@
       <br><br>
       TB2 - Coordinación del módulo shared, registro de versiones y monitoreo de colaboraciones en GitHub mediante Insights.
       <br><br>
+      TF1 - Coordinó el diseño responsive en el frontend, desarrolló los módulos de Reputations y Postulations, y actualizó los endpoints del backend.
+      <br><br>
       <strong>Erick Palomino:</strong><br>
       TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.
       <br><br>
@@ -757,12 +759,17 @@
       <br><br>
       TB2 - Participación activa en la planificación del sprint y desarrollo de nuevas funcionalidades del módulo Projects.
       <br><br>
+      TF1 - Desarrolló el módulo de Users, realizó la corrección de diagramas UML y mejoró los enlaces internos del sistema.
+      <br><br>
       <strong>Renzo Rivera:</strong><br>
       TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional
       <br><br>
       TP1 – Encargado del login/register y configuración de perfiles. Participación constante en decisiones técnicas.
       <br><br>
-      TB2 - Apoyo en el liderazgo de subcomponentes del módulo Students, coordinación con colaboradores y corrección de entregables anteriores.<br><br>
+      TB2 - Apoyo en el liderazgo de subcomponentes del módulo Students, coordinación con colaboradores y corrección de entregables anteriores.
+      <br><br>
+      TF1 - Implementó diseño responsive en la landing page y desarrolló el módulo de Projects.
+      <br><br>
       <strong>Andres Coca:</strong><br>
       TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.
       <br><br>
@@ -770,12 +777,16 @@
       <br><br>
       TB2 - Participación en el Sprint Backlog 3, gestión de evidencia de desarrollo y solución de observaciones anteriores.
       <br><br>
+      TF1 - Implementó y documentó el Sprint Backlog 4, desarrolló el módulo de Student y mejoró los enlaces.
+      <br><br>
       <strong>Cesar Linares</strong><br>
       TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams
       <br><br>
       TP1 – Desarrollo del perfil del estudiante y corrección del product backlog.
       <br><br>
       TB2 - Coordinación en la revisión del módulo Postulations y mejoras con base en retroalimentación.
+      <br><br>
+      TF1 - Desarrolló el módulo de Company y elaboró la presentación del proyecto (PPT).
     </td>
     <td>
       TB1 - El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
@@ -783,6 +794,8 @@
       TP1 - El grupo ha demostrado un liderazgo compartido durante la planificación y ejecución del Sprint 2, asignando roles según fortalezas técnicas. Se lograron avances significativos en las funcionalidades principales gracias a la coordinación continua y compromiso de cada integrante. Las decisiones se tomaron en conjunto, fortaleciendo el sentido de equipo.
       <br><br>
       TB2 - El grupo mostró una sólida capacidad de liderazgo compartido, gestionando eficientemente las responsabilidades de cada módulo. Se evidenció una comunicación activa para resolver pendientes del sprint anterior y mantener el avance planificado.
+      <br><br>
+      TF1 - El equipo demostró una adecuada distribución del liderazgo técnico y organizacional, asumiendo responsabilidades clave en distintas áreas del proyecto. La colaboración fue constante y coordinada, asegurando el cumplimiento de los entregables en tiempo y forma.
     </td>
   </tr>
   <tr>
@@ -791,10 +804,13 @@
     </td>
     <td>
       <strong>Javier Gonzales:</strong><br>
-      TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.<br><br>
+      TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.
+      <br><br>
       TP1 – Coordinación del equipo en Discord, definición de metas de sprint, liderazgo en tareas críticas y soporte técnico.
       <br><br>
       TB2 - Apoyo en la planificación del sprint, seguimiento de tareas e integración de la base de datos con los demás módulos.
+      <br><br>
+      TF1 - Participó activamente en la integración frontend-backend y en la planificación de funcionalidades críticas.
       <br><br>
       <strong>Erick Palomino:</strong><br>
       TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.
@@ -803,11 +819,15 @@
       <br><br>
       TB2 - Colaboración efectiva en la ejecución del módulo Projects, trabajando en conjunto con el equipo para cumplir los objetivos.
       <br><br>
+      TF1 - Colaboró en la estructuración del backend y la mejora de la documentación.
+      <br><br>
       <strong>Renzo Rivera:</strong><br>
       TB1 – Colaboración en planificación funcional de interfaz, distribución de tareas de prototipado y verificación del cumplimiento de tiempos.<br><br>
       TP1 – Gestión de interfaz de autenticación, organización de estructuras de carpetas y soporte en configuración de perfiles.
       <br><br>
       TB2 - Cumplimiento de tareas asignadas, contribución en el desarrollo y validación del módulo Students.
+      <br><br>
+      TF1 - Coordinó la estética del diseño inicial de la app, promoviendo buenas prácticas de usabilidad.
       <br><br>
       <strong>Andres Coca:</strong><br>
       TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.
@@ -816,11 +836,15 @@
       <br><br>
       TB2 - Participación activa en la planificación técnica del sprint, gestión de entregables y soporte a compañeros.
       <br><br>
+      TF1 - Participó en la planificación del Sprint Backlog, asegurando la trazabilidad de tareas.
+      <br><br>
       <strong>Cesar Linares:</strong><br>
       TB1 – Apoyo en la definición de objetivos y metas del producto, priorización de funcionalidades clave y control del avance del backlog.<br><br>
       TP1 – Coordinación del trabajo en perfil del estudiante, seguimiento del progreso del equipo y apoyo en ajustes del product backlog.
       <br><br>
       TB2 - Colaboración con el equipo para cerrar observaciones y asegurar el cumplimiento de funcionalidades en Postulations.
+      <br><br>
+      TF1 - Apoyó en la organización del equipo y documentación visual del avance del proyecto.
     </td>
     <td>
       TB1 - El grupo logró establecer un entorno colaborativo donde se respetaron los roles, tiempos y responsabilidades de cada integrante. Se definieron metas alcanzables, se mantuvo una comunicación efectiva y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y solidario.
@@ -828,6 +852,8 @@
       TP1 - El equipo logró establecer un entorno colaborativo eficaz, distribuyendo tareas de manera equitativa y planificada. El uso de herramientas como Discord, Trello y GitHub permitió cumplir con los objetivos del sprint. El compromiso de cada miembro garantizó avances sostenibles y alineados con las metas del proyecto.
       <br><br>
       TB2 - Durante el TB2, el equipo demostró un entorno de trabajo inclusivo y cooperativo. Se cumplieron las metas propuestas gracias a una planificación estructurada y a la corresponsabilidad en el cumplimiento de tareas por parte de todos los integrantes.
+      <br><br>
+      TF1 - El equipo promovió un ambiente de trabajo colaborativo, cumpliendo con las metas propuestas para el sprint. Se logró una integración efectiva de las tareas técnicas y de presentación, reflejando una planificación clara y un trabajo cohesionado.
     </td>
   </tr>
 </table>
