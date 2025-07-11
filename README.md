@@ -7154,6 +7154,112 @@ link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7
 <br>
 
 
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
++ US05
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_yXcXoYbFOq.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Enlace a Portafolio- Elaboración propia
+</p>
+
+<br>
+
+
++ US09
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/cambiar contraseña.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Recuperar contraseña- Elaboración propia
+</p>
+
+<br>
+
++ US11
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_ThrvEDqQGN.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Calificación de estudiantes - Elaboración propia
+</p>
+
+<br>
++ US13
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/calificarcontratador.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Calificación de gerente - Elaboración propia
+</p>
+
+<br>
+
++ US20
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_AnAOjjePXj.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Cerrar sesión - Elaboración propia
+</p>
+
+<br>
+
++ US21
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_1PPctl55Rz.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Actualizar tecnologias  de estudiante - Elaboración propia
+</p>
+
+<br>
++ US22
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_dlOfb8WgSw.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Visualizar información de empresa - Elaboración propia
+</p>
+
+<br>
+
++ US23
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_Oikks8823z.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Editar tecnologias de empresa - Elaboración propia
+</p>
+
+<br>
+
 ### 5.3 Validation Interviews
 
 #### 5.3.1 Diseño de Entrevistas
@@ -7358,6 +7464,10 @@ link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7
     </td>
   </tr>
 </table>
+
+
+
+
 
 #### 5.3.3 Evaluaciones según heurísticas
 
