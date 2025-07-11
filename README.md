@@ -265,6 +265,51 @@
     </td>
     <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome para el TB2</td>
   </tr>
+  <tr>
+    <td>4.01</td>
+    <td>07/07/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Diseño responsive incluido</td>
+  </tr>
+  <tr>
+    <td>4.02</td>
+    <td>08/07/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Mejora del contenido en el frontend</td>
+  </tr>
+    <tr>
+    <td>4.02</td>
+    <td>09/07/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción del Sprint 4</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>4.02</td>
+    <td>21/06/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome para el TF1</td>
+  </tr>
 </table>
 
 ---
@@ -468,6 +513,44 @@
   </tr>
 </table>
 
+**TF1**
+---
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td><td>Feature del diseño responsive, actualización del frontend y backend</td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td><td>Corrección de los diagramas, mejora de los links</td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>Feature del diseño responsive, mejoras en la Landing Page</td>
+  </tr>
+  <tr>
+    <td>
+      Andres Coca
+    </td>
+    <td>Feature del Spirnt Backlog 4, implementación del sprint backlog 4
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Cesar Linares
+    </td>
+    <td>Correción de diagramas</td>
+  </tr>
+</table>
+
 ---
 
 ## Contenido
@@ -475,7 +558,7 @@
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [**TB1**](#tb1)
-- [**TF**](#tf)
+- [**TP1**](#tf)
 - [**TB2**](#tb2)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
