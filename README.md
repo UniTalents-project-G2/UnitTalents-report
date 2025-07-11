@@ -32,7 +32,7 @@
 |u202019409|Linares Bernable, Cesar Alejandro|
 
 
-**Año:**  2025
+**Año:** Julio 2025
 
 ---
 
@@ -484,7 +484,7 @@
       Erick Palomino
     </td>
     <td>
-      Feature del módulo de Projects, Sprint Planning, correciones del anterior sprint.
+      Feature del módulo de Projects, Sprint Backlog 4, Sprint Planning, correciones del anterior sprint.
     </td>
   </tr>
   <tr>
@@ -500,7 +500,7 @@
       Andres Coca
     </td>
     <td>
-      Feature del módulo de Companies, Sprint Backlog 3, Development Evidence for Sprint Review y correciones del anterior sprint
+      Feature del módulo de Companies, Sprint Backlog 4, Development Evidence for Sprint Review y correciones del anterior sprint
     </td>
   </tr>
   <tr>
@@ -508,7 +508,7 @@
       Cesar Linares
     </td>
     <td>
-      Feature del módulo de Postulations y correciones del anterior sprint.
+      Feature del módulo de Postulations, conclusiones y correciones del anterior sprint.
     </td>
   </tr>
 </table>
@@ -669,8 +669,8 @@
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-- [*Landing Page:*](#landing-page)
-- [*Front End:*](#front-end)
+        - [*Landing Page:*](#landing-page)
+        - [*Front End:*](#front-end)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
     - [5.2.3. Sprint 3](#523-sprint-3)
       - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
@@ -681,6 +681,15 @@
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3 Validation Interviews](#53-validation-interviews)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -4031,7 +4040,7 @@ Este diagrama de arquitectura fue creado en **Structurizr**.
 El diagrama de contexto ofrece una visión general de alto nivel que representa cómo el sistema de software UniTalent Connect se relaciona con sus usuarios y, cuando aplica, con otros sistemas externos.
 
 <p align="center">
-  <img src="images/diagramaC4/c4-context.png" alt="" width="800">
+  <img src="images/diagramas/diagramac4-context.png" alt="" width="800">
 </p>
 
 <p align="center">
@@ -4045,7 +4054,7 @@ El diagrama de contexto ofrece una visión general de alto nivel que representa 
 El diagrama de contenedores proporciona una vista general de alto nivel sobre el software UniTalent Connect.
 
 <p align="center">
-  <img src="images/diagramaC4/c4-container.png" alt="" width="1000">
+  <img src="images/diagramas/diagramac4-contenedores.png" alt="" width="1000">
 </p>
 
 <p align="center">
@@ -4058,101 +4067,57 @@ El diagrama de contenedores proporciona una vista general de alto nivel sobre el
 
 Los diagramas de componentes muestran la estructura interna de los contenedores principales del sistema UniTalent Connect, detallando cómo se organizan e interactúan sus componentes. En este caso, se presentan todos los componentes de las diferentes funcionalidades que va a tener nuestro producto.
 
-**Registro de usuarios**
+**Bounded Context Iam**
 <p align="center">
-  <img src="images/diagramaC4/c4-registro-usuarios.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-iam.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Registro de Usuarios- Elaboración propia
-</p>
-
-<br>
-
-**Autenticación y Autorización**
-<p align="center">
-  <img src="images/diagramaC4/c4-autenticacion-autorizacion.png" alt="" width="500">
-</p>
-
-<p align="center">
-    Web Applications User Flow C4 Components Autenticación de Autorización- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Iam- Elaboración propia
 </p>
 
 <br>
 
-**Gestión de Proyectos**
+**Bounded Context Companies**
 <p align="center">
-  <img src="images/diagramaC4/c4-gestion-proyectos.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-companies.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Gestion de Proyectos- Elaboración propia
-</p>
-
-<br>
-
-**Gestión de Pagos y Suscripciones**
-<p align="center">
-  <img src="images/diagramaC4/c4-gestion-pagos-suscripciones.png" alt="" width="500">
-</p>
-
-<p align="center">
-    Web Applications User Flow C4 Components Gestion de Pagos de Suscripciones- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Companies- Elaboración propia
 </p>
 
 <br>
 
-**Notificaciones**
+**Bounded Context Postulations**
 <p align="center">
-  <img src="images/diagramaC4/c4-notificaciones.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-postulations.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Notificaciones- Elaboración propia
-</p>
-
-<br>
-
-**Gestión de Perfiles y Portafolios**
-<p align="center">
-  <img src="images/diagramaC4/c4-gestion-perfiles-portafolios.png" alt="" width="500">
-</p>
-
-<p align="center">
-    Web Applications User Flow C4 Components Gestion de Perfil y Portafolio- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Postulations- Elaboración propia
 </p>
 
 <br>
 
-**Sistema de Evaluaciones**
+**Bounded Context Projects**
 <p align="center">
-  <img src="images/diagramaC4/c4-sistema-evaluaciones.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-projects.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Sistema de Evaluación- Elaboración propia
-</p>
-
-<br>
-
-**Modulo de Búsqueda**
-<p align="center">
-  <img src="images/diagramaC4/c4-modulo-busqueda.png" alt="" width="500">
-</p>
-
-<p align="center">
-    Web Applications User Flow C4 Components Modulo de Busqueda- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Projects- Elaboración propia
 </p>
 
 <br>
 
-**Panel Administración**
+**Bounded Context Students**
 <p align="center">
-  <img src="images/diagramaC4/c4-panel-administrativo.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-students.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Panel Administración- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Students- Elaboración propia
 </p>
 
 <br>
@@ -4160,89 +4125,6 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams  
-
-
-Link: `https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?viewport_loc=-1980%2C-440%2C4658%2C2280%2C0_0&invitationId=inv_8dc70efe-cc45-4fe9-9d62-a84601b32109`
-
-<p align="center">
-  <img src="images/UniTalentsUML-FrontEnd-auth.png" alt="class diagram" width="80%">
-</p>
-
-<p align="center">
-    Diagrama de Frontend-auth - Elaboración propia
-</p>
-
-<br>
-
-<p align="center">
-  <img src="images/UniTalentsUML-FrontEnd-companies.png" alt="class diagram" width="80%">
-</p>
-
-<p align="center">
-    Diagrama de Frontend-companies - Elaboración propia
-</p>
-
-<br>
-
-<p align="center">
-  <img src="images/UniTalentsUML-FrontEnd-projects.png" alt="class diagram" width="80%">
-</p>
-
-<p align="center">
-    Diagrama de Frontend-projects - Elaboración propia
-</p>
-
-<br>
-
-<p align="center">
-  <img src="images/UniTalentsUML-FrontEnd-reputations.png" alt="class diagram" width="80%">
-</p>
-
-<p align="center">
-    Diagrama de Frontend-reputations - Elaboración propia
-</p>
-
-<br>
-
-<p align="center">
-  <img src="images/UniTalentsUML-FrontEnd-shared.png" alt="class diagram" width="80%">
-</p>
-
-<p align="center">
-    Diagrama de Frontend-shared - Elaboración propia
-</p>
-
-<br>
-
-<p align="center">
-  <img src="images/UniTalentsUML-FrontEnd-student-postulations.png" alt="class diagram" width="80%">
-</p>
-
-<p align="center">
-    Diagrama de Frontend-student-postulations - Elaboración propia
-</p>
-
-<br>
-
-<p align="center">
-  <img src="images/UniTalentsUML-FrontEnd-student.png" alt="class diagram" width="80%">
-</p>
-
-<p align="center">
-    Diagrama de Frontend-student - Elaboración propia
-</p>
-
-<br>
-
-<p align="center">
-  <img src="images/UniTalentsUML-FrontEnd-users.png" alt="class diagram" width="80%">
-</p>
-
-<p align="center">
-    Diagrama de Frontend-users - Elaboración propia
-</p>
-
-<br>
 
 <p align="center">
   <img src="images/Diagrama UML Apps Web.png" alt = "updated class diagram" width="80%">
@@ -4253,6 +4135,121 @@ Link: `https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?vi
 </p>
 
 <br>
+
+Link: `https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?viewport_loc=-1980%2C-440%2C4658%2C2280%2C0_0&invitationId=inv_8dc70efe-cc45-4fe9-9d62-a84601b32109`
+
+Diagrama deL Frontend:
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-completo1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-completo2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images//diagramas/diagrama-frontend-studentpostulation.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Studen Postulations - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-projects.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Projects - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-companies.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Companies - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-reputations.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Reputations - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-students.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Students - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-auth.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Auth - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-users.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Users - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-shared.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Shared - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-approot.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context App Root - Elaboración propia
+</p>
+
+<br>
+
 
 #### 4.7.2. Class Dictionary  
 
