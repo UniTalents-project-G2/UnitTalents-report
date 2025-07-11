@@ -4279,7 +4279,7 @@ Diagrama deL Frontend:
 #### 4.8.1. Database Diagram  
 
 <p align="center">
-  <img src="images/database1.jpg" alt="database diagram" width="80%">
+  <img src="images/unitalentsbddiagram.png" alt="database diagram" width="80%">
 </p>
 
 <p align="center">
