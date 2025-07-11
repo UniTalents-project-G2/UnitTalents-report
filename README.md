@@ -301,7 +301,7 @@
   </tr>
     <tr>
     <td>4.03</td>
-    <td>09/07/25</td>
+    <td>11/07/25</td>
     <td>
     Gonzales,<br>
     Palomino,<br>
@@ -535,31 +535,31 @@
   <tr>
     <td>
       Javier Gonzales
-    </td><td>Feature del diseño responsive, actualización del frontend y backend</td>
+    </td><td>Feature del diseño responsive en el Frontend, Feature del Módulo de Reputations y Postulations, y Actualización de los endpoints del Backend</td>
   </tr>
   <tr>
     <td>
       Erick Palomino
-    </td><td>Corrección de los diagramas, mejora de los links</td>
+    </td><td>Feature del Módulo de Users, Corrección de los diagramas, mejora de los links</td>
   </tr>
   <tr>
     <td>
       Renzo Rivera
     </td>
-    <td>Feature del diseño responsive, mejoras en la Landing Page</td>
+    <td>Feature del diseño responsive en la Landing Page y Feature del Módulo de Projects</td>
   </tr>
   <tr>
     <td>
       Andres Coca
     </td>
-    <td>Feature del Spirnt Backlog 4, implementación del sprint backlog 4
+    <td>Feature del Spirnt Backlog 4, implementación del sprint backlog 4, Feature del Módulo de Student y mejora de los links 
     </td>
   </tr>
   <tr>
     <td>
       Cesar Linares
     </td>
-    <td>Correción de diagramas</td>
+    <td>Feature del Módulo de Company, desarrollo del PPT</td>
   </tr>
 </table>
 
@@ -6911,9 +6911,9 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>Team Member</strong></td>
     <td><strong>GitHub Username</strong></td>
-    <td><strong>Módulo de Reputations Module</strong></td>
-    <td><strong>Módulo de Postulations Module</strong></td>
-    <td><strong> Módulo de Projects</strong></td>
+    <td><strong>Módulo de Reputations</strong></td>
+    <td><strong>Módulo de Postulations</strong></td>
+    <td><strong>Módulo de Projects</strong></td>
     <td><strong>Módulo de Company</strong></td>
     <td><strong>Módulo de Student</strong></td>
     <td><strong>Módulo de Users</strong></td>
@@ -7306,6 +7306,7 @@ link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7
 </p>
 
 <br>
+
 + US22
 
 <br>
@@ -7332,7 +7333,137 @@ link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7
 
 <br>
 
-5.2.4.6. Services Documentation Evidence for Sprint Review
++ TS01
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/TS01.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Creación de los endpoints para registrar usuario - Elaboración propia
+</p>
+
+<br>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<h3>Endpoints implementados</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint URL (local)</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>/api/CompanyRatings/exists</td><td>CompanyRatings</td><td>GET</td><td>Obtener listado de valoraciones hacia la empresa</td><td>projectId</td><td>[{"projectId":1, "rating": 4.0}]</td></tr>
+    <tr><td>/api/CompanyRatings</td><td>CompanyRatings</td><td>POST</td><td>Crear una nueva valoración hacia la empresa</td><td>projectId, rating</td><td>{"projectId":0, "rating": 0}</td></tr>
+    <tr><td>/api/Reputations</td><td>Reputations</td><td>GET</td><td>Obtener listado de reputaciones de los estudiantes</td><td>Body: studentId, projectId</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/Reputations</td><td>Reputations</td><td>POST</td><td>Crear una nueva reputación sobre los estudiantes</td><td>Body: studentId, projectId, status</td><td>{"projectId": 2, "rating": 4.0, "comment": "bueno"}</td></tr>
+    <tr><td>/api/Users/register</td><td>Users</td><td>POST</td><td>Crear usuarios</td><td>name, email, password, role</td><td>{"Pedro":"string","example@email.com": "string", "12345": "string", "company": "string"}</td></tr>
+    <tr><td>/api/Users/login</td><td>Users</td><td>GET</td><td>Inicio de sesión para usuarios</td><td>email, password</td><td>{"id": 2, "name": "Pedro", "email": "pedro@email.com", "role": "company"}</td></tr>
+    <tr><td>/api/StudentPostulations</td><td>StudentPostulations</td><td>POST</td><td>Crear postulaciones para estudiantes</td><td>studentId, projectId</td><td>[{"studentId": 1, "projectId": 2}]</td></tr>
+    <tr><td>/api/StudentPostulations</td><td>StudentPostulations</td><td>GET</td><td>Listado de todas las postulaciones creadas para estudiantes</td><td>studentId, projectId</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/StudentPostulations</td><td>StudentPostulations</td><td>PUT</td><td>Editar una de las postulaciones creadas para estudiantes</td><td>postulationId</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+  </tbody>
+</table>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Módulo de Reputación y Postulación</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Módulo de Usuarios</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Módulo de Projectos</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>Módulo de Estudiantes</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>Módulo de Compañia</td>
+  </tr>
+</table>
+<br><br>
+
+*FrontEnd*
+---
+
+<p align="center">
+  <img src="images/evidence-spr4/Frontend-Sprint4-Commits.jpg" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Insight Evidence 1 Frontend - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/Frontend-sprint4-Contributors.jpg" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Insight Evidence 2 Frontend - Elaboración propia
+</p>
+
+<br>
+
+<br><br>
+
+*BackEnd*
+---
+
+<p align="center">
+  <img src="images/evidence-spr4/BackEnd-sprint4-Commits.jpg" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Insight Evidence 1 Backend - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/BackEnd-sprint4-Contributors.jpg" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Insight Evidence 2 Backend - Elaboración propia
+</p>
+
+<br>
+
+
+---
 
 ### 5.3 Validation Interviews
 
