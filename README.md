@@ -392,6 +392,28 @@
 </p>
 <br>
 
+*TF1*
+---
+<p align="center">
+  <img src="images/evidence-spr4/repIns1.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/repIns2.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/repIns3.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/repIns4.png" alt="insights" width="1000">
+</p>
+<br>
+
 
 
 **TB1**
