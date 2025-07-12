@@ -4305,6 +4305,168 @@ Diagrama deL Frontend:
 
 <br>
 
+Diagrama de Backend:
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackend1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackend2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackend3.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend 3 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendshared.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Shared - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendstudentpostulation1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context StudentPostulations 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendstudentpostulation2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context StudentPostulations 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendprojects1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Projects 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendprojects2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Projects 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendusers1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Users 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendusers2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Users 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendreputation1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Reputation 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendreputation2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Reputation 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendstudents1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Students 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendstudents2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Students 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendcompanies1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Companies 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendcompanies2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Companies 2 - Elaboración propia
+</p>
+
+<br>
+
 
 #### 4.7.2. Class Dictionary  
 
