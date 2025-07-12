@@ -7,17 +7,17 @@
 ---
 **Universidad:** Universidad Peruana de Ciencias Aplicadas
 
-**Ciclo:**  2025 - 01
+**Ciclo:**  2025-10
 
 **Código del curso:**  1ASI0730-2510
 
 **Nombre del curso:**  Aplicaciones Web
 
-**Sección:**  4376
+**NRC:**  4376
 
 **Nombre del profesor:**  Hugo Allan Mori Paiva
 
-**Nombre del Startup:** UnitTalents
+**Nombre del Startup:** UniTalents
 
 **Nombre del Producto:**  UniTalents Connect
 
@@ -32,7 +32,7 @@
 |u202019409|Linares Bernable, Cesar Alejandro|
 
 
-**Año:**  2025
+**Año:** Julio 2025
 
 ---
 
@@ -265,6 +265,63 @@
     </td>
     <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome para el TB2</td>
   </tr>
+  <tr>
+    <td>4.01</td>
+    <td>07/07/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Diseño responsive incluido</td>
+  </tr>
+  <tr>
+    <td>4.02</td>
+    <td>08/07/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Mejora del contenido en el frontend</td>
+  </tr>
+    <tr>
+    <td>4.02</td>
+    <td>09/07/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción del Sprint 4</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>4.03</td>
+    <td>11/07/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Modificaciones en los endpoints del Backend</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>4.04</td>
+    <td>11/07/25</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Linares, Coca
+    </td>
+    <td>Redacción de las Conclusiones, registro de versiones, github collaboration y studen outcome para el TF1</td>
+  </tr>
 </table>
 
 ---
@@ -335,6 +392,28 @@
 </p>
 <br>
 
+*TF1*
+---
+<p align="center">
+  <img src="images/evidence-spr4/repIns1.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/repIns2.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/repIns3.png" alt="insights" width="1000">
+</p>
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/repIns4.png" alt="insights" width="1000">
+</p>
+<br>
+
 
 
 **TB1**
@@ -387,7 +466,7 @@
   </tr>
 </table>
 
-**TF**
+**TP1**
 ---
 <table align="center">
   <tr>
@@ -456,7 +535,7 @@
       Erick Palomino
     </td>
     <td>
-      Feature del módulo de Projects, Sprint Planning, correciones del anterior sprint.
+      Feature del módulo de Projects, Sprint Backlog 4, Sprint Planning, correciones del anterior sprint.
     </td>
   </tr>
   <tr>
@@ -472,7 +551,7 @@
       Andres Coca
     </td>
     <td>
-      Feature del módulo de Companies, Sprint Backlog 3, Development Evidence for Sprint Review y correciones del anterior sprint
+      Feature del módulo de Companies, Sprint Backlog 4, Development Evidence for Sprint Review y correciones del anterior sprint
     </td>
   </tr>
   <tr>
@@ -480,8 +559,46 @@
       Cesar Linares
     </td>
     <td>
-      Feature del módulo de Postulations y correciones del anterior sprint.
+      Feature del módulo de Postulations, conclusiones y correciones del anterior sprint.
     </td>
+  </tr>
+</table>
+
+**TF1**
+---
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td><td>Feature del diseño responsive en el Frontend, Feature del Módulo de Reputations y Postulations, y Actualización de los endpoints del Backend</td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td><td>Feature del Módulo de Users, Corrección de los diagramas, mejora de los links</td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>Feature del diseño responsive en la Landing Page y Feature del Módulo de Projects</td>
+  </tr>
+  <tr>
+    <td>
+      Andres Coca
+    </td>
+    <td>Feature del Spirnt Backlog 4, Feature del Módulo de Student y mejora de los links 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Cesar Linares
+    </td>
+    <td>Feature del Módulo de Company, desarrollo del PPT</td>
   </tr>
 </table>
 
@@ -492,8 +609,9 @@
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [**TB1**](#tb1)
-- [**TF**](#tf)
+- [**TP1**](#tf)
 - [**TB2**](#tb2)
+- [**TF1**](#tf1)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -603,8 +721,8 @@
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-- [*Landing Page:*](#landing-page)
-- [*Front End:*](#front-end)
+        - [*Landing Page:*](#landing-page)
+        - [*Front End:*](#front-end)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
     - [5.2.3. Sprint 3](#523-sprint-3)
       - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
@@ -615,6 +733,15 @@
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3 Validation Interviews](#53-validation-interviews)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -646,6 +773,8 @@
       <br><br>
       TB2 - Coordinación del módulo shared, registro de versiones y monitoreo de colaboraciones en GitHub mediante Insights.
       <br><br>
+      TF1 - Coordinó el diseño responsive en el frontend, desarrolló los módulos de Reputations y Postulations, y actualizó los endpoints del backend.
+      <br><br>
       <strong>Erick Palomino:</strong><br>
       TB1 - Análisis de segmentos objetivos y estrategias, levantamiento de competidores, entrevistas y desarrollo de diagramas estructurales del sistema.
       <br><br>
@@ -653,12 +782,17 @@
       <br><br>
       TB2 - Participación activa en la planificación del sprint y desarrollo de nuevas funcionalidades del módulo Projects.
       <br><br>
+      TF1 - Desarrolló el módulo de Users, realizó la corrección de diagramas UML y mejoró los enlaces internos del sistema.
+      <br><br>
       <strong>Renzo Rivera:</strong><br>
       TB1 – Desarrollo de user personas, journey maps y user stories, así como wireframes, prototipos y testeo funcional
       <br><br>
       TP1 – Encargado del login/register y configuración de perfiles. Participación constante en decisiones técnicas.
       <br><br>
-      TB2 - Apoyo en el liderazgo de subcomponentes del módulo Students, coordinación con colaboradores y corrección de entregables anteriores.<br><br>
+      TB2 - Apoyo en el liderazgo de subcomponentes del módulo Students, coordinación con colaboradores y corrección de entregables anteriores.
+      <br><br>
+      TF1 - Implementó diseño responsive en la landing page y desarrolló el módulo de Projects.
+      <br><br>
       <strong>Andres Coca:</strong><br>
       TB1 - Diseño de Empathy Maps, escenarios actuales, diccionario de datos, y apoyo en entrevistas y análisis funcional.
       <br><br>
@@ -666,12 +800,16 @@
       <br><br>
       TB2 - Participación en el Sprint Backlog 3, gestión de evidencia de desarrollo y solución de observaciones anteriores.
       <br><br>
+      TF1 - Implementó y documentó el Sprint Backlog 4, desarrolló el módulo de Student y mejoró los enlaces.
+      <br><br>
       <strong>Cesar Linares</strong><br>
       TB1 – Construcción de escenarios TO-BE, mapas de impacto, y estructura del backlog con style guidelines, product backlog y database diagrams
       <br><br>
       TP1 – Desarrollo del perfil del estudiante y corrección del product backlog.
       <br><br>
       TB2 - Coordinación en la revisión del módulo Postulations y mejoras con base en retroalimentación.
+      <br><br>
+      TF1 - Desarrolló el módulo de Company y elaboró la presentación del proyecto (PPT).
     </td>
     <td>
       TB1 - El equipo ha trabajado de manera cohesionada, organizando responsabilidades desde las primeras etapas del proyecto. Cada miembro asumió liderazgo en tareas clave del desarrollo del sistema, generando entregables integrados y consistentes. La toma de decisiones fue compartida y orientada al cumplimiento de objetivos comunes.
@@ -679,6 +817,8 @@
       TP1 - El grupo ha demostrado un liderazgo compartido durante la planificación y ejecución del Sprint 2, asignando roles según fortalezas técnicas. Se lograron avances significativos en las funcionalidades principales gracias a la coordinación continua y compromiso de cada integrante. Las decisiones se tomaron en conjunto, fortaleciendo el sentido de equipo.
       <br><br>
       TB2 - El grupo mostró una sólida capacidad de liderazgo compartido, gestionando eficientemente las responsabilidades de cada módulo. Se evidenció una comunicación activa para resolver pendientes del sprint anterior y mantener el avance planificado.
+      <br><br>
+      TF1 - El equipo demostró una adecuada distribución del liderazgo técnico y organizacional, asumiendo responsabilidades clave en distintas áreas del proyecto. La colaboración fue constante y coordinada, asegurando el cumplimiento de los entregables en tiempo y forma.
     </td>
   </tr>
   <tr>
@@ -687,10 +827,13 @@
     </td>
     <td>
       <strong>Javier Gonzales:</strong><br>
-      TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.<br><br>
+      TB1 – Liderazgo en planificación de tareas clave del UX process, organización de cronograma de entregables y coordinación interna del equipo.
+      <br><br>
       TP1 – Coordinación del equipo en Discord, definición de metas de sprint, liderazgo en tareas críticas y soporte técnico.
       <br><br>
       TB2 - Apoyo en la planificación del sprint, seguimiento de tareas e integración de la base de datos con los demás módulos.
+      <br><br>
+      TF1 - Participó activamente en la integración frontend-backend y en la planificación de funcionalidades críticas.
       <br><br>
       <strong>Erick Palomino:</strong><br>
       TB1 – Participación activa en entrevistas, planificación de criterios de segmentación y coordinación técnica de mockups.
@@ -699,11 +842,15 @@
       <br><br>
       TB2 - Colaboración efectiva en la ejecución del módulo Projects, trabajando en conjunto con el equipo para cumplir los objetivos.
       <br><br>
+      TF1 - Colaboró en la estructuración del backend y la mejora de la documentación.
+      <br><br>
       <strong>Renzo Rivera:</strong><br>
       TB1 – Colaboración en planificación funcional de interfaz, distribución de tareas de prototipado y verificación del cumplimiento de tiempos.<br><br>
       TP1 – Gestión de interfaz de autenticación, organización de estructuras de carpetas y soporte en configuración de perfiles.
       <br><br>
       TB2 - Cumplimiento de tareas asignadas, contribución en el desarrollo y validación del módulo Students.
+      <br><br>
+      TF1 - Coordinó la estética del diseño inicial de la app, promoviendo buenas prácticas de usabilidad.
       <br><br>
       <strong>Andres Coca:</strong><br>
       TB1 – Aporte en el diseño de estructura lógica de la solución, trabajo colaborativo en entrevistas y contribución al modelo de datos.
@@ -712,11 +859,15 @@
       <br><br>
       TB2 - Participación activa en la planificación técnica del sprint, gestión de entregables y soporte a compañeros.
       <br><br>
+      TF1 - Participó en la planificación del Sprint Backlog, asegurando la trazabilidad de tareas.
+      <br><br>
       <strong>Cesar Linares:</strong><br>
       TB1 – Apoyo en la definición de objetivos y metas del producto, priorización de funcionalidades clave y control del avance del backlog.<br><br>
       TP1 – Coordinación del trabajo en perfil del estudiante, seguimiento del progreso del equipo y apoyo en ajustes del product backlog.
       <br><br>
       TB2 - Colaboración con el equipo para cerrar observaciones y asegurar el cumplimiento de funcionalidades en Postulations.
+      <br><br>
+      TF1 - Apoyó en la organización del equipo y documentación visual del avance del proyecto.
     </td>
     <td>
       TB1 - El grupo logró establecer un entorno colaborativo donde se respetaron los roles, tiempos y responsabilidades de cada integrante. Se definieron metas alcanzables, se mantuvo una comunicación efectiva y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y solidario.
@@ -724,6 +875,8 @@
       TP1 - El equipo logró establecer un entorno colaborativo eficaz, distribuyendo tareas de manera equitativa y planificada. El uso de herramientas como Discord, Trello y GitHub permitió cumplir con los objetivos del sprint. El compromiso de cada miembro garantizó avances sostenibles y alineados con las metas del proyecto.
       <br><br>
       TB2 - Durante el TB2, el equipo demostró un entorno de trabajo inclusivo y cooperativo. Se cumplieron las metas propuestas gracias a una planificación estructurada y a la corresponsabilidad en el cumplimiento de tareas por parte de todos los integrantes.
+      <br><br>
+      TF1 - El equipo promovió un ambiente de trabajo colaborativo, cumpliendo con las metas propuestas para el sprint. Se logró una integración efectiva de las tareas técnicas y de presentación, reflejando una planificación clara y un trabajo cohesionado.
     </td>
   </tr>
 </table>
@@ -1433,8 +1586,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+      
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1474,8 +1629,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+      
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1515,8 +1672,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+    
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1559,8 +1718,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1600,8 +1761,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D` 
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1641,8 +1804,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+      
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -2344,50 +2509,56 @@ El lenguaje a utilizar para este proyecto es:
     </tr>
     <tr>
       <td>US21</td>
-      <td>Marcar proyecto como favorito</td>
+      <td>Actualizar tecnologias en el perfil del estudiante</td>
       <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> marcar proyectos como favoritos, <strong>para</strong> revisarlos después con facilidad.
+        <strong>Como</strong> estudiante, <strong>quiero</strong> actualizar las tecnologías que domino, <strong>para</strong> que se muestren en mi perfil 
       </td>
       <td>
-        <strong>Escenario 1: Marcar proyecto</strong><br>
-        <strong>Dado</strong> que he iniciado sesión y veo un proyecto
-        <strong>Cuando</strong> hago clic en el ícono de estrella
-        <strong>Entonces</strong> el proyecto se guarda en mi lista de favoritos.
+        <strong>Escenario 1: Estudiante añade una tecnología a su perfil
+</strong><br>
+        <strong>Dado que </strong> el estudiante accede a su perfil y hace click en “Cambiar” junto a Tecnologías y Especializaciones
+        <strong>Cuando</strong> escribe el nombre de la tecnología Y hace click en Agregar
+        <strong>Entonces</strong>  la tecnología se añade al  perfil.
         <br><br>
-        <strong>Escenario 2: Ver lista de favoritos</strong><br>
-        <strong>Dado</strong> que tengo proyectos guardados como favoritos
-        <strong>Cuando</strong> accedo a “Mis favoritos”
-        <strong>Entonces</strong> puedo ver todos los proyectos que he marcado
+        <strong>Escenario 2: Estudiante elimina una tecnología de su perfil</strong><br>
+        <strong>Dado que</strong> el estudiante accede a la configuración y hace click en “Cambiar” junto a Tecnologías y Especializaciones 
+        <strong>Cuando</strong> elimina una de las tecnologías agregadas  
+        <strong>Entonces</strong>  la tecnología ya no se visualizará en su perfil.
+      </td>
+      <td>Epic 06</td>
+    </tr>
+    <tr>
+      <td>US22</td>
+      <td>Visualizar información de empresa</td>
+      <td>
+        <strong>Como</strong> estudiante, <strong>quiero</strong> ver la información de la empresa a la que estoy postulando, <strong>para</strong> mantenerme más informado.
+      </td>
+      <td>
+        <strong>Escenario 1: Estudiante visualiza la información de empresa    </strong><br>
+        <strong>Dado que </strong> estoy viendo la información de una convocatoria
+        <strong>Cuando</strong>  el usuario hace click en “Ver Empresa”
+        <strong>Entonces</strong> se mostrará un apartado con información de la empresa como correo electrónico, número de contacto y calificación
       </td>
       <td>Epic 03</td>
     </tr>
     <tr>
-      <td>US22</td>
-      <td>Notificación de proyecto nuevo</td>
-      <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> recibir una notificación cuando se publique un proyecto compatible con mis habilidades, <strong>para</strong> no perder oportunidades.
-      </td>
-      <td>
-        <strong>Escenario 1: Nueva coincidencia</strong><br>
-        <strong>Dado</strong> que tengo habilidades seleccionadas en mi perfil
-        <strong>Cuando</strong> se publica un proyecto que coincide
-        <strong>Entonces</strong> recibo una notificación en la aplicación
-      </td>
-      <td>Epic 02</td>
-    </tr>
-    <tr>
       <td>US23</td>
-      <td>Eliminar cuenta</td>
+      <td>Actualizar tecnologías en el perfil de la empresa</td>
       <td>
-        <strong>Como</strong> estudiante, <strong>quiero</strong> poder eliminar mi cuenta permanentemente, <strong>para</strong> asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.
+        <strong>Como</strong> gerente, <strong>quiero</strong> actualizar las tecnologías que se utilizan en mi empresa, <strong>para</strong> que se muestren en el perfil de la compañía. 
       </td>
       <td>
-        <strong>Escenario 1: Nueva coincidencia</strong><br>
-        <strong>Dado</strong> que he iniciado sesión y accedo a la configuración de la cuenta
-        <strong>Cuando</strong> presiono “Eliminar cuenta” y confirmo la acción
-        <strong>Entonces</strong> mi cuenta es eliminada y los datos personales son removidos del sistema.
+        <strong>Escenario 1: Gerente añade una tecnología a su perfil</strong><br>
+        <strong>Dado</strong> que el gerente accede a su perfil y hace click en “Cambiar” junto a Tecnologías y Especializaciones 
+        <strong>Cuando</strong> escribe el nombre de la tecnología Y hace click en Agregar
+        <strong>Entonces</strong> la tecnología se añade al  perfil de la compañía.
+            <br><br>
+        <strong>Escenario 2: Gerente elimina una tecnología de su perfil</strong><br>
+        <strong>Dado que</strong> el gerente accede a la configuración y hace click en “Cambiar” junto a Tecnologías y Especializaciones 
+        <strong>Cuando</strong> elimina una de las tecnologías agregadas  
+        <strong>Entonces</strong>  la tecnología ya no se visualizará en el perfil de la empresa
       </td>
-      <td>Epic 01</td>
+      <td>Epic 06</td>
     </tr>
     <tr>
       <td>US24</td>
@@ -2834,22 +3005,22 @@ El lenguaje a utilizar para este proyecto es:
     <tr>
       <td>24</td>
       <td>US21</td>
-      <td>Marcar proyecto como favorito</td>
-      <td>Como estudiante, quiero marcar proyectos como favoritos, para revisarlos después con facilidad.</td>
+      <td>Actualizar tecnologias en el perfil del estudiante</td>
+      <td>Como estudiante, quiero actualizar las tecnologías que domino, para que se muestren en mi perfil </td>
       <td>2</td>
     </tr>
     <tr>
       <td>25</td>
       <td>US22</td>
-      <td>Notificación de proyecto nuevo</td>
-      <td>Como estudiante, quiero recibir una notificación cuando se publique un proyecto compatible con mis habilidades, para no perder oportunidades.</td>
+      <td>Visualizar información de empresa</td>
+      <td>Como estudiante, quiero ver la información de la empresa a la que estoy postulando, para mantenerme más informado.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>26</td>
       <td>US23</td>
-      <td>Eliminar cuenta</td>
-      <td>Como estudiante, quiero poder eliminar mi cuenta permanentemente, para asegurarme de que mis datos ya no estén disponibles en la plataforma si decido dejar de usarla.</td>
+      <td>Actualizar tecnologías en el perfil de la empresa</td>
+      <td>Como gerente, quiero actualizar las tecnologías que se utilizan en mi empresa, para que se muestren en el perfil de la compañía. </td>
       <td>2</td>
     </tr>
     <tr>
@@ -2918,7 +3089,7 @@ El lenguaje a utilizar para este proyecto es:
 
 <br>
 
-https://trello.com/b/sMeOQ8TS/product-backlog-unittalents 
+`https://trello.com/b/sMeOQ8TS/product-backlog-unittalents`
 
 ---
 
@@ -3371,7 +3542,7 @@ La navegación en UniTalents Connect está diseñada para ofrecer una experienci
 
 Los wireframes de UniTalents Connect han sido desarrollados aplicando principios clave de diseño centrado en el usuario, priorizando la claridad visual, la jerarquía de información y la accesibilidad. Cada sección está estructurada con una navegación intuitiva y coherente entre el menú lateral, encabezado fijo y bloques de contenido, lo cual refleja una arquitectura de información jerárquica y secuencial bien definida. Se han utilizado elementos de diseño consistentes como tarjetas, iconos descriptivos, botones llamativos y formularios bien distribuidos, facilitando la interacción fluida en dispositivos de diferentes tamaños. Además, se ha incorporado un enfoque de diseño inclusivo al priorizar la legibilidad (uso de contrastes adecuados, tamaños de fuente amplios y campos de formulario claros), permitiendo que usuarios con distintos niveles de experiencia digital puedan navegar sin fricciones. Todo el diseño contribuye a lograr una experiencia coherente entre perfiles (estudiante y gerente), enfocada en guiar a los usuarios hacia sus metas (postular, contratar, calificar, publicar proyectos) de forma eficiente y accesible.
 
-https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1
+`https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=90-2&t=MxwzCu31lmWjWLeX-1`
 <br><br>
 
 + Iniciar Sesión / Registrarse:
@@ -3525,7 +3696,7 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 
 #### 4.4.2. Web Applications Wireflow Diagrams 
 
-https://overflow.io/s/TQAWUZY8
+`https://overflow.io/s/TQAWUZY8`
 
 <br><br>
 
@@ -3659,7 +3830,7 @@ https://overflow.io/s/TQAWUZY8
 
 Los siguientes Mock-ups fueron elaborados en base a los wireframes previamente hechos. Representan fielmente la manera en la que nuestros usuarios podrán apreciar la aplicación web.
 
-https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=0-1&p=f&t=dIa0V1UemHWoieb7-0
+`https://www.figma.com/design/4ogul9R3HVNx4WAPZMDCCh/UnitTalents?node-id=0-1&p=f&t=dIa0V1UemHWoieb7-0`
 <br><br>
 
 + Iniciar Sesión / Registrarse:
@@ -3814,7 +3985,7 @@ Panel que muestra los proyectos pendientes de evaluación y permite calificar es
 Los siguientes User Flow Diagrams se elaboraron con respecto a los WireFlows previamente hechos y representan los pasos que seguirán nuestros usuarios a través de la aplicación.
 
 
-https://overflow.io/s/QHU9N2IZ
+`https://overflow.io/s/QHU9N2IZ`
 
 <br>
 
@@ -3952,14 +4123,14 @@ https://overflow.io/s/QHU9N2IZ
 El Domain Driven Design (DDD) permite alinear el desarrollo de UniTalent Connect con las necesidades reales del dominio freelance estudiantil. A través del uso de un lenguaje ubicuo y una estructura centrada en el negocio, se mejora la colaboración entre desarrolladores y expertos del dominio. DDD guía el diseño del sistema mediante patrones y diagramas que reflejan fielmente la lógica del dominio. 
 
 Este diagrama de arquitectura fue creado en **Structurizr**.
-https://structurizr.com/share/101676/c0e4ce4f-36d3-4065-b4e4-ae9dc8c4d388
+`https://structurizr.com/share/101676/c0e4ce4f-36d3-4065-b4e4-ae9dc8c4d388`
 
 #### 4.6.1. Software Architecture Context Diagram  
 
 El diagrama de contexto ofrece una visión general de alto nivel que representa cómo el sistema de software UniTalent Connect se relaciona con sus usuarios y, cuando aplica, con otros sistemas externos.
 
 <p align="center">
-  <img src="images/diagramaC4/c4-context.png" alt="" width="800">
+  <img src="images/diagramas/diagramac4-context.png" alt="" width="800">
 </p>
 
 <p align="center">
@@ -3973,7 +4144,7 @@ El diagrama de contexto ofrece una visión general de alto nivel que representa 
 El diagrama de contenedores proporciona una vista general de alto nivel sobre el software UniTalent Connect.
 
 <p align="center">
-  <img src="images/diagramaC4/c4-container.png" alt="" width="1000">
+  <img src="images/diagramas/diagramac4-contenedores.png" alt="" width="1000">
 </p>
 
 <p align="center">
@@ -3986,101 +4157,57 @@ El diagrama de contenedores proporciona una vista general de alto nivel sobre el
 
 Los diagramas de componentes muestran la estructura interna de los contenedores principales del sistema UniTalent Connect, detallando cómo se organizan e interactúan sus componentes. En este caso, se presentan todos los componentes de las diferentes funcionalidades que va a tener nuestro producto.
 
-**Registro de usuarios**
+**Bounded Context Iam**
 <p align="center">
-  <img src="images/diagramaC4/c4-registro-usuarios.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-iam.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Registro de Usuarios- Elaboración propia
-</p>
-
-<br>
-
-**Autenticación y Autorización**
-<p align="center">
-  <img src="images/diagramaC4/c4-autenticacion-autorizacion.png" alt="" width="500">
-</p>
-
-<p align="center">
-    Web Applications User Flow C4 Components Autenticación de Autorización- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Iam- Elaboración propia
 </p>
 
 <br>
 
-**Gestión de Proyectos**
+**Bounded Context Companies**
 <p align="center">
-  <img src="images/diagramaC4/c4-gestion-proyectos.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-companies.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Gestion de Proyectos- Elaboración propia
-</p>
-
-<br>
-
-**Gestión de Pagos y Suscripciones**
-<p align="center">
-  <img src="images/diagramaC4/c4-gestion-pagos-suscripciones.png" alt="" width="500">
-</p>
-
-<p align="center">
-    Web Applications User Flow C4 Components Gestion de Pagos de Suscripciones- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Companies- Elaboración propia
 </p>
 
 <br>
 
-**Notificaciones**
+**Bounded Context Postulations**
 <p align="center">
-  <img src="images/diagramaC4/c4-notificaciones.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-postulations.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Notificaciones- Elaboración propia
-</p>
-
-<br>
-
-**Gestión de Perfiles y Portafolios**
-<p align="center">
-  <img src="images/diagramaC4/c4-gestion-perfiles-portafolios.png" alt="" width="500">
-</p>
-
-<p align="center">
-    Web Applications User Flow C4 Components Gestion de Perfil y Portafolio- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Postulations- Elaboración propia
 </p>
 
 <br>
 
-**Sistema de Evaluaciones**
+**Bounded Context Projects**
 <p align="center">
-  <img src="images/diagramaC4/c4-sistema-evaluaciones.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-projects.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Sistema de Evaluación- Elaboración propia
-</p>
-
-<br>
-
-**Modulo de Búsqueda**
-<p align="center">
-  <img src="images/diagramaC4/c4-modulo-busqueda.png" alt="" width="500">
-</p>
-
-<p align="center">
-    Web Applications User Flow C4 Components Modulo de Busqueda- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Projects- Elaboración propia
 </p>
 
 <br>
 
-**Panel Administración**
+**Bounded Context Students**
 <p align="center">
-  <img src="images/diagramaC4/c4-panel-administrativo.png" alt="" width="500">
+  <img src="images/diagramas/diagramac4-componente-students.png" alt="" width="500">
 </p>
 
 <p align="center">
-    Web Applications User Flow C4 Components Panel Administración- Elaboración propia
+    Web Applications User Flow C4 Components Bounded Context Students- Elaboración propia
 </p>
 
 <br>
@@ -4089,50 +4216,310 @@ Los diagramas de componentes muestran la estructura interna de los contenedores 
 
 #### 4.7.1. Class Diagrams  
 
-
-Link: https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?viewport_loc=-1980%2C-440%2C4658%2C2280%2C0_0&invitationId=inv_8dc70efe-cc45-4fe9-9d62-a84601b32109
-
 <p align="center">
-  <img src="images/UniTalents_UML.png" alt="class diagram" width="80%">
+  <img src="images/Diagrama UML Apps Web.png" alt = "updated class diagram" width="80%">
 </p>
 
 <p align="center">
-    Class Diagram- Elaboración propia
+    Class Diagram - Elaboración propia
+</p>
+
+<br>
+
+Link: `https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?viewport_loc=-1980%2C-440%2C4658%2C2280%2C0_0&invitationId=inv_8dc70efe-cc45-4fe9-9d62-a84601b32109`
+
+Diagrama deL Frontend:
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-completo1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend 1 - Elaboración propia
 </p>
 
 <br>
 
 <p align="center">
-  <img src="images/class_diagram.jpg" alt = "updated class diagram" width="80%">
+  <img src="images/diagramas/diagrama-frontend-completo2.jpg" alt="class diagram" width="80%">
 </p>
 
 <p align="center">
-    Diagrama del Frontend- Elaboración propia
+    Diagrama de Frontend 1 - Elaboración propia
 </p>
 
 <br>
+
+<p align="center">
+  <img src="images//diagramas/diagrama-frontend-studentpostulation.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Studen Postulations - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-projects.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Projects - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-companies.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Companies - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-reputations.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Reputations - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-students.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Students - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-auth.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Auth - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-users.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Users - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-shared.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context Shared - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramas/diagrama-frontend-approot.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Frontend - Bounded Context App Root - Elaboración propia
+</p>
+
+<br>
+
+Diagrama de Backend:
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackend1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackend2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackend3.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend 3 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendshared.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Shared - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendstudentpostulation1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context StudentPostulations 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendstudentpostulation2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context StudentPostulations 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendprojects1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Projects 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendprojects2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Projects 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendusers1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Users 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendusers2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Users 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendreputation1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Reputation 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendreputation2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Reputation 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendstudents1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Students 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendstudents2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Students 2 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendcompanies1.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Companies 1 - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/diagramabackend/diagramabackendcompanies2.jpg" alt="class diagram" width="80%">
+</p>
+
+<p align="center">
+    Diagrama de Backend - Bounded Context Companies 2 - Elaboración propia
+</p>
+
+<br>
+
 
 #### 4.7.2. Class Dictionary  
 
 | Clase | Descripción | Atributos | Metodos |
 |:-----:|--------------|--------|-------------|
-|User (abstracta)|Representa a cualquier usuario del sistema. Base para Manager y Student.|id: string, name: string, email: string, password: string, role: string|login(), logout()|
-|Student|Usuario que ofrece servicios freelance. Hereda de User.|university: string, degree: string, semester: int, portfolio: Portfolio, availableTimeSlots: vector<string>|applyToProject(Project), viewApplications()|
-|Manager|Usuario que publica proyectos. Hereda de User.|companyName: string, position: string, postedProjects: vector<Project>|postProject(Project), reviewApplications()|
-|Project|Proyecto freelance publicado por un Manager|projectId: string, title: string, description: string, budget: float, deadline: string, skillsRequired: vector<string>, isOpen: bool, postedBy: Manager, applicants: vector<Student>|closeProject(), addApplicant(Student)|
-|Briefcase|Portafolio del estudiante con habilidades y logros.|briefcaseId: string, studentId: string, bio: string, skills: vector<Skill>, projectsCompleted: vector<Project>, certifications: vector<string>|addSkill(Skill), addProject(Project)|
-|Skill|Habilidad técnica o blanda.|skillName: string, proficiencyLevel: string|No presenta metodos|
-|Application|Postulación de un estudiante a un proyecto.|applicationId: string, student: Student, project: Project, status: string, submissionDate: string|updateStatus(string)|
-|Review|Calificación entre usuarios.|reviewId: string, rating: float, comment: string, fromUser: User, toUser: User, date: string|No presenta metodos|
-|Chat|Conversación entre usuarios.|chatId: string, participants: vector<User>, messages: vector<Message>|sendMessage(Message)|
-|Message|Mensaje dentro del chat.|messageId: string, sender: User, content: string, timestamp: string|No presenta metodos|
+|User|Representa a cualquier usuario del sistema. Base para Manager y Student.|id: int, name: string, email: string, password: string, role: string|isStudent(), isManager()|
+|Student|	Usuario que ofrece sus servicios freelance dentro de la plataforma.|id: int, userId: int, birthdate: Date, city: string, country: string, field: string, phoneNumber: string, portfolioLink: string, aboutMe: string, rating: float, specializations: vector<string>, logo: string, endedProjects: vector<Project>|No presenta métodos|
+|Company|Representa a una empresa que publica proyectos.|id: int, userId: int, companyName: string, sector: string, location: string, email: string, phone: string, rating: int, specializations: vector<string>, logo: string, description: string|No presenta métodos|
+|Project|Proyecto freelance publicado por una empresa.|id: long, title: string, description: string, companyId: int, studentSelected: int, isFinished: bool, postulants: vector<int>, field: string, budget: float, createdAt: Date, skills: vector<string>, status: string|calculateStatus()|
+|StudentPostulation|Representa una postulación de un estudiante a un proyecto.|id: int, studentId: int, projectId: int, status: string, date: Date|No presenta métodos|
+|Reputation|Calificación y comentario que recibe un estudiante tras finalizar un proyecto.|id: int, studentId: int, projectId: int, rating: float, comment: string|No presenta metodos|
 
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram  
 
 <p align="center">
-  <img src="images/database1.jpg" alt="database diagram" width="80%">
+  <img src="images/unitalentsbddiagram.png" alt="database diagram" width="80%">
 </p>
 
 <p align="center">
@@ -4151,61 +4538,61 @@ Link: https://lucid.app/lucidchart/a7ea3f84-0447-416e-b49c-81db44ec1a0b/edit?vie
 
 GitHub Pages: Plataforma basada en la web para gestionar y alojar las páginas del proyecto. Facilita la colaboración en la documentación y permite desplegar contenidos en línea de forma fácil y accesible.
 
-Ruta de acceso: https://pages.github.com
+Ruta de acceso: `https://pages.github.com`
 
 **Gestión de Requisitos (Requirements Management)**
 
 Trello: Aplicación para organizar tareas, asignar responsabilidades y monitorear el avance de las actividades. Se utilizará para coordinar las tareas del equipo y gestionar el progreso de los sprints e historias de usuario.
 
-Ruta de acceso: https://trello.com/es
+Ruta de acceso: `https://trello.com/es`
 
 **Diseño de UX/UI del Producto (Product UX/UI Design)**
 
 Figma: Herramienta online para crear prototipos y diseños gráficos. Se empleará para desarrollar las interfaces de usuario de la aplicación en sus versiones Desktop y Mobile.
 
-Ruta de acceso: https://www.figma.com/login
+Ruta de acceso: `https://www.figma.com/login`
 
 Overflow: Plataforma para diseñar flujos de usuario y wireflows, útil para representar la experiencia del usuario dentro del sistema.
 
-Ruta de acceso: https://overflow.io
+Ruta de acceso: `https://overflow.io`
 
 **Desarrollo de Software (Software Development)**
 
 Visual Studio Code: Entorno de desarrollo integrado utilizado por el equipo para escribir y compilar código, gracias a su soporte extensivo de lenguajes y herramientas adicionales.
 
-Ruta de acceso: https://code.visualstudio.com
+Ruta de acceso: `https://code.visualstudio.com`
 
 IntelliJ IDEA: IDE avanzado para el desarrollo de aplicaciones en lenguajes como Java y Kotlin, siendo clave para la creación de los componentes del sistema.
 
-Ruta de acceso: https://www.jetbrains.com/idea
+Ruta de acceso: `https://www.jetbrains.com/idea`
 
 HTML5: Lenguaje de marcado para estructurar el contenido web de la aplicación.
 
-Ruta de acceso: https://developer.mozilla.org/en-US/docs/Web/HTML
+Ruta de acceso: `https://developer.mozilla.org/en-US/docs/Web/HTML`
 
 CSS: Lenguaje de estilos utilizado para diseñar y presentar las páginas web, garantizando una presentación adecuada del contenido.
 
-Ruta de acceso:  https://developer.mozilla.org/en-US/docs/Web/CSS
+Ruta de acceso:  `https://developer.mozilla.org/en-US/docs/Web/CSS`
 
 JavaScript: Lenguaje de programación que permite implementar funcionalidades interactivas en el navegador, esencial para la interacción con la interfaz de usuario.
 
-Ruta de acceso: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Ruta de acceso: `https://developer.mozilla.org/en-US/docs/Web/JavaScript`
 
 **Despliegue de Software (Software Deployment)**
 
 Git: Sistema de control de versiones que registra los cambios en el código fuente y facilita el trabajo colaborativo entre los miembros del equipo. Se usará para mantener el historial del proyecto y controlar las versiones del software.
 
-Ruta de acceso: https://git-scm.com
+Ruta de acceso: `https://git-scm.com`
 
 **Documentación del Software (Software Documentation)**
 
 Markdown: Lenguaje de marcado utilizado para crear documentación técnica, permitiendo una fácil redacción y lectura en plataformas como GitHub.
 
-Ruta de acceso: https://www.markdownguide.org
+Ruta de acceso: `https://www.markdownguide.org`
 
 GitHub Pages: Servicio en la web para alojar documentación del proyecto, accesible públicamente o de manera privada.
 
-Ruta de acceso: https://pages.github.com
+Ruta de acceso: `https://pages.github.com`
 
 #### 5.1.2. Source Code Management 
 
@@ -4213,9 +4600,9 @@ GitHub se utilizará como plataforma central de control de versiones para todo e
 
 URL de Repositorios:
 
-Documentacion Informe: https://github.com/UniTalents-project-G2/UnitTalents-report
+Documentacion Informe: `https://github.com/UniTalents-project-G2/UnitTalents-report`
 
-Landing Page: https://github.com/UniTalents-project-G2/UniTalents-LandingPage
+Landing Page: `https://github.com/UniTalents-project-G2/UniTalents-LandingPage`
 
 Cada repositorio incluirá todos los archivos del proyecto.
 
@@ -4362,7 +4749,7 @@ Se muestra nuestra landing page en GitHub Pages.
 
 <br>
 
-https://unitalents-project-g2.github.io/UniTalents-LandingPage/
+`https://unitalents-project-g2.github.io/UniTalents-LandingPage/`
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
@@ -4413,7 +4800,7 @@ Durante el Sprint 1 del proyecto UniTalents Connect, el equipo se enfocó en el 
   </tr>
   <tr>
     <td><strong>Sprint 1 Goal</strong></td>
-    <td>Desarrollar la landing page estática de nuestro proyecto UniTalents Connect</td>
+    <td>Entregar una landing page estática que comunique la propuesta de valor de UniTalents Connect, con el objetivo de generar engagement inicial de los usuarios y ofrecer claridad a los stakeholders. Se considerará logrado cuando la página esté publicada y los visitantes puedan entender el propósito de la plataforma.</td>
   </tr>
   <tr>
     <td><strong>Sprint 1 Velocity</strong></td>
@@ -4491,7 +4878,7 @@ construir en su totalidad la landing page, logrando que sea atractiva y funciona
 
 <br>
 
-link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
+link al trello: `https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents`
 
 <table border="1" cellspacing="0" cellpadding="5">
     <thead>
@@ -4841,7 +5228,7 @@ Se utilizó GitHub Pages como solución inicial de hosting para la Landing Page.
 
 <br>
 
-https://unitalents-project-g2.github.io/UniTalents-LandingPage/
+`https://unitalents-project-g2.github.io/UniTalents-LandingPage/`
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 <br>
@@ -4962,7 +5349,7 @@ Durante el Sprint 2 del proyecto UniTalents Connect, el equipo enfocó sus esfue
   </tr>
   <tr>
     <td><strong>Sprint 2 Goal</strong></td>
-    <td>	Desarrollar el frontend funcional para login, registro, perfil, oportunidades y gestión de proyectos según el rol del usuario.</td>
+    <td>	Implementar un frontend funcional que permita a los usuarios registrarse, iniciar sesión, gestionar su perfil e interactuar con oportunidades y proyectos según su rol. Se espera que esto brinde un punto de entrada claro y útil a la plataforma, facilitando el uso de funciones clave. Se considerará cumplido cuando los usuarios puedan navegar por la interfaz, acceder a su panel personalizado y utilizar funcionalidades según su perfil asignado.</td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Velocity</strong></td>
@@ -5037,7 +5424,7 @@ construir en su totalidad la landing page, logrando que sea atractiva y funciona
 
 <br>
 
-link al trello: https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb
+link al trello: `https://trello.com/b/VzJqmOvZ/sprint-2-backlog-appweb`
 
 <table border="1" cellspacing="0" cellpadding="5">
     <thead>
@@ -5800,7 +6187,7 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
   </tr>
   <tr>
     <td><strong>Sprint 2 Review Summary</strong></td>
-    <td>	Durante el Sprint 2 se completó los apartados del frontend de la aplicación web, los cuales fueron los dos dashboards de nuestros dos segmentos, estudiantes universitarios y managers de empresas, tales como ver oportunidades, portafolio, mis postulaciones para estudiantes y para manager, mis proyectos, postulaciones y mi empresa</td>
+    <td>Durante el Sprint 2 se completó el frontend de la aplicación web, incluyendo los dashboards para los dos segmentos: estudiantes universitarios y managers de empresas. Las funcionalidades incluyen: ver oportunidades, portafolio, postulaciones, mis proyectos y el área "mi empresa".</td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Retorspective Summary</strong></td>
@@ -5811,7 +6198,7 @@ Ambos despliegues constituyen evidencias clave del avance técnico alcanzado, y 
   </tr>
   <tr>
     <td><strong>Sprint 3 Goal</strong></td>
-    <td>	Desarrollar el backend funcional para todas las funcionalidades vistas en el frontend.</td>
+    <td>Implementar un backend funcional que respalde las funcionalidades clave del frontend de los dashboards para estudiantes y managers, permitiendo a los usuarios autenticarse, gestionar su perfil, visualizar oportunidades, postularse y consultar datos de proyectos con persistencia real. Se considerará cumplido cuando dichas funciones se ejecuten correctamente con conexión al backend y se reflejen los cambios en la base de datos.</td>
   </tr>
   <tr>
     <td><strong>Sprint 3 Velocity</strong></td>
@@ -5895,7 +6282,7 @@ en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun
 
 <br>
 
-link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d652195d9919855cda5c8463e15e78E98523/sprint-3-backlog-apps-web
+link al trello: `https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d652195d9919855cda5c8463e15e78E98523/sprint-3-backlog-apps-web`
 
 <br>
 
@@ -6254,6 +6641,8 @@ link al trello: https://trello.com/invite/b/68573c52e08f1ff8c59dd766/ATTI3c85d65
 <br>
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
+
+En el Sprint 3 se alcanzo una mejora en el contenido de nuestro Frontend. El cual muestra de manera precisa el contenido que ofrecemos nosotros como StartUp, ademas, se realizó la creación de los diferentes endpoints en nuestro Backend. A continuación se muestran algunas evidencias:
 
 + US10
 
@@ -6703,6 +7092,732 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
 
 ---
 
+#### 5.2.4 Sprint 4
+
+##### 5.2.4.1. Sprint Planning 4
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 07 - 07</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>2:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Javier Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Erik Palomino, Renzo Rivera, Carlos Coca, Cesar Linares</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>Durante el Sprint 3 se implementó el backend funcional que conecta con las principales funcionalidades del frontend. Se habilitaron el login, la gestión de perfiles, la visualización de oportunidades, las postulaciones y la persistencia de los datos. También se implementaron endpoints seguros y pruebas básicas de integración.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Retorspective Summary</strong></td>
+    <td>El equipo destacó una buena coordinación al dividir el trabajo del backend por módulos. Sin embargo, se identificaron cuellos de botella en testing y validación. Como mejora, se propuso priorizar pruebas automatizadas y mantener una comunicación constante durante la integración.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Goal</strong></td>
+    <td>	Integrar y validar completamente el backend con el frontend, asegurando que cada funcionalidad del sistema se ejecute correctamente desde la interfaz hasta la lógica de servidor. El objetivo es garantizar una experiencia fluida para los usuarios al interactuar con sus dashboards. Se considerará cumplido cuando puedan realizar acciones completas con respuestas correctas del sistema y sin errores funcionales visibles.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Velocity</strong></td>
+    <td>37</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Módulo de Reputations</strong></td>
+    <td><strong>Módulo de Postulations</strong></td>
+    <td><strong>Módulo de Projects</strong></td>
+    <td><strong>Módulo de Company</strong></td>
+    <td><strong>Módulo de Student</strong></td>
+    <td><strong>Módulo de Users</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Cesar Alejandro Linares Bernable</td>
+    <td>Cesar-Linares</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
+
+##### 5.2.4.3. Sprint Backlog 4
+
+Durante el cuarto sprint backlog, el equipo tuvo la tarea de realizar mejoras respecto al frontend y backend, ademas, de implementar las funcionalidades en base a las User Stories trabajadas en este Sprint.
+
+<img src="images/SprintBacklog4-Trello.png" alt="trello3" width="1000">
+
+<p align="center">
+  Sprint Backlog 4 Trello- Elaboración propia
+</p>
+
+<br>
+
+link al trello: `https://trello.com/invite/b/686e8381f583f3effa4aebdf/ATTI860bf7f1e9e3990046c17abff7f3d8d9226EC9DE/sprint-backlog-4-apps-web`
+
+<br>
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 4</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US05</td>
+            <td>Subir proyecto a mi portafolio</td>
+            <td>T01</td>
+            <td>Implementar subida de URL de proyecto</td>
+            <td>Como estudiante, quiero poder subir una URL que dirija a un proyecto de mi portafolio, para que los gerentes o empresas puedan visualizar mi trabajo y evaluar mejor mi experiencia.</td>
+            <td>4</td>
+            <td>Javier Gonzales</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Recuperar contraseña</td>
+            <td>T02</td>
+            <td>Implementar recuperación de contraseña</td>
+            <td>Como usuario, quiero poder recuperar mi contraseña, para acceder a mi cuenta si la olvido.</td>
+            <td>4</td>
+            <td>Renzo Rivera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US11</td>
+            <td>Calificación de estudiante freelance</td>
+            <td>T03</td>
+            <td>Implementar calificación de estudiante</td>
+            <td>Como empresario, quiero calificar a un estudiante luego de un proyecto para reflejar su desempeño en la plataforma.</td>
+            <td>6</td>
+            <td>Renzo Rivera</td>
+            <td>In procces</td>
+        </tr>
+        <tr>
+            <td>US13</td>
+            <td>Calificación del contratador</td>
+            <td>T04</td>
+            <td>Implementar calificación de empresario</td>
+            <td>Como estudiante, quiero calificar al empresario luego del proyecto para compartir mi experiencia con futuros postulantes.</td>
+            <td>4</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US20</td>
+            <td>Cerrar sesión</td>
+            <td>T05</td>
+            <td>Implementar cierre de sesión</td>
+            <td>Como usuario, quiero poder cerrar sesión en cualquier momento, para asegurar la privacidad de mi cuenta.</td>
+            <td>5</td>
+            <td>Cesar Linares</td>
+            <td>In process</td>
+        </tr>
+        <tr>
+            <td>US21</td>
+            <td>Actualizar tecnologias en el perfil del estudiante</td>
+            <td>T06</td>
+            <td>Implementar componente de edición de tecnologias</td>
+            <td>Como estudiante, quiero actualizar las tecnologias que domino, para que se muestren en mi perfil .</td>
+            <td>5</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US22</td>
+            <td>Visualizar información de empresa</td>
+            <td>T07</td>
+            <td>Implementar apartado con información de empresa</td>
+            <td>Como estudiante, quiero ver la información de la empresa a la que estoy postulando, para mantenerme más informado.</td>
+            <td>3</td>
+            <td>Andres Coca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Actualizar tecnologías en el perfil de la empresa</td>
+            <td>T08</td>
+            <td>Implementar eliminación de cuenta</td>
+            <td>Como gerente, quiero actualizar las tecnologías que se utilizan en mi empresa, para que se muestren en el perfil de la compañía. </td>
+            <td>5</td>
+            <td>Leonardo Palomino</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS01</td>
+            <td>Endpoint para registro de usuarioss</td>
+            <td>T09</td>
+            <td>Crear endpoint para registro de usuarios</td>
+            <td>Como developer, quiero crear un endpoint para registrar nuevos usuarios diferenciando su rol (estudiante o gerente), para permitir su autenticación y posterior personalización de la plataforma.</td>
+            <td>3</td>
+            <td>Leonardo Palomino</td>
+            <td>In process</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+##### 5.2.4.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>a5085c1</td>
+    <td>feat: added Responsive Style to Projects Bounded Context</td>
+    <td>feat: added Responsive Style to Projects Bounded Context</td>
+    <td>07/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>0aa3e61</td>
+    <td>Update .gitignore</td>
+    <td>Update .gitignore</td>
+    <td>08/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>2707724</td>
+    <td>fix: first part</td>
+    <td>fix: first part</td>
+    <td>09/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>c318fe9</td>
+    <td>features ended</td>
+    <td>features ended</td>
+    <td>09/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>bb8c563</td>
+    <td>fix: fixed the responsive</td>
+    <td>fix all the webapp</td>
+    <td>09/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/unitalents-connect-front-end</td>
+    <td>master</td>
+    <td>262eb38</td>
+    <td>update</td>
+    <td>update</td>
+    <td>09/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>43fca28</td>
+    <td>feat: addded reputations module</td>
+    <td>feat: addded reputations module</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>d0c9a4b</td>
+    <td>feat: added postulations module</td>
+    <td>feat: added postulations module</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>4f6673f</td>
+    <td>feat: added projects bounded context</td>
+    <td>Added projects bounded context</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>6085eda</td>
+    <td>feat: add company bounded context</td>
+    <td>feat: add company bounded context</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>51add9a</td>
+    <td>feat: Student Bounded Context</td>
+    <td>feat: Student Bounded Context</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>0919096</td>
+    <td>feat: add users</td>
+    <td>feat: add users</td>
+    <td>11/07/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web</td>
+    <td>develop</td>
+    <td>90a5608</td>
+    <td>feat: added module shared</td>
+    <td>feat: added module shared</td>
+    <td>11/07/25</td>
+  </tr>
+</table>
+
+<br>
+
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+En el Sprint 4 se alcanzo una mejora en el contenido de nuestro Frontend. El cual ya cuenta con un diseño Responsive al igual que nuestra landing page, ademas, se realizó mejoras en los endpoints en nuestro Backend y a su vez añadimos unos nuevos. A continuación se muestran algunas evidencias:
+
++ US05
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_yXcXoYbFOq.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Enlace a Portafolio- Elaboración propia
+</p>
+
+<br>
+
+
++ US09
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/cambiar contraseña.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Recuperar contraseña- Elaboración propia
+</p>
+
+<br>
+
++ US11
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_ThrvEDqQGN.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Calificación de estudiantes - Elaboración propia
+</p>
+
+<br>
+
++ US13
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/calificarcontratador.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Calificación de gerente - Elaboración propia
+</p>
+
+<br>
+
++ US20
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_AnAOjjePXj.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Cerrar sesión - Elaboración propia
+</p>
+
+<br>
+
++ US21
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_1PPctl55Rz.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Actualizar tecnologias  de estudiante - Elaboración propia
+</p>
+
+<br>
+
++ US22
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_dlOfb8WgSw.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Visualizar información de empresa - Elaboración propia
+</p>
+
+<br>
+
++ US23
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/firefox_Oikks8823z.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Editar tecnologias de empresa - Elaboración propia
+</p>
+
+<br>
+
++ TS01
+
+<br>
+<p align="center">
+  <img src="images/evidence-spr4/TS01.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Creación de los endpoints para registrar usuario - Elaboración propia
+</p>
+
+<br>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<h3>Endpoints implementados</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint URL (local)</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>/api/CompanyRatings/exists</td><td>CompanyRatings</td><td>GET</td><td>Obtener listado de valoraciones hacia la empresa</td><td>projectId</td><td>[{"projectId":1, "rating": 4.0}]</td></tr>
+    <tr><td>/api/CompanyRatings</td><td>CompanyRatings</td><td>POST</td><td>Crear una nueva valoración hacia la empresa</td><td>projectId, rating</td><td>{"projectId":0, "rating": 0}</td></tr>
+    <tr><td>/api/Reputations</td><td>Reputations</td><td>GET</td><td>Obtener listado de reputaciones de los estudiantes</td><td>Body: studentId, projectId</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/Reputations</td><td>Reputations</td><td>POST</td><td>Crear una nueva reputación sobre los estudiantes</td><td>Body: studentId, projectId, status</td><td>{"projectId": 2, "rating": 4.0, "comment": "bueno"}</td></tr>
+    <tr><td>/api/Users/register</td><td>Users</td><td>POST</td><td>Crear usuarios</td><td>name, email, password, role</td><td>{"Pedro":"string","example@email.com": "string", "12345": "string", "company": "string"}</td></tr>
+    <tr><td>/api/Users/login</td><td>Users</td><td>GET</td><td>Inicio de sesión para usuarios</td><td>email, password</td><td>{"id": 2, "name": "Pedro", "email": "pedro@email.com", "role": "company"}</td></tr>
+    <tr><td>/api/StudentPostulations</td><td>StudentPostulations</td><td>POST</td><td>Crear postulaciones para estudiantes</td><td>studentId, projectId</td><td>[{"studentId": 1, "projectId": 2}]</td></tr>
+    <tr><td>/api/StudentPostulations</td><td>StudentPostulations</td><td>GET</td><td>Listado de todas las postulaciones creadas para estudiantes</td><td>studentId, projectId</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+    <tr><td>/api/StudentPostulations</td><td>StudentPostulations</td><td>PUT</td><td>Editar una de las postulaciones creadas para estudiantes</td><td>postulationId</td><td>[ { "id": 1, "studentId": 2 }, ... ]</td></tr>
+  </tbody>
+</table>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante el presente Sprint se realizó el despliegue del backend del sistema UniTalents mediante un Azure App Service, lo que permitió contar con una API funcional, estable y accesible en un entorno de producción gestionado, garantizando escalabilidad y alta disponibilidad para el servicio. Este despliegue se integró con el repositorio de GitHub del proyecto, permitiendo la publicación automatizada de nuevas versiones a partir de la rama principal (main).
+
+Asimismo, se configuró y desplegó una instancia de Azure Database for MySQL, la cual provee el servicio de base de datos relacional seguro y administrado para la plataforma. La base de datos fue aprovisionada con las credenciales necesarias y los esquemas definidos para el correcto funcionamiento de los módulos implementados, asegurando la persistencia y consistencia de la información.
+
+Ambos despliegues constituyen evidencias fundamentales del avance técnico alcanzado en este Sprint, permitiendo validar la integración entre el frontend, el backend y la base de datos, así como el correcto funcionamiento de los flujos de trabajo de la plataforma en un entorno en la nube.
+
+*Landing Page:*
+---
+
+  + Activación de GitHub Pages en el repositorio
+
+<p align="center">
+  <img src="images/sprint1/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Activación de GitHub Pages - Elaboración propia
+</p>
+
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación
+
+<p align="center">
+  <img src="images/sprint1/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Confirmación del repositorio - Elaboración propia
+</p>
+
+<br><br>
+
+  + Visualización activa del dominio temporal generado por GitHub Pages
+
+<p align="center">
+  <img src="images/deployment-3.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Visualización activa del dominio - Elaboración propia
+</p>
+
+<br><br>
+
+*Front End:*
+---
+
+  + Creación de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev0.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Creación de la Static WebApp - Elaboración propia
+</p>
+
+<br><br>
+
+  + Configuración de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev1.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Configuración de la Static WebApp - Elaboración propia
+</p>
+
+<br><br>
+
+  + Vista de recursos de la Static WebApp
+
+<p align="center">
+  <img src="images/sprint2/ev2.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Vista de recursos de la Static WebApp- Elaboración propia
+</p>
+
+<br><br>
+
+  + Confirmación de creación de la página desde GitHub
+
+<p align="center">
+  <img src="images/sprint2/ev3.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Confirmación de creación de la página - Elaboración propia
+</p>
+
+<br><br>
+
+  + Visualización activa de la Static WebApp en azure
+
+<p align="center">
+  <img src="images/sprint2/ev4.png" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Visualización activa de la Static WebApp  - Elaboración propia
+</p>
+
+<br><br>
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Módulo de Reputación y Postulación</td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Módulo de Usuarios</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Módulo de Projectos</td>
+  </tr>
+  <tr>
+    <td>Coca Lavado, Carlos Andres</td>
+    <td>MrAndres08DV</td>
+    <td>Módulo de Estudiantes</td>
+  </tr>
+  <tr>
+    <td>Linares Bernable, Cesar Alejandro</td>
+    <td>Cesar-Linares</td>
+    <td>Módulo de Compañia</td>
+  </tr>
+</table>
+<br><br>
+
+*FrontEnd*
+---
+
+<p align="center">
+  <img src="images/evidence-spr4/Frontend-Sprint4-Commits.jpg" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Insight Evidence 1 Frontend - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/Frontend-sprint4-Contributors.jpg" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Insight Evidence 2 Frontend - Elaboración propia
+</p>
+
+<br>
+
+<br><br>
+
+*BackEnd*
+---
+
+<p align="center">
+  <img src="images/evidence-spr4/BackEnd-sprint4-Commits.jpg" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Insight Evidence 1 Backend - Elaboración propia
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidence-spr4/BackEnd-sprint4-Contributors.jpg" alt="deployment-evidence-confirmation" width="1000">
+</p>
+
+<p align="center">
+  Sprint 4 Insight Evidence 2 Backend - Elaboración propia
+</p>
+
+<br>
+
+
+---
+
 ### 5.3 Validation Interviews
 
 #### 5.3.1 Diseño de Entrevistas
@@ -6767,8 +7882,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk`
+
+    
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -6807,8 +7925,10 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo2MDQsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=7QUeDD" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
-    </td>
+  
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo2MDQsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=7QUeDD`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -6851,8 +7971,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDk0LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=fd5oBv" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDk0LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=fd5oBv` 
+
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -6892,8 +8015,10 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTE5LjQzMiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=JWL127" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTE5LjQzMiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=JWL127`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -6907,6 +8032,10 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
     </td>
   </tr>
 </table>
+
+
+
+
 
 #### 5.3.3 Evaluaciones según heurísticas
 
@@ -7140,7 +8269,7 @@ Recomendación: Incluir un campo opcional para la URL del sitio web de la empres
 ---
 
 
-### 5.4 Video About-the-Product
+### 5.5 Video About-the-Product
 
 <img src="images/aboutTheTeam.png" alt="screenshot AboutTheProduct" width="1000">
 
@@ -7150,10 +8279,11 @@ Recomendación: Incluir un campo opcional para la URL del sitio web de la empres
 
 <br>
 
+Video About the Product: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">About the Product</a>
+ <br>
 
-<a href="https://youtu.be/inUoi29e_hE" target="_blank">About the Product - Youtube</a>
+Video About the Product - Youtube: `https://youtu.be/inUoi29e_hE` 
 
 Duración: 1:57 minutos
 
@@ -7173,7 +8303,7 @@ Duración: 1:57 minutos
 
 + Se espera que al menos el 60% de los proyectos publicados en la plataforma se completen exitosamente, generando beneficios tangibles tanto para estudiantes como para empleadores.
 
-*TP*
+*TP1*
 ---
 
 + Es fundamental contar con una base sólida de diseño antes de iniciar la programación, siendo clave la elaboración de un diagrama de clases que permita representar visualmente las entidades y sus relaciones dentro del sistema.
@@ -7197,6 +8327,19 @@ Duración: 1:57 minutos
 
 + Se identificó la necesidad de fortalecer la validación y el control de errores en los endpoints expuestos, para garantizar la integridad de la información y una mejor experiencia de usuario.
 
+*TF*
+---
+
++ La plataforma desarrollada aborda efectivamente la desconexión entre estudiantes y el mercado laboral, ofreciendo un espacio donde los jóvenes pueden adquirir experiencia profesional y generar ingresos sin afectar sus estudios, mientras que las empresas acceden a talento joven y asequible.
+
++ La implementación de un diseño sólido (diagrama de clases, frontend con datos simulados) y un backend robusto (con repositorios, servicios y despliegue en Azure) demostró la viabilidad técnica del proyecto, asegurando escalabilidad y mantenibilidad.
+
++ La coordinación del equipo fue clave para superar desafíos técnicos (integración de la base de datos, configuración del entorno) y ajustar la planificación (tiempos adicionales en sprints para imprevistos).
+
++ Se identificaron áreas de mejora, como reforzar la validación de endpoints y el manejo de errores, para garantizar mayor confiabilidad y experiencia de usuario.
+
++ La plataforma tiene un alto potencial para expandirse, incorporando más funcionalidades (ej.: sistemas de recomendación, certificaciones) y llegando a un mayor número de usuarios e industrias.
+
 
 # Video About the Team
 
@@ -7209,11 +8352,19 @@ El video presenta un resumen del trabajo desarrollado por el equipo, donde cada 
   </tr>
   <tr>
     <td><strong>URL Microsoft</strong></td>
-    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-aboutthe-team-sprint-3</a></td>
+    <td>
+    
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+    
+  </td>
   </tr>
   <tr>
     <td><strong>URL Youtube</strong></td>
-    <td><a href="https://youtu.be/aTyXnZuJ6rc" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-aboutthe-team-sprint-3</a></td>
+    <td>
+    
+  `https://youtu.be/aTyXnZuJ6rc`
+    
+  </td>
   </tr>
   <tr>
     <td><strong>Timings</strong></td>
@@ -7239,7 +8390,6 @@ El video presenta un resumen del trabajo desarrollado por el equipo, donde cada 
   </tr>
 </table>
 
-
 ---
 
 ## Bibliografía  
@@ -7261,32 +8411,47 @@ Comexperu
 
 ## Anexos  
 
+Videos de Exposiciones:
 
-<a href="https://github.com/UniTalents-project-G2/UniTalents-LandingPage" target="_blank">Repositorio LandingPage</a>
-<br>
+TB1:`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-<a href="https://github.com/UniTalents-project-G2/unitalents-connect-front-end" target="_blank">Repositorio FrontEnd</a>
-<br>
+TP1:`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EbQa5oMyhqlGhFWLufOxCUcBRfAW0x9uH6Ojs9s8pKrY0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MCc4XL`
 
-<a href="https://github.com/UniTalents-project-G2/unitalents-backend" target="_blank">Repositorio BackEnd</a>
-<br>
+TB2:`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EWk1wxGODv9IoWUGUiS27AwBiNiLjIqclqh9fe5CB3mN_w?e=erv8c9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-<a href="https://unitalents-project-g2.github.io/UniTalents-LandingPage/" target="_blank">Deploy LandingPage</a>
-<br>
+TF1:`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ERSdvI-3KJ1DpiSbwqOyHV0BhycDZNxyV6e9Bpoeror0Yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=V1RixM`
 
-<a href="https://purple-beach-0c0218c10.2.azurestaticapps.net" target="_blank">Deploy FrontEnd</a>
-<br>
 
-<a href="unitalents-backend-app-hrd8bzadb4ezdebk.centralus-01.azurewebsites.net/swagger" target="_blank">Deploy BackEnd</a>
-<br>
+Entrevistas Normales:
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB1</a>
-<br>
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EbQa5oMyhqlGhFWLufOxCUcBRfAW0x9uH6Ojs9s8pKrY0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MCc4XL" target="_blank">Video TP1</a>
-<br>
+Entrevistas de Validación:
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EWk1wxGODv9IoWUGUiS27AwBiNiLjIqclqh9fe5CB3mN_w?e=erv8c9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB2</a>
-<br>
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk`
+
+Video About the Product: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+Video About the Product - YouTube: `https://youtu.be/inUoi29e_hE`
+
+Video About the Team: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+Video About the Team - YouTube: `https://youtu.be/aTyXnZuJ6rc`
+
+Repositorios:
+
+Landing Page: `https://github.com/UniTalents-project-G2/UniTalents-LandingPage`
+
+Frontend: `https://github.com/UniTalents-project-G2/unitalents-connect-front-end`
+
+Backend: `https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web`
+
+Aplicaciones deployadas:
+
+Landing Page: `https://unitalents-project-g2.github.io/UniTalents-LandingPage/`
+
+Frontend: `https://purple-beach-0c0218c10.2.azurestaticapps.net`
+
+Backend: `https://unitalents-backend-frgtdaddayhncmdq.centralus-01.azurewebsites.net/swagger/index.html`
 
 fin
