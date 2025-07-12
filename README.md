@@ -611,6 +611,7 @@
 - [**TB1**](#tb1)
 - [**TP1**](#tf)
 - [**TB2**](#tb2)
+- [**TF1**](#tf1)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -1585,8 +1586,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+      
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1626,8 +1629,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+      
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1667,8 +1672,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+    
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1711,8 +1718,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1752,8 +1761,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D` 
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -1793,8 +1804,10 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UnitTalents-needfinding-sprint-1</a>
-    </td>
+      
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -7869,8 +7882,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk`
+
+    
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -7909,8 +7925,10 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo2MDQsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=7QUeDD" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
-    </td>
+  
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo2MDQsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=7QUeDD`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -7953,8 +7971,11 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDk0LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=fd5oBv" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDk0LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=fd5oBv` 
+
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -7994,8 +8015,10 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
   <tr>
     <td><strong>URL</strong></td>
     <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTE5LjQzMiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=JWL127" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-validation-sprint-3</a>
-    </td>
+
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTE5LjQzMiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=JWL127`
+
+  </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -8256,10 +8279,11 @@ Recomendación: Incluir un campo opcional para la URL del sitio web de la empres
 
 <br>
 
+Video About the Product: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">About the Product</a>
+ <br>
 
-<a href="https://youtu.be/inUoi29e_hE" target="_blank">About the Product - Youtube</a>
+Video About the Product - Youtube: `https://youtu.be/inUoi29e_hE` 
 
 Duración: 1:57 minutos
 
@@ -8328,11 +8352,19 @@ El video presenta un resumen del trabajo desarrollado por el equipo, donde cada 
   </tr>
   <tr>
     <td><strong>URL Microsoft</strong></td>
-    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-aboutthe-team-sprint-3</a></td>
+    <td>
+    
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+    
+  </td>
   </tr>
   <tr>
     <td><strong>URL Youtube</strong></td>
-    <td><a href="https://youtu.be/aTyXnZuJ6rc" target="_blank">upc-pre-202510-1asi0730-4376-UniTalent-aboutthe-team-sprint-3</a></td>
+    <td>
+    
+  `https://youtu.be/aTyXnZuJ6rc`
+    
+  </td>
   </tr>
   <tr>
     <td><strong>Timings</strong></td>
@@ -8379,32 +8411,47 @@ Comexperu
 
 ## Anexos  
 
+Videos de Exposiciones:
 
-<a href="https://github.com/UniTalents-project-G2/UniTalents-LandingPage" target="_blank">Repositorio LandingPage</a>
-<br>
+TB1:`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-<a href="https://github.com/UniTalents-project-G2/unitalents-connect-front-end" target="_blank">Repositorio FrontEnd</a>
-<br>
+TP1:`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EbQa5oMyhqlGhFWLufOxCUcBRfAW0x9uH6Ojs9s8pKrY0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MCc4XL`
 
-<a href="https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web" target="_blank">Repositorio BackEnd</a>
-<br>
+TB2:`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EWk1wxGODv9IoWUGUiS27AwBiNiLjIqclqh9fe5CB3mN_w?e=erv8c9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-<a href="https://unitalents-project-g2.github.io/UniTalents-LandingPage/" target="_blank">Deploy LandingPage</a>
-<br>
+TF1:`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ERSdvI-3KJ1DpiSbwqOyHV0BhycDZNxyV6e9Bpoeror0Yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=V1RixM`
 
-<a href="https://purple-beach-0c0218c10.2.azurestaticapps.net" target="_blank">Deploy FrontEnd</a>
-<br>
 
-<a href="https://unitalents-backend-frgtdaddayhncmdq.centralus-01.azurewebsites.net/swagger/index.html" target="_blank">Deploy BackEnd</a>
-<br>
+Entrevistas Normales:
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB1</a>
-<br>
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EbQa5oMyhqlGhFWLufOxCUcBRfAW0x9uH6Ojs9s8pKrY0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MCc4XL" target="_blank">Video TP1</a>
-<br>
+Entrevistas de Validación:
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EWk1wxGODv9IoWUGUiS27AwBiNiLjIqclqh9fe5CB3mN_w?e=erv8c9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB2</a>
-<br>
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk`
+
+Video About the Product: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+Video About the Product - YouTube: `https://youtu.be/inUoi29e_hE`
+
+Video About the Team: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+Video About the Team - YouTube: `https://youtu.be/aTyXnZuJ6rc`
+
+Repositorios:
+
+Landing Page: `https://github.com/UniTalents-project-G2/UniTalents-LandingPage`
+
+Frontend: `https://github.com/UniTalents-project-G2/unitalents-connect-front-end`
+
+Backend: `https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web`
+
+Aplicaciones deployadas:
+
+Landing Page: `https://unitalents-project-g2.github.io/UniTalents-LandingPage/`
+
+Frontend: `https://purple-beach-0c0218c10.2.azurestaticapps.net`
+
+Backend: `https://unitalents-backend-frgtdaddayhncmdq.centralus-01.azurewebsites.net/swagger/index.html`
 
 fin
