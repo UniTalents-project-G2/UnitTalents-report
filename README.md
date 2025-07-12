@@ -8386,7 +8386,7 @@ Comexperu
 <a href="https://github.com/UniTalents-project-G2/unitalents-connect-front-end" target="_blank">Repositorio FrontEnd</a>
 <br>
 
-<a href="https://github.com/UniTalents-project-G2/unitalents-backend" target="_blank">Repositorio BackEnd</a>
+<a href="https://github.com/UniTalents-project-G2/UniTalents-BackEnd-App-Web" target="_blank">Repositorio BackEnd</a>
 <br>
 
 <a href="https://unitalents-project-g2.github.io/UniTalents-LandingPage/" target="_blank">Deploy LandingPage</a>
@@ -8395,7 +8395,7 @@ Comexperu
 <a href="https://purple-beach-0c0218c10.2.azurestaticapps.net" target="_blank">Deploy FrontEnd</a>
 <br>
 
-<a href="unitalents-backend-app-hrd8bzadb4ezdebk.centralus-01.azurewebsites.net/swagger" target="_blank">Deploy BackEnd</a>
+<a href="https://unitalents-backend-frgtdaddayhncmdq.centralus-01.azurewebsites.net/swagger/index.html" target="_blank">Deploy BackEnd</a>
 <br>
 
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video TB1</a>
