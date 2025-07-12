@@ -591,7 +591,7 @@
     <td>
       Andres Coca
     </td>
-    <td>Feature del Spirnt Backlog 4, implementación del sprint backlog 4, Feature del Módulo de Student y mejora de los links 
+    <td>Feature del Spirnt Backlog 4, Feature del Módulo de Student y mejora de los links 
     </td>
   </tr>
   <tr>
