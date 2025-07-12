@@ -1587,7 +1587,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
     <td><strong>URL</strong></td>
     <td>
       
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
   </td>
   </tr>
@@ -1630,7 +1630,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
     <td><strong>URL</strong></td>
     <td>
       
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
   </td>
   </tr>
@@ -1673,7 +1673,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
     <td><strong>URL</strong></td>
     <td>
     
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
   </td>
   </tr>
@@ -1719,7 +1719,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
     <td><strong>URL</strong></td>
     <td>
 
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
   </td>
   </tr>
@@ -1762,7 +1762,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
     <td><strong>URL</strong></td>
     <td>
 
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D` 
 
   </td>
   </tr>
@@ -1805,7 +1805,7 @@ De acuerdo al análisis competitivo realizado previamente, se identificaron las 
     <td><strong>URL</strong></td>
     <td>
       
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
   </td>
   </tr>
@@ -7883,7 +7883,7 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
     <td><strong>URL</strong></td>
     <td>
 
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk`
 
     
   </td>
@@ -7926,7 +7926,7 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
     <td><strong>URL</strong></td>
     <td>
   
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo2MDQsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=7QUeDD
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo2MDQsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=7QUeDD`
 
   </td>
   </tr>
@@ -7972,7 +7972,7 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
     <td><strong>URL</strong></td>
     <td>
 
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDk0LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=fd5oBv 
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDk0LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=fd5oBv` 
 
 
   </td>
@@ -8016,7 +8016,7 @@ Ambos despliegues constituyen evidencias fundamentales del avance técnico alcan
     <td><strong>URL</strong></td>
     <td>
 
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTE5LjQzMiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=JWL127
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTE5LjQzMiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=JWL127`
 
   </td>
   </tr>
@@ -8279,7 +8279,7 @@ Recomendación: Incluir un campo opcional para la URL del sitio web de la empres
 
 <br>
 
-Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video About the Product: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
  <br>
 
@@ -8354,7 +8354,7 @@ El video presenta un resumen del trabajo desarrollado por el equipo, donde cada 
     <td><strong>URL Microsoft</strong></td>
     <td>
     
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
     
   </td>
   </tr>
@@ -8413,24 +8413,24 @@ Comexperu
 
 Videos de Exposiciones:
 
-TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+TB1: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/Ec41mnCmNBJGmhP94oDH52QBnxg0h7DXQlHLl3cqBYLffg?e=utGXed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-TP1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EbQa5oMyhqlGhFWLufOxCUcBRfAW0x9uH6Ojs9s8pKrY0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MCc4XL
+TP1: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EbQa5oMyhqlGhFWLufOxCUcBRfAW0x9uH6Ojs9s8pKrY0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MCc4XL`
 
-TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EWk1wxGODv9IoWUGUiS27AwBiNiLjIqclqh9fe5CB3mN_w?e=erv8c9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+TB2: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EWk1wxGODv9IoWUGUiS27AwBiNiLjIqclqh9fe5CB3mN_w?e=erv8c9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-TF1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ERSdvI-3KJ1DpiSbwqOyHV0BhycDZNxyV6e9Bpoeror0Yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=V1RixM
+TF1: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ERSdvI-3KJ1DpiSbwqOyHV0BhycDZNxyV6e9Bpoeror0Yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=V1RixM`
 
 
-Entrevistas Normales: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Entrevistas Normales: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EcvJMs0gTgFJsydLecgT0vYBmuowPPVCvz1rmnAbXwNQKA?e=pZwova&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
-Entrevistas de Validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk
+Entrevistas de Validación: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EURr5bDUXpNCt_u72I-XOM0BIduJFhjNXPBmpgiGLN8sBw?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=AOeHbk`
 
-Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video About the Product: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/ESil1viEtpdBilOwkWUq6wUBBTWKpz2O3IzRhHZLi7aT2w?e=FeyRlD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
 Video About the Product - YouTube: `https://youtu.be/inUoi29e_hE`
 
-Video About the Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video About the Team: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312966_upc_edu_pe/EV7uCG0fOapKliYCWA-fSe4BEp6TjG5eNeEMRXq8qm8J_w?e=jZyFTB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
 Video About the Team - YouTube: `https://youtu.be/aTyXnZuJ6rc`
 
